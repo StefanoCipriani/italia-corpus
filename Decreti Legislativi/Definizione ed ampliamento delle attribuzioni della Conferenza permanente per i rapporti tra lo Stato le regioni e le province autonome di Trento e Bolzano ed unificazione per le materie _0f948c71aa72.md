@@ -12,9 +12,9 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59), recante delega al Governo per il conferimento di funzioni e compiti amministrativi alle regioni ed enti locali, per la riforma della pubblica amministrazione e per la semplificazione amministrativa;
+Vista la [legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), recante delega al Governo per il conferimento di funzioni e compiti amministrativi alle regioni ed enti locali, per la riforma della pubblica amministrazione e per la semplificazione amministrativa;
 
-Visto in particolare l'[articolo 9 della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_9), che conferisce al Governo la delega ad adottare apposito decreto legislativo per la definizione e l'ampliamento delle attribuzioni della Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano e la sua unificazione, per le materie ed i compiti di interesse comune delle regioni, delle province e dei comuni, con la Conferenza Stato - citta' ed autonomie locali;
+Visto in particolare l'[articolo 9 della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), che conferisce al Governo la delega ad adottare apposito decreto legislativo per la definizione e l'ampliamento delle attribuzioni della Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano e la sua unificazione, per le materie ed i compiti di interesse comune delle regioni, delle province e dei comuni, con la Conferenza Stato - citta' ed autonomie locali;
 
 Vista l'intesa intervenuta tra il Ministero degli affari esteri ed i presidenti delle regioni e province autonome il 23 gennaio 1997, circa le modalita' del concorso delle regioni in vista della definizione della politica nazionale in sede Unione europea;
 
@@ -40,11 +40,11 @@ Capo I
 
 1.
 
-In attuazione dell'[articolo 9 della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_9), e ferme restando le competenze ad essa attribuite, il presente decreto disciplina le attribuzioni della Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, di seguito denominata "Conferenza Statoregioni", e la sua unificazione, per le materie ed i compiti di interesse comune, con la Conferenza Stato - citta' ed autonomie locali.
+In attuazione dell'[articolo 9 della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), e ferme restando le competenze ad essa attribuite, il presente decreto disciplina le attribuzioni della Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, di seguito denominata "Conferenza Statoregioni", e la sua unificazione, per le materie ed i compiti di interesse comune, con la Conferenza Stato - citta' ed autonomie locali.
 
 2.
 
-Ulteriori compiti e funzioni potranno essere attribuiti contestualmente alla definitiva individuazione, ai sensi dell'[articolo 3, comma 1, lettera c), della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_3-com1-letc), delle procedure e degli strumenti di raccordo fra i livelli di governo.
+Ulteriori compiti e funzioni potranno essere attribuiti contestualmente alla definitiva individuazione, ai sensi dell'[articolo 3, comma 1, lettera c), della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), delle procedure e degli strumenti di raccordo fra i livelli di governo.
 
 Avvertenza: 
  Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti. 
@@ -129,7 +129,7 @@ La Conferenza Stato - regioni valuta gli obiettivi conseguiti ed i risultati rag
 
 Con le modalita' di cui al comma 2 la Conferenza Stato - regioni delibera, altresi:
                             a)
-                                gli indirizzi per l'uniforme applicazione dei percorsi diagnostici e terapeutici in ambito locale e le misure da adottare in caso di mancato rispetto dei protocolli relativi, ivi comprese le sanzioni a carico del sanitario che si discosti dal percorso diagnostico senza giustificato motivo, ai sensi dell'[articolo 1, comma 28, della legge 23 dicembre 1996, n. 662](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;662#art_1-com28);
+                                gli indirizzi per l'uniforme applicazione dei percorsi diagnostici e terapeutici in ambito locale e le misure da adottare in caso di mancato rispetto dei protocolli relativi, ivi comprese le sanzioni a carico del sanitario che si discosti dal percorso diagnostico senza giustificato motivo, ai sensi dell'[articolo 1, comma 28, della legge 23 dicembre 1996, n. 662](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_3.md);
                             b)
                                 i protocolli di intesa dei progetti di sperimentazione gestionali individuati, ai sensi dell'[articolo 9-bis del decreto legislativo 30 dicembre 1992, n. 502](Riordino%20della%20disciplina%20in%20materia%20sanitaria%20a%20norma%20dellarticolo%201%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni ed integrazioni;
                             c)
@@ -186,7 +186,7 @@ La Conferenza Stato - regioni approva protocolli di intesa tra Governo, regioni 
 
 3.
 
-I protocolli di intesa di cui al comma 2 prevedono, altresi', le modalita' con le quali le regioni e le province autonome si avvalgono della rete unitaria delle pubbliche amministrazioni e dei servizi di trasporto e di interoperabilita' messi a disposizione dai gestori, alle condizioni contrattuali previste ai sensi dell'[articolo 15, comma 1, della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_15-com1).
+I protocolli di intesa di cui al comma 2 prevedono, altresi', le modalita' con le quali le regioni e le province autonome si avvalgono della rete unitaria delle pubbliche amministrazioni e dei servizi di trasporto e di interoperabilita' messi a disposizione dai gestori, alle condizioni contrattuali previste ai sensi dell'[articolo 15, comma 1, della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md).
 
 Nota all'art. 6:
  - Il testo dell'[art. 15, comma 1, della legge n. 59 / 1997](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997;59#art_15-com1) e' il seguente: "1. Al fine della realizzazione della rete unitaria delle pubbliche amministrazioni, l'Autorita' per l'informatica nella pubblica amministrazione e' incaricata, per soddisfare esigenze di coordinamento, qualificata competenza e indipendenza di giudizio, di stipulare, nel rispetto delle vigenti norme in materia di scelta del contraente, uno o piu' contrattiquadro con cui i prestatori dei servizi e delle forniture relative al trasporto dei dati e all'interoperabilita' si impegnano a contrarre con le singole amministrazioni alle condizioni ivi stabilite.
@@ -238,7 +238,7 @@ La Conferenza unificata e' comunque competente in tutti i casi in cui regioni, p
                                 esprime parere:
  1) sul disegno di legge finanziaria e sui disegni di legge collegati;
  2) sul documento di programmazione economica e finanziaria;
- 3) sugli schemi di decreto legislativo adottati in base all'[articolo 1 della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_1);
+ 3) sugli schemi di decreto legislativo adottati in base all'[articolo 1 della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md);
                             b)
                                 promuove e sancisce intese tra Governo, regioni, province, comuni e comunita' montane. Nel caso di mancata intesa o di urgenza si applicano le disposizioni di cui all'articolo 3, commi 3 e 4;
                             c)
@@ -284,7 +284,7 @@ La Conferenza Stato - citta' ed autonomie locali ha inoltre il compito di favori
                             a)
                                 l'informazione e le iniziative per il miglioramento dell'efficienza dei servizi pubblici locali;
                             b)
-                                la promozione di accordi o contratti di programma ai sensi dell'[articolo 12 della legge 23 dicembre 1992, n. 498](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-12-23;498#art_12);
+                                la promozione di accordi o contratti di programma ai sensi dell'[articolo 12 della legge 23 dicembre 1992, n. 498](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20urgenti%20in%20materia%20di%20finanza%20pubblica.md);
                             c)
                                 le attivita' relative alla organizzazione di manifestazioni che coinvolgono piu' comuni o province da celebrare in ambito nazionale.
 

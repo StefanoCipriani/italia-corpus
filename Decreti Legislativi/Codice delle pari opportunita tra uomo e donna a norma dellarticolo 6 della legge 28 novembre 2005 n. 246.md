@@ -1201,7 +1201,7 @@ Tali amministrazioni o enti revocano i benefici e, nei casi piu' gravi, dispongo
 
 AGGIORNAMENTO (9)
 
-Il [D.Lgs. 1 settembre 2011, n. 150](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-09-01;150) ha disposto (con l'art. 36, commi 1 e 2) che "1. Le norme del presente decreto si applicano ai procedimenti instaurati successivamente alla data di entrata in vigore dello stesso. 
+Il [D.Lgs. 1 settembre 2011, n. 150](Disposizioni%20complementari%20al%20codice%20di%20procedura%20civile%20in%20materia%20di%20riduzione%20e%20semplificazione%20dei%20procedimenti%20civili%20di%20cognizione%20ai%20sensi%20dellarticolo%2054%20della%20legge%2018%20giugno%20200_79c74cc89038.md) ha disposto (con l'art. 36, commi 1 e 2) che "1. Le norme del presente decreto si applicano ai procedimenti instaurati successivamente alla data di entrata in vigore dello stesso. 
  2. Le norme abrogate o modificate dal presente decreto continuano ad applicarsi alle controversie pendenti alla data di entrata in vigore dello stesso."
 
 ### Art. 55-sexies.
@@ -1213,7 +1213,7 @@ Il [D.Lgs. 1 settembre 2011, n. 150](https://www.normattiva.it/uri-res/N2Ls?urn:
 
 AGGIORNAMENTO (9)
 
-Il [D.Lgs. 1 settembre 2011, n. 150](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-09-01;150) ha disposto (con l'art. 36, commi 1 e 2) che "1. Le norme del presente decreto si applicano ai procedimenti instaurati successivamente alla data di entrata in vigore dello stesso. 
+Il [D.Lgs. 1 settembre 2011, n. 150](Disposizioni%20complementari%20al%20codice%20di%20procedura%20civile%20in%20materia%20di%20riduzione%20e%20semplificazione%20dei%20procedimenti%20civili%20di%20cognizione%20ai%20sensi%20dellarticolo%2054%20della%20legge%2018%20giugno%20200_79c74cc89038.md) ha disposto (con l'art. 36, commi 1 e 2) che "1. Le norme del presente decreto si applicano ai procedimenti instaurati successivamente alla data di entrata in vigore dello stesso. 
  2. Le norme abrogate o modificate dal presente decreto continuano ad applicarsi alle controversie pendenti alla data di entrata in vigore dello stesso."
 
 ### Art. 55-septies. — (( Legittimazione ad agire di associazioni ed enti))

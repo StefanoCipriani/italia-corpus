@@ -12,11 +12,11 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[articolo 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge costituzionale 26 febbraio 1948, n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1948-02-26;3), che ha approvato lo statuto speciale della regione autonoma della Sardegna;
+Vista la [legge costituzionale 26 febbraio 1948, n. 3](../Leggi%20costituzionali/Statuto%20speciale%20per%20la%20Sardegna.md), che ha approvato lo statuto speciale della regione autonoma della Sardegna;
 
 Visto il [decreto del Presidente della Repubblica 24 novembre 1965, n. 1627](../DPR/Norme%20di%20attuazione%20dello%20Statuto%20speciale%20per%20la%20Sardegna%20in%20materia%20di%20pesca%20e%20saline%20sul%20Demanio%20marittimo%20e%20nel%20mare%20territoriale.md);
 
-Vista la proposta della commissione paritetica prevista dall'[articolo 56, primo comma, della legge costituzionale 26 febbraio 1948, n. 3, nonche' il parere del consiglio regionale della Sardegna](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1948-02-26;3#art_56-com1);
+Vista la proposta della commissione paritetica prevista dall'[articolo 56, primo comma, della legge costituzionale 26 febbraio 1948, n. 3, nonche' il parere del consiglio regionale della Sardegna](../Leggi%20costituzionali/Statuto%20speciale%20per%20la%20Sardegna.md);
 
 Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 3 settembre 1999;
 
@@ -38,7 +38,7 @@ Avvertenza:
  - L'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5), conferisce al Presidente della Repubblica il potere di promulgare leggi e di emanare i decreti aventi valore di leggi e regolamenti.
  - La [legge 26 febbraio 1948, n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1948-02-26;3) (Statuto speciale per la Sardegna), e' stata pubblicata nella Gazzetta Ufficiale n. 58 del 9 marzo 1948.
  - Il [D.P.R. 24 novembre 1965, n. 1627](../DPR/Norme%20di%20attuazione%20dello%20Statuto%20speciale%20per%20la%20Sardegna%20in%20materia%20di%20pesca%20e%20saline%20sul%20Demanio%20marittimo%20e%20nel%20mare%20territoriale.md) (Norme di attuazione dello statuto speciale per la Sardegna in materia di pesca e saline nel demanio marittimo e nel mare territoriale), e' stato pubblicato nella Gazzetta Ufficiale n. 33 dell'8 febbraio 1966.
- - L'art. 56, primo comma, della citata [legge costituzionale 26 febbraio 1948, n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1948-02-26;3), e' il seguente:
+ - L'art. 56, primo comma, della citata [legge costituzionale 26 febbraio 1948, n. 3](../Leggi%20costituzionali/Statuto%20speciale%20per%20la%20Sardegna.md), e' il seguente:
  "Una commissione paritetica di quattro membri, nominati dal Governo della Repubblica e dall'Alto commissario per la Sardegna sentita la consulta regionale, proporra' le norme relative al passaggio degli uffici e del personale dallo Stato alla regione, nonche' le norme di attuzione del presente statuto".
  Nota all'art. 1:
  - L'art. 2 del citato [D.P.R. 24 novembre 1965, n. 1627](../DPR/Norme%20di%20attuazione%20dello%20Statuto%20speciale%20per%20la%20Sardegna%20in%20materia%20di%20pesca%20e%20saline%20sul%20Demanio%20marittimo%20e%20nel%20mare%20territoriale.md), e' il seguente:

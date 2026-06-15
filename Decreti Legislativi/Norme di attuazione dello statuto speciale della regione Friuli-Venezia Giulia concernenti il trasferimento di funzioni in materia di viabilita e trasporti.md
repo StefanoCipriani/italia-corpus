@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[articolo 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge costituzionale 31 gennaio 1963, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1963-01-31;1), che ha approvato lo statuto speciale della regione Friuli-Venezia Giulia;
+Vista la [legge costituzionale 31 gennaio 1963, n. 1](../Leggi%20costituzionali/Statuto%20speciale%20della%20Regione%20Friuli-Venezia%20Giulia.md), che ha approvato lo statuto speciale della regione Friuli-Venezia Giulia;
 
 Sentita la Commissione paritetica prevista dall'articolo 65 dello statuto speciale;
 
@@ -33,7 +33,7 @@ Avvertenza:
 
  Note alle premesse:
  - L'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5) conferisce al Presidente della Repubblica il potere di promulgare leggi e di emanare i decreti aventi valore di leggi e regolamenti.
- - La [legge costituzionale 31 gennaio 1963, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1963-01-31;1), e' stata pubblicata nella Gazzetta Ufficiale n. 29 del 1° febbraio 1963.
+ - La [legge costituzionale 31 gennaio 1963, n. 1](../Leggi%20costituzionali/Statuto%20speciale%20della%20Regione%20Friuli-Venezia%20Giulia.md), e' stata pubblicata nella Gazzetta Ufficiale n. 29 del 1° febbraio 1963.
  - L'art. 65 dello statuto speciale per la regione Friuli-Venezia Giulia, approvato con legge costituzionale 31 gennaio 1963, n. 1 (pubblicata nella Gazzetta Ufficiale n. 29 del 1° febbraio 1963), e' cosi' formulato:
  «Art. 65. - Con decreti legislativi, sentita una commissione paritetica di sei membri, nominati tre dal Governo della Repubblica e tre dal consiglio regionale, saranno stabilite le norme di attuazione del presente statuto e quelle relative al trasferimento all'amministrazione regionale degli uffici statali che nel Friuli-Venezia Giulia adempiono a funzioni attribuite alla regione.».
  Nota all'art. 1:
@@ -110,13 +110,13 @@ Note all'art. 3:
  «Art. 3. - 1. Le disposizioni del presente decreto legislativo si applicano alle regioni a statuto speciale con le modalita' stabilite dai rispettivi statuti e dalle relative norme di attuazione, in conformita' a quanto previsto dall'[art. 10 del decreto legislativo 31 marzo 1998, n. 112](Conferimento%20di%20funzioni%20e%20compiti%20amministrativi%20dello%20Stato%20alle%20regioni%20ed%20agli%20enti%20locali%20in%20attuazione%20del%20capo%20I%20della%20legge%2015%20marzo%201997%20n.%2059.md). Con i provvedimenti legislativi attuativi dei relativi statuti possono essere introdotte modifiche delle tabelle relative alle regioni a statuto speciale, allegate al presente decreto legislativo, ad eccezione di quelle di individuazione delle autostrade e dei trafori. Nelle province autonome di Trento e Bolzano, in relazione alle specifiche competenze alle stesse attribuite, la materia di cui al presente decreto legislativo rimane disciplinata da quanto gia' disposto dalle apposite norme di attuazione dello statuto.».
  - Il testo dell'[art. 20 della legge 24 novembre 2000, n. 340](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-11-24;340#art_20) («Disposizioni per la delegificazione di norme e per la semplificazione di procedimenti amministrativi - legge di semplificazione 1999»; publicata nella Gazzetta Ufficiale n. 275 del 24 novembre 2000), e' il seguente:
  «Art. 20 (Rete autostradale e stradale nazionale) - 1.
- Alla lettera b) del comma 4 dellart. 1 della [legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59), e' aggiunto, in fine, il seguente periodo: «Alle modifiche della rete autostradale e stradale classificata di interesse nazionale ai sensi dei predetti decreti, fatte salve le norme in materia di programmazione e realizzazione di opere autostradali, si provvede, su proposta della regione interessata, con decreto del Presidente del Consiglio dei Ministri previa intesa in sede di Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, sentite le Commissioni parlamentari competenti per materia.».
+ Alla lettera b) del comma 4 dellart. 1 della [legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), e' aggiunto, in fine, il seguente periodo: «Alle modifiche della rete autostradale e stradale classificata di interesse nazionale ai sensi dei predetti decreti, fatte salve le norme in materia di programmazione e realizzazione di opere autostradali, si provvede, su proposta della regione interessata, con decreto del Presidente del Consiglio dei Ministri previa intesa in sede di Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, sentite le Commissioni parlamentari competenti per materia.».
 
 ## Art. 4. — Trasferimento delle strade di interesse regionale
 
 1.
 
-Sono trasferiti al demanio della Regione le strade ed i tronchi di strade, gia' appartenenti al demanio statale ai sensi dell'[articolo 822 del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_822), indicati nell'elenco allegato sub A), con le pertinenze e gli accessori relativi, incluse le case cantoniere non dismesse, a norma dell'[articolo 44, comma 5, della legge 27 dicembre 1997, n. 449](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-12-27;449#art_44-com5), nello stato di fatto e di diritto in cui si trovano alla data di consegna, a condizione che ne siano accertati funzionalita' e ordinario stato di manutenzione.
+Sono trasferiti al demanio della Regione le strade ed i tronchi di strade, gia' appartenenti al demanio statale ai sensi dell'[articolo 822 del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_822), indicati nell'elenco allegato sub A), con le pertinenze e gli accessori relativi, incluse le case cantoniere non dismesse, a norma dell'[articolo 44, comma 5, della legge 27 dicembre 1997, n. 449](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20per%20la%20stabilizzazione%20della%20finanza%20pubblica.md), nello stato di fatto e di diritto in cui si trovano alla data di consegna, a condizione che ne siano accertati funzionalita' e ordinario stato di manutenzione.
 
 2.
 
@@ -231,11 +231,11 @@ La determinazione della partecipazione erariale relativa al trasferimento del pe
 
 1.
 
-In deroga a quanto disposto dall'[articolo 3, commi 115 e seguenti, della legge 23 dicembre 1996, n. 662](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;662#art_3-com115), i beni immobili, nonche' i beni mobili registrati e gli altri beni mobili e attrezzature come individuati nella tabella allegata sub E), esistenti nel territorio regionale e strumentali all'esercizio delle funzioni attribuite alla Regione, sono trasferiti in proprieta' alla stessa a decorrere dalla data di consegna di cui al comma 3.
+In deroga a quanto disposto dall'[articolo 3, commi 115 e seguenti, della legge 23 dicembre 1996, n. 662](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_3.md), i beni immobili, nonche' i beni mobili registrati e gli altri beni mobili e attrezzature come individuati nella tabella allegata sub E), esistenti nel territorio regionale e strumentali all'esercizio delle funzioni attribuite alla Regione, sono trasferiti in proprieta' alla stessa a decorrere dalla data di consegna di cui al comma 3.
 
 2.
 
-Le case cantoniere riferibili alla viabilita' di cui all'elenco allegato sub B), non dismesse a norma dell'[articolo 44, comma 5, della legge 27 dicembre 1997, n. 449](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-12-27;449#art_44-com5), sono messe a disposizione dell'amministrazione regionale per l'esercizio delle funzioni trasferite.
+Le case cantoniere riferibili alla viabilita' di cui all'elenco allegato sub B), non dismesse a norma dell'[articolo 44, comma 5, della legge 27 dicembre 1997, n. 449](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20per%20la%20stabilizzazione%20della%20finanza%20pubblica.md), sono messe a disposizione dell'amministrazione regionale per l'esercizio delle funzioni trasferite.
 
 3.
 
@@ -527,7 +527,7 @@ Tutti gli atti e adempimenti necessari per l'attuazione del presente decreto, co
 
 1.
 
-Al fine di garantire il finanziamento delle funzioni di competenza regionale e dei trasferimenti previsti, le disposizioni del presente decreto, eccetto quelle che fanno espresso riferimento alla data di entrata in vigore del medesimo, hanno effetto dal giorno successivo alla data di entrata in vigore della legge o delle leggi statali che, ai sensi dell'[articolo 63, quinto comma, della legge costituzionale 31 gennaio 1963, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1963-01-31;1#art_63-com5), recante Statuto speciale della Regione Friuli-Venezia Giulia, modificano il Titolo IV dello Statuto e che possono essere assunte anche in tempi differenziati in relazione agli intervenuti accordi tra Stato e Regione in merito alla determinazione dei relativi oneri complessivi, con particolare riferimento alle competenze aggiuntive derivanti dalla [legge costituzionale 18 ottobre 2001, n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:2001-10-18;3).
+Al fine di garantire il finanziamento delle funzioni di competenza regionale e dei trasferimenti previsti, le disposizioni del presente decreto, eccetto quelle che fanno espresso riferimento alla data di entrata in vigore del medesimo, hanno effetto dal giorno successivo alla data di entrata in vigore della legge o delle leggi statali che, ai sensi dell'[articolo 63, quinto comma, della legge costituzionale 31 gennaio 1963, n. 1](../Leggi%20costituzionali/Statuto%20speciale%20della%20Regione%20Friuli-Venezia%20Giulia.md), recante Statuto speciale della Regione Friuli-Venezia Giulia, modificano il Titolo IV dello Statuto e che possono essere assunte anche in tempi differenziati in relazione agli intervenuti accordi tra Stato e Regione in merito alla determinazione dei relativi oneri complessivi, con particolare riferimento alle competenze aggiuntive derivanti dalla [legge costituzionale 18 ottobre 2001, n. 3](../Leggi%20costituzionali/Modifiche%20al%20titolo%20V%20della%20parte%20seconda%20della%20Costituzione.md).
 
 2.
 
@@ -538,7 +538,7 @@ Note all'art. 15:
  «Art. 63. - Per le modificazioni del presente statuto si applica la procedura prevista dalla Costituzione per le leggi costituzionali. L'iniziativa per le modificazioni appartiene anche al consiglio regionale. I progetti di modificazione del presente statuto di iniziativa governativa o parlamentare sono comunicati dal Governo della Repubblica al consiglio regionale, che esprime il suo parere entro due mesi.
  Le modificazioni approvate non sono comunque sottoposte a referendum nazionale.
  Le disposizioni contenute nel titolo IV possono essere modificate con leggi ordinarie, su proposta di ciascun membro delle Camere, del Governo e della regione, e, in ogni caso, sentita, la regione».
- - La [legge costituzionale 18 ottobre 2001, n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:2001-10-18;3) (Modifiche al titolo V della parte seconda della Costituzione) e' pubblicata nella Gazzetta Ufficiale 24 ottobre 2001, n. 248.
+ - La [legge costituzionale 18 ottobre 2001, n. 3](../Leggi%20costituzionali/Modifiche%20al%20titolo%20V%20della%20parte%20seconda%20della%20Costituzione.md) (Modifiche al titolo V della parte seconda della Costituzione) e' pubblicata nella Gazzetta Ufficiale 24 ottobre 2001, n. 248.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e farlo osservare.
 

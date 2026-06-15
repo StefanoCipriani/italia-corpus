@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 VISTI gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-VISTA la [legge 31 ottobre 2003, n. 306](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-10-31;306), ed in particolare l'allegato B;
+VISTA la [legge 31 ottobre 2003, n. 306](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%202003.md), ed in particolare l'allegato B;
 
 VISTA la [direttiva 2002/95/CE del Parlamento europeo e del Consiglio, del 27 gennaio 2003](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2002;95), sulla restrizione dell'uso di determinate sostanze pericolose nelle apparecchiature elettriche ed elettroniche;
 
@@ -192,7 +192,7 @@ Con il decreto previsto all'articolo 13, comma 8, e', altresi', istituito, press
 
 AGGIORNAMENTO (7)
 
-Il [D.Lgs. 10 febbraio 2026, n. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-02-10;29), ha disposto (con l'art. 24, comma 1) che " Il Comitato di vigilanza e di controllo sulla gestione dei rifiuti da apparecchiature elettriche ed elettroniche (RAEE) e delle pile, degli accumulatori e dei relativi rifiuti, gia' istituito presso il Ministero dell'ambiente e della sicurezza energetica ai sensi dell'[articolo 15, comma 1, del decreto legislativo 25 luglio 2005, n. 151](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%202002-95-CE%202002-96-CE%20e%202003-108-CE%20relative%20alla%20riduzione%20delluso%20di%20sostanze%20pericolose%20nelle%20apparecchiature%20elettriche%20ed%20elettroniche%20nonche%20allo%20smaltime_37643cb7c431.md), e' ridenominato «Comitato di vigilanza e di controllo sulla gestione dei RAEE e dei rifiuti da batterie»".
+Il [D.Lgs. 10 febbraio 2026, n. 29](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20ladeguamento%20della%20normativa%20nazionale%20al%20regolamento%20UE%202023-1542%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2012%20luglio%202023%20relativo%20alle%20batterie%20e%20ai%20rifiuti%20di%20batter_daf73bd7a8d1.md), ha disposto (con l'art. 24, comma 1) che " Il Comitato di vigilanza e di controllo sulla gestione dei rifiuti da apparecchiature elettriche ed elettroniche (RAEE) e delle pile, degli accumulatori e dei relativi rifiuti, gia' istituito presso il Ministero dell'ambiente e della sicurezza energetica ai sensi dell'[articolo 15, comma 1, del decreto legislativo 25 luglio 2005, n. 151](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20delle%20direttive%202002-95-CE%202002-96-CE%20e%202003-108-CE%20relative%20alla%20riduzione%20delluso%20di%20sostanze%20pericolose%20nelle%20apparecchiature%20elettriche%20ed%20elettroniche%20nonche%20allo%20smaltime_37643cb7c431.md), e' ridenominato «Comitato di vigilanza e di controllo sulla gestione dei RAEE e dei rifiuti da batterie»".
 
 ## Art. 16.
 

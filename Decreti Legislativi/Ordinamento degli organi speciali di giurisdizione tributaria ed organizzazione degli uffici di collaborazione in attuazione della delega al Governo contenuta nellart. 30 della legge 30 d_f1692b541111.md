@@ -12,9 +12,9 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto l'[art. 30 della legge 30 dicembre 1991, n. 413](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-12-30;413#art_30), recante delega al Governo per l'emanazione di decreti legislativi concernenti disposizioni per la revisione della disciplina e l'organizzazione del contenzioso tributario;
+Visto l'[art. 30 della legge 30 dicembre 1991, n. 413](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20ampliare%20le%20basi%20imponibili%20per%20razionalizzare%20facilitare%20e%20potenziare%20lattivita%20di%20accertamento%20disposizioni%20per%20la%20rivalutazione%20obbligatoria%20dei%20beni%20immobili%20delle%20im_715eda796591.md), recante delega al Governo per l'emanazione di decreti legislativi concernenti disposizioni per la revisione della disciplina e l'organizzazione del contenzioso tributario;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata il 30 settembre 1992, che ha autorizzato l'invio, per il prescritto parere, alla commissione parlamentare istituita a norma dell'[art. 17 della legge 9 ottobre 1971, n. 825](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-10-09;825#art_17), nella composizione stabilita dall'[art. 1, comma 4, della legge 29 dicembre 1987, n. 550](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-12-29;550#art_1-com4);
+Vista la deliberazione del Consiglio dei Ministri, adottata il 30 settembre 1992, che ha autorizzato l'invio, per il prescritto parere, alla commissione parlamentare istituita a norma dell'[art. 17 della legge 9 ottobre 1971, n. 825](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20legislativa%20al%20Governo%20della%20Repubblica%20per%20la%20riforma%20tributaria.md), nella composizione stabilita dall'[art. 1, comma 4, della legge 29 dicembre 1987, n. 550](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-12-29;550#art_1-com4);
 
 Udito il parere della predetta commissione parlamentare;
 
@@ -110,7 +110,7 @@ Se in una sezione mancano i componenti necessari per costituire il collegio giud
 
 AGGIORNAMENTO (30)
 
-Il [D.Lgs. 24 settembre 2015, n. 156](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-09-24;156) ha disposto (con l'art. 12, comma 4) che "Ai fini dell'applicazione dell'[articolo 2, comma 1 del decreto legislativo 31 dicembre 1992, n. 545](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-31;545#art_2-com1), come sostituito dal comma 1, lettera a), dell'articolo 11 agli incarichi in corso alla data di entrata in vigore del presente decreto, si tiene conto anche del periodo maturato alla medesima data nelle relative funzioni".
+Il [D.Lgs. 24 settembre 2015, n. 156](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Misure%20per%20la%20revisione%20della%20disciplina%20degli%20interpelli%20e%20del%20contenzioso%20tributario%20in%20attuazione%20degli%20articoli%206%20comma%206%20e%2010%20comma%201%20lettere%20a%20e%20b%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00167.md) ha disposto (con l'art. 12, comma 4) che "Ai fini dell'applicazione dell'[articolo 2, comma 1 del decreto legislativo 31 dicembre 1992, n. 545](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ordinamento%20degli%20organi%20speciali%20di%20giurisdizione%20tributaria%20ed%20organizzazione%20degli%20uffici%20di%20collaborazione%20in%20attuazione%20della%20delega%20al%20Governo%20contenuta%20nellart.%2030%20della%20legge%2030%20d_f1692b541111.md), come sostituito dal comma 1, lettera a), dell'articolo 11 agli incarichi in corso alla data di entrata in vigore del presente decreto, si tiene conto anche del periodo maturato alla medesima data nelle relative funzioni".
 
 ---------------
 
@@ -276,7 +276,7 @@ In caso di parita' di voti, prevale quello di chi presiede. Ciascun collegio del
 
 8.
 
-Per i requisiti di ammissione, le procedure di concorso e i lavori della commissione e delle sottocommissioni, se istituite, si applicano, in quanto compatibili e per quanto non espressamente previsto nel presente decreto, le disposizioni degli [articoli 7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-10-15;1860#art_7), [12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-10-15;1860#art_12), [13](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-10-15;1860#art_13), [14](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-10-15;1860#art_14), [15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-10-15;1860#art_15) e [16 del regio decreto 15 ottobre 1925, n. 1860](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-10-15;1860#art_16), e del [decreto legislativo 5 aprile 2006, n. 160](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-05;160).
+Per i requisiti di ammissione, le procedure di concorso e i lavori della commissione e delle sottocommissioni, se istituite, si applicano, in quanto compatibili e per quanto non espressamente previsto nel presente decreto, le disposizioni degli [articoli 7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-10-15;1860#art_7), [12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-10-15;1860#art_12), [13](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-10-15;1860#art_13), [14](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-10-15;1860#art_14), [15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-10-15;1860#art_15) e [16 del regio decreto 15 ottobre 1925, n. 1860](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-10-15;1860#art_16), e del [decreto legislativo 5 aprile 2006, n. 160](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuova%20disciplina%20dellaccesso%20in%20magistratura%20nonche%20in%20materia%20di%20progressione%20economica%20e%20di%20funzioni%20dei%20magistrati%20a%20norma%20dellarticolo%201%20comma%201%20lettera%20a%20della%20legge%2025%20luglio%202005%20n.%20150.md).
 
 9.
 
@@ -310,7 +310,7 @@ Il magistrato tributario in tirocinio valutato negativamente e' ammesso ad un nu
 
 1.
 
-Il Consiglio di presidenza della giustizia tributaria, con proprio regolamento, definisce i criteri e le modalita' della formazione continua e dell'aggiornamento professionale dei giudici e dei magistrati tributari di cui all'articolo 1-bis, comma 1, mediante la frequenza di corsi periodici di carattere teorico-pratico organizzati e gestiti sulla base di apposita convenzione, prioritariamente, dalla Scuola nazionale dell'amministrazione con modalita' separate e corsi distinti rispetto ai corsi di formazione destinati all'amministrazione finanziaria o, subordinatamente, dalle universita' accreditate ai sensi del [decreto legislativo 27 gennaio 2012, n. 19](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2012-01-27;19) ((, o da altri enti pubblici)). Agli oneri per la formazione di cui al primo periodo si provvede nell'ambito degli stanziamenti annuali dell'apposita voce di bilancio in favore dello stesso Consiglio e sulla base di un programma di formazione annuale, comunicato al Ministero dell'economia e delle finanze entro il mese di luglio dell'anno precedente lo svolgimento dei corsi medesimi.
+Il Consiglio di presidenza della giustizia tributaria, con proprio regolamento, definisce i criteri e le modalita' della formazione continua e dell'aggiornamento professionale dei giudici e dei magistrati tributari di cui all'articolo 1-bis, comma 1, mediante la frequenza di corsi periodici di carattere teorico-pratico organizzati e gestiti sulla base di apposita convenzione, prioritariamente, dalla Scuola nazionale dell'amministrazione con modalita' separate e corsi distinti rispetto ai corsi di formazione destinati all'amministrazione finanziaria o, subordinatamente, dalle universita' accreditate ai sensi del [decreto legislativo 27 gennaio 2012, n. 19](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Valorizzazione%20dellefficienza%20delle%20universita%20e%20conseguente%20introduzione%20di%20meccanismi%20premiali%20nella%20distribuzione%20di%20risorse%20pubbliche%20sulla%20base%20di%20criteri%20definiti%20ex%20ante%20anche%20medi_08f3bac63c48.md) ((, o da altri enti pubblici)). Agli oneri per la formazione di cui al primo periodo si provvede nell'ambito degli stanziamenti annuali dell'apposita voce di bilancio in favore dello stesso Consiglio e sulla base di un programma di formazione annuale, comunicato al Ministero dell'economia e delle finanze entro il mese di luglio dell'anno precedente lo svolgimento dei corsi medesimi.
 
 ### Art. 6. — La formazione delle sezioni e dei collegi giudicanti
 
@@ -356,7 +356,7 @@ I componenti delle ((corti di giustizia tributaria di primo e secondo grado)) de
                             e-bis)
                                 essere muniti di laurea magistrale o quadriennale in materie giuridiche o economico-aziendalistiche;
                             f)
-                                LETTERA ABROGATA DALLA [L. 12 NOVEMBRE 2011, N. 183](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2011-11-12;183).
+                                LETTERA ABROGATA DALLA [L. 12 NOVEMBRE 2011, N. 183](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20Legge%20di%20stabilita%202012.%2011G0234.md).
 
 ### Art. 8. — Incompatibilita'
 
@@ -365,7 +365,7 @@ I componenti delle ((corti di giustizia tributaria di primo e secondo grado)) de
  1. Non possono essere componenti delle ((corti di giustizia tributaria di primo e secondo grado)), finche' permangono in attivita' di servizio o nell'esercizio delle rispettive funzioni o attivita' professionali: 
  a) i membri del Parlamento nazionale e del Parlamento europeo; 
  b) i consiglieri regionali, provinciali, comunali e circoscrizionali e gli amministratori di altri enti che applicano tributi o hanno partecipazione al gettito dei tributi indicati nell'[art. 2 del decreto legislativo 31 dicembre 1992, n. 546](../Codici/Disposizioni%20sul%20processo%20tributario%20in%20attuazione%20della%20delega%20al%20Governo%20contenuta%20nellart.%2030%20della%20legge%2030%20dicembre%201991%20n.%20413.md), nonche' coloro che, come dipendenti di detti enti o come componenti di organi collegiali, concorrono all'accertamento dei tributi stessi; 
- c) i dipendenti dell'Amministrazione finanziaria che prestano servizio presso gli uffici delle Agenzie delle entrate, delle dogane e del territorio, di cui al [decreto legislativo 30 luglio 1999, n. 300](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-07-30;300), e successive modificazioni; 
+ c) i dipendenti dell'Amministrazione finanziaria che prestano servizio presso gli uffici delle Agenzie delle entrate, delle dogane e del territorio, di cui al [decreto legislativo 30 luglio 1999, n. 300](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellorganizzazione%20del%20Governo%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md), e successive modificazioni; 
  d) gli appartenenti al Corpo della Guardia di finanza; 
  e) i soci, gli amministratori e i dipendenti delle societa' concessionarie del servizio di riscossione delle imposte o preposte alla gestione dell'anagrafe tributaria e di ogni altro servizio tecnico del Ministero delle finanze; 
  f) LETTERA SOPPRESSA DAL [D.L. 6 LUGLIO 2011, N. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-07-06;98), CONVERTITO CON MODIFICAZIONI DALLA [L. 15 LUGLIO 2011, N. 111](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20luglio%202011%20n.%2098%20recante%20disposizioni%20urgenti%20per%20la%20stabilizzazione%20finanziaria.%2011G0153.md); 
@@ -508,7 +508,7 @@ La [L. 31 agosto 2022, n. 130](https://www.normattiva.it/uri-res/N2Ls?urn:nir:st
 
 AGGIORNAMENTO (36)
 
-La [L. 31 agosto 2022, n. 130](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2022-08-31;130), come modificato dalla [L. 30 dicembre 2024, n. 207](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2024-12-30;207), ha disposto (con l'art. 8, comma 1) che "La disposizione di cui all'articolo 1, comma 1, lettera n), numero 2.2), si applica a decorrere dal 1° gennaio 2029. Fino al 31 dicembre 2028, i componenti delle corti di giustizia tributaria di primo e secondo grado, indipendentemente dalle funzioni svolte, cessano dall'incarico, in ogni caso: 
+La [L. 31 agosto 2022, n. 130](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2022-08-31;130), come modificato dalla [L. 30 dicembre 2024, n. 207](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202025%20e%20bilancio%20pluriennale%20per%20il%20triennio%202025-2027.%2024G00229.md), ha disposto (con l'art. 8, comma 1) che "La disposizione di cui all'articolo 1, comma 1, lettera n), numero 2.2), si applica a decorrere dal 1° gennaio 2029. Fino al 31 dicembre 2028, i componenti delle corti di giustizia tributaria di primo e secondo grado, indipendentemente dalle funzioni svolte, cessano dall'incarico, in ogni caso: 
  a) il 1° gennaio 2026 qualora abbiano compiuto settantatre' anni di eta' entro il 31 dicembre 2025, ovvero al compimento del settantatreesimo anno di eta' nel corso dell'anno 2026; 
  b) il 1° gennaio 2027 qualora abbiano compiuto settantadue anni di eta' entro il 31 dicembre 2026, ovvero al compimento del settantaduesimo anno di eta' nel corso dell'anno 2027; 
  c) il 1° gennaio 2028 qualora abbiano compiuto settantuno anni di eta' entro il 31 dicembre 2027, ovvero al compimento del settantunesimo anno di eta' nel corso dell'anno 2028".
@@ -517,7 +517,7 @@ La [L. 31 agosto 2022, n. 130](https://www.normattiva.it/uri-res/N2Ls?urn:nir:st
 
 AGGIORNAMENTO (37)
 
-La [L. 31 agosto 2022, n. 130](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2022-08-31;130), come modificata dalla [L. 30 dicembre 2025, n. 199](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-12-30;199), ha disposto (con l'art. 8, comma 1) che "La disposizione di cui all'articolo 1, comma 1, lettera n), numero 2.2), si applica a decorrere dal 1° gennaio 2029. Fino al 31 dicembre 2028, i componenti delle corti di giustizia tributaria di primo e secondo grado, indipendentemente dalle funzioni svolte, cessano dall'incarico, in ogni caso: 
+La [L. 31 agosto 2022, n. 130](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2022-08-31;130), come modificata dalla [L. 30 dicembre 2025, n. 199](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202026%20e%20bilancio%20pluriennale%20per%20il%20triennio%202026-2028.%2025G00212.md), ha disposto (con l'art. 8, comma 1) che "La disposizione di cui all'articolo 1, comma 1, lettera n), numero 2.2), si applica a decorrere dal 1° gennaio 2029. Fino al 31 dicembre 2028, i componenti delle corti di giustizia tributaria di primo e secondo grado, indipendentemente dalle funzioni svolte, cessano dall'incarico, in ogni caso: 
  a) il 1° gennaio 2027 qualora abbiano compiuto settantadue anni di eta' entro il 31 dicembre 2026, ovvero al compimento del settantaduesimo anno di eta' nel corso dell'anno 2027; 
  b) il 1° gennaio 2028 qualora abbiano compiuto settantuno anni di eta' entro il 31 dicembre 2027, ovvero al compimento del settantunesimo anno di eta' nel corso dell'anno 2028".
 
@@ -545,7 +545,7 @@ La decadenza e' dichiarata con decreto del Ministro delle finanze previa deliber
 
 1.
 
-Il Ministro delle finanze con proprio decreto di concerto con il Ministro del tesoro determina il compenso fisso mensile spettante ai componenti delle corti di giustizia tributarie di primo e secondo grado presenti nel ruolo unico di cui all'[articolo 4, comma 39-bis, della legge 12 novembre 2011, n. 183](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2011-11-12;183#art_4-com39bis).
+Il Ministro delle finanze con proprio decreto di concerto con il Ministro del tesoro determina il compenso fisso mensile spettante ai componenti delle corti di giustizia tributarie di primo e secondo grado presenti nel ruolo unico di cui all'[articolo 4, comma 39-bis, della legge 12 novembre 2011, n. 183](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20Legge%20di%20stabilita%202012.%2011G0234.md).
 
 2.
 
@@ -577,7 +577,7 @@ La [L. 31 agosto 2022, n. 130](https://www.normattiva.it/uri-res/N2Ls?urn:nir:st
 
 AGGIORNAMENTO (32)
 
-Il [D.Lgs. 30 dicembre 2023, n. 220](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2023-12-30;220) ha disposto (con l'art. 4, comma 2) che "Le disposizioni del presente decreto si applicano ai giudizi instaurati, in primo e in secondo grado, con ricorso notificato successivamente al 1° settembre 2024, fatta eccezione per quelle di cui all'articolo 1, comma 1, lettere d), e), f), i), n), o), p), q), s), t), u), v), z), aa), bb), cc) e dd) che si applicano ai giudizi instaurati, in primo e in secondo grado, nonche' in Cassazione, a decorrere dal giorno successivo all'entrata in vigore del presente decreto".
+Il [D.Lgs. 30 dicembre 2023, n. 220](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20in%20materia%20di%20contenzioso%20tributario.%2024G00001.md) ha disposto (con l'art. 4, comma 2) che "Le disposizioni del presente decreto si applicano ai giudizi instaurati, in primo e in secondo grado, con ricorso notificato successivamente al 1° settembre 2024, fatta eccezione per quelle di cui all'articolo 1, comma 1, lettere d), e), f), i), n), o), p), q), s), t), u), v), z), aa), bb), cc) e dd) che si applicano ai giudizi instaurati, in primo e in secondo grado, nonche' in Cassazione, a decorrere dal giorno successivo all'entrata in vigore del presente decreto".
 
 ### Art. 13-bis. — (( (Trattamento economico dei magistrati tributari). ))
 
@@ -720,7 +720,7 @@ I componenti del consiglio di presidenza sono eletti da tutti i componenti delle
 
 4.
 
-COMMA ABROGATO DALLA [L. 21 NOVEMBRE 2000, N. 342](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-11-21;342).
+COMMA ABROGATO DALLA [L. 21 NOVEMBRE 2000, N. 342](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20in%20materia%20fiscale.md).
 
 ---------------
 
@@ -797,7 +797,7 @@ Con regolamento del Consiglio di Presidenza sono stabilite le disposizioni di at
 
 AGGIORNAMENTO (12)
 
-La [L. 21 novembre 2000, n. 342](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-11-21;342) ha disposto (con l'art. 84, comma 3) che i termini di cui al comma 1 del presente articolo, decorrono dal centoventesimo giorno successivo alla scadenza del periodo di cui al comma 2 della stessa legge.
+La [L. 21 novembre 2000, n. 342](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20in%20materia%20fiscale.md) ha disposto (con l'art. 84, comma 3) che i termini di cui al comma 1 del presente articolo, decorrono dal centoventesimo giorno successivo alla scadenza del periodo di cui al comma 2 della stessa legge.
 
 ---------------
 
@@ -997,7 +997,7 @@ Ai componenti del consiglio di presidenza spetta, se con residenza fuori Roma, i
 
 AGGIORNAMENTO (12)
 
-La [L. 21 novembre 2000, n. 342](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-11-21;342) ha disposto (con l'art. 85, comma 2) che sono ridotte le indennita' di cui al presente articolo, spettanti ai componenti del consiglio di presidenza.
+La [L. 21 novembre 2000, n. 342](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20in%20materia%20fiscale.md) ha disposto (con l'art. 85, comma 2) che sono ridotte le indennita' di cui al presente articolo, spettanti ai componenti del consiglio di presidenza.
 
 ---------------
 
@@ -1282,7 +1282,7 @@ Prima della costituzione del consiglio di presidenza della giustizia tributaria,
 
 AGGIORNAMENTO (9)
 
-La [L. 27 dicembre 1997, n. 449](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-12-27;449) ha disposto (con l'art. 31, comma 4) che la suddetta modifica ha effetto dal 1 aprile 1998.
+La [L. 27 dicembre 1997, n. 449](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20per%20la%20stabilizzazione%20della%20finanza%20pubblica.md) ha disposto (con l'art. 31, comma 4) che la suddetta modifica ha effetto dal 1 aprile 1998.
 
 ---------------
 
@@ -1438,7 +1438,7 @@ Il presente decreto entra in vigore il 15 gennaio 1993.
 
 2.
 
-Le disposizioni contenute nel capo II si applicano ai componenti delle commissioni tributarie provinciali e regionali e quelle contenute nel capo IV hanno effetto dalla data di insediamento delle commissioni tributarie provinciali e regionali, salvo quelle di cui all'articolo 35 che hanno effetto a decorrere dalla data di ultimazione delle procedure selettive previste dall'[articolo 3, comma 205, della legge 28 dicembre 1995, n. 549](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-12-28;549#art_3-com205). ((27))
+Le disposizioni contenute nel capo II si applicano ai componenti delle commissioni tributarie provinciali e regionali e quelle contenute nel capo IV hanno effetto dalla data di insediamento delle commissioni tributarie provinciali e regionali, salvo quelle di cui all'articolo 35 che hanno effetto a decorrere dalla data di ultimazione delle procedure selettive previste dall'[articolo 3, comma 205, della legge 28 dicembre 1995, n. 549](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_2.md). ((27))
 
 ---------------
 

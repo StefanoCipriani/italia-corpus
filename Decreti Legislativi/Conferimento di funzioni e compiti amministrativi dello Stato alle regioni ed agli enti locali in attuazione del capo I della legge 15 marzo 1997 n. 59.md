@@ -12,13 +12,13 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_5), [76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76), [87](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87), [117](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_117), [118](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_118) e [128 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_128);
 
-Vista la [legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59), recante delega al Governo per il conferimento di funzioni e compiti alle regioni ed enti locali, per la riforma della pubblica amministrazione e per la semplificazione amministrativa;
+Vista la [legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), recante delega al Governo per il conferimento di funzioni e compiti alle regioni ed enti locali, per la riforma della pubblica amministrazione e per la semplificazione amministrativa;
 
 Vista la [legge 15 maggio 1997, n. 127](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-05-15;127), recante misure urgenti per lo snellimento dell'attivita' amministrativa e dei procedimenti di decisione e di controllo;
 
 Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella riunione del 6 febbraio 1998;
 
-Acquisita, in relazione all'individuazione dei compiti di rilievo nazionale di cui all'[articolo 1, comma 4, lettera c), della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_1-com4-letc), l'intesa della Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano;
+Acquisita, in relazione all'individuazione dei compiti di rilievo nazionale di cui all'[articolo 1, comma 4, lettera c), della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), l'intesa della Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano;
 
 Acquisito il parere della Conferenza unificata, istituita ai sensi del [decreto legislativo 28 agosto 1997, n. 281](Definizione%20ed%20ampliamento%20delle%20attribuzioni%20della%20Conferenza%20permanente%20per%20i%20rapporti%20tra%20lo%20Stato%20le%20regioni%20e%20le%20province%20autonome%20di%20Trento%20e%20Bolzano%20ed%20unificazione%20per%20le%20materie%20_0f948c71aa72.md);
 
@@ -40,7 +40,7 @@ Titolo I
 
 1.
 
-Il presente decreto legislativo disciplina, ai sensi del Capo I della [legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59), il conferimento di funzioni e compiti amministrativi alle regioni, alle province, ai comuni, alle comunita' montane o ad altri enti locali e, nei casi espressamente previsti, alle autonomie funzionali, nelle materie non disciplinate dal [decreto legislativo 4 giugno 1997, n. 143](Conferimento%20alle%20regioni%20delle%20funzioni%20amministrative%20in%20materia%20di%20agricoltura%20e%20pesca%20e%20riorganizzazione%20dellAmministrazione%20centrale.md), dal [decreto legislativo 19 novembre 1997, n. 422](Conferimento%20alle%20regioni%20ed%20agli%20enti%20locali%20di%20funzioni%20e%20compiti%20in%20materia%20di%20trasporto%20pubblico%20locale%20a%20norma%20dellarticolo%204%20comma%204%20della%20legge%2015%20marzo%201997%20n.%2059.md), dal [decreto legislativo 18 novembre 1997, n. 426](Trasformazione%20dellente%20pubblico%20Centro%20sperimentale%20di%20cinematografia%20nella%20fondazione%20Scuola%20nazionale%20di%20cinema.md), dal [decreto legislativo 23 dicembre 1997, n. 469](Conferimento%20alle%20regioni%20e%20agli%20enti%20locali%20di%20funzioni%20e%20compiti%20in%20materia%20di%20mercato%20del%20lavoro%20a%20norma%20dellarticolo%201%20della%20legge%2015%20marzo%201997%20n.%2059.md), dal [decreto legislativo 8 gennaio 1998, n. 3](Riordino%20degli%20organi%20collegiali%20operanti%20presso%20la%20Presidenza%20del%20Consiglio%20dei%20Ministri%20-%20Dipartimento%20dello%20spettacolo%20a%20norma%20dellarticolo%2011%20comma%201%20lettera%20a%20%20della%20legge%2015%20marzo%201997%20n.%2059.md), dal [decreto legislativo 11 febbraio 1998, n. 32](Razionalizzazione%20del%20sistema%20di%20distribuzione%20dei%20carburanti%20a%20norma%20dellarticolo%204%20comma%204%20lettera%20c%20della%20legge%2015%20marzo%201997%20n.%2059.md), nonche' dal decreto legislativo recante riforma della disciplina in materia di commercio, dal decreto legislativo recante interventi per la razionalizzazione del sostegno pubblico alle imprese e dal decreto legislativo recante disposizioni in materia di commercio con l'estero.
+Il presente decreto legislativo disciplina, ai sensi del Capo I della [legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), il conferimento di funzioni e compiti amministrativi alle regioni, alle province, ai comuni, alle comunita' montane o ad altri enti locali e, nei casi espressamente previsti, alle autonomie funzionali, nelle materie non disciplinate dal [decreto legislativo 4 giugno 1997, n. 143](Conferimento%20alle%20regioni%20delle%20funzioni%20amministrative%20in%20materia%20di%20agricoltura%20e%20pesca%20e%20riorganizzazione%20dellAmministrazione%20centrale.md), dal [decreto legislativo 19 novembre 1997, n. 422](Conferimento%20alle%20regioni%20ed%20agli%20enti%20locali%20di%20funzioni%20e%20compiti%20in%20materia%20di%20trasporto%20pubblico%20locale%20a%20norma%20dellarticolo%204%20comma%204%20della%20legge%2015%20marzo%201997%20n.%2059.md), dal [decreto legislativo 18 novembre 1997, n. 426](Trasformazione%20dellente%20pubblico%20Centro%20sperimentale%20di%20cinematografia%20nella%20fondazione%20Scuola%20nazionale%20di%20cinema.md), dal [decreto legislativo 23 dicembre 1997, n. 469](Conferimento%20alle%20regioni%20e%20agli%20enti%20locali%20di%20funzioni%20e%20compiti%20in%20materia%20di%20mercato%20del%20lavoro%20a%20norma%20dellarticolo%201%20della%20legge%2015%20marzo%201997%20n.%2059.md), dal [decreto legislativo 8 gennaio 1998, n. 3](Riordino%20degli%20organi%20collegiali%20operanti%20presso%20la%20Presidenza%20del%20Consiglio%20dei%20Ministri%20-%20Dipartimento%20dello%20spettacolo%20a%20norma%20dellarticolo%2011%20comma%201%20lettera%20a%20%20della%20legge%2015%20marzo%201997%20n.%2059.md), dal [decreto legislativo 11 febbraio 1998, n. 32](Razionalizzazione%20del%20sistema%20di%20distribuzione%20dei%20carburanti%20a%20norma%20dellarticolo%204%20comma%204%20lettera%20c%20della%20legge%2015%20marzo%201997%20n.%2059.md), nonche' dal decreto legislativo recante riforma della disciplina in materia di commercio, dal decreto legislativo recante interventi per la razionalizzazione del sostegno pubblico alle imprese e dal decreto legislativo recante disposizioni in materia di commercio con l'estero.
 
 2.
 
@@ -48,7 +48,7 @@ Salvo diversa espressa disposizione del presente decreto legislativo, il conferi
 
 3.
 
-Nelle materie oggetto del conferimento, le regioni e gli enti locali esercitano funzioni legislative o normative ai sensi e nei limiti stabiliti dall'[articolo 2 della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_2).
+Nelle materie oggetto del conferimento, le regioni e gli enti locali esercitano funzioni legislative o normative ai sensi e nei limiti stabiliti dall'[articolo 2 della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md).
 
 4.
 
@@ -69,11 +69,11 @@ Spettano allo Stato i compiti preordinati ad assicurare l'esecuzione a livello n
 
 1.
 
-Ciascuna regione, ai sensi dell'[articolo 4, commi 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_4-com1) e [5, della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_4-com5), entro sei mesi dall'emanazione del presente decreto legislativo, determina, in conformita' al proprio ordinamento, le funzioni amministrative che richiedono l'unitario esercizio a livello regionale, provvedendo contestualmente a conferire tutte le altre agli enti locali, in conformita' ai principi stabiliti dall'articolo 4, comma 3, della stessa [legge n. 59 del 1997](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997;59), nonche' a quanto previsto dall'[articolo 3 della legge 8 giugno 1990, n. 142](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ordinamento%20delle%20autonomie%20locali.md).
+Ciascuna regione, ai sensi dell'[articolo 4, commi 1](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md) e [5, della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), entro sei mesi dall'emanazione del presente decreto legislativo, determina, in conformita' al proprio ordinamento, le funzioni amministrative che richiedono l'unitario esercizio a livello regionale, provvedendo contestualmente a conferire tutte le altre agli enti locali, in conformita' ai principi stabiliti dall'articolo 4, comma 3, della stessa [legge n. 59 del 1997](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997;59), nonche' a quanto previsto dall'[articolo 3 della legge 8 giugno 1990, n. 142](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ordinamento%20delle%20autonomie%20locali.md).
 
 2.
 
-La generalita' dei compiti e delle funzioni amministrative e' attribuita ai comuni, alle province e alle comunita' montane, in base ai principi di cui all'[articolo 4, comma 3, della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_4-com3), secondo le loro dimensioni territoriali, associative ed organizzative, con esclusione delle sole funzioni che richiedono l'unitario esercizio a livello regionale. Le regioni, nell'emanazione della legge di cui al comma 1 del presente articolo, attuano il trasferimento delle funzioni nei confronti della generalita' dei comuni. Al fine di favorire l'esercizio associato delle funzioni dei comuni di minore dimensione demografica, le regioni individuano livelli ottimali di esercizio delle stesse, concordandoli nelle sedi concertative di cui al comma 5 del presente articolo. Nell'ambito della previsione regionale, i comuni esercitano le funzioni in forma associata, individuando autonomamente i soggetti, le forme e le metodologie, entro il termine temporale indicato dalla legislazione regionale. Decorso inutilmente il termine di cui sopra, la regione esercita il potere sostitutivo nelle forme stabilite dalla legge stessa. La legge regionale prevede altresi' appositi strumenti di incentivazione per favorire l'esercizio associato delle funzioni.
+La generalita' dei compiti e delle funzioni amministrative e' attribuita ai comuni, alle province e alle comunita' montane, in base ai principi di cui all'[articolo 4, comma 3, della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), secondo le loro dimensioni territoriali, associative ed organizzative, con esclusione delle sole funzioni che richiedono l'unitario esercizio a livello regionale. Le regioni, nell'emanazione della legge di cui al comma 1 del presente articolo, attuano il trasferimento delle funzioni nei confronti della generalita' dei comuni. Al fine di favorire l'esercizio associato delle funzioni dei comuni di minore dimensione demografica, le regioni individuano livelli ottimali di esercizio delle stesse, concordandoli nelle sedi concertative di cui al comma 5 del presente articolo. Nell'ambito della previsione regionale, i comuni esercitano le funzioni in forma associata, individuando autonomamente i soggetti, le forme e le metodologie, entro il termine temporale indicato dalla legislazione regionale. Decorso inutilmente il termine di cui sopra, la regione esercita il potere sostitutivo nelle forme stabilite dalla legge stessa. La legge regionale prevede altresi' appositi strumenti di incentivazione per favorire l'esercizio associato delle funzioni.
 
 3.
 
@@ -81,7 +81,7 @@ La legge regionale di cui al comma 1 attribuisce agli enti locali le risorse uma
 
 4.
 
-Qualora la regione non provveda entro il termine indicato, il Governo adotta con apposito decreto legislativo le misure di cui all'[articolo 4, comma 5, della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_4-com5).
+Qualora la regione non provveda entro il termine indicato, il Governo adotta con apposito decreto legislativo le misure di cui all'[articolo 4, comma 5, della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md).
 
 5.
 
@@ -89,17 +89,17 @@ Le regioni, nell'ambito della propria autonomia legislativa, prevedono strumenti
 
 6.
 
-I decreti del Presidente del Consiglio dei Ministri di cui all'[articolo 7 della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_7), sono comunque emanati entro il 31 dicembre 1999.
+I decreti del Presidente del Consiglio dei Ministri di cui all'[articolo 7 della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), sono comunque emanati entro il 31 dicembre 1999.
 
 7.
 
-Ai fini dell'applicazione del presente decreto legislativo e ai sensi dell'[articolo 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_1) e dell'[articolo 3 della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_3), tutte le funzioni e i compiti non espressamente conservati allo Stato con le disposizioni del presente decreto legislativo sono conferiti alle regioni e agli enti locali.
+Ai fini dell'applicazione del presente decreto legislativo e ai sensi dell'[articolo 1](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md) e dell'[articolo 3 della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), tutte le funzioni e i compiti non espressamente conservati allo Stato con le disposizioni del presente decreto legislativo sono conferiti alle regioni e agli enti locali.
 
 ### Art. 4. — Indirizzo e coordinamento
 
 1.
 
-Relativamente alle funzioni e ai compiti conferiti alle regioni e agli enti locali con il presente decreto legislativo, e' conservato allo Stato il potere di indirizzo e coordinamento da esercitarsi ai sensi dell'[articolo 8 della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_8).
+Relativamente alle funzioni e ai compiti conferiti alle regioni e agli enti locali con il presente decreto legislativo, e' conservato allo Stato il potere di indirizzo e coordinamento da esercitarsi ai sensi dell'[articolo 8 della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md).
 
 ### Art. 5. — Poteri sostitutivi
 
@@ -113,7 +113,7 @@ Decorso inutilmente tale termine, il Consiglio dei Ministri, sentito il soggetto
 
 3.
 
-In casi di assoluta urgenza, non si applica la procedura di cui al comma 1 e il Consiglio dei Ministri puo' adottare il provvedimento di cui al comma 2, su proposta del Presidente del Consiglio dei Ministri, di concerto con il Ministro competente. Il provvedimento in tal modo adottato ha immediata esecuzione ed e' immediatamente comunicato rispettivamente alla Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, di seguito denominata "Conferenza Statoregioni" e alla Conferenza Stato-Citta' e autonomie locali allargata ai rappresentanti delle comunita' montane, che ne possono chiedere il riesame, nei termini e con gli effetti previsti dall'[articolo 8, comma 3, della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_8-com3).
+In casi di assoluta urgenza, non si applica la procedura di cui al comma 1 e il Consiglio dei Ministri puo' adottare il provvedimento di cui al comma 2, su proposta del Presidente del Consiglio dei Ministri, di concerto con il Ministro competente. Il provvedimento in tal modo adottato ha immediata esecuzione ed e' immediatamente comunicato rispettivamente alla Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, di seguito denominata "Conferenza Statoregioni" e alla Conferenza Stato-Citta' e autonomie locali allargata ai rappresentanti delle comunita' montane, che ne possono chiedere il riesame, nei termini e con gli effetti previsti dall'[articolo 8, comma 3, della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md).
 
 4.
 
@@ -137,11 +137,11 @@ Le misure necessarie sono adottate con le procedure e gli strumenti di cui agli 
 
 1.
 
-I provvedimenti di cui all'[articolo 7 della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_7), determinano la decorrenza dell'esercizio da parte delle regioni e degli enti locali delle funzioni conferite ai sensi del presente decreto legislativo, contestualmente all'effettivo trasferimento dei beni e delle risorse finanziarie, umane, strumentali e organizzative. Con la medesima decorrenza ha altresi' efficacia l'abrogazione delle corrispondenti norme previste dal presente decreto legislativo.
+I provvedimenti di cui all'[articolo 7 della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), determinano la decorrenza dell'esercizio da parte delle regioni e degli enti locali delle funzioni conferite ai sensi del presente decreto legislativo, contestualmente all'effettivo trasferimento dei beni e delle risorse finanziarie, umane, strumentali e organizzative. Con la medesima decorrenza ha altresi' efficacia l'abrogazione delle corrispondenti norme previste dal presente decreto legislativo.
 
 2.
 
-Per garantire l'effettivo esercizio delle funzioni e dei compiti conferiti, i provvedimenti di cui all'[articolo 7 della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_7), che individuano i beni e le risorse da ripartire tra le regioni e tra le regioni e gli enti locali, osservano i seguenti criteri:
+Per garantire l'effettivo esercizio delle funzioni e dei compiti conferiti, i provvedimenti di cui all'[articolo 7 della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), che individuano i beni e le risorse da ripartire tra le regioni e tra le regioni e gli enti locali, osservano i seguenti criteri:
                             a)
                                 la decorrenza dell'esercizio delle funzioni e dei compiti conferiti contestualmente all'effettivo trasferimento dei beni e delle risorse finanziarie, umane, organizzative e strumentali, puo' essere graduata, secondo date certe, in modo da completare il trasferimento entro il 31 dicembre 2000;
                             b)
@@ -151,7 +151,7 @@ Per garantire l'effettivo esercizio delle funzioni e dei compiti conferiti, i pr
 
 3.
 
-Con i provvedimenti di cui all'[articolo 7 della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_7), alle regioni e agli enti locali destinatari delle funzioni e dei compiti conferiti sono attribuiti beni e risorse corrispondenti per ammontare a quelli utilizzati dallo Stato per l'esercizio delle medesime funzioni e compiti prima del conferimento.
+Con i provvedimenti di cui all'[articolo 7 della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), alle regioni e agli enti locali destinatari delle funzioni e dei compiti conferiti sono attribuiti beni e risorse corrispondenti per ammontare a quelli utilizzati dallo Stato per l'esercizio delle medesime funzioni e compiti prima del conferimento.
 Ai fini della quantificazione, si tiene conto:
                             a)
                                 dei beni e delle risorse utilizzati dallo Stato in un arco temporale pluriennale, da un minimo di tre ad un massimo di cinque anni;
@@ -162,7 +162,7 @@ Ai fini della quantificazione, si tiene conto:
 
 4.
 
-Con i provvedimenti, di cui all'[articolo 7 della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_7), si provvede alla individuazione delle modalita' e delle procedure di trasferimento, nonche' dei criteri di ripartizione del personale. Ferma restando l'autonomia normativa e organizzativa degli enti territoriali riceventi, al personale trasferito e' comunque garantito il mantenimento della posizione retributiva gia' maturata.
+Con i provvedimenti, di cui all'[articolo 7 della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), si provvede alla individuazione delle modalita' e delle procedure di trasferimento, nonche' dei criteri di ripartizione del personale. Ferma restando l'autonomia normativa e organizzativa degli enti territoriali riceventi, al personale trasferito e' comunque garantito il mantenimento della posizione retributiva gia' maturata.
 Il personale medesimo puo' optare per il mantenimento del trattamento previdenziale previgente.
 
 5.
@@ -171,7 +171,7 @@ Al personale inquadrato nei ruoli delle regioni, delle province, dei comuni e de
 
 6.
 
-Gli oneri relativi al personale necessario per le funzioni conferite incrementano in pari misura il tetto di spesa di cui all'[articolo 1, comma 9, della legge 28 dicembre 1995, n. 549](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-12-28;549#art_1-com9).
+Gli oneri relativi al personale necessario per le funzioni conferite incrementano in pari misura il tetto di spesa di cui all'[articolo 1, comma 9, della legge 28 dicembre 1995, n. 549](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_2.md).
 
 7.
 
@@ -181,7 +181,7 @@ Nelle materie oggetto di conferimento di funzioni e di compiti ai sensi del pres
 
 Al fine della elaborazione degli schemi di decreto del Presidente del Consiglio dei Ministri, la Conferenza unificata Stato, regioni, citta' e autonomie locali, di cui al [decreto legislativo 28 agosto 1997, n. 281](Definizione%20ed%20ampliamento%20delle%20attribuzioni%20della%20Conferenza%20permanente%20per%20i%20rapporti%20tra%20lo%20Stato%20le%20regioni%20e%20le%20province%20autonome%20di%20Trento%20e%20Bolzano%20ed%20unificazione%20per%20le%20materie%20_0f948c71aa72.md), di seguito denominata "Conferenza unificata", promuove accordi tra Governo, regioni ed enti locali, ai sensi dell'articolo 9, comma 2, lettera c), del medesimo decreto legislativo. Gli schemi dei singoli decreti debbono contenere:
                             a)
-                                l'individuazione del termine, eventualmente differenziato, da cui decorre l'esercizio delle funzioni conferite e la contestuale individuazione delle quote di tributi e risorse erariali da devolvere agli enti, fermo restando quanto previsto dall'[articolo 48 della legge 27 dicembre 1997, n. 449](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-12-27;449#art_48);
+                                l'individuazione del termine, eventualmente differenziato, da cui decorre l'esercizio delle funzioni conferite e la contestuale individuazione delle quote di tributi e risorse erariali da devolvere agli enti, fermo restando quanto previsto dall'[articolo 48 della legge 27 dicembre 1997, n. 449](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20per%20la%20stabilizzazione%20della%20finanza%20pubblica.md);
                             b)
                                 l'individuazione dei beni e delle strutture da trasferire, in relazione alla ripartizione delle funzioni, alle regioni e agli enti locali;
                             c)
@@ -191,33 +191,33 @@ Al fine della elaborazione degli schemi di decreto del Presidente del Consiglio 
 
 9.
 
-In caso di mancato accordo, il Presidente del Consiglio dei Ministri provvede, acquisito il parere della Conferenza unificata, ai sensi dell'[articolo 7 della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_7).
+In caso di mancato accordo, il Presidente del Consiglio dei Ministri provvede, acquisito il parere della Conferenza unificata, ai sensi dell'[articolo 7 della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md).
 
 10.
 
-Nei casi in cui lo Stato non provveda ad adottare gli atti e i provvedimenti di attuazione entro le scadenze previste dalla [legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59) e dal presente decreto legislativo, la Conferenza unificata puo' predisporre lo schema dell'atto o del provvedimento e inviarlo al Presidente del Consiglio dei Ministri, per le iniziative di cui all'[articolo 7 della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_7). Si applica a tal fine la disposizione di cui all'[articolo 2, comma 2, del decreto legislativo 28 agosto 1997, n. 281](Definizione%20ed%20ampliamento%20delle%20attribuzioni%20della%20Conferenza%20permanente%20per%20i%20rapporti%20tra%20lo%20Stato%20le%20regioni%20e%20le%20province%20autonome%20di%20Trento%20e%20Bolzano%20ed%20unificazione%20per%20le%20materie%20_0f948c71aa72.md).
+Nei casi in cui lo Stato non provveda ad adottare gli atti e i provvedimenti di attuazione entro le scadenze previste dalla [legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md) e dal presente decreto legislativo, la Conferenza unificata puo' predisporre lo schema dell'atto o del provvedimento e inviarlo al Presidente del Consiglio dei Ministri, per le iniziative di cui all'[articolo 7 della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md). Si applica a tal fine la disposizione di cui all'[articolo 2, comma 2, del decreto legislativo 28 agosto 1997, n. 281](Definizione%20ed%20ampliamento%20delle%20attribuzioni%20della%20Conferenza%20permanente%20per%20i%20rapporti%20tra%20lo%20Stato%20le%20regioni%20e%20le%20province%20autonome%20di%20Trento%20e%20Bolzano%20ed%20unificazione%20per%20le%20materie%20_0f948c71aa72.md).
 
 11.
 
-Ove non si provveda al trasferimento delle risorse disposte ai sensi dell'[articolo 7 della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_7), nei termini previsti, la regione e gli enti locali interessati chiedono alla Conferenza unificata di segnalare il ritardo o l'inerzia al Presidente del Consiglio dei Ministri, che indica il termine per provvedere. Decorso inutilmente tale termine il Presidente del Consiglio dei Ministri nomina un commissario ad acta. ((16))
+Ove non si provveda al trasferimento delle risorse disposte ai sensi dell'[articolo 7 della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), nei termini previsti, la regione e gli enti locali interessati chiedono alla Conferenza unificata di segnalare il ritardo o l'inerzia al Presidente del Consiglio dei Ministri, che indica il termine per provvedere. Decorso inutilmente tale termine il Presidente del Consiglio dei Ministri nomina un commissario ad acta. ((16))
 
 ---------------
 
 AGGIORNAMENTO (16)
 
-Il [D.L. 30 dicembre 2005, n. 273](../DL%20proroghe/Definizione%20e%20proroga%20di%20termini%20nonche%20conseguenti%20disposizioni%20urgenti.md) convertito con modificazioni dalla [L. 23 febbraio 2006, n. 51](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%202005%20n.%20273%20recante%20definizione%20e%20proroga%20di%20termini%20nonche%20conseguenti%20disposizioni%20urgenti.%20Proroga%20di%20termini%20relat_8fa6bc6dddf9.md) ha disposto (con l'art. 25, comma 1) che " Il termine di due anni, da ultimo stabilito con provvedimento adottato ai sensi dell'[articolo 7 della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_7), e dell'[articolo 7 del decreto legislativo 31 marzo 1998, n. 112](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-03-31;112#art_7), per l'esercizio delle funzioni previste dall'articolo 66 del citato [decreto legislativo n. 112 del 1998](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998;112), e' prorogato di un anno."
+Il [D.L. 30 dicembre 2005, n. 273](../DL%20proroghe/Definizione%20e%20proroga%20di%20termini%20nonche%20conseguenti%20disposizioni%20urgenti.md) convertito con modificazioni dalla [L. 23 febbraio 2006, n. 51](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%202005%20n.%20273%20recante%20definizione%20e%20proroga%20di%20termini%20nonche%20conseguenti%20disposizioni%20urgenti.%20Proroga%20di%20termini%20relat_8fa6bc6dddf9.md) ha disposto (con l'art. 25, comma 1) che " Il termine di due anni, da ultimo stabilito con provvedimento adottato ai sensi dell'[articolo 7 della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), e dell'[articolo 7 del decreto legislativo 31 marzo 1998, n. 112](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Conferimento%20di%20funzioni%20e%20compiti%20amministrativi%20dello%20Stato%20alle%20regioni%20ed%20agli%20enti%20locali%20in%20attuazione%20del%20capo%20I%20della%20legge%2015%20marzo%201997%20n.%2059.md), per l'esercizio delle funzioni previste dall'articolo 66 del citato [decreto legislativo n. 112 del 1998](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998;112), e' prorogato di un anno."
 
 ### Art. 8. — Regime fiscale del trasferimento dei beni
 
 1.
 
-I decreti del Presidente del Consiglio dei Ministri di cui all'[articolo 7 della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_7), che trasferiscono a regioni ed enti locali i beni in relazione alle funzioni conferite, costituiscono titolo per l'apposita trascrizione dei beni immobili che dovra' avvenire con esenzione per gli enti interessati di ogni onere relativo ad imposte e tasse.
+I decreti del Presidente del Consiglio dei Ministri di cui all'[articolo 7 della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), che trasferiscono a regioni ed enti locali i beni in relazione alle funzioni conferite, costituiscono titolo per l'apposita trascrizione dei beni immobili che dovra' avvenire con esenzione per gli enti interessati di ogni onere relativo ad imposte e tasse.
 
 ### Art. 9. — Riordino di strutture
 
 1.
 
-Al riordino degli uffici e delle strutture centrali e periferiche, nonche' degli organi collegiali che svolgono le funzioni e i compiti oggetto del presente decreto legislativo ed eventualmente alla loro soppressione o al loro accorpamento con altri uffici o con organismi tecnici nazionali, si provvede con i decreti previsti dagli [articoli 7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_7), [10](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_10) e [11 della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_11).
+Al riordino degli uffici e delle strutture centrali e periferiche, nonche' degli organi collegiali che svolgono le funzioni e i compiti oggetto del presente decreto legislativo ed eventualmente alla loro soppressione o al loro accorpamento con altri uffici o con organismi tecnici nazionali, si provvede con i decreti previsti dagli [articoli 7](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), [10](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md) e [11 della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md).
 
 2.
 
@@ -237,7 +237,7 @@ Titolo II
 
 1.
 
-In attuazione della delega conferita dall'[articolo 1 della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_1), il presente titolo disciplina il conferimento alle regioni ed agli enti locali, nonche', nei casi espressamente previsti, alle autonomie funzionali, delle funzioni e compiti esercitati, nel settore dello sviluppo economico, da qualunque organo o amministrazione dello Stato o da enti pubblici da questo dipendenti.
+In attuazione della delega conferita dall'[articolo 1 della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), il presente titolo disciplina il conferimento alle regioni ed agli enti locali, nonche', nei casi espressamente previsti, alle autonomie funzionali, delle funzioni e compiti esercitati, nel settore dello sviluppo economico, da qualunque organo o amministrazione dello Stato o da enti pubblici da questo dipendenti.
 
 2.
 
@@ -359,7 +359,7 @@ la definizione di norme in materia di metrologia legale; la omologazione di mode
                             q)
                                 la gestione del fondo speciale per la ricerca applicata e del fondo speciale rotativo per l'innovazione tecnologica ai sensi della [legge 17 febbraio 1982, n. 46](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-02-17;46);
                             r)
-                                la gestione del fondo di garanzia di cui all'[articolo 2, comma 100, lettera a), della legge 23 dicembre 1996, n. 662](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;662#art_2-com100-leta). ((PERIODO SOPPRESSO DAL D.L. 30 APRILE 2019, N. 34));
+                                la gestione del fondo di garanzia di cui all'[articolo 2, comma 100, lettera a), della legge 23 dicembre 1996, n. 662](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_3.md). ((PERIODO SOPPRESSO DAL D.L. 30 APRILE 2019, N. 34));
                             s)
                                 le prestazioni, i servizi, le agevolazioni e la gestione dei fondi destinati alle agevolazioni di cui alla [legge 24 maggio 1977, n. 227](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-05-24;227), nonche' la determinazione delle tipologie e caratteristiche delle operazioni ammissibili al contributo e delle condizioni, modalita' e tempi della loro concessione;
                             t)
@@ -368,7 +368,7 @@ la definizione di norme in materia di metrologia legale; la omologazione di mode
                                 l'individuazione, sentita la Conferenza unificata, delle aree economicamente depresse del territorio nazionale, il coordinamento, la programmazione e la vigilanza sul complesso dell'azione di intervento pubblico nelle aree economicamente depresse del territorio nazionale, la programmazione e il coordinamento delle grandi infrastrutture a carattere interregionale o di interesse nazionale ai sensi di quanto previsto dall'[articolo 3 del decreto-legge 22 ottobre 1992, n. 415](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-10-22;415#art_3), convertito con modificazioni dalla [legge 19 dicembre 1992, n. 488](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-12-19;488);
                             v)
                                 il coordinamento delle intese istituzionali di programma, definite dall'[articolo 2, comma 203, della legge 23 dicembre 1996, n. 
-662](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;662#art_2-com203), e dei connessi strumenti di programmazione negoziata;
+662](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_3.md), e dei connessi strumenti di programmazione negoziata;
                             z)
                                 l'attuazione delle misure di cui alla [legge 25 febbraio 1992, n. 215](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-25;215), per l'imprenditoria femminile e al [decreto-legge 30 dicembre 1985, n. 786](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1985-12-30;786), convertito con modificazioni dalla [legge 28 febbraio 1986, n. 44](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%201985%20n.%20786%20concernente%20misure%20straordinarie%20per%20la%20promozione%20e%20lo%20sviluppo%20della%20imprenditorialita%20giovanile%20nel%20Mezzogiorno.md), per l'imprenditorialita' giovanile nel Mezzogiorno;
                             aa)
@@ -378,7 +378,7 @@ la definizione di norme in materia di metrologia legale; la omologazione di mode
 
 2.
 
-Senza pregiudizio delle attivita' concorrenti che possono svolgere le regioni e gli enti locali, ai sensi dell'[articolo 1, comma 6, della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_1-com6), lo Stato continua a svolgere funzioni e compiti concernenti:
+Senza pregiudizio delle attivita' concorrenti che possono svolgere le regioni e gli enti locali, ai sensi dell'[articolo 1, comma 6, della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), lo Stato continua a svolgere funzioni e compiti concernenti:
                             a)
                                 l'assicurazione, la riassicurazione ed il finanziamento dei crediti all'esportazione;
                             b)
@@ -404,7 +404,7 @@ Salvo quanto previsto nell'articolo 18, comma 1, lettere n), o), p), q), r), s),
 
 3.
 
-Per la definizione dei provvedimenti attuativi delle funzioni amministrative delegate e programmatorie, le regioni attivano forme di cooperazione funzionali con gli enti locali secondo le modalita' previste dall'[articolo 3, comma 1, lettera c) della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_3-com1-letc).
+Per la definizione dei provvedimenti attuativi delle funzioni amministrative delegate e programmatorie, le regioni attivano forme di cooperazione funzionali con gli enti locali secondo le modalita' previste dall'[articolo 3, comma 1, lettera c) della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md).
 
 4.
 
@@ -437,7 +437,7 @@ Sono conferite alle province le funzioni amministrative relative alla produzione
 11.
 
 Con i decreti legislativi, emanati ai sensi dell'[articolo 10
-della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_10), sono individuate le attivita' di collaudo, autorizzazione o omologazione comunque denominate, relative a macchine, prodotti e dispositivi, ivi inclusi quelli sottoposti a marcatura CE, da conservare allo Stato, da attribuire agli enti locali o che possono essere svolte anche da soggetti privati abilitati.
+della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), sono individuate le attivita' di collaudo, autorizzazione o omologazione comunque denominate, relative a macchine, prodotti e dispositivi, ivi inclusi quelli sottoposti a marcatura CE, da conservare allo Stato, da attribuire agli enti locali o che possono essere svolte anche da soggetti privati abilitati.
 
 12.
 
@@ -457,7 +457,7 @@ Presso le camere di commercio, industria, artigianato e agricoltura e' individua
 
 AGGIORNAMENTO (15)
 
-La [L. 23 dicembre 2005, n. 266](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-12-23;266) ha disposto (con l'art. 1, comma 43) che "Dal 1° gennaio 2006 sono soppressi i trasferimenti dello Stato per l'esercizio delle funzioni gia' esercitate dagli uffici metrici provinciali e trasferite alle Camere di commercio, industria, artigianato e agricoltura ai sensi dell'[articolo 20 del decreto legislativo 31 marzo 1998, n. 112](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-03-31;112#art_20)."
+La [L. 23 dicembre 2005, n. 266](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202006.md) ha disposto (con l'art. 1, comma 43) che "Dal 1° gennaio 2006 sono soppressi i trasferimenti dello Stato per l'esercizio delle funzioni gia' esercitate dagli uffici metrici provinciali e trasferite alle Camere di commercio, industria, artigianato e agricoltura ai sensi dell'[articolo 20 del decreto legislativo 31 marzo 1998, n. 112](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Conferimento%20di%20funzioni%20e%20compiti%20amministrativi%20dello%20Stato%20alle%20regioni%20ed%20agli%20enti%20locali%20in%20attuazione%20del%20capo%20I%20della%20legge%2015%20marzo%201997%20n.%2059.md)."
 
 ### Art. 21. — Semplificazioni e liberalizzazioni
 
@@ -552,7 +552,7 @@ Il procedimento amministrativo in materia di autorizzazione all'insediamento di 
 
 2.
 
-Il procedimento, disciplinato con uno o piu' regolamenti ai sensi dell'[articolo 20, comma 8, della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_20-com8), si ispira ai seguenti principi:
+Il procedimento, disciplinato con uno o piu' regolamenti ai sensi dell'[articolo 20, comma 8, della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), si ispira ai seguenti principi:
                             a)
                                 istituzione di uno sportello unico presso la struttura organizzativa e individuazione del responsabile del procedimento;
                             b)
@@ -584,7 +584,7 @@ La Corte Costituzionale, con sentenza 6-26 giugno 2001, n. 206 (in G.U. 1a s.s. 
 
 1.
 
-Le regioni e le province autonome di Trento e di Bolzano disciplinano, con proprie leggi, le aree industriali e le aree ecologicamente attrezzate, dotate delle infrastrutture e dei sistemi necessari a garantire la tutela della salute, della sicurezza e dell'ambiente. Le medesime leggi disciplinano altresi' le forme di gestione unitaria delle infrastrutture e dei servizi delle aree ecologicamente attrezzate da parte di soggetti pubblici o privati, anche costituiti ai sensi di quanto previsto dall'[articolo 12 della legge 23 dicembre 1992, n. 498](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-12-23;498#art_12), e dall'[articolo 22 della legge 8 giugno 1990, n. 142](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ordinamento%20delle%20autonomie%20locali.md), nonche' le modalita' di acquisizione dei terreni compresi nelle aree industriali, ove necessario anche mediante espropriazione. Gli impianti produttivi localizzati nelle aree ecologicamente attrezzate sono esonerati dall'acquisizione delle autorizzazioni concernenti la utilizzazione dei servizi ivi presenti.
+Le regioni e le province autonome di Trento e di Bolzano disciplinano, con proprie leggi, le aree industriali e le aree ecologicamente attrezzate, dotate delle infrastrutture e dei sistemi necessari a garantire la tutela della salute, della sicurezza e dell'ambiente. Le medesime leggi disciplinano altresi' le forme di gestione unitaria delle infrastrutture e dei servizi delle aree ecologicamente attrezzate da parte di soggetti pubblici o privati, anche costituiti ai sensi di quanto previsto dall'[articolo 12 della legge 23 dicembre 1992, n. 498](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20urgenti%20in%20materia%20di%20finanza%20pubblica.md), e dall'[articolo 22 della legge 8 giugno 1990, n. 142](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ordinamento%20delle%20autonomie%20locali.md), nonche' le modalita' di acquisizione dei terreni compresi nelle aree industriali, ove necessario anche mediante espropriazione. Gli impianti produttivi localizzati nelle aree ecologicamente attrezzate sono esonerati dall'acquisizione delle autorizzazioni concernenti la utilizzazione dei servizi ivi presenti.
 
 2.
 
@@ -612,7 +612,7 @@ Le funzioni amministrative relative alla materia "energia" concernono le attivit
 
 1.
 
-Ai sensi dell'[articolo 1, comma 4, della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_1-com4), sono conservate allo Stato le funzioni e i compiti concernenti l'elaborazione e la definizione degli obiettivi e delle linee della politica energetica nazionale, nonche' l'adozione degli atti di indirizzo e coordinamento per una articolata programmazione energetica a livello regionale.
+Ai sensi dell'[articolo 1, comma 4, della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), sono conservate allo Stato le funzioni e i compiti concernenti l'elaborazione e la definizione degli obiettivi e delle linee della politica energetica nazionale, nonche' l'adozione degli atti di indirizzo e coordinamento per una articolata programmazione energetica a livello regionale.
 
 2.
 
@@ -658,7 +658,7 @@ Le determinazioni di cui alla lettera h) del comma 2, l'articolazione territoria
 
 AGGIORNAMENTO (6)
 
-Successivamente la Corte Costituzionale, con sentenza 6-26 giugno 2001, n. 206 (in G.U. 1a s.s. 04/07/2001, n. 26), ha dichiarato l'illegittimita' costituzionale dell'[art. 3, comma 1, lettera a), del decreto legislativo 29 ottobre 1999, n. 443](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-10-29;443#art_3-com1-leta) (che ha modificato la lettera b), comma 2 del presente articolo).
+Successivamente la Corte Costituzionale, con sentenza 6-26 giugno 2001, n. 206 (in G.U. 1a s.s. 04/07/2001, n. 26), ha dichiarato l'illegittimita' costituzionale dell'[art. 3, comma 1, lettera a), del decreto legislativo 29 ottobre 1999, n. 443](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20correttive%20ed%20integrative%20del%20decreto%20legislativo%2031%20marzo%201998%20n.%20112%20recante%20conferimento%20di%20funzioni%20e%20compiti%20amministrativi%20dello%20Stato%20alle%20regioni%20ed%20agli%20enti%20locali.md) (che ha modificato la lettera b), comma 2 del presente articolo).
 
 ### Art. 30. — Conferimento di funzioni alle regioni
 
@@ -668,7 +668,7 @@ Sono delegate alle regioni le funzioni amministrative in tema di energia, ivi co
 
 2.
 
-Sono attribuiti alle regioni i compiti previsti dagli [articoli 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-01-09;10#art_12), [14](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-01-09;10#art_14) e [30 della legge 9 gennaio 1991, n. 10](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-01-09;10#art_30), ad esclusione di quelli concernenti iniziative per le quali risultino gia' formalmente impegnati i fondi. Per quanto attiene alle funzioni di cui al medesimo [articolo 30 della legge n. 10 del 1991](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991;10#art_30) trasferite alle regioni, resta ferma la funzione d'indirizzo ai sensi dell'[articolo 8 della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_8).
+Sono attribuiti alle regioni i compiti previsti dagli [articoli 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-01-09;10#art_12), [14](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-01-09;10#art_14) e [30 della legge 9 gennaio 1991, n. 10](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-01-09;10#art_30), ad esclusione di quelli concernenti iniziative per le quali risultino gia' formalmente impegnati i fondi. Per quanto attiene alle funzioni di cui al medesimo [articolo 30 della legge n. 10 del 1991](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991;10#art_30) trasferite alle regioni, resta ferma la funzione d'indirizzo ai sensi dell'[articolo 8 della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md).
 
 3.
 
@@ -676,7 +676,7 @@ Il coordinamento e la verifica in ambito nazionale delle iniziative relative ai 
 
 4.
 
-Per fare fronte alle esigenze di spesa relative alle attivita' di cui al comma 1 del presente articolo e per le finalita' della [legge 9 gennaio 1991, n. 10](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-01-09;10), le regioni a statuto ordinario destinano, con le loro leggi di bilancio, almeno la quota dell'1 per cento delle disponibilita' conseguite annualmente ai sensi dell'[articolo 3, comma 12, della legge 28 dicembre 1995 n. 549](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-12-28;549#art_3-com12).
+Per fare fronte alle esigenze di spesa relative alle attivita' di cui al comma 1 del presente articolo e per le finalita' della [legge 9 gennaio 1991, n. 10](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-01-09;10), le regioni a statuto ordinario destinano, con le loro leggi di bilancio, almeno la quota dell'1 per cento delle disponibilita' conseguite annualmente ai sensi dell'[articolo 3, comma 12, della legge 28 dicembre 1995 n. 549](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_2.md).
 
 5.
 
@@ -961,7 +961,7 @@ Sono conferite alle regioni tutte le funzioni amministrative statali concernenti
 
 1.
 
-Ai sensi dell'[articolo 4, comma 3, lettera c), della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_4-com3-letc), e' abrogato il [comma 5 dell'articolo 9 della legge 17 maggio 1983, n. 217](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-05-17;217#art_9-com5).
+Ai sensi dell'[articolo 4, comma 3, lettera c), della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), e' abrogato il [comma 5 dell'articolo 9 della legge 17 maggio 1983, n. 217](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-05-17;217#art_9-com5).
 
 2.
 
@@ -1068,7 +1068,7 @@ Rimangono assegnate allo Stato ed ai competenti organismi indipendenti le funzio
 
 3.
 
-La determinazione dei tassi minimi d'interesse agevolati a carico dei beneficiari e' operata ai sensi dell'[articolo 8 della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_8).
+La determinazione dei tassi minimi d'interesse agevolati a carico dei beneficiari e' operata ai sensi dell'[articolo 8 della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md).
 
 4.
 
@@ -1115,11 +1115,11 @@ Titolo III
 
 1.
 
-Ai sensi dell'[articolo 1, comma 4, lettera c), della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_1-com4-letc), hanno rilievo nazionale i compiti relativi alla identificazione delle linee fondamentali dell'assetto del territorio nazionale con riferimento ai valori naturali e ambientali, alla difesa del suolo e alla articolazione territoriale delle reti infrastrutturali e delle opere di competenza statale, nonche' al sistema delle citta' e delle aree metropolitane, anche ai fini dello sviluppo del Mezzogiorno e delle aree depresse del paese.
+Ai sensi dell'[articolo 1, comma 4, lettera c), della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), hanno rilievo nazionale i compiti relativi alla identificazione delle linee fondamentali dell'assetto del territorio nazionale con riferimento ai valori naturali e ambientali, alla difesa del suolo e alla articolazione territoriale delle reti infrastrutturali e delle opere di competenza statale, nonche' al sistema delle citta' e delle aree metropolitane, anche ai fini dello sviluppo del Mezzogiorno e delle aree depresse del paese.
 
 2.
 
-Spettano allo Stato i rapporti con gli organismi internazionali e il coordinamento con l'Unione europea di cui all'[articolo 1, comma 4, lettera e), della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_1-com4-lete), in materia di politiche urbane e di assetto territoriale.
+Spettano allo Stato i rapporti con gli organismi internazionali e il coordinamento con l'Unione europea di cui all'[articolo 1, comma 4, lettera e), della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), in materia di politiche urbane e di assetto territoriale.
 
 3.
 
@@ -1146,7 +1146,7 @@ Sono o restano soppresse:
 
 1.
 
-Sono mantenute allo Stato, ai sensi dell'[articolo 3, comma 1, lettera a) della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_3-com1-leta), le funzioni relative:
+Sono mantenute allo Stato, ai sensi dell'[articolo 3, comma 1, lettera a) della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), le funzioni relative:
                             a)
                                 all'osservatorio e monitoraggio delle trasformazioni territoriali, con particolare riferimento ai compiti di cui all'articolo 52, all'abusivismo edilizio ed al recupero, anche sulla base dei dati forniti dai comuni;
                             b)
@@ -1176,7 +1176,7 @@ Nei casi di variazione degli strumenti urbanistici vigenti conseguente all'appro
 
 1.
 
-Sono conferite alle regioni e agli enti locali, ai sensi dell'[articolo 4, comma 1, della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_4-com1), tutte le funzioni amministrative non espressamente mantenute allo Stato dalle disposizioni della presente sezione.
+Sono conferite alle regioni e agli enti locali, ai sensi dell'[articolo 4, comma 1, della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), tutte le funzioni amministrative non espressamente mantenute allo Stato dalle disposizioni della presente sezione.
 
 ### Art. 57. — Pianificazione territoriale di coordinamento
  e pianificazioni di settore
@@ -1249,7 +1249,7 @@ Dal 1 gennaio 1999 sono accreditate alle singole regioni le disponibilita' esist
                             d)
                                 dal [comma settimo dell'articolo 3 del decreto-legge 7 febbraio 1985, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1985-02-07;12#art_3-com7), convertito con modificazioni dalla [legge 5 aprile 1985, n. 118](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%207%20febbraio%201985%20n.%2012%20recante%20misure%20finanziarie%20in%20favore%20delle%20aree%20ad%20alta%20tensione%20abitativa.%20Regolamentazione%20degli%20atti%20e%20de_a73dc2a7f603.md);
                             e)
-                                dal [comma 3 dell'articolo 22 della legge 11 marzo 1988, n. 67](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-03-11;67#art_22-com3);
+                                dal [comma 3 dell'articolo 22 della legge 11 marzo 1988, n. 67](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201988.md);
                             f)
                                 dal [comma 1 dell'articolo 2 della legge 17 febbraio 1992, n. 179](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-17;179#art_2-com1).
 
@@ -1265,23 +1265,23 @@ A decorrere dal 1 gennaio 1998, sono versate alle regioni secondo la ripartizion
                             d)
                                 dall'[articolo 3, comma settimo, del decreto-legge 7 febbraio 1985, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1985-02-07;12#art_3-com7), convertito, con modificazioni, dalla [legge 5 aprile 1985, n. 118](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%207%20febbraio%201985%20n.%2012%20recante%20misure%20finanziarie%20in%20favore%20delle%20aree%20ad%20alta%20tensione%20abitativa.%20Regolamentazione%20degli%20atti%20e%20de_a73dc2a7f603.md);
                             e)
-                                dal [comma 3 dell'articolo 22 della legge 11 marzo 1988, n. 67](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-03-11;67#art_22-com3).
+                                dal [comma 3 dell'articolo 22 della legge 11 marzo 1988, n. 67](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201988.md).
 
 3.
 
-L'erogazione dei fondi di cui all'[articolo 10 della legge 14 febbraio 1963, n. 60](../Atti%20normativi%20abrogati%20%28in%20originale%29/Liquidazione%20del%20patrimonio%20edilizio%20della%20Gestione%20I.N.A.-Casa%20e%20istituzione%20di%20un%20programma%20decennale%20di%20costruzione%20di%20alloggi%20per%20lavoratori.md), attribuiti a ciascuna regione, il cui versamento e' stato prorogato dall'[articolo 22 della legge 11 marzo 1988, n. 67](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-03-11;67#art_22) e dall'[articolo 3, comma 24, della legge 8 agosto 1995, n. 355](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-08-08;355#art_3-com24), e' effettuato dalla Cassa depositi e prestiti su richiesta delle regioni, nei limiti delle disponibilita' a ciascuna regione attribuite.
+L'erogazione dei fondi di cui all'[articolo 10 della legge 14 febbraio 1963, n. 60](../Atti%20normativi%20abrogati%20%28in%20originale%29/Liquidazione%20del%20patrimonio%20edilizio%20della%20Gestione%20I.N.A.-Casa%20e%20istituzione%20di%20un%20programma%20decennale%20di%20costruzione%20di%20alloggi%20per%20lavoratori.md), attribuiti a ciascuna regione, il cui versamento e' stato prorogato dall'[articolo 22 della legge 11 marzo 1988, n. 67](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201988.md) e dall'[articolo 3, comma 24, della legge 8 agosto 1995, n. 355](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-08-08;355#art_3-com24), e' effettuato dalla Cassa depositi e prestiti su richiesta delle regioni, nei limiti delle disponibilita' a ciascuna regione attribuite.
 
 4.
 
 Le regioni possono utilizzare le eventuali economie sulle annualita' di cui al comma 2 e, per esigenze di cassa, effettuare anticipazioni sul fondo di cui al comma 3, per far fronte agli oneri derivanti da quanto previsto dalle seguenti disposizioni:
                             a)
-                                [articolo 1, comma 9, della legge 23 dicembre 1992, n. 498](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-12-23;498#art_1-com9);
+                                [articolo 1, comma 9, della legge 23 dicembre 1992, n. 498](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20urgenti%20in%20materia%20di%20finanza%20pubblica.md);
                             b)
-                                [articolo 13, comma 8, della legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537#art_13-com8);
+                                [articolo 13, comma 8, della legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md);
                             c)
-                                [articolo 38 della legge 23 dicembre 1994, n. 724](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-12-23;724#art_38);
+                                [articolo 38 della legge 23 dicembre 1994, n. 724](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica.md);
                             d)
-                                [articolo 1, comma 60, della legge 28 dicembre 1995, n. 549](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-12-28;549#art_1-com60).
+                                [articolo 1, comma 60, della legge 28 dicembre 1995, n. 549](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_2.md).
 
 5.
 
@@ -1303,7 +1303,7 @@ Nell'ambito del riordino di cui all'articolo 9, e' ricompresa, in particolare, l
 
 2.
 
-Ai sensi dell'[articolo 3, comma 1, lettera d), della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_3-com1-letd), sono soppressi, contestualmente all'avvenuto trasferimento delle competenze, secondo le modalita' di cui all'articolo 63 del presente decreto legislativo:
+Ai sensi dell'[articolo 3, comma 1, lettera d), della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), sono soppressi, contestualmente all'avvenuto trasferimento delle competenze, secondo le modalita' di cui all'articolo 63 del presente decreto legislativo:
                             a)
                                 il Comitato per l'edilizia residenziale pubblica (CER) presso il Ministero dei lavori pubblici e il relativo comitato esecutivo;
                             b)
@@ -1313,7 +1313,7 @@ Ai sensi dell'[articolo 3, comma 1, lettera d), della legge 15 marzo 1997, n. 59
 
 1.
 
-La competente amministrazione dello Stato propone alla Conferenza Statoregioni, di cui all'[articolo 9 della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_9), i criteri, le modalita' ed i tempi per il trasferimento delle competenze alle regioni. Raggiunta l'intesa, sono attivati accordi di programma tra la competente amministrazione dello Stato e ciascuna regione per rendere operativo il trasferimento stesso, tenendo conto della necessita' di garantire l'efficacia delle procedure in essere.
+La competente amministrazione dello Stato propone alla Conferenza Statoregioni, di cui all'[articolo 9 della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), i criteri, le modalita' ed i tempi per il trasferimento delle competenze alle regioni. Raggiunta l'intesa, sono attivati accordi di programma tra la competente amministrazione dello Stato e ciascuna regione per rendere operativo il trasferimento stesso, tenendo conto della necessita' di garantire l'efficacia delle procedure in essere.
 
 2.
 
@@ -1349,9 +1349,9 @@ Sono mantenute allo Stato le funzioni relative:
 
 1.
 
-Sono attribuite, ai sensi dell'[articolo 4, comma 2, della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_4-com2), ai comuni le funzioni relative:
+Sono attribuite, ai sensi dell'[articolo 4, comma 2, della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), ai comuni le funzioni relative:
  (( a) alla conservazione, alla utilizzazione ed all'aggiornamento degli atti catastali, partecipando al processo di determinazione degli estimi catastali fermo restando quanto previsto dall'articolo 65, comma 1, lettera h) ));
- b) LETTERA SOPPRESSA DAL [D. LGS. 29 OTTOBRE 1999, N. 443](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-10-29;443).
+ b) LETTERA SOPPRESSA DAL [D. LGS. 29 OTTOBRE 1999, N. 443](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20correttive%20ed%20integrative%20del%20decreto%20legislativo%2031%20marzo%201998%20n.%20112%20recante%20conferimento%20di%20funzioni%20e%20compiti%20amministrativi%20dello%20Stato%20alle%20regioni%20ed%20agli%20enti%20locali.md).
  c) alla rilevazione dei consorzi di bonifica e degli oneri consortili gravanti sugli immobili.
 
 2.
@@ -1386,7 +1386,7 @@ E' soppresso il programma triennale per la tutela dell'ambiente.
 
 1.
 
-Ai sensi dell'[articolo 1, comma 4, lettera c), della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_1-com4-letc), sono compiti di rilievo nazionale per la tutela dell'ambiente quelli relativi:
+Ai sensi dell'[articolo 1, comma 4, lettera c), della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), sono compiti di rilievo nazionale per la tutela dell'ambiente quelli relativi:
                             a)
                                 al recepimento delle convenzioni internazionali e delle direttive comunitarie relative alla tutela dell'ambiente e alla conseguente definizione di obiettivi e delle iniziative necessarie per la loro attuazione nell'ordinamento nazionale;
                             b)
@@ -1502,7 +1502,7 @@ Qualora l'attuazione dei programmi regionali di tutela ambientale richieda l'ini
 
 3.
 
-E' conferita, previa intesa, alla regione Sardegna l'attuazione di tutti gli interventi necessari per la realizzazione del programma di salvaguardia del litorale e delle zone umide nell'area metropolitana di Cagliari di cui all'[articolo 17, comma 20, della legge 11 marzo 1988, n. 67](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-03-11;67#art_17-com20). La regione Sardegna succede allo Stato nei rapporti concessori e convenzionali in atto e dispone delle relative risorse finanziarie.
+E' conferita, previa intesa, alla regione Sardegna l'attuazione di tutti gli interventi necessari per la realizzazione del programma di salvaguardia del litorale e delle zone umide nell'area metropolitana di Cagliari di cui all'[articolo 17, comma 20, della legge 11 marzo 1988, n. 67](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201988.md). La regione Sardegna succede allo Stato nei rapporti concessori e convenzionali in atto e dispone delle relative risorse finanziarie.
 
 ### Art. 74. — Disciplina delle aree ad elevato rischio
  di crisi ambientale
@@ -1559,7 +1559,7 @@ E' soppresso il programma triennale per le aree naturali protette.
 
 1.
 
-Ai sensi dell'[articolo 1, comma 4, lettera c), della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_1-com4-letc), hanno rilievo nazionale i compiti e le funzioni in materia di parchi naturali e riserve statali, marine e terrestri, attribuiti allo Stato dalla [legge 6 dicembre 1991, n. 394](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-12-06;394).
+Ai sensi dell'[articolo 1, comma 4, lettera c), della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), hanno rilievo nazionale i compiti e le funzioni in materia di parchi naturali e riserve statali, marine e terrestri, attribuiti allo Stato dalla [legge 6 dicembre 1991, n. 394](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-12-06;394).
 
 2.
 
@@ -1597,7 +1597,7 @@ Sono soppressi i seguenti piani:
 
 1.
 
-Ai sensi dell'[articolo 1, comma 4, lettera c), della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_1-com4-letc), hanno rilievo nazionale i seguenti compiti:
+Ai sensi dell'[articolo 1, comma 4, lettera c), della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), hanno rilievo nazionale i seguenti compiti:
                             a)
                                 la definizione del piano generale di difesa del mare e della costa marina dall'inquinamento;
                             b)
@@ -1664,7 +1664,7 @@ E' soppresso il piano nazionale di tutela della qualita' dell'aria.
 
 1.
 
-Ai sensi dell'[articolo 1, comma 4, lettera c), della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_1-com4-letc) hanno rilievo nazionale i compiti relativi:
+Ai sensi dell'[articolo 1, comma 4, lettera c), della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md) hanno rilievo nazionale i compiti relativi:
                             a)
                                 alla disciplina del monitoraggio della qualita' dell'aria: metodi di analisi, criteri di installazione e funzionamento delle stazioni di rilevamento; criteri per la raccolta dei dati;
                             b)
@@ -1744,7 +1744,7 @@ Ai fini dell'approvazione dei piani di bacino sono soppressi i pareri attribuiti
 
 1.
 
-Ai sensi dell'[articolo 1, comma 4, lettera c), della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_1-com4-letc), hanno rilievo nazionale i compiti relativi:
+Ai sensi dell'[articolo 1, comma 4, lettera c), della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), hanno rilievo nazionale i compiti relativi:
                             a)
                                 al censimento nazionale dei corpi idrici;
                             b)
@@ -1799,7 +1799,7 @@ Le funzioni di cui al comma 1 sono esercitate sentita la Conferenza unificata, f
 
 1.
 
-Sono conferite alle regioni e agli enti locali, ai sensi dell'[articolo 4, comma 1 della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_4-com1), tutte le funzioni non espressamente indicate nell'articolo 88 e tra queste in particolare, sono trasferite le funzioni relative:
+Sono conferite alle regioni e agli enti locali, ai sensi dell'[articolo 4, comma 1 della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), tutte le funzioni non espressamente indicate nell'articolo 88 e tra queste in particolare, sono trasferite le funzioni relative:
                             a)
                                 alla progettazione, realizzazione e gestione delle opere idrauliche di qualsiasi natura;
                             b)
@@ -1847,7 +1847,7 @@ Con decreto del Presidente della Repubblica, si stabilisce la classificazione de
 
 1.
 
-Ai sensi dell'[articolo 3, lettera d) della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_3-letd), il Servizio nazionale dighe e' soppresso quale Servizio tecnico nazionale e trasformato in Registro italiano dighe - RID, che provvede, ai fini della tutela della pubblica incolumita', all'approvazione tecnica dei progetti ed alla vigilanza sulla costruzione e sulle operazioni di controllo spettanti ai concessionari sulle dighe di ritenuta aventi le caratteristiche indicate all'[articolo 1, comma 1, del decreto-legge 8 agosto 1994, n. 507](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1994-08-08;507#art_1-com1), convertito con modificazioni dalla [legge 21 ottobre 1994, n. 584](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%208%20agosto%201994%20n.%20507%20recante%20misure%20urgenti%20in%20materia%20di%20dighe.md). ((19))
+Ai sensi dell'[articolo 3, lettera d) della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), il Servizio nazionale dighe e' soppresso quale Servizio tecnico nazionale e trasformato in Registro italiano dighe - RID, che provvede, ai fini della tutela della pubblica incolumita', all'approvazione tecnica dei progetti ed alla vigilanza sulla costruzione e sulle operazioni di controllo spettanti ai concessionari sulle dighe di ritenuta aventi le caratteristiche indicate all'[articolo 1, comma 1, del decreto-legge 8 agosto 1994, n. 507](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1994-08-08;507#art_1-com1), convertito con modificazioni dalla [legge 21 ottobre 1994, n. 584](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%208%20agosto%201994%20n.%20507%20recante%20misure%20urgenti%20in%20materia%20di%20dighe.md). ((19))
 
 2.
 
@@ -1861,7 +1861,7 @@ Con specifico provvedimento da adottarsi su proposta del Ministro dei lavori pub
 
 AGGIORNAMENTO (19)
 
-Il [D.L. 3 ottobre 2006, n. 262](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2006-10-03;262), convertito con modificazioni dalla [L. 24 novembre 2006, n. 286](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%203%20ottobre%202006%20n.%20262%20recante%20disposizioni%20urgenti%20in%20materia%20tributaria%20e%20finanziaria.md) ha disposto (con l'art. 2, comma 170) che "Il Registro italiano dighe (RID), istituito ai sensi dell'[articolo 91, comma 1, del decreto legislativo 31 marzo 1998, n. 112](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-03-31;112#art_91-com1), e' soppresso."
+Il [D.L. 3 ottobre 2006, n. 262](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2006-10-03;262), convertito con modificazioni dalla [L. 24 novembre 2006, n. 286](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%203%20ottobre%202006%20n.%20262%20recante%20disposizioni%20urgenti%20in%20materia%20tributaria%20e%20finanziaria.md) ha disposto (con l'art. 2, comma 170) che "Il Registro italiano dighe (RID), istituito ai sensi dell'[articolo 91, comma 1, del decreto legislativo 31 marzo 1998, n. 112](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Conferimento%20di%20funzioni%20e%20compiti%20amministrativi%20dello%20Stato%20alle%20regioni%20ed%20agli%20enti%20locali%20in%20attuazione%20del%20capo%20I%20della%20legge%2015%20marzo%201997%20n.%2059.md), e' soppresso."
 
 ### Art. 92. — Riordino di strutture
 
@@ -1883,7 +1883,7 @@ Con decreti da emanarsi ai sensi dell'articolo 9 del presente decreto legislativ
 
 3.
 
-Con uno o piu' decreti da emanarsi ai sensi degli [articoli 11](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_11) e [12 della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_12), si provvede al riordino del Dipartimento dei servizi tecnici nazionali presso la Presidenza del Consiglio dei Ministri.
+Con uno o piu' decreti da emanarsi ai sensi degli [articoli 11](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md) e [12 della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), si provvede al riordino del Dipartimento dei servizi tecnici nazionali presso la Presidenza del Consiglio dei Ministri.
 
 ((4. Gli uffici periferici del Dipartimento dei servizi tecnici nazionali sono trasferiti alle regioni))
 
@@ -1929,7 +1929,7 @@ Le funzioni di cui alle lettere e), g) e h) del comma 1 sono esercitate sentita 
 
 1.
 
-Ai sensi dell'[articolo 4, comma 2, della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_4-com2), sono delegate alle regioni le funzioni relative alla progettazione, esecuzione e manutenzione straordinaria di tutte le opere relative alle materie di cui all'articolo 1, comma 3, della medesima legge n. 59, non espressamente mantenute allo Stato ai sensi delle lettere c), d), e) e f) dell'articolo 93 del presente decreto legislativo. Tali opere comprendono gli interventi di ripristino in seguito ad eventi bellici o a calamita' naturali.
+Ai sensi dell'[articolo 4, comma 2, della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), sono delegate alle regioni le funzioni relative alla progettazione, esecuzione e manutenzione straordinaria di tutte le opere relative alle materie di cui all'articolo 1, comma 3, della medesima legge n. 59, non espressamente mantenute allo Stato ai sensi delle lettere c), d), e) e f) dell'articolo 93 del presente decreto legislativo. Tali opere comprendono gli interventi di ripristino in seguito ad eventi bellici o a calamita' naturali.
 
 2.
 
@@ -1945,7 +1945,7 @@ Tutte le altre funzioni in materia di opere pubbliche non espressamente indicate
                             e)
                                 il ripristino di edifici privati danneggiati da eventi bellici;
                             f)
-                                le funzioni collegate alla cessazione del soppresso intervento nel Mezzogiorno, con le modalita' previste dall'[articolo 23, comma 1, della legge 27 dicembre 1997, n. 449](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-12-27;449#art_23-com1).
+                                le funzioni collegate alla cessazione del soppresso intervento nel Mezzogiorno, con le modalita' previste dall'[articolo 23, comma 1, della legge 27 dicembre 1997, n. 449](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20per%20la%20stabilizzazione%20della%20finanza%20pubblica.md).
 
 ### Art. 95. — Interventi di interesse nazionale
  in aree urbane e metropolitane
@@ -2080,7 +2080,7 @@ La Conferenza unificata esprime parere in materia di pianificazione pluriennale 
 
 1.
 
-Sono conferite alle regioni e agli enti locali, ai sensi dell'[articolo 4, comma 1, della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_4-com1), tutte le funzioni amministrative non espressamente indicate negli articoli del presente capo e tra queste, in particolare, le funzioni di programmazione, progettazione, esecuzione, manutenzione e gestione delle strade non rientranti nella rete autostradale e stradale nazionale, compresa la nuova costruzione o il miglioramento di quelle esistenti, nonche' la vigilanza sulle strade conferite.
+Sono conferite alle regioni e agli enti locali, ai sensi dell'[articolo 4, comma 1, della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), tutte le funzioni amministrative non espressamente indicate negli articoli del presente capo e tra queste, in particolare, le funzioni di programmazione, progettazione, esecuzione, manutenzione e gestione delle strade non rientranti nella rete autostradale e stradale nazionale, compresa la nuova costruzione o il miglioramento di quelle esistenti, nonche' la vigilanza sulle strade conferite.
 
 2.
 
@@ -2105,11 +2105,11 @@ Nell'ambito del riordino di cui all'articolo 9 del presente decreto legislativo 
 
 1.
 
-Le strade e autostrade, gia' appartenenti al demanio statale ai sensi dell'[articolo 822 del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_822) e non comprese nella rete autostradale e stradale nazionale, sono trasferite, con il decreto del Presidente del Consiglio dei Ministri di cui all'articolo 98, comma 2, del presente decreto legislativo, al demanio delle regioni, ovvero, con le leggi regionali di cui all'[articolo 4, comma 1, della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_4-com1), al demanio degli enti locali. Tali leggi attribuiscono agli enti titolari anche il compito della gestione delle strade medesime.
+Le strade e autostrade, gia' appartenenti al demanio statale ai sensi dell'[articolo 822 del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_822) e non comprese nella rete autostradale e stradale nazionale, sono trasferite, con il decreto del Presidente del Consiglio dei Ministri di cui all'articolo 98, comma 2, del presente decreto legislativo, al demanio delle regioni, ovvero, con le leggi regionali di cui all'[articolo 4, comma 1, della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), al demanio degli enti locali. Tali leggi attribuiscono agli enti titolari anche il compito della gestione delle strade medesime.
 
 2.
 
-In seguito al trasferimento di cui al comma 1 spetta alle regioni o agli enti locali titolari delle strade la determinazione dei criteri e la fissazione e la riscossione, come entrate proprie, delle tariffe relative alle licenze, alle concessioni e alla esposizione della pubblicita' lungo o in vista delle strade trasferite, secondo i principi definiti con atto di indirizzo e di coordinamento ai sensi dell'[articolo 8 della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_8).
+In seguito al trasferimento di cui al comma 1 spetta alle regioni o agli enti locali titolari delle strade la determinazione dei criteri e la fissazione e la riscossione, come entrate proprie, delle tariffe relative alle licenze, alle concessioni e alla esposizione della pubblicita' lungo o in vista delle strade trasferite, secondo i principi definiti con atto di indirizzo e di coordinamento ai sensi dell'[articolo 8 della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md).
 
 ## TERRITORIO AMBIENTE E INFRASTRUTTURE Capo VII Trasporti
 
@@ -2257,7 +2257,7 @@ Tra le funzioni di cui al comma 1 sono, in particolare, conferite alle regioni l
 
 3.
 
-Sono attribuite alle province, ai sensi del [comma 2 dell'articolo 4 della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_4-com2), le funzioni relative:
+Sono attribuite alle province, ai sensi del [comma 2 dell'articolo 4 della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), le funzioni relative:
                             a)
                                 alla autorizzazione e vigilanza tecnica sull'attivita' svolta dalle autoscuole e dalle scuole nautiche;
                             b)
@@ -2277,7 +2277,7 @@ Sono attribuite alle province, ai sensi del [comma 2 dell'articolo 4 della legge
 
 4.
 
-Sono, inoltre, delegate alle regioni ai sensi del [comma 2 dell'articolo 4 della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_4-com2), le funzioni relative alle deroghe alle distanze legali per costruire manufatti entro la fascia di rispetto delle linee e infrastrutture di trasporto, escluse le strade e le autostrade.
+Sono, inoltre, delegate alle regioni ai sensi del [comma 2 dell'articolo 4 della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), le funzioni relative alle deroghe alle distanze legali per costruire manufatti entro la fascia di rispetto delle linee e infrastrutture di trasporto, escluse le strade e le autostrade.
 
 5.
 
@@ -2296,7 +2296,7 @@ Alla predetta attivita' si provvede mediante affidamento a soggetti privati scel
 
 AGGIORNAMENTO (23)
 
-La [L. 27 dicembre 2013, n. 147](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2013-12-27;147) ha disposto (con l'art. 1, comma 94) che "Le funzioni relative alla cura e alla gestione degli Albi provinciali degli autotrasportatori di cose per conto di terzi sono svolte dagli Uffici periferici del Ministero delle infrastrutture e dei trasporti con le risorse umane disponibili a legislazione vigente. Entro e non oltre sei mesi dalla data di entrata in vigore della presente legge, le funzioni di cui al presente comma sono trasferite con decreto del Presidente del Consiglio dei ministri, comprese le relative risorse finanziarie da destinare al funzionamento degli Uffici. Fino a tale data, le predette funzioni di cura e di gestione degli Albi provinciali sono esercitate, in via transitoria, dalle province".
+La [L. 27 dicembre 2013, n. 147](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20Legge%20di%20stabilita%202014.%2013G00191.md) ha disposto (con l'art. 1, comma 94) che "Le funzioni relative alla cura e alla gestione degli Albi provinciali degli autotrasportatori di cose per conto di terzi sono svolte dagli Uffici periferici del Ministero delle infrastrutture e dei trasporti con le risorse umane disponibili a legislazione vigente. Entro e non oltre sei mesi dalla data di entrata in vigore della presente legge, le funzioni di cui al presente comma sono trasferite con decreto del Presidente del Consiglio dei ministri, comprese le relative risorse finanziarie da destinare al funzionamento degli Uffici. Fino a tale data, le predette funzioni di cura e di gestione degli Albi provinciali sono esercitate, in via transitoria, dalle province".
 
 ### Art. 106. — Riordino e soppressione di strutture
 
@@ -2324,7 +2324,7 @@ Titolo III
 
 1.
 
-Ai sensi dell'[articolo 1, comma 4, lettera c), della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_1-com4-letc), hanno rilievo nazionale i compiti relativi:
+Ai sensi dell'[articolo 1, comma 4, lettera c), della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), hanno rilievo nazionale i compiti relativi:
                             a)
                                 ((LETTERA ABROGATA DAL D.LGS. 2 GENNAIO 2018, N. 1));
                             b)
@@ -2367,7 +2367,7 @@ Nell'ambito del riordino di cui all'articolo 9, sono ricompresi, in particolare:
 
 2.
 
-Con uno o piu' decreti da emanarsi ai sensi degli [articoli 11](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_11) e [12 della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_12), si provvede al riordino delle seguenti strutture:
+Con uno o piu' decreti da emanarsi ai sensi degli [articoli 11](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md) e [12 della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), si provvede al riordino delle seguenti strutture:
                             a)
                                 Direzione generale della protezione civile e dei servizi antincendi presso il Ministero dell'interno;
                             b)
@@ -2383,7 +2383,7 @@ Titolo III
 
 1.
 
-Ai sensi dell'[articolo 11 della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_11), sono ridefiniti gli organi dell'Agenzia nazionale per la protezione dell'ambiente (ANPA) prevedendo il coinvolgimento delle regioni, ai fini di garantire il sistema nazionale dei controlli in materia ambientale.
+Ai sensi dell'[articolo 11 della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), sono ridefiniti gli organi dell'Agenzia nazionale per la protezione dell'ambiente (ANPA) prevedendo il coinvolgimento delle regioni, ai fini di garantire il sistema nazionale dei controlli in materia ambientale.
 
 ### Art. 111.
 
@@ -2394,7 +2394,7 @@ Ai sensi dell'[articolo 11 della legge 15 marzo 1997, n. 59](https://www.normatt
 
 AGGIORNAMENTO (24)
 
-La [L. 27 dicembre 2017, n. 205](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-12-27;205), ha disposto (con l'art. 1, comma 561) che "Le disposizioni di cui ai commi da 551 a 560 si applicano fatte salve le competenze riconosciute alle regioni a statuto speciale e alle province autonome di Trento e di Bolzano dai rispettivi statuti speciali e dalle relative norme di attuazione".
+La [L. 27 dicembre 2017, n. 205](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202018%20e%20bilancio%20pluriennale%20per%20il%20triennio%202018-2020.%2017G00222.md), ha disposto (con l'art. 1, comma 561) che "Le disposizioni di cui ai commi da 551 a 560 si applicano fatte salve le competenze riconosciute alle regioni a statuto speciale e alle province autonome di Trento e di Bolzano dai rispettivi statuti speciali e dalle relative norme di attuazione".
 
 ## SERVIZI ALLA PERSONA E ALLA COMUNITA' Capo I Tutela della salute
 
@@ -2448,7 +2448,7 @@ Attengono alla sanita' veterinaria, ai sensi del presente decreto legislativo, l
 
 In particolare, attengono alle funzioni e ai compiti di cui ai commi 1 e 2:
                             a)
-                                la profilassi e la cura relative alle malattie umane e animali, ivi comprese le misure riguardanti gli scambi intracomunitari, fermo restando il disposto dell'[articolo 1, comma 3, lettera i), della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_1-com3-leti);
+                                la profilassi e la cura relative alle malattie umane e animali, ivi comprese le misure riguardanti gli scambi intracomunitari, fermo restando il disposto dell'[articolo 1, comma 3, lettera i), della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md);
                             b)
                                 le funzioni di igiene pubblica;
                             c)
@@ -2476,7 +2476,7 @@ I conferimenti di cui al presente capo si intendono effettuati come trasferiment
 
 1.
 
-Ai sensi dell'[articolo 3, comma 1, lettera a), della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_3-com1-leta) sono conservati allo Stato i seguenti compiti e funzioni amministrative:
+Ai sensi dell'[articolo 3, comma 1, lettera a), della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md) sono conservati allo Stato i seguenti compiti e funzioni amministrative:
                             a)
                                 l'adozione, d'intesa con la Conferenza unificata, del piano sanitario nazionale, l'adozione dei piani di settore aventi rilievo ed applicazione nazionali, nonche' il riparto delle relative risorse alle regioni, previa intesa con la Conferenza Statoregioni;
                             b)
@@ -2506,7 +2506,7 @@ Nelle materie di cui all'articolo 112 sono conferiti tutte le funzioni e i compi
 
 3.
 
-Il conferimento delle funzioni di verifica delle conformita' di cui al comma 2 ha effetto dopo un anno dalla entrata in vigore del presente decreto legislativo. Entro tale termine, con decreto legislativo da emanarsi ai sensi dell'[articolo 10 della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_10), sono individuati gli adempimenti affidabili ad idonei organismi privati, abilitati dall'autorita' competente, nonche' quelli che, per caratteristiche tecniche e finalita', devono restare di competenza degli organi centrali.
+Il conferimento delle funzioni di verifica delle conformita' di cui al comma 2 ha effetto dopo un anno dalla entrata in vigore del presente decreto legislativo. Entro tale termine, con decreto legislativo da emanarsi ai sensi dell'[articolo 10 della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), sono individuati gli adempimenti affidabili ad idonei organismi privati, abilitati dall'autorita' competente, nonche' quelli che, per caratteristiche tecniche e finalita', devono restare di competenza degli organi centrali.
 
 ((
 
@@ -2532,17 +2532,17 @@ La costituzione di scorte di medicinali di uso non ricorrente, sieri, vaccini e 
 
 5.
 
-Restano riservate allo Stato le competenze di cui agli articoli 10, commi 2, 3 e 4, e 14, comma 1, del decreto legislativo 30 dicembre 1992, 502, e successive modifiche e integrazioni, le attribuzioni del livello centrale in tema di sperimentazioni gestionali di cui all'articolo 9-bis dello stesso decreto, nonche' quelle di cui all'[articolo 32 della legge 27 dicembre 1997, n. 449](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-12-27;449#art_32).
+Restano riservate allo Stato le competenze di cui agli articoli 10, commi 2, 3 e 4, e 14, comma 1, del decreto legislativo 30 dicembre 1992, 502, e successive modifiche e integrazioni, le attribuzioni del livello centrale in tema di sperimentazioni gestionali di cui all'articolo 9-bis dello stesso decreto, nonche' quelle di cui all'[articolo 32 della legge 27 dicembre 1997, n. 449](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20per%20la%20stabilizzazione%20della%20finanza%20pubblica.md).
 
 ### Art. 116. — Pianificazione
 
 1.
 
-L'individuazione degli obiettivi essenziali e dei criteri comuni di azione amministrativa relativi ai piani e programmi di settore adottati dalle regioni e' operata con atti di indirizzo e coordinamento ai sensi dell'[articolo 8 della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_8), nel rispetto dei piani e programmi di cui all'articolo 115, comma 1, lettera a) del presente decreto legislativo.
+L'individuazione degli obiettivi essenziali e dei criteri comuni di azione amministrativa relativi ai piani e programmi di settore adottati dalle regioni e' operata con atti di indirizzo e coordinamento ai sensi dell'[articolo 8 della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), nel rispetto dei piani e programmi di cui all'articolo 115, comma 1, lettera a) del presente decreto legislativo.
 
 2.
 
-Le funzioni gia' esercitate da commissioni e organismi ministeriali, anche a composizione mista o paritetica con altre amministrazioni, in relazione ai piani e programmi di settore conferiti alle regioni, sono soppresse. Con regolamento emanato ai sensi dell'[articolo 7, comma 3, della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_7-com3), e' operato il riordino delle medesime commissioni e organismi, provvedendo alla relativa soppressione nei casi in cui non permangano funzioni residue.
+Le funzioni gia' esercitate da commissioni e organismi ministeriali, anche a composizione mista o paritetica con altre amministrazioni, in relazione ai piani e programmi di settore conferiti alle regioni, sono soppresse. Con regolamento emanato ai sensi dell'[articolo 7, comma 3, della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), e' operato il riordino delle medesime commissioni e organismi, provvedendo alla relativa soppressione nei casi in cui non permangano funzioni residue.
 
 ### Art. 117. — Interventi d'urgenza
 
@@ -2562,9 +2562,9 @@ In relazione alle funzioni conferite ai sensi del presente capo restano allo Sta
                             a)
                                 la raccolta e lo scambio di informazioni ai fini del collegamento con l'Organizzazione mondiale della sanita' (OMS), le altre organizzazioni internazionali e gli organismi comunitari;
                             b)
-                                la gestione del Sistema informativo sanitario (SIS) per quanto concerne le competenze statali, nonche' il coordinamento dei Sistemi informativi regionali, in connessione con gli osservatori regionali, con altri organismi pubblici e privati; in particolare, rimangono salve le competenze dell'Osservatorio centrale degli acquisti e dei prezzi, di cui all'[articolo 1, comma 30, della legge 23 dicembre 1996, n. 662](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;662#art_1-com30);
+                                la gestione del Sistema informativo sanitario (SIS) per quanto concerne le competenze statali, nonche' il coordinamento dei Sistemi informativi regionali, in connessione con gli osservatori regionali, con altri organismi pubblici e privati; in particolare, rimangono salve le competenze dell'Osservatorio centrale degli acquisti e dei prezzi, di cui all'[articolo 1, comma 30, della legge 23 dicembre 1996, n. 662](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_3.md);
                             c)
-                                l'analisi statistica e la diffusione dei dati ISTAT-SIS-SISTAN, ai sensi dell'[articolo 1, comma 5, della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_1-com5);
+                                l'analisi statistica e la diffusione dei dati ISTAT-SIS-SISTAN, ai sensi dell'[articolo 1, comma 5, della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md);
                             d)
                                 la redazione delle relazioni da presentarsi al Parlamento e le altre relazioni o rapporti di carattere nazionale;
                             e)
@@ -2602,9 +2602,9 @@ Sono conservate allo Stato le funzioni amministrative concernenti:
 
 Rimangono ferme le attuali competenze dello Stato concernenti:
                             a)
-                                la classificazione dei medicinali ai fini della loro erogazione da parte del Servizio sanitario nazionale, di cui all'[articolo 8 della legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537#art_8), all'[articolo 1, comma 2, del decreto-legge 20 giugno 1996, n. 323](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1996-06-20;323#art_1-com2), convertito con modificazioni dalla [legge 8 agosto 1996, n. 425, e all'articolo 1, comma 42](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2020%20giugno%201996%20n.%20323%20recante%20disposizioni%20urgenti%20per%20il%20risanamento%20della%20finanza%20pubblica.md), della [legge 23 dicembre 1996, n. 662](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;662);
+                                la classificazione dei medicinali ai fini della loro erogazione da parte del Servizio sanitario nazionale, di cui all'[articolo 8 della legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md), all'[articolo 1, comma 2, del decreto-legge 20 giugno 1996, n. 323](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1996-06-20;323#art_1-com2), convertito con modificazioni dalla [legge 8 agosto 1996, n. 425, e all'articolo 1, comma 42](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2020%20giugno%201996%20n.%20323%20recante%20disposizioni%20urgenti%20per%20il%20risanamento%20della%20finanza%20pubblica.md), della [legge 23 dicembre 1996, n. 662](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_3.md);
                             b)
-                                la contrattazione, di cui all'[articolo 1, comma 41, della legge 23 dicembre 1996, n. 662](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;662#art_1-com41), dei prezzi dei medicinali sottoposti alla procedura di autorizzazione prevista dal regolamento 93/2309/CEE;
+                                la contrattazione, di cui all'[articolo 1, comma 41, della legge 23 dicembre 1996, n. 662](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_3.md), dei prezzi dei medicinali sottoposti alla procedura di autorizzazione prevista dal regolamento 93/2309/CEE;
                             c)
                                 il regime di rimborsabilita' dei medicinali autorizzati con procedura centralizzata, di cui alla [direttiva 65/65/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1965;65);
                             d)
@@ -2615,7 +2615,7 @@ Rimangono ferme le attuali competenze dello Stato concernenti:
                             f)
                                 l'approvazione del nomenclatore tariffario protesi, sentita la Conferenza Statoregioni;
                             g)
-                                la definizione dei criteri generali per la fissazione delle tariffe delle prestazioni, di cui all'[articolo 8, comma 6, del decreto legislativo 30 dicembre 1992, n. 502](Riordino%20della%20disciplina%20in%20materia%20sanitaria%20a%20norma%20dellarticolo%201%20della%20legge%2023%20ottobre%201992%20n.%20421.md); la definizione dei massimi tariffari, di cui all'[articolo 2, comma 9, della legge 28 dicembre 1995, n. 549](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-12-28;549#art_2-com9); l'individuazione delle prestazioni specialistiche ambulatoriali erogabili nell'ambito del Servizio sanitario nazionale, di cui al medesimo articolo 2, comma 9;
+                                la definizione dei criteri generali per la fissazione delle tariffe delle prestazioni, di cui all'[articolo 8, comma 6, del decreto legislativo 30 dicembre 1992, n. 502](Riordino%20della%20disciplina%20in%20materia%20sanitaria%20a%20norma%20dellarticolo%201%20della%20legge%2023%20ottobre%201992%20n.%20421.md); la definizione dei massimi tariffari, di cui all'[articolo 2, comma 9, della legge 28 dicembre 1995, n. 549](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_2.md); l'individuazione delle prestazioni specialistiche ambulatoriali erogabili nell'ambito del Servizio sanitario nazionale, di cui al medesimo articolo 2, comma 9;
                             h)
                                 l'assistenza penitenziaria; l'assistenza sanitaria ai cittadini italiani all'estero, di cui al [decreto del Presidente della Repubblica 31 luglio 1980, n. 618, all'articolo 2](../DPR/Assistenza%20sanitaria%20ai%20cittadini%20italiani%20allestero%20art.%2037%20primo%20comma%20lettere%20a%20e%20b%20della%20legge%20n.%20833%20del%201978.md), ultimo comma, del [decreto-legge 8 maggio 1981, n. 208](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1981-05-08;208), convertito con modificazioni dalla [legge 1 luglio 1981, n. 344, e all'articolo 18, comma 7](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%208%20maggio%201981%20n.%20208%20concernente%20misure%20urgenti%20in%20materia%20di%20assistenza%20sanitaria%20ai%20cittadini%20italiani%20allestero%20ed%20al%20personale%20navigante.md), del [decreto legislativo 30 dicembre 1992, n. 502](Riordino%20della%20disciplina%20in%20materia%20sanitaria%20a%20norma%20dellarticolo%201%20della%20legge%2023%20ottobre%201992%20n.%20421.md); l'assistenza al personale navigante marittimo e della aviazione civile, nonche' le forme convenzionali di assistenza sanitaria all'estero per il personale delle pubbliche amministrazioni;
                             i)
@@ -2673,7 +2673,7 @@ Sono inoltre conservate le funzioni consultive esercitate dall'ufficio medico le
 
 Sono conservate allo Stato le seguenti funzioni amministrative:
                             a)
-                                la disciplina delle attivita' liberoprofessionali e delle relative incompatibilita', ai sensi dell'[articolo 4, comma 7, della legge 30 dicembre 1991, n. 412](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-12-30;412#art_4-com7), e dell'[articolo 1, comma 14, della legge 23 dicembre 1996, n. 662](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;662#art_1-com14);
+                                la disciplina delle attivita' liberoprofessionali e delle relative incompatibilita', ai sensi dell'[articolo 4, comma 7, della legge 30 dicembre 1991, n. 412](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20in%20materia%20di%20finanza%20pubblica.md), e dell'[articolo 1, comma 14, della legge 23 dicembre 1996, n. 662](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_3.md);
                             b)
                                 la determinazione delle figure professionali e dei relativi profili delle professioni sanitarie, sanitarie ausiliarie e delle arti sanitarie, ai sensi dell'[articolo 6, comma 3, del decreto legislativo 30 dicembre 1992, n. 502](Riordino%20della%20disciplina%20in%20materia%20sanitaria%20a%20norma%20dellarticolo%201%20della%20legge%2023%20ottobre%201992%20n.%20421.md);
                             c)
@@ -2693,7 +2693,7 @@ E' trasferito alle regioni il riconoscimento del servizio sanitario prestato all
 
 1.
 
-Sono mantenute allo Stato le funzioni amministrative in materia di ricerca scientifica, ai sensi dell'[articolo 1, comma 3, lettera p), della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_1-com3-letp), tra cui quelle concernenti:
+Sono mantenute allo Stato le funzioni amministrative in materia di ricerca scientifica, ai sensi dell'[articolo 1, comma 3, lettera p), della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), tra cui quelle concernenti:
                             a)
                                 la sperimentazione clinica di medicinali, presidi medicochirurgici, dispositivi medici, nonche' la protezione e tutela degli animali impiegati a fini scientifici e sperimentali;
                             b)
@@ -2703,13 +2703,13 @@ Sono mantenute allo Stato le funzioni amministrative in materia di ricerca scien
 
 1.
 
-Ai sensi dell'[articolo 1, comma 3, lettera i), della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_1-com3-leti), sono mantenute allo Stato, anche avvalendosi delle aziende USL sulla base di apposito accordo definito in sede di Conferenza unificata, le funzioni amministrative in materia di profilassi internazionale, con particolare riferimento ai controlli igienicosanitari alle frontiere, ai controlli sanitari delle popolazioni migranti, nonche' ai controlli veterinari infracomunitari e di frontiera.
+Ai sensi dell'[articolo 1, comma 3, lettera i), della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), sono mantenute allo Stato, anche avvalendosi delle aziende USL sulla base di apposito accordo definito in sede di Conferenza unificata, le funzioni amministrative in materia di profilassi internazionale, con particolare riferimento ai controlli igienicosanitari alle frontiere, ai controlli sanitari delle popolazioni migranti, nonche' ai controlli veterinari infracomunitari e di frontiera.
 
 ### Art. 127. — Riordino di strutture
 
 1.
 
-Ai sensi dell'[articolo 7, comma 3, della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_7-com3), si provvede al riordino dell'Istituto superiore di sanita', del Consiglio superiore di sanita', dell'Istituto superiore di prevenzione e sicurezza del lavoro.
+Ai sensi dell'[articolo 7, comma 3, della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), si provvede al riordino dell'Istituto superiore di sanita', del Consiglio superiore di sanita', dell'Istituto superiore di prevenzione e sicurezza del lavoro.
 
 ## SERVIZI ALLA PERSONA E ALLA COMUNITA' Capo II Servizi sociali
 
@@ -2729,7 +2729,7 @@ Ai sensi del presente decreto legislativo, per "servizi sociali" si intendono tu
 
 1.
 
-Ai sensi dell'[articolo 1 della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_1), sono conservate allo Stato le seguenti funzioni:
+Ai sensi dell'[articolo 1 della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), sono conservate allo Stato le seguenti funzioni:
                             a)
                                 la determinazione dei principi e degli obiettivi della politica sociale;
                             b)
@@ -2739,7 +2739,7 @@ Ai sensi dell'[articolo 1 della legge 15 marzo 1997, n. 59](https://www.normatti
                             d)
                                 compiti di assistenza tecnica, su richiesta dagli enti locali e territoriali, nonche' compiti di raccordo in materia di informazione e circolazione dei dati concernenti le politiche sociali, ai fini della valutazione e monitoraggio dell'efficacia della spesa per le politiche sociali;
                             e)
-                                la determinazione dei criteri per la ripartizione delle risorse del Fondo nazionale per le politiche sociali secondo le modalita' di cui all'[articolo 59, comma 46, della legge 27 dicembre 1997, n. 449](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-12-27;449#art_59-com46), come modificato dall'articolo 133, comma 4, del presente decreto legislativo;
+                                la determinazione dei criteri per la ripartizione delle risorse del Fondo nazionale per le politiche sociali secondo le modalita' di cui all'[articolo 59, comma 46, della legge 27 dicembre 1997, n. 449](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20per%20la%20stabilizzazione%20della%20finanza%20pubblica.md), come modificato dall'articolo 133, comma 4, del presente decreto legislativo;
                             f)
                                 i rapporti con gli organismi internazionali e il coordinamento dei rapporti con gli organismi dell'Unione europea operanti nei settori delle politiche sociali e gli adempimenti previsti dagli accordi internazionali e dalla normativa dell'Unione europea;
                             g)
@@ -2771,7 +2771,7 @@ Le funzioni di concessione dei nuovi trattamenti economici a favore degli invali
 
 3.
 
-Fermo restando il principio della separazione tra la fase dell'accertamento sanitario e quella della concessione dei benefici economici, di cui all'[articolo 11 della legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537#art_11), nei procedimenti giurisdizionali ed esecutivi, relativi alla concessione delle prestazioni e dei servizi, attivati a decorrere dal termine di cui al comma 1 del presente articolo, la legittimazione passiva spetta alle regioni ove il procedimento abbia ad oggetto le provvidenze concesse dalle regioni stesse ed all'INPS negli altri casi, anche relativamente a provvedimenti concessori antecedenti al termine di cui al medesimo comma 1.
+Fermo restando il principio della separazione tra la fase dell'accertamento sanitario e quella della concessione dei benefici economici, di cui all'[articolo 11 della legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md), nei procedimenti giurisdizionali ed esecutivi, relativi alla concessione delle prestazioni e dei servizi, attivati a decorrere dal termine di cui al comma 1 del presente articolo, la legittimazione passiva spetta alle regioni ove il procedimento abbia ad oggetto le provvidenze concesse dalle regioni stesse ed all'INPS negli altri casi, anche relativamente a provvedimenti concessori antecedenti al termine di cui al medesimo comma 1.
 
 4.
 
@@ -2791,7 +2791,7 @@ Nell'ambito delle funzioni conferite sono attribuiti ai comuni, che le esercitan
 
 1.
 
-Le regioni adottano, ai sensi dell'[articolo 4, comma 5, della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_4-com5), entro sei mesi dall'emanazione del presente decreto legislativo, la legge di puntuale individuazione delle funzioni trasferite o delegate ai comuni ed agli enti locali e di quelle mantenute in capo alle regioni stesse. In particolare la legge regionale conferisce ai comuni ed agli altri enti locali le funzioni ed i compiti amministrativi concernenti i servizi sociali relativi a:
+Le regioni adottano, ai sensi dell'[articolo 4, comma 5, della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), entro sei mesi dall'emanazione del presente decreto legislativo, la legge di puntuale individuazione delle funzioni trasferite o delegate ai comuni ed agli enti locali e di quelle mantenute in capo alle regioni stesse. In particolare la legge regionale conferisce ai comuni ed agli altri enti locali le funzioni ed i compiti amministrativi concernenti i servizi sociali relativi a:
                             a)
                                 i minori, inclusi i minori a rischio di attivita' criminose;
                             b)
@@ -2821,7 +2821,7 @@ Sono trasferiti alle regioni, che provvederanno al successivo conferimento alle 
 
 1.
 
-Il Fondo istituito presso la Presidenza del Consiglio dei Ministri dall'[articolo 59, comma 44, della legge 27 dicembre 1997, n. 449](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-12-27;449#art_59-com44), e' denominato "Fondo nazionale per le politiche sociali".
+Il Fondo istituito presso la Presidenza del Consiglio dei Ministri dall'[articolo 59, comma 44, della legge 27 dicembre 1997, n. 449](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20per%20la%20stabilizzazione%20della%20finanza%20pubblica.md), e' denominato "Fondo nazionale per le politiche sociali".
 
 2.
 
@@ -2829,17 +2829,17 @@ Confluiscono nel Fondo nazionale per le politiche sociali le risorse statali des
 
 3.
 
-In particolare, ad integrazione di quanto gia' previsto dall'[articolo 59, comma 46, della legge 27 dicembre 1997, n. 449](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-12-27;449#art_59-com46), sono destinati al Fondo nazionale per le politiche sociali gli stanziamenti previsti per gli interventi disciplinati dalla [legge 23 dicembre 1997, n. 451](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-12-23;451) e quelli del Fondo nazionale per le politiche migratorie di cui all'[articolo 43 della legge 6 marzo 1998, n. 40](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1998-03-06;40#art_43).
+In particolare, ad integrazione di quanto gia' previsto dall'[articolo 59, comma 46, della legge 27 dicembre 1997, n. 449](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20per%20la%20stabilizzazione%20della%20finanza%20pubblica.md), sono destinati al Fondo nazionale per le politiche sociali gli stanziamenti previsti per gli interventi disciplinati dalla [legge 23 dicembre 1997, n. 451](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-12-23;451) e quelli del Fondo nazionale per le politiche migratorie di cui all'[articolo 43 della legge 6 marzo 1998, n. 40](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1998-03-06;40#art_43).
 
 4.
 
-All'articolo 59, comma 46, penultima proposizione, della predetta [legge 27 dicembre 1997, n. 449](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-12-27;449), dopo le parole "sentiti i Ministri interessati" sono inserite le parole "e la Conferenza unificata di cui al [decreto legislativo 28 agosto 1997, n. 281](Definizione%20ed%20ampliamento%20delle%20attribuzioni%20della%20Conferenza%20permanente%20per%20i%20rapporti%20tra%20lo%20Stato%20le%20regioni%20e%20le%20province%20autonome%20di%20Trento%20e%20Bolzano%20ed%20unificazione%20per%20le%20materie%20_0f948c71aa72.md)".
+All'articolo 59, comma 46, penultima proposizione, della predetta [legge 27 dicembre 1997, n. 449](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20per%20la%20stabilizzazione%20della%20finanza%20pubblica.md), dopo le parole "sentiti i Ministri interessati" sono inserite le parole "e la Conferenza unificata di cui al [decreto legislativo 28 agosto 1997, n. 281](Definizione%20ed%20ampliamento%20delle%20attribuzioni%20della%20Conferenza%20permanente%20per%20i%20rapporti%20tra%20lo%20Stato%20le%20regioni%20e%20le%20province%20autonome%20di%20Trento%20e%20Bolzano%20ed%20unificazione%20per%20le%20materie%20_0f948c71aa72.md)".
 
 ### Art. 134. — Soppressione delle strutture ministeriali
 
 1.
 
-Presso la direzione generale dei servizi civili del Ministero dell'interno e' soppresso il servizio assistenza economica alle categorie protette e sono riordinati, con le modalita' di cui all'[articolo 7 della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_7), i servizi interventi di assistenza sociale, affari assistenziali speciali, gestioni contabili.
+Presso la direzione generale dei servizi civili del Ministero dell'interno e' soppresso il servizio assistenza economica alle categorie protette e sono riordinati, con le modalita' di cui all'[articolo 7 della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), i servizi interventi di assistenza sociale, affari assistenziali speciali, gestioni contabili.
 
 ## SERVIZI ALLA PERSONA E ALLA COMUNITA' Capo III Istruzione scolastica
 
@@ -2849,7 +2849,7 @@ Titolo IV
 
 1.
 
-Il presente capo ha come oggetto la programmazione e la gestione amministrativa del servizio scolastico, fatto salvo il trasferimento di compiti alle istituzioni scolastiche previsto dall'[articolo 21 della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_21).
+Il presente capo ha come oggetto la programmazione e la gestione amministrativa del servizio scolastico, fatto salvo il trasferimento di compiti alle istituzioni scolastiche previsto dall'[articolo 21 della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md).
 
 ### Art. 136. — Definizioni
 
@@ -2875,7 +2875,7 @@ Tra le funzioni e i compiti di cui al comma 1 sono compresi, tra l'altro:
 
 1.
 
-Restano allo Stato, ai sensi dell'[articolo 3, comma 1, lettera a), della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_3-com1-leta), i compiti e le funzioni concernenti i criteri e i parametri per l'organizzazione della rete scolastica, previo parere della Conferenza unificata, le funzioni di valutazione del sistema scolastico, le funzioni relative alla determinazione e all'assegnazione delle risorse finanziarie a carico del bilancio dello Stato e del personale alle istituzioni scolastiche, le funzioni di cui all'articolo 138, comma 3, del presente decreto legislativo.
+Restano allo Stato, ai sensi dell'[articolo 3, comma 1, lettera a), della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), i compiti e le funzioni concernenti i criteri e i parametri per l'organizzazione della rete scolastica, previo parere della Conferenza unificata, le funzioni di valutazione del sistema scolastico, le funzioni relative alla determinazione e all'assegnazione delle risorse finanziarie a carico del bilancio dello Stato e del personale alle istituzioni scolastiche, le funzioni di cui all'articolo 138, comma 3, del presente decreto legislativo.
 
 2.
 
@@ -2901,7 +2901,7 @@ Ai sensi dell'[articolo 118, comma secondo, della Costituzione](https://www.norm
 
 2.
 
-La delega delle funzioni di cui al comma 1 opera dal secondo anno scolastico immediatamente successivo alla data di entrata in vigore del regolamento di riordino delle strutture dell'amministrazione centrale e periferica, di cui all'[articolo 7 della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_7).
+La delega delle funzioni di cui al comma 1 opera dal secondo anno scolastico immediatamente successivo alla data di entrata in vigore del regolamento di riordino delle strutture dell'amministrazione centrale e periferica, di cui all'[articolo 7 della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md).
 
 3.
 
@@ -2955,7 +2955,7 @@ Titolo IV
 
 1.
 
-Il presente capo ha come oggetto le funzioni e i compiti amministrativi in materia di "formazione professionale", ad esclusione di quelli concernenti la formazione professionale di carattere settoriale oggetto di apposita regolamentazione in attuazione dell'[articolo 12, comma 1, lettere s)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_12-com1-lets) e [t), della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_12-com1-lett), anche in raccordo con quanto previsto dalla [legge 24 giugno 1997, n. 196](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-06-24;196), e dal [decreto legislativo 23 dicembre 1997, n. 469](Conferimento%20alle%20regioni%20e%20agli%20enti%20locali%20di%20funzioni%20e%20compiti%20in%20materia%20di%20mercato%20del%20lavoro%20a%20norma%20dellarticolo%201%20della%20legge%2015%20marzo%201997%20n.%2059.md).
+Il presente capo ha come oggetto le funzioni e i compiti amministrativi in materia di "formazione professionale", ad esclusione di quelli concernenti la formazione professionale di carattere settoriale oggetto di apposita regolamentazione in attuazione dell'[articolo 12, comma 1, lettere s)](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md) e [t), della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), anche in raccordo con quanto previsto dalla [legge 24 giugno 1997, n. 196](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-06-24;196), e dal [decreto legislativo 23 dicembre 1997, n. 469](Conferimento%20alle%20regioni%20e%20agli%20enti%20locali%20di%20funzioni%20e%20compiti%20in%20materia%20di%20mercato%20del%20lavoro%20a%20norma%20dellarticolo%201%20della%20legge%2015%20marzo%201997%20n.%2059.md).
 
 ### Art. 141. — Definizioni
 
@@ -2979,7 +2979,7 @@ Gli istituti professionali che devono essere trasferiti alle regioni sulla base 
 
 1.
 
-Ai sensi dell'[articolo 3, comma 1, lettera a), della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_3-com1-leta), sono conservati allo Stato le funzioni e i compiti amministrativi inerenti a:
+Ai sensi dell'[articolo 3, comma 1, lettera a), della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), sono conservati allo Stato le funzioni e i compiti amministrativi inerenti a:
                             a)
                                 i rapporti internazionali e il coordinamento dei rapporti con l'Unione europea in materia di formazione professionale, nonche' gli interventi preordinati ad assicurare l'esecuzione a livello nazionale degli obblighi contratti nella stessa materia a livello internazionale o delle Comunita';
                             b)
@@ -3048,14 +3048,14 @@ I trasferimenti hanno effetto dal secondo anno scolastico successivo alla data d
 
 4.
 
-Per effetto dei trasferimenti di cui alla lettera b) del comma 1 del presente articolo, gli istituti professionali assumono la qualifica di enti regionali. Ad essi si estende il regime di autonomia funzionale spettante alle istituzioni scolastiche statali, anche ai sensi ((articolo 21 )) della [legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59).
+Per effetto dei trasferimenti di cui alla lettera b) del comma 1 del presente articolo, gli istituti professionali assumono la qualifica di enti regionali. Ad essi si estende il regime di autonomia funzionale spettante alle istituzioni scolastiche statali, anche ai sensi ((articolo 21 )) della [legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md).
 
 ### Art. 145. — Modalita' per il trasferimento
  di beni, risorse e personale
 
 1.
 
-Ai sensi dell'[articolo 3, comma 1, lettere b)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_3-com1-letb) ed [e)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_3-com1-lete), e dell'[articolo 7, commi 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_7-com1) e [2, della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_7-com2), il Presidente del Consiglio dei Ministri, sentiti il Ministro del tesoro, del bilancio e della programmazione economica e, rispettivamente, il Ministro del lavoro e della previdenza sociale ed il Ministro della pubblica istruzione, provvede con propri decreti a trasferire dal Ministero del lavoro e della previdenza sociale, a seguito dell'attuazione del [decreto legislativo 23 dicembre 1997, n. 469](Conferimento%20alle%20regioni%20e%20agli%20enti%20locali%20di%20funzioni%20e%20compiti%20in%20materia%20di%20mercato%20del%20lavoro%20a%20norma%20dellarticolo%201%20della%20legge%2015%20marzo%201997%20n.%2059.md), e dal Ministero della pubblica istruzione alle regioni beni, risorse finanziarie, strumentali e organizzative, e personale nel rispetto dei seguenti criteri:
+Ai sensi dell'[articolo 3, comma 1, lettere b)](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md) ed [e)](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), e dell'[articolo 7, commi 1](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md) e [2, della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), il Presidente del Consiglio dei Ministri, sentiti il Ministro del tesoro, del bilancio e della programmazione economica e, rispettivamente, il Ministro del lavoro e della previdenza sociale ed il Ministro della pubblica istruzione, provvede con propri decreti a trasferire dal Ministero del lavoro e della previdenza sociale, a seguito dell'attuazione del [decreto legislativo 23 dicembre 1997, n. 469](Conferimento%20alle%20regioni%20e%20agli%20enti%20locali%20di%20funzioni%20e%20compiti%20in%20materia%20di%20mercato%20del%20lavoro%20a%20norma%20dellarticolo%201%20della%20legge%2015%20marzo%201997%20n.%2059.md), e dal Ministero della pubblica istruzione alle regioni beni, risorse finanziarie, strumentali e organizzative, e personale nel rispetto dei seguenti criteri:
                             a)
                                 i beni e le risorse da trasferire sono individuati in rapporto alle funzioni e ai compiti in precedenza svolti dal Ministero del lavoro e della previdenza sociale e dal Ministero della pubblica istruzione, e trasferiti dal presente decreto legislativo;
                             b)
@@ -3069,7 +3069,7 @@ Il decreto di cui al comma 1 e' adottato entro diciotto mesi dalla data di entra
 
 1.
 
-Ai sensi dell'[articolo 3, comma 1, lettera d)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_3-com1-letd), e dell'[articolo 7, comma 3, della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_7-com3), entro novanta giorni dalla adozione del decreto di cui all'articolo 145 del presente decreto legislativo, si provvede con regolamento, da emanarsi in base all'[articolo 17, comma 4-bis, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com4bis), e successive modificazioni, al riordino delle strutture ministeriali interessate dai conferimenti disposti dal presente capo.
+Ai sensi dell'[articolo 3, comma 1, lettera d)](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), e dell'[articolo 7, comma 3, della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), entro novanta giorni dalla adozione del decreto di cui all'articolo 145 del presente decreto legislativo, si provvede con regolamento, da emanarsi in base all'[articolo 17, comma 4-bis, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com4bis), e successive modificazioni, al riordino delle strutture ministeriali interessate dai conferimenti disposti dal presente capo.
 
 ### Art. 147. — Abrogazione di disposizioni
 
@@ -3095,7 +3095,7 @@ Titolo IV
 
 1.
 
-Ai sensi dell'[articolo 1, comma 3, lettera d), della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_1-com3-letd), sono riservate allo Stato le funzioni e i compiti di tutela dei beni culturali la cui disciplina generale e' contenuta nella [legge 1 giugno 1939, n. 1089](../Atti%20normativi%20abrogati%20%28in%20originale%29/Tutela%20delle%20cose%20dinteresse%20artistico%20o%20storico.%20039U1089.md), e nel [decreto del Presidente della Repubblica 30 settembre 1963, n. 1409](../DPR/Norme%20relative%20allordinamento%20ed%20al%20personale%20degli%20archivi%20di%20Stato.md), e loro successive modifiche e integrazioni.
+Ai sensi dell'[articolo 1, comma 3, lettera d), della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), sono riservate allo Stato le funzioni e i compiti di tutela dei beni culturali la cui disciplina generale e' contenuta nella [legge 1 giugno 1939, n. 1089](../Atti%20normativi%20abrogati%20%28in%20originale%29/Tutela%20delle%20cose%20dinteresse%20artistico%20o%20storico.%20039U1089.md), e nel [decreto del Presidente della Repubblica 30 settembre 1963, n. 1409](../DPR/Norme%20relative%20allordinamento%20ed%20al%20personale%20degli%20archivi%20di%20Stato.md), e loro successive modifiche e integrazioni.
 
 2.
 
@@ -3123,7 +3123,7 @@ Sono riservate allo Stato, in particolare, le seguenti funzioni e compiti:
 
 4.
 
-Spettano altresi' allo Stato, ai sensi dell'[articolo 3, comma 1, lettera a), della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_3-com1-leta), le seguenti funzioni e compiti:
+Spettano altresi' allo Stato, ai sensi dell'[articolo 3, comma 1, lettera a), della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), le seguenti funzioni e compiti:
                             a)
                                 il controllo sulle esportazioni, ai sensi del regolamento CEE n. 3911/1992 del Consiglio del 9 dicembre 1992 e successive modificazioni;
                             b)
@@ -3234,7 +3234,7 @@ Resta riservata allo Stato la vigilanza sul CONI di cui alla [legge 16 febbraio 
 
 4.
 
-Con regolamento di cui all'[articolo 7, comma 3, della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_7-com3), si provvede al riordino dell'Istituto per il credito sportivo, anche garantendo una adeguata presenza nell'organo di amministrazione di rappresentanti delle regioni e delle autonomie locali.
+Con regolamento di cui all'[articolo 7, comma 3, della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), si provvede al riordino dell'Istituto per il credito sportivo, anche garantendo una adeguata presenza nell'organo di amministrazione di rappresentanti delle regioni e delle autonomie locali.
 
 ## POLIZIA AMMINISTRATIVA REGIONALE E LOCALE E REGIME AUTORIZZATORIO Capo I Disposizioni in materia di polizia amministrativa regionale e locale e regime autorizzatorio
 
@@ -3258,13 +3258,13 @@ Le funzioni ed i compiti amministrativi relativi alla polizia amministrativa reg
 
 2.
 
-Le funzioni ed i compiti amministrativi relativi all'ordine pubblico e sicurezza pubblica di cui all'[articolo 1, comma 3, lettera l), della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_1-com3-letl), concernono le misure preventive e repressive dirette al mantenimento dell'ordine pubblico, inteso come il complesso dei beni giuridici fondamentali e degli interessi pubblici primari sui quali si regge l'ordinata e civile convivenza nella comunita' nazionale, nonche' alla sicurezza delle istituzioni, dei cittadini e dei loro beni.
+Le funzioni ed i compiti amministrativi relativi all'ordine pubblico e sicurezza pubblica di cui all'[articolo 1, comma 3, lettera l), della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), concernono le misure preventive e repressive dirette al mantenimento dell'ordine pubblico, inteso come il complesso dei beni giuridici fondamentali e degli interessi pubblici primari sui quali si regge l'ordinata e civile convivenza nella comunita' nazionale, nonche' alla sicurezza delle istituzioni, dei cittadini e dei loro beni.
 
 ### Art. 160. — Competenze dello Stato
 
 1.
 
-Ai sensi dell'[articolo 1, commi 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_1-com3) e [4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_1-com4), e dell'[articolo 3, comma 1, lettera a), della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_3-com1-leta), sono conservati allo Stato le funzioni e i compiti di polizia amministrativa nelle materie elencate nel predetto comma 3 dell'articolo 1 e quelli relativi ai compiti di rilievo nazionale di cui al predetto comma 4 del medesimo articolo 1.
+Ai sensi dell'[articolo 1, commi 3](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md) e [4](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), e dell'[articolo 3, comma 1, lettera a), della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), sono conservati allo Stato le funzioni e i compiti di polizia amministrativa nelle materie elencate nel predetto comma 3 dell'articolo 1 e quelli relativi ai compiti di rilievo nazionale di cui al predetto comma 4 del medesimo articolo 1.
 
 2.
 

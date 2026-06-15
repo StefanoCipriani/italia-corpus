@@ -30,7 +30,7 @@ VISTA la direttiva del Presidente del Consiglio dei Ministri 27 settembre 2000 r
 
 VISTO il [decreto-legge 14 novembre 2003, n. 314](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-11-14;314), convertito, con modificazioni, dalla [legge 24 dicembre 2003, n. 368](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2014%20novembre%202003%20n.%20314%20recante%20disposizioni%20urgenti%20per%20la%20raccolta%20lo%20smaltimento%20e%20lo%20stoccaggio%20in%20condizioni%20di%20massima%20sicur_715526e3e425.md), recante disposizioni urgenti per la raccolta, lo smaltimento e lo stoccaggio, in condizioni di massima sicurezza, dei rifiuti radioattivi", e successive modificazioni;
 
-VISTA la [legge 23 agosto 2004, n. 239](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-08-23;239) di "Riordino del settore energetico nonche' delega al Governo per il riassetto delle disposizioni vigenti in materia di energia;
+VISTA la [legge 23 agosto 2004, n. 239](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20del%20settore%20energetico%20nonche%20delega%20al%20Governo%20per%20il%20riassetto%20delle%20disposizioni%20vigenti%20in%20materia%20di%20energia.md) di "Riordino del settore energetico nonche' delega al Governo per il riassetto delle disposizioni vigenti in materia di energia;
 
 VISTO il [decreto legislativo 19 agosto 2005, n. 195](Attuazione%20della%20direttiva%202003-4-CE%20sullaccesso%20del%20pubblico%20allinformazione%20ambientale.md) di attuazione della [direttiva 2003/4/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2003;4) sull'accesso del pubblico all'informazione ambientale;
 

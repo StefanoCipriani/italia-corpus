@@ -18,7 +18,7 @@ Visto l'[articolo 1 della legge 8 ottobre 1997, n. 352](https://www.normattiva.i
 
 Visto l'[articolo 12, comma 6-bis, della legge 15 maggio 1997, n. 127](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-05-15;127#art_12-com6bis);
 
-Visto il [decreto legislativo 20 ottobre 1998, n. 368](Istituzione%20del%20Ministero%20per%20i%20beni%20e%20le%20attivita%20culturali%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md), recante istituzione del Ministero per i beni e le attivita' culturali, a norma dell'[articolo 11 della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_11);
+Visto il [decreto legislativo 20 ottobre 1998, n. 368](Istituzione%20del%20Ministero%20per%20i%20beni%20e%20le%20attivita%20culturali%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md), recante istituzione del Ministero per i beni e le attivita' culturali, a norma dell'[articolo 11 della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md);
 
 Vista la [legge 5 maggio 1999, n. 122](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-05-05;122);
 

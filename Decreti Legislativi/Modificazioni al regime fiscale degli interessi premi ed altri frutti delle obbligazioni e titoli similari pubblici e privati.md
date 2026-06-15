@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto l'[art. 3, comma 168, della legge 28 dicembre 1995, n. 549](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-12-28;549#art_3-com168);
+Visto l'[art. 3, comma 168, della legge 28 dicembre 1995, n. 549](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_2.md);
 
 Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella riunione del 12 marzo 1996;
 
@@ -32,8 +32,8 @@ La ritenuta del 20 per cento di cui al [comma 1 dell'articolo 26 del decreto del
 
 2.
 
-Per i proventi dei titoli obbligazionari emessi dagli enti territoriali ai sensi degli [articoli 35](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-12-23;724#art_35) e [37 della legge 23 dicembre 1994, n. 724](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-12-23;724#art_37), si applica il regime tributario di cui all'articolo 2.
-Tale imposta spetta agli enti territoriali emittenti ed e' agli stessi versata con le modalita' di cui al capo III del [decreto legislativo 9 luglio 1997, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-07-09;241).
+Per i proventi dei titoli obbligazionari emessi dagli enti territoriali ai sensi degli [articoli 35](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica.md) e [37 della legge 23 dicembre 1994, n. 724](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica.md), si applica il regime tributario di cui all'articolo 2.
+Tale imposta spetta agli enti territoriali emittenti ed e' agli stessi versata con le modalita' di cui al capo III del [decreto legislativo 9 luglio 1997, n. 241](Norme%20di%20semplificazione%20degli%20adempimenti%20dei%20contribuenti%20in%20sede%20di%20dichiarazione%20dei%20redditi%20e%20dellimposta%20sul%20valore%20aggiunto%20nonche%20di%20modernizzazione%20del%20sistema%20di%20gestione%20delle%20dichiarazioni.md).
 
 3.
 
@@ -53,7 +53,7 @@ Sono soggetti ad imposta sostitutiva delle imposte sui redditi nella misura del 
                         d)
                             LETTERA ABROGATA DAL [D.L. 25 SETTEMBRE 2001, N. 351](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2001-09-25;351), CONVERTITO CON MODIFICAZIONI DALLA [L. 23 NOVEMBRE 2001, N. 410](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2025%20settembre%202001%20n.%20351%20recante%20disposizioni%20urgenti%20in%20materia%20di%20privatizzazione%20e%20valorizzazione%20del%20patrimonio%20immobiliare%20pu_c40dfa5e0c9c.md);
                         e)
-                            LETTERA SOPPRESSA DAL [D.LGS. 18 FEBBRAIO 2000, N. 47](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-02-18;47);
+                            LETTERA SOPPRESSA DAL [D.LGS. 18 FEBBRAIO 2000, N. 47](Riforma%20della%20disciplina%20fiscale%20della%20previdenza%20complementare%20a%20norma%20dellarticolo%203%20della%20legge%2013%20maggio%201999%20n.%20133.md);
                         f)
                             soggetti esenti dall'imposta sul reddito delle persone giuridiche.
 
@@ -82,7 +82,7 @@ Per i buoni postali di risparmio l'imposta sostitutiva e' applicata dall'Ente po
 
 AGGIORNAMENTO (16)
 
-Il [D.L. 13 maggio 2011, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-05-13;70), convertito con modificazioni dalla [L. 12 luglio 2011, n. 106](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20maggio%202011%20n.%2070%20concernente%20Semestre%20Europeo%20-%20Prime%20disposizioni%20urgenti%20per%20leconomia.%2011G0152.md), ha disposto (con l'art. 8, comma 4, lettera c)) che "le disposizioni del [decreto legislativo 1° aprile 1996, n. 239](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1996-04-01;239) si applicano agli strumenti finanziari di cui alle lettere a) e b) del presente comma. Sugli interessi relativi ai suddetti titoli l'imposta sostitutiva di cui all'articolo 2 del citato [decreto legislativo n. 239 del 1996](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1996;239) si applica nella misura del 5 per cento."
+Il [D.L. 13 maggio 2011, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-05-13;70), convertito con modificazioni dalla [L. 12 luglio 2011, n. 106](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20maggio%202011%20n.%2070%20concernente%20Semestre%20Europeo%20-%20Prime%20disposizioni%20urgenti%20per%20leconomia.%2011G0152.md), ha disposto (con l'art. 8, comma 4, lettera c)) che "le disposizioni del [decreto legislativo 1° aprile 1996, n. 239](Modificazioni%20al%20regime%20fiscale%20degli%20interessi%20premi%20ed%20altri%20frutti%20delle%20obbligazioni%20e%20titoli%20similari%20pubblici%20e%20privati.md) si applicano agli strumenti finanziari di cui alle lettere a) e b) del presente comma. Sugli interessi relativi ai suddetti titoli l'imposta sostitutiva di cui all'articolo 2 del citato [decreto legislativo n. 239 del 1996](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1996;239) si applica nella misura del 5 per cento."
 
 ---------------
 
@@ -233,7 +233,7 @@ Il [D.L. 30 settembre 2003, n. 269](https://www.normattiva.it/uri-res/N2Ls?urn:n
 
 AGGIORNAMENTO (22)
 
-Il [D.Lgs. 14 settembre 2015, n. 147](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-09-14;147) ha disposto (con l'art. 10, comma 5) che la presente modifica si applica a decorrere dal periodo di imposta in corso alla data di entrata in vigore del D.Lgs.
+Il [D.Lgs. 14 settembre 2015, n. 147](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20recanti%20misure%20per%20la%20crescita%20e%20linternazionalizzazione%20delle%20imprese.%2015G00163.md) ha disposto (con l'art. 10, comma 5) che la presente modifica si applica a decorrere dal periodo di imposta in corso alla data di entrata in vigore del D.Lgs.
 medesimo.
 
 ## Art. 7. — Procedura per la non applicazione dell'imposta sostitutiva nei confronti dei non residenti
@@ -365,7 +365,7 @@ Le disposizioni recate nei decreti di cui al comma 4 possono essere modificate c
 
 AGGIORNAMENTO (22)
 
-Il [D.Lgs. 14 settembre 2015, n. 147](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-09-14;147) ha disposto (con l'art. 10, comma 5) che la presente modifica si applica a decorrere dal periodo di imposta in corso alla data di entrata in vigore del D.Lgs.
+Il [D.Lgs. 14 settembre 2015, n. 147](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20recanti%20misure%20per%20la%20crescita%20e%20linternazionalizzazione%20delle%20imprese.%2015G00163.md) ha disposto (con l'art. 10, comma 5) che la presente modifica si applica a decorrere dal periodo di imposta in corso alla data di entrata in vigore del D.Lgs.
 medesimo.
 
 ## Art. 12. — Decorrenza

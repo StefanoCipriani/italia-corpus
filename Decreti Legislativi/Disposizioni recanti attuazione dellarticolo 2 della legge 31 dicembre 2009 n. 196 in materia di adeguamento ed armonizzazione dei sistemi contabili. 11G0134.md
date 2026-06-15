@@ -20,7 +20,7 @@ Visto l'[articolo 2, comma 5, della legge 31 dicembre 2009, n. 196](https://www.
 
 Vista la [legge 1° ottobre 2010, n.163](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%205%20agosto%202010%20n.%20125%20recante%20misure%20urgenti%20per%20il%20settore%20dei%20trasporti%20e%20disposizioni%20in%20materia%20finanziaria.%20Proroga%20del%20termin_1759ee709cba.md), di conversione in legge, con modificazioni, del [decreto-legge 5 agosto 2010, n.125](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2010-08-05;125), ed in particolare l'articolo 1, comma 2, che ha individuato il termine per l'adozione dei decreti legislativi nel 31 maggio 2011;
 
-Vista la [legge 5 maggio 2009, n. 42](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-05-05;42);
+Vista la [legge 5 maggio 2009, n. 42](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20in%20materia%20di%20federalismo%20fiscale%20in%20attuazione%20dellarticolo%20119%20della%20Costituzione.%2009G0053.md);
 
 Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella riunione del 15 aprile 2011;
 
@@ -94,7 +94,7 @@ Avvertenza:
  e) tre esperti in materia giuridico-contabile-economica.». 
  Si riporta il testo dell'[art. 1, comma 2 , della legge 1 ottobre 2010, n. 163](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%205%20agosto%202010%20n.%20125%20recante%20misure%20urgenti%20per%20il%20settore%20dei%20trasporti%20e%20disposizioni%20in%20materia%20finanziaria.%20Proroga%20del%20termin_1759ee709cba.md) (Conversione in legge, con modificazioni, del [decreto-legge 5 agosto 2010, n. 125](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2010-08-05;125), recante misure urgenti per il settore dei trasporti e disposizioni in materia finanziaria. Proroga del termine di esercizio della delega legislativa in materia di armonizzazione dei sistemi contabili e degli schemi di bilancio di amministrazioni pubbliche): 
  «2. All'[art. 2, comma 1, della legge 31 dicembre 2009, n. 196](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-12-31;196#art_2-com1), le parole:"un anno dalla data di entrata in vigore della presente legge" sono sostituite dalle seguenti: "il 31 maggio 2011."». 
- La [legge 5 maggio 2009, n. 42](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-05-05;42) (Delega al Governo in materia di federalismo fiscale, in attuazione dell'[articolo 119 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_119)) e' pubblicata nella Gazz. Uff. 6 maggio 2009, n. 103. 
+ La [legge 5 maggio 2009, n. 42](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20in%20materia%20di%20federalismo%20fiscale%20in%20attuazione%20dellarticolo%20119%20della%20Costituzione.%2009G0053.md) (Delega al Governo in materia di federalismo fiscale, in attuazione dell'[articolo 119 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_119)) e' pubblicata nella Gazz. Uff. 6 maggio 2009, n. 103. 
  Note all'art. 1: 
  Si riporta il testo dell'art. 1, comma 2, della citata [legge n. 196 del 2009](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009;196): 
  «2. Ai fini della presente legge, per amministrazioni pubbliche si intendono gli enti e gli altri soggetti che costituiscono il settore istituzionale delle amministrazioni pubbliche individuati dall'Istituto nazionale di statistica (ISTAT) sulla base delle definizioni di cui agli specifici regolamenti comunitari.».
@@ -181,7 +181,7 @@ Gli schemi dei regolamenti di cui al presente articolo sono trasmessi alle Camer
 
 AGGIORNAMENTO (3)
 
-La [L. 24 dicembre 2012, n. 228](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-24;228), ha disposto (con l'art. 1, comma 388) che e' fissato al 30 giugno 2013 il termine di scadenza dei termini e dei regimi giuridici di cui al comma 3 del presente articolo.
+La [L. 24 dicembre 2012, n. 228](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20Legge%20di%20stabilita%202013.%2012G0252.md), ha disposto (con l'art. 1, comma 388) che e' fissato al 30 giugno 2013 il termine di scadenza dei termini e dei regimi giuridici di cui al comma 3 del presente articolo.
 
 -----------
 
@@ -194,7 +194,7 @@ Il D.P.C.M. 26 giugno 2013 (in G.U. 28/06/2013, n. 150) ha disposto (con l'art. 
 
 AGGIORNAMENTO (6)
 
-Il [D.L. 30 dicembre 2013, n. 150](../DL%20proroghe/Proroga%20di%20termini%20previsti%20da%20disposizioni%20legislative.%2013G00197.md), convertito con modificazioni dalla [L. 27 febbraio 2014, n. 15](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%202013%20n.%20150%20recante%20proroga%20di%20termini%20previsti%20da%20disposizioni%20legislative.%2014G00026.md), ha disposto (con l'art. 9, comma 7) che "I termini per l'adozione dei regolamenti di cui all'[articolo 4, comma 3, lettera b)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-05-31;91#art_4-com3-letb), e all'[articolo 18, comma 1, del decreto legislativo 31 maggio 2011, n. 91](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-05-31;91#art_18-com1), sono prorogati al 31 dicembre 2014".
+Il [D.L. 30 dicembre 2013, n. 150](../DL%20proroghe/Proroga%20di%20termini%20previsti%20da%20disposizioni%20legislative.%2013G00197.md), convertito con modificazioni dalla [L. 27 febbraio 2014, n. 15](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%202013%20n.%20150%20recante%20proroga%20di%20termini%20previsti%20da%20disposizioni%20legislative.%2014G00026.md), ha disposto (con l'art. 9, comma 7) che "I termini per l'adozione dei regolamenti di cui all'[articolo 4, comma 3, lettera b)](Disposizioni%20recanti%20attuazione%20dellarticolo%202%20della%20legge%2031%20dicembre%202009%20n.%20196%20in%20materia%20di%20adeguamento%20ed%20armonizzazione%20dei%20sistemi%20contabili.%2011G0134.md), e all'[articolo 18, comma 1, del decreto legislativo 31 maggio 2011, n. 91](Disposizioni%20recanti%20attuazione%20dellarticolo%202%20della%20legge%2031%20dicembre%202009%20n.%20196%20in%20materia%20di%20adeguamento%20ed%20armonizzazione%20dei%20sistemi%20contabili.%2011G0134.md), sono prorogati al 31 dicembre 2014".
 
 ### Art. 5. — Finalita' del piano dei conti
 
@@ -206,7 +206,7 @@ Il piano dei conti, mediante un sistema integrato di scritturazione contabile fi
                             b)
                                 l'integrazione e la coerenza tra le rilevazioni contabili di natura finanziaria e quelle di natura economica;
                             c)
-                                il consolidamento nelle fasi di previsione, gestione e rendicontazione delle entrate, delle spese, dei costi e dei ricavi, nonche' il monitoraggio in corso d'anno degli andamenti di finanza pubblica delle amministrazioni pubbliche, anche secondo l'articolazione nei sottosettori delle amministrazioni centrali, degli enti di previdenza e delle amministrazioni locali, in coordinamento con quanto previsto all'[articolo 2, comma 2, lettera h), dalla legge 5 maggio 2009, n. 42](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-05-05;42#art_2-com2-leth), e successive modificazioni;
+                                il consolidamento nelle fasi di previsione, gestione e rendicontazione delle entrate, delle spese, dei costi e dei ricavi, nonche' il monitoraggio in corso d'anno degli andamenti di finanza pubblica delle amministrazioni pubbliche, anche secondo l'articolazione nei sottosettori delle amministrazioni centrali, degli enti di previdenza e delle amministrazioni locali, in coordinamento con quanto previsto all'[articolo 2, comma 2, lettera h), dalla legge 5 maggio 2009, n. 42](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20in%20materia%20di%20federalismo%20fiscale%20in%20attuazione%20dellarticolo%20119%20della%20Costituzione.%2009G0053.md), e successive modificazioni;
                             d)
                                 una maggiore tracciabilita' delle informazioni nelle varie fasi di rappresentazione della manifestazione contabile in termini di competenza finanziaria, economica, cassa e patrimonio;
                             e)
@@ -360,7 +360,7 @@ Le disposizioni di cui al presente articolo entrano in vigore a partire dall'ese
 
 AGGIORNAMENTO (3)
 
-La [L. 24 dicembre 2012, n. 228](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-24;228), ha disposto (con l'art. 1, comma 388) che e' fissato al 30 giugno 2013 il termine di scadenza dei termini e dei regimi giuridici di cui al comma 7 del presente articolo.
+La [L. 24 dicembre 2012, n. 228](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20Legge%20di%20stabilita%202013.%2012G0252.md), ha disposto (con l'art. 1, comma 388) che e' fissato al 30 giugno 2013 il termine di scadenza dei termini e dei regimi giuridici di cui al comma 7 del presente articolo.
 
 -----------
 
@@ -422,7 +422,7 @@ Le amministrazioni pubbliche, entro il 31 dicembre 2012, adottano una specifica 
 
 AGGIORNAMENTO (3)
 
-La [L. 24 dicembre 2012, n. 228](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-24;228), ha disposto (con l'art. 1, comma 388) che e' fissato al 30 giugno 2013 il termine di scadenza dei termini e dei regimi giuridici di cui ai commi 3 e 4 del presente articolo.
+La [L. 24 dicembre 2012, n. 228](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20Legge%20di%20stabilita%202013.%2012G0252.md), ha disposto (con l'art. 1, comma 388) che e' fissato al 30 giugno 2013 il termine di scadenza dei termini e dei regimi giuridici di cui ai commi 3 e 4 del presente articolo.
 
 -----------
 
@@ -441,7 +441,7 @@ Per le unita' locali delle amministrazioni pubbliche, le amministrazioni vigilan
 
 AGGIORNAMENTO (3)
 
-La [L. 24 dicembre 2012, n. 228](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-24;228), ha disposto (con l'art. 1, comma 388) che e' fissato al 30 giugno 2013 il termine di scadenza dei termini e dei regimi giuridici di cui al presente articolo.
+La [L. 24 dicembre 2012, n. 228](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20Legge%20di%20stabilita%202013.%2012G0252.md), ha disposto (con l'art. 1, comma 388) che e' fissato al 30 giugno 2013 il termine di scadenza dei termini e dei regimi giuridici di cui al presente articolo.
 
 -----------
 
@@ -544,7 +544,7 @@ I soggetti di cui al comma 1 sono tenuti alla redazione di un rendiconto finanzi
 
 AGGIORNAMENTO (3)
 
-La [L. 24 dicembre 2012, n. 228](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-24;228), ha disposto (con l'art. 1, comma 388) che e' fissato al 30 giugno 2013 il termine di scadenza dei termini e dei regimi giuridici di cui al comma 2 del presente articolo.
+La [L. 24 dicembre 2012, n. 228](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20Legge%20di%20stabilita%202013.%2012G0252.md), ha disposto (con l'art. 1, comma 388) che e' fissato al 30 giugno 2013 il termine di scadenza dei termini e dei regimi giuridici di cui al comma 2 del presente articolo.
 
 ### Art. 17. — Tassonomia degli enti in contabilita' civilistica
 
@@ -569,7 +569,7 @@ Note all'art. 17:
  Si riporta il testo dell'art. 14, comma 6, della citata [legge n. 196 del 2009](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009;196): 
  «6. Le amministrazioni pubbliche, con esclusione di quelle di cui al comma 7, trasmettono quotidianamente alla banca dati SIOPE, tramite i propri tesorieri o cassieri, i dati concernenti tutti gli incassi e i pagamenti effettuati, codificati con criteri uniformi su tutto il territorio nazionale. I tesorieri e i cassieri non possono accettare disposizioni di pagamento prive della codificazione uniforme. Le disposizioni del presente comma non si applicano agli organi costituzionali.» 
  Si riporta il testo dell'[art. 77-quater, comma 11, del decreto-legge 25 giugno 2008, n. 112](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112#art_77quater-com11) (Disposizioni urgenti per lo sviluppo economico, la semplificazione, la competitivita', la stabilizzazione della finanza pubblica e la perequazione tributaria), convertito, con modificazioni, dalla [legge 6 agosto 2008, n. 133](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2025%20giugno%202008%20n.%20112%20recante%20disposizioni%20urgenti%20per%20lo%20sviluppo%20economico%20la%20semplificazione%20la%20competitivita%20la%20stabilizzazion_29f97015e2f4.md): 
- «11. Gli enti pubblici soggetti al Sistema Informativo delle Operazioni degli Enti pubblici (SIOPE), istituito ai sensi dell' [articolo 28, commi 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-12-27;289#art_28-com3), [4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-12-27;289#art_28-com4) e [5, della legge 27 dicembre 2002, n. 289](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-12-27;289#art_28-com5), e successive modificazioni, e i rispettivi tesorieri o cassieri non sono tenuti agli adempimenti relativi alla trasmissione dei dati periodici di cassa, di cui all' [articolo 30 della legge 5 agosto 1978, n. 468](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riforma%20di%20alcune%20norme%20di%20contabilita%20generale%20dello%20Stato%20in%20materia%20di%20bilancio.md), e successive modificazioni. I prospetti dei dati SIOPE e delle disponibilita' liquide costituiscono un allegato obbligatorio del rendiconto o del bilancio di esercizio. Con decreto del Ministero dell'economia e delle finanze - Dipartimento della Ragioneria generale dello Stato, sono stabilite, entro sessanta giorni dalla data di entrata in vigore della legge di conversione del presente decreto, le relative modalita' di attuazione. Le sanzioni previste dagli [articoli 30](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978;468#art_30) e [32 della legge n. 468 del 1978](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978;468#art_32) per il mancato invio dei prospetti di cassa operano per gli enti inadempienti al SIOPE.». 
+ «11. Gli enti pubblici soggetti al Sistema Informativo delle Operazioni degli Enti pubblici (SIOPE), istituito ai sensi dell' [articolo 28, commi 3](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202003.md), [4](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202003.md) e [5, della legge 27 dicembre 2002, n. 289](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202003.md), e successive modificazioni, e i rispettivi tesorieri o cassieri non sono tenuti agli adempimenti relativi alla trasmissione dei dati periodici di cassa, di cui all' [articolo 30 della legge 5 agosto 1978, n. 468](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riforma%20di%20alcune%20norme%20di%20contabilita%20generale%20dello%20Stato%20in%20materia%20di%20bilancio.md), e successive modificazioni. I prospetti dei dati SIOPE e delle disponibilita' liquide costituiscono un allegato obbligatorio del rendiconto o del bilancio di esercizio. Con decreto del Ministero dell'economia e delle finanze - Dipartimento della Ragioneria generale dello Stato, sono stabilite, entro sessanta giorni dalla data di entrata in vigore della legge di conversione del presente decreto, le relative modalita' di attuazione. Le sanzioni previste dagli [articoli 30](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978;468#art_30) e [32 della legge n. 468 del 1978](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978;468#art_32) per il mancato invio dei prospetti di cassa operano per gli enti inadempienti al SIOPE.». 
  Per il testo dell'[art. 2429 del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2429), si veda nelle note all'art. 13. 
  Per il riferimento al testo dell'[art. 47 del DPR 27 febbraio 2003, n. 97](../DPR/Regolamento%20concernente%20lamministrazione%20e%20la%20contabilita%20degli%20enti%20pubblici%20di%20cui%20alla%20legge%2020%20marzo%201975%20n.%2070.md), si veda nelle note all'art. 13.
 
@@ -588,7 +588,7 @@ Decorso tale termine, il decreto puo' comunque essere adottato.
 
 AGGIORNAMENTO (3)
 
-La [L. 24 dicembre 2012, n. 228](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-24;228) ha disposto (con l'art. 1, comma 388) che e' fissato al 30 giugno 2013 il termine di scadenza dei termini e dei regimi giuridici di cui al comma 1 del presente articolo.
+La [L. 24 dicembre 2012, n. 228](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20Legge%20di%20stabilita%202013.%2012G0252.md) ha disposto (con l'art. 1, comma 388) che e' fissato al 30 giugno 2013 il termine di scadenza dei termini e dei regimi giuridici di cui al comma 1 del presente articolo.
 
 -----------
 
@@ -601,7 +601,7 @@ Il D.P.C.M. 26 giugno 2013 (in G.U. 28/06/2013, n. 150) ha disposto (con l'art. 
 
 AGGIORNAMENTO (6)
 
-Il [D.L. 30 dicembre 2013, n. 150](../DL%20proroghe/Proroga%20di%20termini%20previsti%20da%20disposizioni%20legislative.%2013G00197.md), convertito con modificazioni dalla [L. 27 febbraio 2014, n. 15](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%202013%20n.%20150%20recante%20proroga%20di%20termini%20previsti%20da%20disposizioni%20legislative.%2014G00026.md), ha disposto (con l'art. 9, comma 7) che "I termini per l'adozione dei regolamenti di cui all'[articolo 4, comma 3, lettera b)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-05-31;91#art_4-com3-letb), e all'[articolo 18, comma 1, del decreto legislativo 31 maggio 2011, n. 91](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-05-31;91#art_18-com1), sono prorogati al 31 dicembre 2014".
+Il [D.L. 30 dicembre 2013, n. 150](../DL%20proroghe/Proroga%20di%20termini%20previsti%20da%20disposizioni%20legislative.%2013G00197.md), convertito con modificazioni dalla [L. 27 febbraio 2014, n. 15](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%202013%20n.%20150%20recante%20proroga%20di%20termini%20previsti%20da%20disposizioni%20legislative.%2014G00026.md), ha disposto (con l'art. 9, comma 7) che "I termini per l'adozione dei regolamenti di cui all'[articolo 4, comma 3, lettera b)](Disposizioni%20recanti%20attuazione%20dellarticolo%202%20della%20legge%2031%20dicembre%202009%20n.%20196%20in%20materia%20di%20adeguamento%20ed%20armonizzazione%20dei%20sistemi%20contabili.%2011G0134.md), e all'[articolo 18, comma 1, del decreto legislativo 31 maggio 2011, n. 91](Disposizioni%20recanti%20attuazione%20dellarticolo%202%20della%20legge%2031%20dicembre%202009%20n.%20196%20in%20materia%20di%20adeguamento%20ed%20armonizzazione%20dei%20sistemi%20contabili.%2011G0134.md), sono prorogati al 31 dicembre 2014".
 
 ## Sistema di indicatori di risultato semplici, misurabili   e riferiti ai programmi di bilancio
 
@@ -627,7 +627,7 @@ Al fine di assicurare il consolidamento e la confrontabilita' degli indicatori d
 Tale sistema minimo e' stabilito con decreto del Ministro competente d'intesa con il Ministro dell'economia e delle finanze, da adottare ai sensi dell'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3).
 
 Note all'[art. 19: 
- Il decreto legislativo 27 ottobre 2009, n. 150](Attuazione%20della%20legge%204%20marzo%202009%20n.%2015%20in%20materia%20di%20ottimizzazione%20della%20produttivita%20del%20lavoro%20pubblico%20e%20di%20efficienza%20e%20trasparenza%20delle%20pubbliche%20amministrazioni.%2009G0164.md) (Attuazione della [legge 4 marzo 2009, n. 15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-03-04;15), in materia di ottimizzazione della produttivita' del lavoro pubblico e di efficienza e trasparenza delle pubbliche amministrazioni), e' pubblicato nella Gazz. Uff. 31 ottobre 2009, n. 254, S.O. 
+ Il decreto legislativo 27 ottobre 2009, n. 150](Attuazione%20della%20legge%204%20marzo%202009%20n.%2015%20in%20materia%20di%20ottimizzazione%20della%20produttivita%20del%20lavoro%20pubblico%20e%20di%20efficienza%20e%20trasparenza%20delle%20pubbliche%20amministrazioni.%2009G0164.md) (Attuazione della [legge 4 marzo 2009, n. 15](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20finalizzata%20allottimizzazione%20della%20produttivita%20del%20lavoro%20pubblico%20e%20alla%20efficienza%20e%20trasparenza%20delle%20pubbliche%20amministrazioni%20nonche%20disposizioni%20integrative%20dell_ca7c77713a76.md), in materia di ottimizzazione della produttivita' del lavoro pubblico e di efficienza e trasparenza delle pubbliche amministrazioni), e' pubblicato nella Gazz. Uff. 31 ottobre 2009, n. 254, S.O. 
  Per il testo dell'art. 21, comma 11, della citata [legge n. 196 del 2009](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009;196), si veda nelle note all'art. 11. 
  Si riporta il testo dell'art. 35, comma 2, della citata [legge n. 196 del 2009](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009;196): 
  «2. Al rendiconto di cui al comma 1 e' allegata per ciascuna amministrazione una nota integrativa, articolata per missioni e programmi in coerenza con le indicazioni contenute nella nota integrativa al bilancio di previsione.
@@ -732,7 +732,7 @@ In considerazione degli esiti della sperimentazione, e' valutata la possibilita'
 
 AGGIORNAMENTO (3)
 
-La [L. 24 dicembre 2012, n. 228](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-24;228) ha disposto (con l'art. 1, comma 388) che e' fissato al 30 giugno 2013 il termine di scadenza dei termini e dei regimi giuridici di cui al comma 1 del presente articolo.
+La [L. 24 dicembre 2012, n. 228](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20Legge%20di%20stabilita%202013.%2012G0252.md) ha disposto (con l'art. 1, comma 388) che e' fissato al 30 giugno 2013 il termine di scadenza dei termini e dei regimi giuridici di cui al comma 1 del presente articolo.
 
 -----------
 

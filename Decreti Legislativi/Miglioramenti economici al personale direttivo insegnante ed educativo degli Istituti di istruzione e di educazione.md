@@ -35,7 +35,7 @@ Oltre all'indennita' di studio di cui all'art. 1, ai presidi o direttori delle s
 
 AGGIORNAMENTO (1)
 
-Il [D.P.R. 11 gennaio 1956, n. 19](../DPR/Conglobamento%20totale%20del%20trattamento%20economico%20del%20personale%20statale.md) ha disposto (con l'art. 18, commi 1, 2, 3 e 4) che "L'indennita' di carica di cui all'[art. 2 del decreto legislativo 11 marzo 1948, n. 240](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-03-11;240#art_2), e successive modificazioni ed estensioni, assume la denominazione di indennita' di direzione ed e' attribuita, al seguente personale nelle - misure mensili lorde sotto indicate:
+Il [D.P.R. 11 gennaio 1956, n. 19](../DPR/Conglobamento%20totale%20del%20trattamento%20economico%20del%20personale%20statale.md) ha disposto (con l'art. 18, commi 1, 2, 3 e 4) che "L'indennita' di carica di cui all'[art. 2 del decreto legislativo 11 marzo 1948, n. 240](Miglioramenti%20economici%20al%20personale%20direttivo%20insegnante%20ed%20educativo%20degli%20Istituti%20di%20istruzione%20e%20di%20educazione.md), e successive modificazioni ed estensioni, assume la denominazione di indennita' di direzione ed e' attribuita, al seguente personale nelle - misure mensili lorde sotto indicate:
  1) Presidi di 1ª categoria degli Istituti di istruzione secondaria - Direttori dei Conservatori di musica Direttore dell'Accademia nazionale d'arte drammatica - Direttore dell'Accademia di danza - Direttori degli Istituti di arte di Palermo, Napoli, Firenze e Venezia.
  fino a 12 classi: L. 15.000:
  da 13 a 24 classi: L. 20.000;

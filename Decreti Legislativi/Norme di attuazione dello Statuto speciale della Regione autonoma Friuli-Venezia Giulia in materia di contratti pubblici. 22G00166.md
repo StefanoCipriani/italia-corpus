@@ -12,9 +12,9 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[articolo 87, quinto comma, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge costituzionale 31 gennaio 1963, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1963-01-31;1), recante «Statuto speciale della Regione Friuli-Venezia Giulia» e, in particolare l'articolo 4;
+Vista la [legge costituzionale 31 gennaio 1963, n. 1](../Leggi%20costituzionali/Statuto%20speciale%20della%20Regione%20Friuli-Venezia%20Giulia.md), recante «Statuto speciale della Regione Friuli-Venezia Giulia» e, in particolare l'articolo 4;
 
-Vista la [legge 24 dicembre 2012, n. 234](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-24;234), recante «Norme generali sulla partecipazione dell'Italia alla formazione e all'attuazione della normativa e delle politiche dell'Unione europea», e in particolare l'articolo 32;
+Vista la [legge 24 dicembre 2012, n. 234](../Leggi%20di%20delegazione%20europea/Norme%20generali%20sulla%20partecipazione%20dellItalia%20alla%20formazione%20e%20allattuazione%20della%20normativa%20e%20delle%20politiche%20dellUnione%20europea.%2013G00003.md), recante «Norme generali sulla partecipazione dell'Italia alla formazione e all'attuazione della normativa e delle politiche dell'Unione europea», e in particolare l'articolo 32;
 
 Visto il [decreto legislativo 18 aprile 2016, n. 50](Codice%20dei%20contratti%20pubblici.%2016G00062.md) «[Codice dei contratti pubblici](Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20direttive%202004-17-CE%20e%202004-18-CE.md)», e in particolare l'articolo 2;
 
@@ -30,7 +30,7 @@ Emana il seguente decreto legislativo:
 
 1.
 
-La Regione autonoma Friuli Venezia Giulia disciplina con legge regionale, nel rispetto della normativa dell'Unione europea e delle norme legislative fondamentali di riforma economico-sociale, ivi comprese quelle che stabiliscono i livelli minimi di regolazione richiesti dal diritto dell'Unione europea in materia di appalti e concessioni, le procedure di aggiudicazione e i contratti pubblici, compresa la fase della loro esecuzione, relativi a lavori, servizi e forniture ai sensi dell'articolo 4, primo comma, numeri 1), 1 bis) e 9) della [legge costituzionale 31 gennaio 1963, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1963-01-31;1), attenendosi al predetto principio di cui all'[articolo 32, comma 1, lettera c), della legge 24 dicembre 2012, n. 234](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-24;234#art_32-com1-letc) e successive modificazioni.
+La Regione autonoma Friuli Venezia Giulia disciplina con legge regionale, nel rispetto della normativa dell'Unione europea e delle norme legislative fondamentali di riforma economico-sociale, ivi comprese quelle che stabiliscono i livelli minimi di regolazione richiesti dal diritto dell'Unione europea in materia di appalti e concessioni, le procedure di aggiudicazione e i contratti pubblici, compresa la fase della loro esecuzione, relativi a lavori, servizi e forniture ai sensi dell'articolo 4, primo comma, numeri 1), 1 bis) e 9) della [legge costituzionale 31 gennaio 1963, n. 1](../Leggi%20costituzionali/Statuto%20speciale%20della%20Regione%20Friuli-Venezia%20Giulia.md), attenendosi al predetto principio di cui all'[articolo 32, comma 1, lettera c), della legge 24 dicembre 2012, n. 234](../Leggi%20di%20delegazione%20europea/Norme%20generali%20sulla%20partecipazione%20dellItalia%20alla%20formazione%20e%20allattuazione%20della%20normativa%20e%20delle%20politiche%20dellUnione%20europea.%2013G00003.md) e successive modificazioni.
 
 2.
 
@@ -42,7 +42,7 @@ N O T E
  Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art.10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti. 
  Note alle premesse: 
  - L'[art. 87, quinto comma, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5) conferisce al Presidente della Repubblica il potere di promulgare le leggi e di emanare i decreti aventi valore di legge ed i regolamenti. 
- - Si riporta il testo dell'[art. 4 della legge costituzionale 31 gennaio 1963, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1963-01-31;1#art_4) (Statuto speciale della Regione Friuli-Venezia Giulia), pubblicata nella Gazzetta Ufficiale 1 febbraio1963, n. 29: 
+ - Si riporta il testo dell'[art. 4 della legge costituzionale 31 gennaio 1963, n. 1](../Leggi%20costituzionali/Statuto%20speciale%20della%20Regione%20Friuli-Venezia%20Giulia.md) (Statuto speciale della Regione Friuli-Venezia Giulia), pubblicata nella Gazzetta Ufficiale 1 febbraio1963, n. 29: 
  «Art. 4. - In armonia con la Costituzione, con i principi generali dell'ordinamento giuridico della Repubblica, con le norme fondamentali delle riforme economico-sociali e con gli obblighi internazionali dello Stato, nonche' nel rispetto degli interessi nazionali e di quelli delle altre Regioni, la Regione ha potesta' legislativa nelle seguenti materie: 
  1) ordinamento degli Uffici e degli Enti dipendenti dalla Regione e stato giuridico ed economico del personale ad essi addetto; 
  1-bis) ordinamento degli enti locali e delle relative circoscrizioni; 
@@ -59,7 +59,7 @@ N O T E
  12) urbanistica; 
  13) acque minerali e termali; 
  14) istituzioni culturali, ricreative e sportive: musei e biblioteche di interesse locale e regionale». 
- - Si riporta il testo dell'[art. 32 della legge 24 dicembre 2012, n. 234](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-24;234#art_32) (Norme generali sulla partecipazione dell'Italia alla formazione e all'attuazione della normativa e delle politiche dell'Unione europea), pubblicata nella Gazzetta Ufficiale n. 3 del 4 gennaio 2013: 
+ - Si riporta il testo dell'[art. 32 della legge 24 dicembre 2012, n. 234](../Leggi%20di%20delegazione%20europea/Norme%20generali%20sulla%20partecipazione%20dellItalia%20alla%20formazione%20e%20allattuazione%20della%20normativa%20e%20delle%20politiche%20dellUnione%20europea.%2013G00003.md) (Norme generali sulla partecipazione dell'Italia alla formazione e all'attuazione della normativa e delle politiche dell'Unione europea), pubblicata nella Gazzetta Ufficiale n. 3 del 4 gennaio 2013: 
  «Art. 32. - 1. Salvi gli specifici principi e criteri direttivi stabiliti dalla legge di delegazione europea e in aggiunta a quelli contenuti nelle direttive da attuare, i decreti legislativi di cui all'art. 31 sono informati ai seguenti principi e criteri direttivi generali: 
  a) le amministrazioni direttamente interessate provvedono all'attuazione dei decreti legislativi con le ordinarie strutture amministrative, secondo il principio della massima semplificazione dei procedimenti e delle modalita' di organizzazione e di esercizio delle funzioni e dei servizi; 
  b) ai fini di un migliore coordinamento con le discipline vigenti per i singoli settori interessati dalla normativa da attuare, sono introdotte le occorrenti modificazioni alle discipline stesse, anche attraverso il riassetto e la semplificazione normativi con l'indicazione esplicita delle norme abrogate, fatti salvi i procedimenti oggetto di semplificazione amministrativa ovvero le materie oggetto di delegificazione; 
@@ -76,12 +76,12 @@ N O T E
  «Art. 2 (Competenze legislative di Stato, regioni e province autonome). - 1. Le disposizioni contenute nel presente codice sono adottate nell'esercizio della competenza legislativa esclusiva statale in materia di tutela della concorrenza, ordinamento civile, nonche' nelle altre materie cui e' riconducibile lo specifico contratto. 
  2. Le Regioni a statuto ordinario esercitano le proprie funzioni nelle materie di competenza regionale ai sensi dell'art. 117 della Costituzione. 
  3. Le Regioni a statuto speciale e le Province autonome di Trento e di Bolzano adeguano la propria legislazione secondo le disposizioni contenute negli statuti e nelle relative norme di attuazione.». 
- - Il testo dell'art. 65 della citata [legge costituzionale 31 gennaio 1963, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1963-01-31;1), e' il seguente: 
+ - Il testo dell'art. 65 della citata [legge costituzionale 31 gennaio 1963, n. 1](../Leggi%20costituzionali/Statuto%20speciale%20della%20Regione%20Friuli-Venezia%20Giulia.md), e' il seguente: 
  «Art. 65. - Con decreti legislativi, sentita una Commissione paritetica di sei membri, nominati tre dal Governo della Repubblica e tre dal Consiglio regionale, saranno stabilite le norme di attuazione del presente Statuto e quelle relative al trasferimento all'Amministrazione regionale degli uffici statali che nel Friuli-Venezia Giulia adempiono a funzioni attribuite alla Regione.». 
  
  Note all'art. 1: 
- - Per il testo dell'[art. 4 della legge costituzionale 31 gennaio 1963, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1963-01-31;1#art_4) si veda nelle note alle premesse. 
- - Per il testo dell'[art. 32 della legge 24 dicembre 2012, n. 234](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-24;234#art_32) si veda nelle note alle premesse.
+ - Per il testo dell'[art. 4 della legge costituzionale 31 gennaio 1963, n. 1](../Leggi%20costituzionali/Statuto%20speciale%20della%20Regione%20Friuli-Venezia%20Giulia.md) si veda nelle note alle premesse. 
+ - Per il testo dell'[art. 32 della legge 24 dicembre 2012, n. 234](../Leggi%20di%20delegazione%20europea/Norme%20generali%20sulla%20partecipazione%20dellItalia%20alla%20formazione%20e%20allattuazione%20della%20normativa%20e%20delle%20politiche%20dellUnione%20europea.%2013G00003.md) si veda nelle note alle premesse.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

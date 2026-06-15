@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87, quinto comma, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Visto l'[articolo 3 della legge 23 dicembre 1996, n. 662](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;662#art_3), con il quale sono state conferite al Governo talune deleghe finalizzate alla riforma del sistema fiscale;
+Visto l'[articolo 3 della legge 23 dicembre 1996, n. 662](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_3.md), con il quale sono state conferite al Governo talune deleghe finalizzate alla riforma del sistema fiscale;
 
 Visto il [decreto legislativo 21 novembre 1997, n. 461](Riordino%20della%20disciplina%20tributaria%20dei%20redditi%20di%20capitale%20e%20dei%20redditi%20diversi%20a%20norma%20dellarticolo%203%20comma%20160%20della%20legge%2023%20dicembre%201996%20n.%20662.md), recante il riordino della disciplina tributaria dei redditi di capitale e dei redditi diversi;
 
@@ -28,7 +28,7 @@ Visto il [decreto legislativo 1o aprile 1996, n. 239](Modificazioni%20al%20regim
 
 Visto il [decreto del Presidente della Repubblica 29 settembre 1973, n. 600](../DPR/Disposizioni%20comuni%20in%20materia%20di%20accertamento%20delle%20imposte%20sui%20redditi.md);
 
-Visto l'articolo 3, comma 17, della predetta [legge 23 dicembre 1996, n. 662](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;662), il quale dispone che, entro due anni dalla data in entrata in vigore dei decreti legislativi previsti dallo stesso [articolo 3 della legge n. 662 del 1996](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996;662#art_3), nel rispetto degli stessi principi e criteri direttivi e previo parere della commissione di cui al comma 13 del medesimo articolo 3, possono essere emanate disposizioni integrative o correttive con uno o piu' decreti legislativi;
+Visto l'articolo 3, comma 17, della predetta [legge 23 dicembre 1996, n. 662](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_3.md), il quale dispone che, entro due anni dalla data in entrata in vigore dei decreti legislativi previsti dallo stesso [articolo 3 della legge n. 662 del 1996](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996;662#art_3), nel rispetto degli stessi principi e criteri direttivi e previo parere della commissione di cui al comma 13 del medesimo articolo 3, possono essere emanate disposizioni integrative o correttive con uno o piu' decreti legislativi;
 
 Visto l'articolo 3, comma 136, della medesima [legge n. 662 del 1996](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996;662), il quale prevede la possibilita' di disciplinare, con regolamenti da emanare ai sensi dell'[articolo 17, comma 2, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com2), gli adempimenti contabili e formali dei contribuenti, al fine di razionalizzare e semplificare le procedure di attuazione delle norme tributarie;
 
@@ -337,7 +337,7 @@ NOTE ALL'ARTICOLO 14
 
 1.
 
-Per gli adempimenti previsti dai decreti legislativi emanati in attuazione dell'[articolo 3 della legge 23 dicembre 1996, n. 662](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;662#art_3), resta ferma la disposizione di cui all'articolo 3, comma 136, della medesima [legge 23 dicembre 1996, n. 662](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;662).
+Per gli adempimenti previsti dai decreti legislativi emanati in attuazione dell'[articolo 3 della legge 23 dicembre 1996, n. 662](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_3.md), resta ferma la disposizione di cui all'articolo 3, comma 136, della medesima [legge 23 dicembre 1996, n. 662](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_3.md).
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

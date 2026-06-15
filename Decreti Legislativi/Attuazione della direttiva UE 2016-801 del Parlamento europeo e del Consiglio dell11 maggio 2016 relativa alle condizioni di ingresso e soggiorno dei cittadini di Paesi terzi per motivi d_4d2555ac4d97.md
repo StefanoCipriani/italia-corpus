@@ -14,11 +14,11 @@ Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cos
 
 Vista la [legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400), recante disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei ministri;
 
-Visti gli [articoli 31](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-24;234#art_31) e [32 della legge 24 dicembre 2012, n. 234](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-24;234#art_32), recante norme generali sulla partecipazione dell'Italia alla formazione e all'attuazione della normativa e delle politiche dell'Unione europea;
+Visti gli [articoli 31](../Leggi%20di%20delegazione%20europea/Norme%20generali%20sulla%20partecipazione%20dellItalia%20alla%20formazione%20e%20allattuazione%20della%20normativa%20e%20delle%20politiche%20dellUnione%20europea.%2013G00003.md) e [32 della legge 24 dicembre 2012, n. 234](../Leggi%20di%20delegazione%20europea/Norme%20generali%20sulla%20partecipazione%20dellItalia%20alla%20formazione%20e%20allattuazione%20della%20normativa%20e%20delle%20politiche%20dellUnione%20europea.%2013G00003.md), recante norme generali sulla partecipazione dell'Italia alla formazione e all'attuazione della normativa e delle politiche dell'Unione europea;
 
 Vista la [direttiva (UE) 2016/801 del Parlamento europeo e del Consiglio, dell'11 maggio 2016](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2016;801), relativa alle condizioni di ingresso e soggiorno dei cittadini di Paesi terzi per motivi di ricerca, studio, tirocinio, volontariato, programmi di scambio di alunni o progetti educativi, e collocamento alla pari;
 
-Vista la [legge 25 ottobre 2017, n. 163](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-10-25;163), recante delega al Governo per il recepimento delle direttive europee e l'attuazione di altri atti dell'Unione europea - Legge di delegazione europea 2016-2017, e in particolare l'articolo 1 e l'allegato A;
+Vista la [legge 25 ottobre 2017, n. 163](../Leggi%20di%20delegazione%20europea/Delega%20al%20Governo%20per%20il%20recepimento%20delle%20direttive%20europee%20e%20lattuazione%20di%20altri%20atti%20dellUnione%20europea%20-%20Legge%20di%20delegazione%20europea%202016-2017.%2017G00177.md), recante delega al Governo per il recepimento delle direttive europee e l'attuazione di altri atti dell'Unione europea - Legge di delegazione europea 2016-2017, e in particolare l'articolo 1 e l'allegato A;
 
 Visto il testo unico delle disposizioni concernenti la disciplina dell'immigrazione e norme sulla condizione dello straniero, di cui al [decreto legislativo 25 luglio 1998, n. 286](Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero.md), e successive modificazioni;
 
@@ -28,7 +28,7 @@ Visto il [decreto del Presidente della Repubblica 31 agosto 1999, n. 394](../DPR
 
 Vista la preliminare deliberazione del Consiglio dei ministri, adottata nella riunione dell'8 febbraio 2018;
 
-Considerato che le competenti Commissioni parlamentari della Camera dei deputati e del Senato della Repubblica non hanno espresso il parere entro il termine di cui all'[articolo 31, comma 3, della legge 24 dicembre 2012, n. 234](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-24;234#art_31-com3);
+Considerato che le competenti Commissioni parlamentari della Camera dei deputati e del Senato della Repubblica non hanno espresso il parere entro il termine di cui all'[articolo 31, comma 3, della legge 24 dicembre 2012, n. 234](../Leggi%20di%20delegazione%20europea/Norme%20generali%20sulla%20partecipazione%20dellItalia%20alla%20formazione%20e%20allattuazione%20della%20normativa%20e%20delle%20politiche%20dellUnione%20europea.%2013G00003.md);
 
 Vista la deliberazione del Consiglio dei ministri, adottata nella riunione dell'8 maggio 2018;
 

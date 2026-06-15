@@ -14,7 +14,7 @@ VISTI gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cos
 
 VISTA la [direttiva 2004/54/CE del Parlamento europeo e del Consiglio, del 29 aprile 2004](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2004;54), relativa ai requisiti minimi di sicurezza per le gallerie della rete stradale transeuropea:
 
-VISTA la [legge 25 gennaio 2006, n. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-01-25;29), recante disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee. Legge comunitaria 2005;
+VISTA la [legge 25 gennaio 2006, n. 29](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%202005.md), recante disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee. Legge comunitaria 2005;
 
 VISTA la preliminare deliberazione del Consiglio dei Ministri, adottata nella riunione del 6 aprile 2006;
 
@@ -47,7 +47,7 @@ Avvertenza:
  - L'[art. 76 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) stabilisce che l'esercizio della funzione legislativa non puo' essere delegato al Governo se non con determinazione di principi e criteri direttivi e soltanto per tempo limitato e per oggetti definiti.
  - L'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87) conferisce, tra l'altro, al Presidente della Repubblica il potere di promulgare le leggi e di emanare i decreti aventi valore di legge ed i regolamenti.
  - La [direttiva 2004/54/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2004;54) e' pubblicata nella G.U.C.E. n. L 167 del 30 aprile 2004.
- - La [legge 25 gennaio 2006, n. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-01-25;29), e' pubblicata nella Gazzetta Ufficiale 8 febbraio 2006 n. 32, S.O.
+ - La [legge 25 gennaio 2006, n. 29](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%202005.md), e' pubblicata nella Gazzetta Ufficiale 8 febbraio 2006 n. 32, S.O.
  Nota all'art. 2:
  - La decisione n. 1692/96/CE e' pubblicata nella G.U.C.E. n. L 228 del 9 settembre 1996.
  Nota all'[art. 4:
@@ -364,7 +364,7 @@ In caso di ritardi nel processo di adeguamento delle gallerie ai requisiti di cu
 
 10.
 
-Le informazioni concernenti, in particolare, il cronoprogramma delle opere ed in generale l'avanzamento fisico, finanziario e procedurale delle stesse sono desunte dal sistema di monitoraggio di cui al [decreto legislativo 29 dicembre 2011, n. 229](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-12-29;229).
+Le informazioni concernenti, in particolare, il cronoprogramma delle opere ed in generale l'avanzamento fisico, finanziario e procedurale delle stesse sono desunte dal sistema di monitoraggio di cui al [decreto legislativo 29 dicembre 2011, n. 229](Attuazione%20dellarticolo%2030%20comma%209%20lettere%20e%20f%20e%20g%20della%20legge%2031%20dicembre%202009%20n.%20196%20in%20materia%20di%20procedure%20di%20monitoraggio%20sullo%20stato%20di%20attuazione%20delle%20opere%20pubbliche%20di%20verifica%20_e253888fc09f.md).
 
 ## Art. 10-ter. — (Disciplina transitoria del processo di adeguamento delle gallerie aperte al traffico ai requisiti minimi di sicurezza di cui all'articolo 3)
 

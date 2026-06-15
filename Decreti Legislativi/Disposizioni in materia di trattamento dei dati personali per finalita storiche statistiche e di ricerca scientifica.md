@@ -16,11 +16,11 @@ Visto l'[articolo 14 della legge 23 agosto 1988, n. 400](https://www.normattiva.
 
 Vista la [legge 31 dicembre 1996, n. 675](../Atti%20normativi%20abrogati%20%28in%20originale%29/Tutela%20delle%20persone%20e%20di%20altri%20soggetti%20rispetto%20al%20trattamento%20dei%20dati%20personali.md), e successive modificazioni ed integrazioni;
 
-Vista la [legge 31 dicembre 1996, n. 676](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-31;676), recante delega al Governo in materia di tutela delle persone e di altri soggetti rispetto al trattamento dei dati personali e le raccomandazioni del Consiglio d'Europa ivi citate;
+Vista la [legge 31 dicembre 1996, n. 676](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20in%20materia%20di%20tutela%20delle%20persone%20e%20di%20altri%20soggetti%20rispetto%20al%20trattamento%20dei%20dati%20personali.md), recante delega al Governo in materia di tutela delle persone e di altri soggetti rispetto al trattamento dei dati personali e le raccomandazioni del Consiglio d'Europa ivi citate;
 
 Visto il [decreto legislativo 11 maggio 1999, n. 135](Disposizioni%20integrative%20della%20legge%2031%20dicembre%201996%20n.%20675%20sul%20trattamento%20di%20dati%20sensibili%20da%20parte%20dei%20soggetti%20pubblici.md);
 
-Vista la [legge 6 ottobre 1998, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1998-10-06;344);
+Vista la [legge 6 ottobre 1998, n. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Differimento%20del%20termine%20per%20lesercizio%20della%20delega%20prevista%20dalla%20legge%2031%20dicembre%201996%20n.%20676%20in%20materia%20di%20trattamento%20dei%20dati%20personali.md);
 
 Visto il [decreto legislativo 5 giugno 1998, n. 204](Disposizioni%20per%20il%20coordinamento%20la%20programmazione%20e%20la%20valutazione%20della%20politica%20nazionale%20relativa%20alla%20ricerca%20scientifica%20e%20tecnologica%20a%20norma%20dellarticolo%2011%20comma%201%20lettera%20d%20del_1ce953a530de.md);
 

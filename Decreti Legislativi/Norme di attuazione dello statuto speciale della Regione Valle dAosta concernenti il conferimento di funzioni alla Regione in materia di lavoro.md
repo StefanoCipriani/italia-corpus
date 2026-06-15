@@ -12,9 +12,9 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[articolo 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge costituzionale 26 febbraio 1948, n. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1948-02-26;4), che approva lo statuto speciale per la Valle d'Aosta;
+Vista la [legge costituzionale 26 febbraio 1948, n. 4](../Leggi%20costituzionali/Statuto%20speciale%20per%20la%20Valle%20dAosta.md), che approva lo statuto speciale per la Valle d'Aosta;
 
-Vista la proposta della commissione paritetica prevista dall'articolo 48-bis dello statuto speciale, introdotto dall'[articolo 3 della legge costituzionale 23 settembre 1993, n. 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1993-09-23;2#art_3);
+Vista la proposta della commissione paritetica prevista dall'articolo 48-bis dello statuto speciale, introdotto dall'[articolo 3 della legge costituzionale 23 settembre 1993, n. 2](../Leggi%20costituzionali/Modifiche%20ed%20integrazioni%20agli%20statuti%20speciali%20per%20la%20Valle%20dAosta%20per%20la%20Sardegna%20per%20il%20Friuli-Venezia%20Giulia%20e%20per%20il%20Trentino-Alto%20Adige.md);
 
 Acquisito il parere del consiglio regionale della Valle d'Aosta, espresso nella seduta del 24 gennaio 2001;
 
@@ -39,7 +39,7 @@ Avvertenza:
  Note alle premesse:
  - L'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5) conferisce al Presidente della Repubblica il potere di promulgare leggi e di emanare i decreti aventi valore di leggi e regolamenti.
  - La legge costituzionale 26 febbraio 1948, n. 4, pubblicata nella Gazzetta Ufficiale n. 59 del 10 marzo 1948, reca: "Statuto speciale per la Valle d'Aosta".
- - La [legge costituzionale 23 settembre 1993, n. 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1993-09-23;2), e' stata pubblicata nella Gazzetta Ufficiale n. 226 del 25 settembre 1993; l'art. 48-bis, aggiunto dall'[art. 3 della legge costituzionale 23 settembre 1993, n. 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1993-09-23;2#art_3), e' il seguente:
+ - La [legge costituzionale 23 settembre 1993, n. 2](../Leggi%20costituzionali/Modifiche%20ed%20integrazioni%20agli%20statuti%20speciali%20per%20la%20Valle%20dAosta%20per%20la%20Sardegna%20per%20il%20Friuli-Venezia%20Giulia%20e%20per%20il%20Trentino-Alto%20Adige.md), e' stata pubblicata nella Gazzetta Ufficiale n. 226 del 25 settembre 1993; l'art. 48-bis, aggiunto dall'[art. 3 della legge costituzionale 23 settembre 1993, n. 2](../Leggi%20costituzionali/Modifiche%20ed%20integrazioni%20agli%20statuti%20speciali%20per%20la%20Valle%20dAosta%20per%20la%20Sardegna%20per%20il%20Friuli-Venezia%20Giulia%20e%20per%20il%20Trentino-Alto%20Adige.md), e' il seguente:
  "Art. 48-bis. - Il Governo e' delegato ad emanare uno o piu' decreti legislativi recanti le disposizioni di attuazione del presente statuto e le disposizioni per armonizzare la legislazione nazionale con l'ordinamento della regione Valle d'Aosta, tenendo conto delle particolari condizioni di autonomia attribuita alla regione.
  Gli schemi dei decreti legislativi sono elaborati da una commissione paritetica composta da sei membri nominati, rispettivamente, tre dal Governo e tre dal consiglio regionale della Valle d'Aosta e sono sottoposti al parere del consiglio stesso.".
 
@@ -217,10 +217,10 @@ In sede di prima applicazione le risorse da attribuire alla regione sono pari al
 
 3.
 
-Successivamente la determinazione dei rimborsi spettanti alla regione e' effettuata con cadenza triennale mediante intesa tra il Governo e il Presidente della giunta regionale tenendo conto delle disposizioni di cui al [comma 56 dell'articolo 2 della legge 28 dicembre 1995, n. 549](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-12-28;549#art_2-com56).
+Successivamente la determinazione dei rimborsi spettanti alla regione e' effettuata con cadenza triennale mediante intesa tra il Governo e il Presidente della giunta regionale tenendo conto delle disposizioni di cui al [comma 56 dell'articolo 2 della legge 28 dicembre 1995, n. 549](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_2.md).
 
 Nota all'art. 9:
- - Il testo del [comma 56 dell'art. 2 della legge 28 dicembre 1995, n. 549](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-12-28;549#art_2-com56) (Misure di razionalizzazione della finanza pubblica), e' il seguente:
+ - Il testo del [comma 56 dell'art. 2 della legge 28 dicembre 1995, n. 549](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_2.md) (Misure di razionalizzazione della finanza pubblica), e' il seguente:
  "56. Alle regioni a statuto speciale e alle province autonome di Trento e di Bolzano, con norme di attuazione, previo parere delle relative commissioni paritetiche, sono trasferite ulteriori funzioni per completare le competenze previste dai rispettivi statuti speciali; al fine di rendere possibile l'esercizio organico delle funzioni trasferite con le medesime norme di attuazione viene altresi' delegato alle regioni e province autonome stesse, per il rispettivo territorio, l'esercizio di funzioni legislative nonche' di quelle amministrative che, esercitate dagli uffici statali soppressi, residuano alle competenze dello Stato; al finanziamento degli oneri necessari per l'esercizio delle funzioni trasferite o delegate provvedono gli enti interessati, avvalendosi a tal fine delle risorse che sono determinate d'intesa con il Governo in modo da assicurare risparmi di spesa per il bilancio dello Stato e a condizione che il trasferimento effettivo venga completato entro il 30 giugno del rispettivo anno.".
 
 ## Art. 10. — Sistema informativo lavoro
@@ -242,7 +242,7 @@ Fermo restando che il Ministero del lavoro e della previdenza sociale esercita i
 A seguito del trasferimento delle dotazioni hardware, software e delle infrastrutture di rete, sono attribuite alla regione le attivita' di manutenzione e di conduzione degli impianti.
 
 Nota all'art. 10:
- - Il testo dell'[art. 11 del decreto legislativo 23 dicembre 1997, n. 469](Conferimento%20alle%20regioni%20e%20agli%20enti%20locali%20di%20funzioni%20e%20compiti%20in%20materia%20di%20mercato%20del%20lavoro%20a%20norma%20dellarticolo%201%20della%20legge%2015%20marzo%201997%20n.%2059.md) (Conferimento alle regioni e agli enti locali di funzioni e compiti in materia di mercato del lavoro, a norma dell'[art. 1 della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_1)), e' il seguente:
+ - Il testo dell'[art. 11 del decreto legislativo 23 dicembre 1997, n. 469](Conferimento%20alle%20regioni%20e%20agli%20enti%20locali%20di%20funzioni%20e%20compiti%20in%20materia%20di%20mercato%20del%20lavoro%20a%20norma%20dellarticolo%201%20della%20legge%2015%20marzo%201997%20n.%2059.md) (Conferimento alle regioni e agli enti locali di funzioni e compiti in materia di mercato del lavoro, a norma dell'[art. 1 della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md)), e' il seguente:
  "Art. 11 (Disposizioni transitorie). - 1. Con i decreti di cui all'art. 8 del presente decreto, il Presidente del Consiglio dei Ministri determina la decorrenza dell'esercizio, da parte delle regioni, delle funzioni conferite ai sensi dell'[art. 2 del decreto legislativo n. 469 del 1997](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997;469#art_2).
  2. Con separato provvedimento, sono ridefinite le dotazioni organiche del Ministero del lavoro e della previdenza sociale.".
 

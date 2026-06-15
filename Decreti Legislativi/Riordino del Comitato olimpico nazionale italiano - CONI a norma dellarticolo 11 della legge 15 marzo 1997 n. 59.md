@@ -18,7 +18,7 @@ Vista la [legge 16 febbraio 1942, n. 426](../Atti%20normativi%20abrogati%20%28in
 
 Vista la [legge 23 marzo 1981, n. 91](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-03-23;91);
 
-Vista la [legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59), ed in particolare gli articoli 11, comma 1, lettera b), e 14;
+Vista la [legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), ed in particolare gli articoli 11, comma 1, lettera b), e 14;
 
 Visto il [decreto legislativo 20 ottobre 1998, n. 368](Istituzione%20del%20Ministero%20per%20i%20beni%20e%20le%20attivita%20culturali%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md);
 
@@ -26,7 +26,7 @@ Ravvisata l'esigenza di operare il riordino del Comitato olimpico nazionale ital
 
 Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella riunione del 29 gennaio 1999;
 
-Acquisito il parere della Commissione parlamentare bicamerale istituita ai sensi dell'[articolo 5 della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_5);
+Acquisito il parere della Commissione parlamentare bicamerale istituita ai sensi dell'[articolo 5 della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md);
 
 Acquisito il parere della Conferenza unificata istituita ai sensi del [decreto legislativo 28 agosto 1997, n. 281](Definizione%20ed%20ampliamento%20delle%20attribuzioni%20della%20Conferenza%20permanente%20per%20i%20rapporti%20tra%20lo%20Stato%20le%20regioni%20e%20le%20province%20autonome%20di%20Trento%20e%20Bolzano%20ed%20unificazione%20per%20le%20materie%20_0f948c71aa72.md);
 
@@ -64,7 +64,7 @@ Avvertenza:
  - La [legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400), recante "Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri" e' pubblicata nel supplemento ordinario alla Gazzetta Ufficiale n. 214 del 12 settembre 1988.
  - La [legge 16 febbraio 1942, n. 426](../Atti%20normativi%20abrogati%20%28in%20originale%29/Costituzione%20e%20ordinamento%20del%20Comitato%20olimpico%20nazionale%20italiano%20C.O.N.I..%20042U0426.md), recante "Costituzione e ordinamento del Comitato olimpico nazionale italiano (CONI)" e' pubblicata nella Gazzetta Ufficiale n. 112 dell'11 maggio 1942.
  - La [legge 23 marzo 1981, n. 91](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-03-23;91), recante "Norme in materia di rapporti tra societa' e sportivi professionisti" e' pubblicata nella Gazzetta Ufficiale n. 86 del 27 marzo 1981.
- - Gli articoli 11, comma 1, lettera b), e 14 della [legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59), cosi' dispongono:
+ - Gli articoli 11, comma 1, lettera b), e 14 della [legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), cosi' dispongono:
  "Art. 11. - 1. Il Governo e' delegato ad emanare, entro il 31 gennaio 1999, uno o piu' decreti legislativi diretti a:
  a) (omissis);
  b) riordinare gli enti pubblici nazionali operanti in settori diversi dalla assistenza e previdenza, le istituzioni di diritto privato e le societa' per azioni, controllate direttamente o indirettamente dallo Stato, che operano, anche all'estero, nella promozione e nel sostegno pubblico al sistema produttivo nazionale".
@@ -75,7 +75,7 @@ Avvertenza:
  d) razionalizzazione ed omogeneizzazione dei poteri di vigilanza ministeriale, con esclusione, di norma, di rappresentanti ministeriali negli organi di amministrazione, e nuova disciplina del commissariamento degli enti;
  e) contenimento delle spese di funzionamento, anche attraverso ricorso obbligatorio a forme di comune utilizzo di contraenti ovvero di organi, in analogia a quanto previsto dall'[art. 20, comma 7, del decreto legislativo 3 febbraio 1993, n. 29](Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni;
  f) programmazione atta a favorire la mobilita' e l'ottimale utilizzo delle strutture impiantistiche".
- - Il [decreto legislativo 20 ottobre 1998, n. 68](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-10-20;68), recante "Istituzione del Ministero per i beni e le attivita' culturali, a norma dell'[art. 11 della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_11)", e' pubblicato nella Gazzetta Ufficiale n. 250 del 26 ottobre 1998.
+ - Il [decreto legislativo 20 ottobre 1998, n. 68](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-10-20;68), recante "Istituzione del Ministero per i beni e le attivita' culturali, a norma dell'[art. 11 della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md)", e' pubblicato nella Gazzetta Ufficiale n. 250 del 26 ottobre 1998.
 
 ## Art. 2. — Statuto
 
@@ -113,7 +113,7 @@ Sono organi del CONI:
                         d)
                             il segretario generale;
                         e)
-                            LETTERA SOPPRESSA DAL [D.LGS. 8 GENNAIO 2004, N. 15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004-01-08;15);
+                            LETTERA SOPPRESSA DAL [D.LGS. 8 GENNAIO 2004, N. 15](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Modifiche%20ed%20integrazioni%20al%20decreto%20legislativo%2023%20luglio%201999%20n.%20242%20recante%20Riordino%20del%20Comitato%20olimpico%20nazionale%20italiano%20-%20CONI%20ai%20sensi%20dellarticolo%201%20della%20legge%206%20luglio%202002%20n.%20137.md);
                         f)
                             il collegio dei revisori dei conti.
 
@@ -234,7 +234,7 @@ Tra i componenti di cui alla lettera c) del comma 1, almeno tre sono eletti tra 
 
 2.
 
-COMMA SOPPRESSO DAL [D.LGS. 8 GENNAIO 2004, N. 15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004-01-08;15).
+COMMA SOPPRESSO DAL [D.LGS. 8 GENNAIO 2004, N. 15](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Modifiche%20ed%20integrazioni%20al%20decreto%20legislativo%2023%20luglio%201999%20n.%20242%20recante%20Riordino%20del%20Comitato%20olimpico%20nazionale%20italiano%20-%20CONI%20ai%20sensi%20dellarticolo%201%20della%20legge%206%20luglio%202002%20n.%20137.md).
 
 3.
 
@@ -246,11 +246,11 @@ Alle riunioni della giunta nazionale partecipa, senza diritto di voto, il segret
 
 5.
 
-COMMA SOPPRESSO DAL [D.LGS. 8 GENNAIO 2004, N. 15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004-01-08;15).
+COMMA SOPPRESSO DAL [D.LGS. 8 GENNAIO 2004, N. 15](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Modifiche%20ed%20integrazioni%20al%20decreto%20legislativo%2023%20luglio%201999%20n.%20242%20recante%20Riordino%20del%20Comitato%20olimpico%20nazionale%20italiano%20-%20CONI%20ai%20sensi%20dellarticolo%201%20della%20legge%206%20luglio%202002%20n.%20137.md).
 
 6.
 
-COMMA SOPPRESSO DAL [D.LGS. 8 GENNAIO 2004, N. 15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004-01-08;15).
+COMMA SOPPRESSO DAL [D.LGS. 8 GENNAIO 2004, N. 15](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Modifiche%20ed%20integrazioni%20al%20decreto%20legislativo%2023%20luglio%201999%20n.%20242%20recante%20Riordino%20del%20Comitato%20olimpico%20nazionale%20italiano%20-%20CONI%20ai%20sensi%20dellarticolo%201%20della%20legge%206%20luglio%202002%20n.%20137.md).
 
 ## Art. 7. — Compiti della giunta nazionale
 
@@ -453,13 +453,13 @@ Gli statuti definiscono i poteri di vigilanza e controllo esercitabili dalla fed
 
 AGGIORNAMENTO (9)
 
-La Corte Costituzionale, con sentenza 5 luglio - 29 settembre 2023 (in G.U. 1ª s.s. 04/10/2023 n. 40), n. 184 ha dichiarato l'illegittimita' costituzionale "dell'art. 16, comma 2, ultimo periodo, del [decreto legislativo 23 luglio 1999, n. 242](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-07-23;242) (Riordino del Comitato olimpico nazionale italiano - CONI, a norma dell'[articolo 11 della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_11)), con riferimento all'inciso «, nonche' ai presidenti e ai membri degli organi direttivi delle strutture territoriali delle federazioni sportive nazionali e delle discipline sportive associate», nella parte in cui estendeva agli organi territoriali in questione il divieto posto dall'art. 16, comma 2, secondo periodo, del [d.lgs. n. 242 del 1999](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999;242), nel testo vigente prima delle modifiche di cui all'[art. 39-bis del decreto-legge 22 giugno 2023, n. 75](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2023-06-22;75#art_39bis), recante «Disposizioni urgenti in materia di organizzazione delle pubbliche amministrazioni, di agricoltura, di sport, di lavoro e per l'organizzazione del Giubileo della Chiesa cattolica per l'anno 2025», convertito, con modificazioni, nella [legge 10 agosto 2023, n. 112](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2022%20giugno%202023%20n.%2075%20recante%20disposizioni%20urgenti%20in%20materia%20di%20organizzazione%20delle%20pubbliche%20amministrazioni%20di%20agricoltura%20di%20s_8f60f2ffa42b.md)".
+La Corte Costituzionale, con sentenza 5 luglio - 29 settembre 2023 (in G.U. 1ª s.s. 04/10/2023 n. 40), n. 184 ha dichiarato l'illegittimita' costituzionale "dell'art. 16, comma 2, ultimo periodo, del [decreto legislativo 23 luglio 1999, n. 242](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20del%20Comitato%20olimpico%20nazionale%20italiano%20-%20CONI%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md) (Riordino del Comitato olimpico nazionale italiano - CONI, a norma dell'[articolo 11 della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md)), con riferimento all'inciso «, nonche' ai presidenti e ai membri degli organi direttivi delle strutture territoriali delle federazioni sportive nazionali e delle discipline sportive associate», nella parte in cui estendeva agli organi territoriali in questione il divieto posto dall'art. 16, comma 2, secondo periodo, del [d.lgs. n. 242 del 1999](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999;242), nel testo vigente prima delle modifiche di cui all'[art. 39-bis del decreto-legge 22 giugno 2023, n. 75](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2023-06-22;75#art_39bis), recante «Disposizioni urgenti in materia di organizzazione delle pubbliche amministrazioni, di agricoltura, di sport, di lavoro e per l'organizzazione del Giubileo della Chiesa cattolica per l'anno 2025», convertito, con modificazioni, nella [legge 10 agosto 2023, n. 112](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2022%20giugno%202023%20n.%2075%20recante%20disposizioni%20urgenti%20in%20materia%20di%20organizzazione%20delle%20pubbliche%20amministrazioni%20di%20agricoltura%20di%20s_8f60f2ffa42b.md)".
 
 ---------------
 
 AGGIORNAMENTO (12)
 
-Il [D.L. 31 dicembre 2024, n. 208](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2024-12-31;208) ha disposto (con l'art. 7, comma 1) che il comma 2 dell'articolo 16 del presente decreto e il [comma 2 dell'articolo 14 del decreto legislativo 27 febbraio 2017, n. 43](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-02-27;43#art_14-com2), si interpretano nel senso che gli stessi non si applicano agli enti pubblici che hanno anche natura di federazione sportiva, per i quali continua ad applicarsi quanto disposto dall'[articolo 6 della legge 24 gennaio 1978, n. 14](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-01-24;14#art_6).
+Il [D.L. 31 dicembre 2024, n. 208](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2024-12-31;208) ha disposto (con l'art. 7, comma 1) che il comma 2 dell'articolo 16 del presente decreto e il [comma 2 dell'articolo 14 del decreto legislativo 27 febbraio 2017, n. 43](Riorganizzazione%20delle%20amministrazioni%20pubbliche%20concernente%20il%20Comitato%20italiano%20paralimpico%20ai%20sensi%20dellarticolo%208%20comma%201%20lettera%20f%20della%20legge%207%20agosto%202015%20n.%20124.%2017G00056.md), si interpretano nel senso che gli stessi non si applicano agli enti pubblici che hanno anche natura di federazione sportiva, per i quali continua ad applicarsi quanto disposto dall'[articolo 6 della legge 24 gennaio 1978, n. 14](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-01-24;14#art_6).
 
 ## Art. 16-bis.
 

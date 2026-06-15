@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4), con le modificazioni ad esso apportate dall'[art. 3, comma primo, del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98#art_3-com1);
+Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4), con le modificazioni ad esso apportate dall'[art. 3, comma primo, del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Viste le disposizioni transitorie I e XV della Costituzione;
 
@@ -28,7 +28,7 @@ I termini di prescrizione e di decadenza stabiliti nei confronti dell'Amministra
 
 AGGIORNAMENTO (1)
 
-La [L. 23 dicembre 1948, n. 1451](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1948-12-23;1451) ha disposto (con l'art. 5, comma 1) che "Sono prorogati al 31 dicembre 1949 i termini di prescrizione e decadenza, stabiliti nei confronti dell'Amministrazione dello Stato, per l'applicazione delle imposte dirette, che ai sensi [...] del [decreto legislativo 12 marzo 1948, n. 318](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-03-12;318), [...] vengano a scadere entro il 31 dicembre 1948".
+La [L. 23 dicembre 1948, n. 1451](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1948-12-23;1451) ha disposto (con l'art. 5, comma 1) che "Sono prorogati al 31 dicembre 1949 i termini di prescrizione e decadenza, stabiliti nei confronti dell'Amministrazione dello Stato, per l'applicazione delle imposte dirette, che ai sensi [...] del [decreto legislativo 12 marzo 1948, n. 318](Proroga%20dei%20termini%20di%20prescrizione%20e%20di%20decadenza%20stabiliti%20nei%20confronti%20dellAmministrazione%20dello%20Stato%20per%20lapplicazione%20delle%20imposte%20dirette%20a%20carico%20di%20Enti%20e%20Societa%20tassabili%20in%20_42cd5622f45b.md), [...] vengano a scadere entro il 31 dicembre 1948".
 
 ## Art. 2.
 

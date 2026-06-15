@@ -89,7 +89,7 @@ Il [secondo comma dell'art. 26 del decreto del Presidente della Repubblica 26 lu
 
  
 AGGIORNAMENTO (1) 
- La Corte costituzionale, con sentenza 10 - 24 marzo 1994, n. 95 (in G.U. 1a s.s. 30/03/1994, n. 14) ha dichiarato "l'illegittimita' costituzionale dell'[art. 2 del decreto legislativo 6 luglio 1993, n. 291](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-07-06;291#art_2), recante "Norme di attuazione dello Statuto speciale della Regione Trentino-Alto Adige concernenti modifiche alle tabelle organiche degli uffici statali siti nella Provincia di Bolzano".
+ La Corte costituzionale, con sentenza 10 - 24 marzo 1994, n. 95 (in G.U. 1a s.s. 30/03/1994, n. 14) ha dichiarato "l'illegittimita' costituzionale dell'[art. 2 del decreto legislativo 6 luglio 1993, n. 291](Norme%20di%20attuazione%20dello%20statuto%20speciale%20della%20regione%20Trentino-%20Alto%20Adige%20concernenti%20modifiche%20alle%20tabelle%20organiche%20degli%20uffici%20statali%20siti%20nella%20provincia%20di%20Bolzano.md), recante "Norme di attuazione dello Statuto speciale della Regione Trentino-Alto Adige concernenti modifiche alle tabelle organiche degli uffici statali siti nella Provincia di Bolzano".
 
 ## Art. 3.
 

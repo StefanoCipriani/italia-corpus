@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4), con le modificazioni ad esso apportate dall'[art. 3, comma primo, del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98#art_3-com1);
+visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4), con le modificazioni ad esso apportate dall'[art. 3, comma primo, del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Viste le disposizioni transitorie I e XV della Costituzione;
 
@@ -34,13 +34,13 @@ Il termine previsto dall'art. 6 del citato [decreto luogotenenziale 12 aprile 19
 
 AGGIORNAMENTO (1)
 
-La [L. 26 febbraio 1949, n. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1949-02-26;82) ha disposto (con l'art. 1) che "Il funzionamento dell'Ufficio per il recupero delle opere d'arte e del materiale bibliografico, scientifico e didattico di cui ai [decreti legislativi 12 aprile 1946, n. 385 e 16 aprile 1948, n. 609](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-04-16;609), e' ulteriormente prorogato fino al 31 dicembre 1950".
+La [L. 26 febbraio 1949, n. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1949-02-26;82) ha disposto (con l'art. 1) che "Il funzionamento dell'Ufficio per il recupero delle opere d'arte e del materiale bibliografico, scientifico e didattico di cui ai [decreti legislativi 12 aprile 1946, n. 385 e 16 aprile 1948, n. 609](Integrazione%20del%20primo%20comma%20e%20del%20capoverso%20n.%201%20dellart.%201%20del%20decreto%20luogotenenziale%2012%20aprile%201946%20n.%20315%20e%20proroga%20del%20funzionamento%20dellUfficio%20per%20il%20recupero%20delle%20opere%20darte%20e%20_e02194219972.md), e' ulteriormente prorogato fino al 31 dicembre 1950".
 
 ---------------
 
 AGGIORNAMENTO (3)
 
-La [L. 11 aprile 1953, n. 323](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;323) ha disposto (con l'art. 1, comma 1) che "Il funzionamento dell'Ufficio per il ricupero delle opere d'arte e del materiale bibliografico, scientifico e didattico di cui al [decreto luogotenenziale 12 aprile 1946, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-04-12;385), al [decreto legislativo 16 aprile 1948, n. 609](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-04-16;609), ed alla [legge 26 febbraio 1949, n. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1949-02-26;82), e' prorogato fino al 31 dicembre 1954".
+La [L. 11 aprile 1953, n. 323](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;323) ha disposto (con l'art. 1, comma 1) che "Il funzionamento dell'Ufficio per il ricupero delle opere d'arte e del materiale bibliografico, scientifico e didattico di cui al [decreto luogotenenziale 12 aprile 1946, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-04-12;385), al [decreto legislativo 16 aprile 1948, n. 609](Integrazione%20del%20primo%20comma%20e%20del%20capoverso%20n.%201%20dellart.%201%20del%20decreto%20luogotenenziale%2012%20aprile%201946%20n.%20315%20e%20proroga%20del%20funzionamento%20dellUfficio%20per%20il%20recupero%20delle%20opere%20darte%20e%20_e02194219972.md), ed alla [legge 26 febbraio 1949, n. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1949-02-26;82), e' prorogato fino al 31 dicembre 1954".
  Ha inoltre disposto (con l'art. 2, comma 1) che la suddetta modifica ha effetto dal 1 gennaio 1951.
 
 ## Art. 3.

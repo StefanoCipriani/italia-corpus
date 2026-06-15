@@ -24,7 +24,7 @@ Visto, in particolare, l'articolo 24, comma 13, che prevede che, qualora il term
 
 Visto, altresi', l'articolo 24, comma 15, che stabilisce che dall'attuazione della citata delega non devono derivare nuovi o maggiori oneri a carico della finanza pubblica e che le Amministrazioni interessate provvedono agli adempimenti di rispettiva competenza con le risorse umane, strumentali e finanziarie disponibili a legislazione vigente, nonche' che, in conformita' all'[articolo 17, comma 2, della legge 31 dicembre 2009, n. 196](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-12-31;196#art_17-com2), qualora il decreto legislativo di cui al citato comma 11 determini nuovi o maggiori oneri che non trovino compensazione al proprio interno, il decreto stesso e' emanato solo successivamente o contestualmente alla data di entrata in vigore dei provvedimenti legislativi che stanzino le occorrenti risorse finanziarie;
 
-Vista la [legge 28 dicembre 2015, n. 208](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-12-28;208), recante disposizioni per la formazione del bilancio annuale e pluriennale dello Stato (legge di stabilita' 2016);
+Vista la [legge 28 dicembre 2015, n. 208](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202016.%2015G00222.md), recante disposizioni per la formazione del bilancio annuale e pluriennale dello Stato (legge di stabilita' 2016);
 
 Visto il [decreto-legge 30 dicembre 1997, n. 457](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1997-12-30;457), convertito, con modificazioni, dalla [legge 27 febbraio 1998, n. 30](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%201997%20n.%20457%20recante%20disposizioni%20urgenti%20per%20lo%20sviluppo%20del%20settore%20dei%20trasporti%20e%20lincremento%20delloccupazione.md), e successive modificazioni, recante disposizioni urgenti per lo sviluppo del settore dei trasporti e l'incremento dell'occupazione.
 
@@ -229,7 +229,7 @@ Note all'art. 7:
 
 1.
 
-A decorrere dal primo giorno del secondo mese successivo all'entrata in vigore del presente decreto legislativo, all'[articolo 1, comma 621, della legge 28 dicembre 2015, n. 208](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-12-28;208#art_1-com621) (legge di stabilita' 2016), sono apportate le seguenti modificazioni:
+A decorrere dal primo giorno del secondo mese successivo all'entrata in vigore del presente decreto legislativo, all'[articolo 1, comma 621, della legge 28 dicembre 2015, n. 208](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202016.%2015G00222.md) (legge di stabilita' 2016), sono apportate le seguenti modificazioni:
                         a)
                             alla lettera d) le parole: «39,» sono soppresse e sono aggiunte, in fine, le seguenti: «e i diritti di cui all'articolo 55 sono fissati in euro 25.»;
                         b)
@@ -237,7 +237,7 @@ A decorrere dal primo giorno del secondo mese successivo all'entrata in vigore d
  «d-bis) i diritti di cui all'articolo 74 sono fissati in euro 50.».
 
 Note all'art. 8: 
- - Si riporta il testo dell'[art. 1, comma 621, della legge 28 dicembre 2015, n. 208](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-12-28;208#art_1-com621) (Disposizioni per la formazione del bilancio annuale e pluriennale dello Stato-legge di stabilita' 2016), pubblicata nella Gazzetta Ufficiale 30 dicembre 2015, n. 302, S.O., come modificato dal presente decreto a decorrere dal primo giorno del secondo mese successivo all'entrata in vigore dello stesso: 
+ - Si riporta il testo dell'[art. 1, comma 621, della legge 28 dicembre 2015, n. 208](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202016.%2015G00222.md) (Disposizioni per la formazione del bilancio annuale e pluriennale dello Stato-legge di stabilita' 2016), pubblicata nella Gazzetta Ufficiale 30 dicembre 2015, n. 302, S.O., come modificato dal presente decreto a decorrere dal primo giorno del secondo mese successivo all'entrata in vigore dello stesso: 
  «621. Alla tabella dei diritti consolari da riscuotere dagli uffici diplomatici e consolari, allegata al [decreto legislativo 3 febbraio 2011, n. 71](Ordinamento%20e%20funzioni%20degli%20uffici%20consolari%20ai%20sensi%20dellarticolo%2014%20comma%2018%20della%20legge%2028%20novembre%202005%20n.%20246.%2011G0109.md), sono apportate le seguenti modificazioni: 
  a) gli importi dei diritti fissi di cui alle sezioni I, IV e VII, eccetto quello previsto dall'art. 7-bis, sono aumentati del 20 per cento con arrotondamento all'importo intero superiore; 
  b) gli importi dei diritti fissi di cui alle sezioni II, VI, VIII e IX sono aumentati del 40 per cento con arrotondamento all'importo intero superiore; 

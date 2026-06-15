@@ -367,7 +367,7 @@ L'attivita' di controllo ufficiale e' prerogativa delle «Autorita' competenti»
 
 2.
 
-Al fine di permettere il coerente adeguamento del sistema di vigilanza, le «Autorita' competenti» di cui all'articolo 2, comma 2, l'Agenzia delle dogane, la Guardia di finanza e gli Uffici di sanita' marittima, aerea e di frontiera (USMAF) individuano le modalita' di coordinamento adeguate per attuare il regolamento anche in coerenza con i principi dello sportello unico doganale, istituito dall'[articolo 4, comma 57, della legge 24 dicembre 2003, n. 350](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-12-24;350#art_4-com57), e le disposizioni di cui al [decreto del Presidente del Consiglio dei Ministri 4 novembre 2010, n. 242](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2010-11-04;242).
+Al fine di permettere il coerente adeguamento del sistema di vigilanza, le «Autorita' competenti» di cui all'articolo 2, comma 2, l'Agenzia delle dogane, la Guardia di finanza e gli Uffici di sanita' marittima, aerea e di frontiera (USMAF) individuano le modalita' di coordinamento adeguate per attuare il regolamento anche in coerenza con i principi dello sportello unico doganale, istituito dall'[articolo 4, comma 57, della legge 24 dicembre 2003, n. 350](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202004.md), e le disposizioni di cui al [decreto del Presidente del Consiglio dei Ministri 4 novembre 2010, n. 242](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2010-11-04;242).
 
 3.
 
@@ -378,7 +378,7 @@ I soggetti pubblici interessati svolgono le attivita' di controllo ufficiale di 
 I soggetti che svolgono l'attivita' di controllo ufficiale di cui al presente articolo sono tenuti agli obblighi di riservatezza relativamente alle informazioni acquisite, in conformita' alla legislazione vigente.
 
 Note all'art. 12: 
- - Il testo dell'[art. 4, comma 57, della legge 24 dicembre 2003, n. 350](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-12-24;350#art_4-com57) (Disposizioni per la formazione del bilancio annuale e pluriennale dello Stato-legge finanziaria 2004), pubblicata nella Gazzetta Ufficiale 27 dicembre 2003, n. 299, cosi' recita: 
+ - Il testo dell'[art. 4, comma 57, della legge 24 dicembre 2003, n. 350](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202004.md) (Disposizioni per la formazione del bilancio annuale e pluriennale dello Stato-legge finanziaria 2004), pubblicata nella Gazzetta Ufficiale 27 dicembre 2003, n. 299, cosi' recita: 
  «(Omissis). 
  57. Presso gli uffici dell'Agenzia delle dogane, e' istituito lo «sportello unico doganale», per semplificare le operazioni di importazione ed esportazione e per concentrare i termini delle attivita' istruttorie, anche di competenza di amministrazioni diverse, connesse alle predette operazioni. 
  (Omissis)». 
@@ -402,7 +402,7 @@ I proventi delle sanzioni amministrative pecuniarie previste per le violazioni d
 
 AGGIORNAMENTO (1)
 
-La Corte Costituzionale, con sentenza 19 - 30 novembre 2012, n. 271 (in G.U. 1a s.s. 5/12/2012, n. 48), ha dichiarato "l'illegittimita' costituzionale dell'[articolo 13, comma 3, del decreto legislativo 27 ottobre 2011, n. 186](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-10-27;186#art_13-com3) (Disciplina sanzionatoria per la violazione delle disposizioni del regolamento CE n. 1272/2008 relativo alla classificazione, all'etichettatura e all'imballaggio di sostanze e miscele, che modifica ed abroga le [direttive 67/548/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1967;548) e [1999/45/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1999;45) e che reca modifica al regolamento CE n. 1907/2006), nella parte in cui non prevede che i proventi delle sanzioni amministrative pecuniarie da versare all'entrata del bilancio dello Stato siano quelli di competenza statale".
+La Corte Costituzionale, con sentenza 19 - 30 novembre 2012, n. 271 (in G.U. 1a s.s. 5/12/2012, n. 48), ha dichiarato "l'illegittimita' costituzionale dell'[articolo 13, comma 3, del decreto legislativo 27 ottobre 2011, n. 186](Disciplina%20sanzionatoria%20per%20la%20violazione%20delle%20disposizioni%20del%20regolamento%20CE%20n.%201272-2008%20relativo%20alla%20classificazione%20alletichettatura%20e%20allimballaggio%20di%20sostanze%20e%20miscele%20che%20mod_62ff72f61832.md) (Disciplina sanzionatoria per la violazione delle disposizioni del regolamento CE n. 1272/2008 relativo alla classificazione, all'etichettatura e all'imballaggio di sostanze e miscele, che modifica ed abroga le [direttive 67/548/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1967;548) e [1999/45/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1999;45) e che reca modifica al regolamento CE n. 1907/2006), nella parte in cui non prevede che i proventi delle sanzioni amministrative pecuniarie da versare all'entrata del bilancio dello Stato siano quelli di competenza statale".
 
 ## Art. 14. — Disposizioni finali
 

@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge 6 febbraio 2007, n. 13](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-02-06;13), recante delega al Governo per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee - legge comunitaria 2006, ed in particolare l'articolo 1, commi 1 e 3, e l'allegato B;
+Vista la [legge 6 febbraio 2007, n. 13](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%202006.md), recante delega al Governo per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee - legge comunitaria 2006, ed in particolare l'articolo 1, commi 1 e 3, e l'allegato B;
 
 Vista la [direttiva 2006/7/CE del Parlamento europeo e del Consiglio, del 15 febbraio 2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2006;7), relativa alla gestione della qualita' delle acque di balneazione e che abroga la [direttiva 76/160/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1976;160);
 
@@ -78,7 +78,7 @@ Avvertenza:
  Note alle premesse:
  - L'[art. 76 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) stabilisce che l'esercizio della funzione legislativa non puo' essere delegato al Governo se non con determinazione di principi e criteri direttivi e soltanto per tempo limitato e per oggetti definiti.
  - L'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87) conferisce, tra l'altro, al Presidente della Repubblica il potere di promulgare le leggi e di emanare i decreti aventi valore di legge ed i regolamenti.
- - La [legge 6 febbraio 2007, n. 13](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-02-06;13), e' pubblicata nella Gazzetta Ufficiale del 17 febbraio 2007, n. 40, supplemento ordinario.
+ - La [legge 6 febbraio 2007, n. 13](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%202006.md), e' pubblicata nella Gazzetta Ufficiale del 17 febbraio 2007, n. 40, supplemento ordinario.
  - La [direttiva 2006/7/CE del Parlamento europeo e del Consiglio](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2006;7) relativa alla gestione della qualita' delle acque di balneazione e che abroga la [direttiva 76/160/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1976;160) e' pubblicata nella G.U.U.E. 4 marzo 2006.
  - Il [decreto del Presidente della Repubblica 8 giugno 1982, n. 470](../DPR/Attuazione%20della%20direttiva%20CEE%20n.%2076-160%20relativa%20alla%20qualita%20delle%20acque%20di%20balneazione.md), e' pubblicato nella Gazzetta Ufficiale del 26 luglio 1982, n. 203.
  - Il [decreto legislativo 11 luglio 2007, n. 94](Attuazione%20della%20direttiva%202006-7-CE%20concernente%20la%20gestione%20delle%20acque%20di%20balneazione%20nella%20parte%20relativa%20allossigeno%20disciolto.md), e' pubblicato nella Gazzetta Ufficiale del 16 luglio 2007, n. 163.

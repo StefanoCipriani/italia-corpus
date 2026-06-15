@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge 3 febbraio 2003, n. 14](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-02-03;14), ed in particolare gli articoli 1 e 2 e l'allegato B;
+Vista la [legge 3 febbraio 2003, n. 14](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%202002.md), ed in particolare gli articoli 1 e 2 e l'allegato B;
 
 Vista la [direttiva 2001/110/CE del Consiglio, del 20 dicembre 2001](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2001;110);
 

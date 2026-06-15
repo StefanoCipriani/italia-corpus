@@ -40,7 +40,7 @@ Nell'[art. 2 del decreto del Presidente della Repubblica 19 novembre 1987, n. 52
 1.
 
 Al [comma 4 dell'art. 2 del decreto del Presidente della Repubblica 19 novembre 1987, n. 527](../DPR/Norme%20di%20attuazione%20dello%20statuto%20speciale%20per%20il%20Trentino-Alto%20Adige%20in%20materia%20di%20comunicazioni%20e%20trasporti%20di%20interesse%20provinciale.md), e' aggiunto, in fine, il seguente periodo: 
- "Restano altresi' a carico dello Stato gli interventi previsti dall'[articolo 2, comma 3, della legge 22 dicembre 1986, n. 910](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-12-22;910#art_2-com3), per investimenti ferroviari.".
+ "Restano altresi' a carico dello Stato gli interventi previsti dall'[articolo 2, comma 3, della legge 22 dicembre 1986, n. 910](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201987.md), per investimenti ferroviari.".
 
 ((Registrato alla Corte dei conti il 29 maggio 19991, Atti di Governo, registro n. 83, foglio n. 57))
 

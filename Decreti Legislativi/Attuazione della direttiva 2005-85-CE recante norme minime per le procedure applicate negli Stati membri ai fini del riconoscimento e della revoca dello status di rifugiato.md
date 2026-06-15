@@ -14,7 +14,7 @@ Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cos
 
 Vista la [direttiva 2005/85/CE del Consiglio, del 1° dicembre 2005](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2005;85), recante norme minime per le procedure applicate negli Stati membri ai fini del riconoscimento dello status di rifugiato;
 
-Vista la [legge 6 febbraio 2007, n. 13](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-02-06;13), recante disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alla Comunita' europea - legge comunitaria 2006, ed in particolare l'articolo 12 relativo all'attuazione della [direttiva 2005/85/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2005;85);
+Vista la [legge 6 febbraio 2007, n. 13](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%202006.md), recante disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alla Comunita' europea - legge comunitaria 2006, ed in particolare l'articolo 12 relativo all'attuazione della [direttiva 2005/85/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2005;85);
 
 Visto il [decreto legislativo 19 novembre 2007, n. 251](Attuazione%20della%20direttiva%202004-83-CE%20recante%20norme%20minime%20sullattribuzione%20a%20cittadini%20di%20Paesi%20terzi%20o%20apolidi%20della%20qualifica%20del%20rifugiato%20o%20di%20persona%20altrimenti%20bisognosa%20di%20protezi_cf8ba63277ef.md), concernente l'attuazione della [direttiva 2004/83/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2004;83) recante norme minime sull'attribuzione, a cittadini di Paesi terzi o apolidi, della qualifica del rifugiato o di persona altrimenti bisognosa di protezione internazionale, nonche' norme minime sul contenuto della protezione riconosciuta;
 
@@ -228,7 +228,7 @@ Le attivita' di supporto delle commissioni sono svolte dal personale in servizio
 
 AGGIORNAMENTO (10)
 
-Il [D.Lgs. 22 dicembre 2017, n. 220](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-12-22;220), ha disposto (con l'art. 4, comma 1) che "Fino alla nomina dei componenti di cui al contingente di personale altamente qualificato per l'esercizio di funzioni di carattere specialistico di cui all'[articolo 12 del decreto-legge 17 febbraio 2017, n. 13](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2017-02-17;13#art_12), convertito, con modificazioni, dalla [legge 13 aprile 2017, n. 46](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2017%20febbraio%202017%20n.%2013%20recante%20disposizioni%20urgenti%20per%20laccelerazione%20dei%20procedimenti%20in%20materia%20di%20protezione%20internazionale%20no_c487681bafc4.md), le Commissioni territoriali per il riconoscimento della protezione internazionale di cui all'[articolo 4 del decreto legislativo 28 gennaio 2008, n. 25](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202005-85-CE%20recante%20norme%20minime%20per%20le%20procedure%20applicate%20negli%20Stati%20membri%20ai%20fini%20del%20riconoscimento%20e%20della%20revoca%20dello%20status%20di%20rifugiato.md), continuano ad operare nella composizione e con le modalita' vigenti alla data di entrata in vigore del presente decreto".
+Il [D.Lgs. 22 dicembre 2017, n. 220](Disposizioni%20integrative%20e%20correttive%20del%20decreto%20legislativo%2018%20agosto%202015%20n.%20142%20di%20attuazione%20della%20direttiva%202013-33-UE%20recante%20norme%20relative%20allaccoglienza%20dei%20richiedenti%20protezio_ceb0f9978397.md), ha disposto (con l'art. 4, comma 1) che "Fino alla nomina dei componenti di cui al contingente di personale altamente qualificato per l'esercizio di funzioni di carattere specialistico di cui all'[articolo 12 del decreto-legge 17 febbraio 2017, n. 13](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2017-02-17;13#art_12), convertito, con modificazioni, dalla [legge 13 aprile 2017, n. 46](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2017%20febbraio%202017%20n.%2013%20recante%20disposizioni%20urgenti%20per%20laccelerazione%20dei%20procedimenti%20in%20materia%20di%20protezione%20internazionale%20no_c487681bafc4.md), le Commissioni territoriali per il riconoscimento della protezione internazionale di cui all'[articolo 4 del decreto legislativo 28 gennaio 2008, n. 25](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202005-85-CE%20recante%20norme%20minime%20per%20le%20procedure%20applicate%20negli%20Stati%20membri%20ai%20fini%20del%20riconoscimento%20e%20della%20revoca%20dello%20status%20di%20rifugiato.md), continuano ad operare nella composizione e con le modalita' vigenti alla data di entrata in vigore del presente decreto".
 
 ### Art. 5. — Commissione nazionale per il diritto di asilo
 
@@ -729,7 +729,7 @@ L'autorita' che riceve la domanda ai sensi del comma 5 informa immediatamente il
 
 AGGIORNAMENTO (10)
 
-Il [D.Lgs. 22 dicembre 2017, n. 220](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-12-22;220), ha disposto (con l'art. 4, comma 2) che "Le disposizioni di cui all'articolo 2, comma 1, lettera b), e comma 2, si applicano in relazione alle comunicazioni effettuate dopo il trentesimo giorno dalla data di entrata in vigore del presente decreto; le disposizioni di cui all'articolo 2, comma 1, lettera c), numero 2), si applicano in relazione agli esami socio-sanitari disposti dopo la data di entrata in vigore del presente decreto".
+Il [D.Lgs. 22 dicembre 2017, n. 220](Disposizioni%20integrative%20e%20correttive%20del%20decreto%20legislativo%2018%20agosto%202015%20n.%20142%20di%20attuazione%20della%20direttiva%202013-33-UE%20recante%20norme%20relative%20allaccoglienza%20dei%20richiedenti%20protezio_ceb0f9978397.md), ha disposto (con l'art. 4, comma 2) che "Le disposizioni di cui all'articolo 2, comma 1, lettera b), e comma 2, si applicano in relazione alle comunicazioni effettuate dopo il trentesimo giorno dalla data di entrata in vigore del presente decreto; le disposizioni di cui all'articolo 2, comma 1, lettera c), numero 2), si applicano in relazione agli esami socio-sanitari disposti dopo la data di entrata in vigore del presente decreto".
 
 ### Art. 27. — Procedure di esame
 
@@ -1018,57 +1018,57 @@ I provvedimenti comunicati alla Commissione nazionale ovvero alle Commissioni te
 
 3.
 
-COMMA ABROGATO DAL [D.LGS. 1 SETTEMBRE 2011, N. 150](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-09-01;150). (3)
+COMMA ABROGATO DAL [D.LGS. 1 SETTEMBRE 2011, N. 150](Disposizioni%20complementari%20al%20codice%20di%20procedura%20civile%20in%20materia%20di%20riduzione%20e%20semplificazione%20dei%20procedimenti%20civili%20di%20cognizione%20ai%20sensi%20dellarticolo%2054%20della%20legge%2018%20giugno%20200_79c74cc89038.md). (3)
 
 4.
 
-COMMA ABROGATO DAL [D.LGS. 1 SETTEMBRE 2011, N. 150](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-09-01;150). (3)
+COMMA ABROGATO DAL [D.LGS. 1 SETTEMBRE 2011, N. 150](Disposizioni%20complementari%20al%20codice%20di%20procedura%20civile%20in%20materia%20di%20riduzione%20e%20semplificazione%20dei%20procedimenti%20civili%20di%20cognizione%20ai%20sensi%20dellarticolo%2054%20della%20legge%2018%20giugno%20200_79c74cc89038.md). (3)
 
 5.
 
-COMMA ABROGATO DAL [D.LGS. 1 SETTEMBRE 2011, N. 150](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-09-01;150). (3)
+COMMA ABROGATO DAL [D.LGS. 1 SETTEMBRE 2011, N. 150](Disposizioni%20complementari%20al%20codice%20di%20procedura%20civile%20in%20materia%20di%20riduzione%20e%20semplificazione%20dei%20procedimenti%20civili%20di%20cognizione%20ai%20sensi%20dellarticolo%2054%20della%20legge%2018%20giugno%20200_79c74cc89038.md). (3)
 
 6.
 
-COMMA ABROGATO DAL [D.LGS. 1 SETTEMBRE 2011, N. 150](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-09-01;150). (3)
+COMMA ABROGATO DAL [D.LGS. 1 SETTEMBRE 2011, N. 150](Disposizioni%20complementari%20al%20codice%20di%20procedura%20civile%20in%20materia%20di%20riduzione%20e%20semplificazione%20dei%20procedimenti%20civili%20di%20cognizione%20ai%20sensi%20dellarticolo%2054%20della%20legge%2018%20giugno%20200_79c74cc89038.md). (3)
 
 7.
 
-COMMA ABROGATO DAL [D.LGS. 1 SETTEMBRE 2011, N. 150](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-09-01;150). (3)
+COMMA ABROGATO DAL [D.LGS. 1 SETTEMBRE 2011, N. 150](Disposizioni%20complementari%20al%20codice%20di%20procedura%20civile%20in%20materia%20di%20riduzione%20e%20semplificazione%20dei%20procedimenti%20civili%20di%20cognizione%20ai%20sensi%20dellarticolo%2054%20della%20legge%2018%20giugno%20200_79c74cc89038.md). (3)
 
 8.
 
-COMMA ABROGATO DAL [D.LGS. 1 SETTEMBRE 2011, N. 150](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-09-01;150). (3)
+COMMA ABROGATO DAL [D.LGS. 1 SETTEMBRE 2011, N. 150](Disposizioni%20complementari%20al%20codice%20di%20procedura%20civile%20in%20materia%20di%20riduzione%20e%20semplificazione%20dei%20procedimenti%20civili%20di%20cognizione%20ai%20sensi%20dellarticolo%2054%20della%20legge%2018%20giugno%20200_79c74cc89038.md). (3)
 
 9.
 
-COMMA ABROGATO DAL [D.LGS. 1 SETTEMBRE 2011, N. 150](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-09-01;150). (3)
+COMMA ABROGATO DAL [D.LGS. 1 SETTEMBRE 2011, N. 150](Disposizioni%20complementari%20al%20codice%20di%20procedura%20civile%20in%20materia%20di%20riduzione%20e%20semplificazione%20dei%20procedimenti%20civili%20di%20cognizione%20ai%20sensi%20dellarticolo%2054%20della%20legge%2018%20giugno%20200_79c74cc89038.md). (3)
 
 10.
 
-COMMA ABROGATO DAL [D.LGS. 1 SETTEMBRE 2011, N. 150](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-09-01;150). (3)
+COMMA ABROGATO DAL [D.LGS. 1 SETTEMBRE 2011, N. 150](Disposizioni%20complementari%20al%20codice%20di%20procedura%20civile%20in%20materia%20di%20riduzione%20e%20semplificazione%20dei%20procedimenti%20civili%20di%20cognizione%20ai%20sensi%20dellarticolo%2054%20della%20legge%2018%20giugno%20200_79c74cc89038.md). (3)
 
 11.
 
-COMMA ABROGATO DAL [D.LGS. 1 SETTEMBRE 2011, N. 150](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-09-01;150). (3)
+COMMA ABROGATO DAL [D.LGS. 1 SETTEMBRE 2011, N. 150](Disposizioni%20complementari%20al%20codice%20di%20procedura%20civile%20in%20materia%20di%20riduzione%20e%20semplificazione%20dei%20procedimenti%20civili%20di%20cognizione%20ai%20sensi%20dellarticolo%2054%20della%20legge%2018%20giugno%20200_79c74cc89038.md). (3)
 
 12.
 
-COMMA ABROGATO DAL [D.LGS. 1 SETTEMBRE 2011, N. 150](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-09-01;150). (3)
+COMMA ABROGATO DAL [D.LGS. 1 SETTEMBRE 2011, N. 150](Disposizioni%20complementari%20al%20codice%20di%20procedura%20civile%20in%20materia%20di%20riduzione%20e%20semplificazione%20dei%20procedimenti%20civili%20di%20cognizione%20ai%20sensi%20dellarticolo%2054%20della%20legge%2018%20giugno%20200_79c74cc89038.md). (3)
 
 13.
 
-COMMA ABROGATO DAL [D.LGS. 1 SETTEMBRE 2011, N. 150](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-09-01;150). (3)
+COMMA ABROGATO DAL [D.LGS. 1 SETTEMBRE 2011, N. 150](Disposizioni%20complementari%20al%20codice%20di%20procedura%20civile%20in%20materia%20di%20riduzione%20e%20semplificazione%20dei%20procedimenti%20civili%20di%20cognizione%20ai%20sensi%20dellarticolo%2054%20della%20legge%2018%20giugno%20200_79c74cc89038.md). (3)
 
 14.
 
-COMMA ABROGATO DAL [D.LGS. 1 SETTEMBRE 2011, N. 150](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-09-01;150). (3)
+COMMA ABROGATO DAL [D.LGS. 1 SETTEMBRE 2011, N. 150](Disposizioni%20complementari%20al%20codice%20di%20procedura%20civile%20in%20materia%20di%20riduzione%20e%20semplificazione%20dei%20procedimenti%20civili%20di%20cognizione%20ai%20sensi%20dellarticolo%2054%20della%20legge%2018%20giugno%20200_79c74cc89038.md). (3)
 
 ---------------
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. 1 settembre 2011, n. 150](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-09-01;150) ha disposto (con l'art. 36, comma 1) che "Le norme del presente decreto si applicano ai procedimenti instaurati successivamente alla data di entrata in vigore dello stesso." 
+Il [D.Lgs. 1 settembre 2011, n. 150](Disposizioni%20complementari%20al%20codice%20di%20procedura%20civile%20in%20materia%20di%20riduzione%20e%20semplificazione%20dei%20procedimenti%20civili%20di%20cognizione%20ai%20sensi%20dellarticolo%2054%20della%20legge%2018%20giugno%20200_79c74cc89038.md) ha disposto (con l'art. 36, comma 1) che "Le norme del presente decreto si applicano ai procedimenti instaurati successivamente alla data di entrata in vigore dello stesso." 
  Ha inoltre disposto (con l'art. 36, comma 2) che "Le norme abrogate o modificate dal presente decreto continuano ad applicarsi alle controversie pendenti alla data di entrata in vigore dello stesso."
 
 ---------------

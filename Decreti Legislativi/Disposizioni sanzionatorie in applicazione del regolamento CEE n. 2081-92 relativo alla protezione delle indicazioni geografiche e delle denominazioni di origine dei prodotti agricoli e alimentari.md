@@ -18,9 +18,9 @@ Vista la [legge 21 dicembre 1999, n. 526](../Atti%20di%20recepimento%20direttive
 
 Vista la [legge 24 novembre 1981, n. 689](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689), recante modifiche al sistema penale;
 
-Visto il [decreto legislativo 30 dicembre 1999, n. 507](Depenalizzazione%20dei%20reati%20minori%20e%20riforma%20del%20sistema%20sanzionatorio%20ai%20sensi%20dellarticolo%201%20della%20legge%2025%20giugno%201999%20n.%20205.md), recante depenalizzazione dei reati minori e riforma del sistema sanzionatorio, ai sensi dell'[articolo 1 della legge 25 giugno 1999, n. 205](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-06-25;205#art_1);
+Visto il [decreto legislativo 30 dicembre 1999, n. 507](Depenalizzazione%20dei%20reati%20minori%20e%20riforma%20del%20sistema%20sanzionatorio%20ai%20sensi%20dellarticolo%201%20della%20legge%2025%20giugno%201999%20n.%20205.md), recante depenalizzazione dei reati minori e riforma del sistema sanzionatorio, ai sensi dell'[articolo 1 della legge 25 giugno 1999, n. 205](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20depenalizzazione%20dei%20reati%20minori%20e%20modifiche%20al%20sistema%20penale%20e%20tributario.md);
 
-Vista la [legge 3 febbraio 2003, n. 14](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-02-03;14), recante disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee (legge comunitaria 2002) ed in particolare l'articolo 3;
+Vista la [legge 3 febbraio 2003, n. 14](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%202002.md), recante disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee (legge comunitaria 2002) ed in particolare l'articolo 3;
 
 Visto il [decreto del Ministro delle politiche agricole e forestali 12 settembre 2000, n. 410](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.politiche.agricole.forestali:decreto:2000-09-12;410), recante adozione del regolamento concernente la ripartizione dei costi derivanti dalle attivita' dei Consorzi di tutela delle denominazioni di origine e delle indicazioni geografiche protette, incaricati dal Ministero delle politiche agricole e forestali;
 
@@ -152,7 +152,7 @@ La struttura di cui al comma 1 che, nell'espletamento delle attivita' di control
 
 AGGIORNAMENTO (4)
 
-La Corte Costituzionale con sentenza 	11 gennaio - 10 marzo 2023, n. 40 (in G.U. 1ª s.s. 15/03/2023, n. 11) ha dichiarato "l'illegittimita' costituzionale dell'art. 4, comma 1, primo periodo, del [decreto legislativo 19 novembre 2004, n. 297](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004-11-19;297), recante «Disposizioni sanzionatorie in applicazione del regolamento (CEE) n. 2081/92, relativo alla protezione delle indicazioni geografiche e delle denominazioni di origine dei prodotti agricoli e alimentari», nella parte in cui prevede la sanzione amministrativa pecuniaria «di euro cinquantamila», anziche' «da un minimo di diecimila a un massimo di cinquantamila euro»".
+La Corte Costituzionale con sentenza 	11 gennaio - 10 marzo 2023, n. 40 (in G.U. 1ª s.s. 15/03/2023, n. 11) ha dichiarato "l'illegittimita' costituzionale dell'art. 4, comma 1, primo periodo, del [decreto legislativo 19 novembre 2004, n. 297](Disposizioni%20sanzionatorie%20in%20applicazione%20del%20regolamento%20CEE%20n.%202081-92%20relativo%20alla%20protezione%20delle%20indicazioni%20geografiche%20e%20delle%20denominazioni%20di%20origine%20dei%20prodotti%20agricoli%20e%20alimentari.md), recante «Disposizioni sanzionatorie in applicazione del regolamento (CEE) n. 2081/92, relativo alla protezione delle indicazioni geografiche e delle denominazioni di origine dei prodotti agricoli e alimentari», nella parte in cui prevede la sanzione amministrativa pecuniaria «di euro cinquantamila», anziche' «da un minimo di diecimila a un massimo di cinquantamila euro»".
 
 ### Art. 5. — Tutela dei Consorzi incaricati
 

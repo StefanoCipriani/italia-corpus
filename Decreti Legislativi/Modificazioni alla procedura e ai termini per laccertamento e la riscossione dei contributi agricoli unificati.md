@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4), con le modificazioni ad esso apportate dall'[art. 3, comma primo, del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98#art_3-com1);
+Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4), con le modificazioni ad esso apportate dall'[art. 3, comma primo, del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Viste le disposizioni transitorie I e XV della Costituzione;
 
@@ -35,7 +35,7 @@ PROMULGA il seguente decreto legislativo, approvato dal Consiglio dei Ministri c
  COMMA ABROGATO DALLA [L. 18 DICEMBRE 1964, N. 1412](../Atti%20normativi%20abrogati%20%28in%20originale%29/Accertamento%20dei%20lavoratori%20agricoli%20aventi%20diritto%20alle%20prestazioni%20previdenziali%20e%20accertamento%20dei%20contributi%20unificati%20in%20agricoltura.md).
  COMMA ABROGATO DALLA [L. 18 DICEMBRE 1964, N. 1412](../Atti%20normativi%20abrogati%20%28in%20originale%29/Accertamento%20dei%20lavoratori%20agricoli%20aventi%20diritto%20alle%20prestazioni%20previdenziali%20e%20accertamento%20dei%20contributi%20unificati%20in%20agricoltura.md).
  COMMA ABROGATO DALLA [L. 18 DICEMBRE 1964, N. 1412](../Atti%20normativi%20abrogati%20%28in%20originale%29/Accertamento%20dei%20lavoratori%20agricoli%20aventi%20diritto%20alle%20prestazioni%20previdenziali%20e%20accertamento%20dei%20contributi%20unificati%20in%20agricoltura.md).
- ((COMMA ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)).
+ ((COMMA ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](Abrogazione%20di%20disposizioni%20legislative%20statali%20a%20norma%20dellarticolo%2014%20comma%2014-quater%20della%20legge%2028%20novembre%202005%20n.%20246.%2010G0236.md)).
 
 ## Art. 4.
 

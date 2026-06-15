@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4), con le modificazioni ad esso apportate dall'[art. 3, comma primo, del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98#art_3-com1);
+Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4), con le modificazioni ad esso apportate dall'[art. 3, comma primo, del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Viste le disposizioni transitorie I e XV della Costituzione;
 
@@ -31,7 +31,7 @@ E' istituito presso il Ministero del tesoro un Commissariato per la sistemazione
 
 AGGIORNAMENTO (2)
 
-La [L. 22 ottobre 1981, n. 593](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-10-22;593) ha disposto (con l'art. 18) che "Sono soppressi dalla data di entrata in vigore della presente legge il Commissariato per la sistemazione e liquidazione dei contratti di guerra ed il comitato, istituiti, rispettivamente, con gli [articoli 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-03-25;674#art_1) e [2 del decreto legislativo 25 marzo 1948, n. 674](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-03-25;674#art_2)".
+La [L. 22 ottobre 1981, n. 593](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-10-22;593) ha disposto (con l'art. 18) che "Sono soppressi dalla data di entrata in vigore della presente legge il Commissariato per la sistemazione e liquidazione dei contratti di guerra ed il comitato, istituiti, rispettivamente, con gli [articoli 1](Sistemazione%20dei%20contratti%20di%20guerra%20e%20recupero%20dei%20contributi.md) e [2 del decreto legislativo 25 marzo 1948, n. 674](Sistemazione%20dei%20contratti%20di%20guerra%20e%20recupero%20dei%20contributi.md)".
 
 ## Art. 2.
 
@@ -45,7 +45,7 @@ Ad assistere il commissario e' nominato con decreto del Presidente della Repubbl
 
 AGGIORNAMENTO (2)
 
-La [L. 22 ottobre 1981, n. 593](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-10-22;593) ha disposto (con l'art. 18) che "Sono soppressi dalla data di entrata in vigore della presente legge il Commissariato per la sistemazione e liquidazione dei contratti di guerra ed il comitato, istituiti, rispettivamente, con gli [articoli 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-03-25;674#art_1) e [2 del decreto legislativo 25 marzo 1948, n. 674](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-03-25;674#art_2)".
+La [L. 22 ottobre 1981, n. 593](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-10-22;593) ha disposto (con l'art. 18) che "Sono soppressi dalla data di entrata in vigore della presente legge il Commissariato per la sistemazione e liquidazione dei contratti di guerra ed il comitato, istituiti, rispettivamente, con gli [articoli 1](Sistemazione%20dei%20contratti%20di%20guerra%20e%20recupero%20dei%20contributi.md) e [2 del decreto legislativo 25 marzo 1948, n. 674](Sistemazione%20dei%20contratti%20di%20guerra%20e%20recupero%20dei%20contributi.md)".
 
 ## Art. 3.
 
@@ -126,7 +126,7 @@ Chiunque omette o altera scientemente nella denuncia dati a elementi essenziali 
 
 La denuncia e' trasmessa a cura della segreteria del Commissariato all'Amministrazione interessata, perche' ne completi la documentazione e senza ritardo la restituisca con le proposte di sistemazione e di liquidazione.
  Qualora la documentazione sia andata in tutto o in parte distrutta o smarrita per fatti di guerra o per cause connesse allo stato di guerra, il commissario decide se, in base ai documenti prodotti e ad ogni altro elemento che ritenga necessario caso per caso di richiedere, possa considerarsi raggiunta la prova della obbligazione.
-In questo caso la decisione del commissario sostituisce il parere della Commissione prevista dall'[art. 9 del decreto legislativo luogotenenziale 8 maggio 1946, n. 428](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-05-08;428#art_9).
+In questo caso la decisione del commissario sostituisce il parere della Commissione prevista dall'[art. 9 del decreto legislativo luogotenenziale 8 maggio 1946, n. 428](../Decreti%20legislativi%20luogotenenziali/Pagamento%20dei%20debiti%20scaduti%20delle%20Amministrazioni%20dello%20Stato.md).
 
 ## Art. 14.
 

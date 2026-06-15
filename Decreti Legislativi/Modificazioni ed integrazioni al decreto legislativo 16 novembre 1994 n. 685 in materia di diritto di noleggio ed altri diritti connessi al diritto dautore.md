@@ -16,7 +16,7 @@ Visto il [decreto legislativo 16 novembre 1994, n. 685](Attuazione%20della%20dir
 
 Considerata la necessita' di emanare disposizioni integrative dell'art. 17 del citato [decreto legislativo n. 685 del 1994](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1994;685);
 
-Visti gli [articoli 1, comma 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-22;146#art_1-com5), e [6, comma 1, della legge 22 febbraio 1994, n. 146](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-22;146#art_6-com1);
+Visti gli [articoli 1, comma 5](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%201993.md), e [6, comma 1, della legge 22 febbraio 1994, n. 146](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%201993.md);
 
 Vista la deliberazione del Consiglio del Ministri, adottata nella riunione del 12 marzo 1996;
 

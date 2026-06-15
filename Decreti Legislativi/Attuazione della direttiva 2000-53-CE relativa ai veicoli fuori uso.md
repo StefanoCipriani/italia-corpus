@@ -388,7 +388,7 @@ Fermo restando il rispetto delle norme vigenti in materia di riservatezza commer
 
 2.
 
-COMMA SOPPRESSO DAL [D.LGS. 23 FEBBRAIO 2006, N. 149](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-02-23;149).
+COMMA SOPPRESSO DAL [D.LGS. 23 FEBBRAIO 2006, N. 149](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20correttive%20ed%20integrative%20al%20decreto%20legislativo%2024%20giugno%202003%20n.%20209%20recante%20attuazione%20della%20direttiva%202000-53-CE%20in%20materia%20di%20veicoli%20fuori%20uso.md).
 
 3.
 

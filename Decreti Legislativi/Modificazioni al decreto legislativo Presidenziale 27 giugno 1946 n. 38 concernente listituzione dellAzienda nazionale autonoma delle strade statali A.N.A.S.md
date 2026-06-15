@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4), con le modificazioni ad esso apportate dall'[art. 3, comma primo, del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98#art_3-com1);
+Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4), con le modificazioni ad esso apportate dall'[art. 3, comma primo, del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Viste le disposizioni transitorie I e XV della Costituzione;
 
@@ -469,7 +469,7 @@ In via transitoria i posti dei gradi superiore al 9° nei ruoli del gruppo A, al
 
 AGGIORNAMENTO (5)
 
-La [L. 7 febbraio 1961, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-02-07;59) ha disposto (con l'art. 67, ultimo comma) che " Cessano comunque di avere efficacia gli [articoli 56](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-04-17;547#art_56) e [58 del decreto legislativo 17 aprile 1948, n. 547](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-04-17;547#art_58)."
+La [L. 7 febbraio 1961, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-02-07;59) ha disposto (con l'art. 67, ultimo comma) che " Cessano comunque di avere efficacia gli [articoli 56](Modificazioni%20al%20decreto%20legislativo%20Presidenziale%2027%20giugno%201946%20n.%2038%20concernente%20listituzione%20dellAzienda%20nazionale%20autonoma%20delle%20strade%20statali%20A.N.A.S.md) e [58 del decreto legislativo 17 aprile 1948, n. 547](Modificazioni%20al%20decreto%20legislativo%20Presidenziale%2027%20giugno%201946%20n.%2038%20concernente%20listituzione%20dellAzienda%20nazionale%20autonoma%20delle%20strade%20statali%20A.N.A.S.md)."
 
 ### Art. 56-bis.
 
@@ -488,7 +488,7 @@ Allorquando, in seguito all'esito dei concorsi di cui agli articoli 29, 31 e 32,
 
 AGGIORNAMENTO (5)
 
-La [L. 7 febbraio 1961, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-02-07;59) ha disposto (con l'art. 67, ultimo comma) che " Cessano comunque di avere efficacia gli [articoli 56](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-04-17;547#art_56) e [58 del decreto legislativo 17 aprile 1948, n. 547](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-04-17;547#art_58)."
+La [L. 7 febbraio 1961, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-02-07;59) ha disposto (con l'art. 67, ultimo comma) che " Cessano comunque di avere efficacia gli [articoli 56](Modificazioni%20al%20decreto%20legislativo%20Presidenziale%2027%20giugno%201946%20n.%2038%20concernente%20listituzione%20dellAzienda%20nazionale%20autonoma%20delle%20strade%20statali%20A.N.A.S.md) e [58 del decreto legislativo 17 aprile 1948, n. 547](Modificazioni%20al%20decreto%20legislativo%20Presidenziale%2027%20giugno%201946%20n.%2038%20concernente%20listituzione%20dellAzienda%20nazionale%20autonoma%20delle%20strade%20statali%20A.N.A.S.md)."
 
 ### Art. 59.
 

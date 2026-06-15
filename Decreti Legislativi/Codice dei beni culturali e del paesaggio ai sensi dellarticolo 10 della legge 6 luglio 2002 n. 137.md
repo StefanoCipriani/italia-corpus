@@ -14,11 +14,11 @@ Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cos
 
 Visto l'[articolo 14 della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_14);
 
-Visto il [decreto legislativo 20 ottobre 1998, n. 368](Istituzione%20del%20Ministero%20per%20i%20beni%20e%20le%20attivita%20culturali%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md), recante istituzione del Ministero per i beni e le attivita' culturali, a norma dell'[articolo 11 della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_11), e successive modifiche e integrazioni;
+Visto il [decreto legislativo 20 ottobre 1998, n. 368](Istituzione%20del%20Ministero%20per%20i%20beni%20e%20le%20attivita%20culturali%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md), recante istituzione del Ministero per i beni e le attivita' culturali, a norma dell'[articolo 11 della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), e successive modifiche e integrazioni;
 
 Visto il [decreto legislativo 29 ottobre 1999, n. 490](Testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20di%20beni%20culturali%20e%20ambientali%20a%20norma%20dellarticolo%201%20della%20legge%208%20ottobre%201997%20n.%20352.md), recante testo unico delle disposizioni legislative in materia di beni culturali e ambientali, a norma dell'[articolo 1 della legge 8 ottobre 1997, n. 352](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-10-08;352#art_1);
 
-Visto l'[articolo 10 della legge 6 luglio 2002, n. 137](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-07-06;137#art_10);
+Visto l'[articolo 10 della legge 6 luglio 2002, n. 137](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20per%20la%20riforma%20dellorganizzazione%20del%20Governo%20e%20della%20Presidenza%20del%20Consiglio%20dei%20Ministri%20nonche%20di%20enti%20pubblici.md);
 
 Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella riunione del 29 settembre 2003;
 
@@ -746,7 +746,7 @@ L'ammissione dell'intervento autorizzato ai contributi statali previsti ((dall'a
 
 AGGIORNAMENTO (34)
 
-La [L. 27 dicembre 2017, n. 205](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-12-27;205) ha disposto (con l'art. 1, comma 314) che la presente modifica ha effetto a decorrere dal 1° gennaio 2019.
+La [L. 27 dicembre 2017, n. 205](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202018%20e%20bilancio%20pluriennale%20per%20il%20triennio%202018-2020.%2017G00222.md) ha disposto (con l'art. 1, comma 314) che la presente modifica ha effetto a decorrere dal 1° gennaio 2019.
 
 ### Articolo 32 — Interventi conservativi imposti
 
@@ -822,7 +822,7 @@ Il [D.L. 6 luglio 2012, n. 95](https://www.normattiva.it/uri-res/N2Ls?urn:nir:st
 
 AGGIORNAMENTO (17)
 
-Il [D.L. 6 luglio 2012, n. 95](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-07-06;95), convertito con modificazioni dalla [L. 7 agosto 2012, n. 135](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20luglio%202012%20n.%2095%20recante%20disposizioni%20urgenti%20per%20la%20revisione%20della%20spesa%20pubblica%20con%20invarianza%20dei%20servizi%20ai%20cittadini.%2012G0157.md), come modificato dalla [L. 24 dicembre 2012, n. 228](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-24;228), ha disposto (con l'art. 1, comma 26-ter) che "A decorrere dalla data di entrata in vigore della legge di conversione del presente decreto e fino al pagamento dei contributi gia' concessi alla medesima data e non ancora erogati ai beneficiari e' sospesa la concessione dei contributi di cui agli [articoli 35](../Codici/Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md) e [37 del decreto legislativo 22 gennaio 2004, n. 42](../Codici/Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md), e successive modificazioni".
+Il [D.L. 6 luglio 2012, n. 95](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-07-06;95), convertito con modificazioni dalla [L. 7 agosto 2012, n. 135](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20luglio%202012%20n.%2095%20recante%20disposizioni%20urgenti%20per%20la%20revisione%20della%20spesa%20pubblica%20con%20invarianza%20dei%20servizi%20ai%20cittadini.%2012G0157.md), come modificato dalla [L. 24 dicembre 2012, n. 228](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20Legge%20di%20stabilita%202013.%2012G0252.md), ha disposto (con l'art. 1, comma 26-ter) che "A decorrere dalla data di entrata in vigore della legge di conversione del presente decreto e fino al pagamento dei contributi gia' concessi alla medesima data e non ancora erogati ai beneficiari e' sospesa la concessione dei contributi di cui agli [articoli 35](../Codici/Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md) e [37 del decreto legislativo 22 gennaio 2004, n. 42](../Codici/Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md), e successive modificazioni".
 
 ### Articolo 36 — Erogazione del contributo
 
@@ -866,7 +866,7 @@ Il [D.L. 6 luglio 2012, n. 95](https://www.normattiva.it/uri-res/N2Ls?urn:nir:st
 
 AGGIORNAMENTO (17)
 
-Il [D.L. 6 luglio 2012, n. 95](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-07-06;95), convertito con modificazioni dalla [L. 7 agosto 2012, n. 135](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20luglio%202012%20n.%2095%20recante%20disposizioni%20urgenti%20per%20la%20revisione%20della%20spesa%20pubblica%20con%20invarianza%20dei%20servizi%20ai%20cittadini.%2012G0157.md), come modificato dalla [L. 24 dicembre 2012, n. 228](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-24;228), ha disposto (con l'art. 1, comma 26-ter) che "A decorrere dalla data di entrata in vigore della legge di conversione del presente decreto e fino al pagamento dei contributi gia' concessi alla medesima data e non ancora erogati ai beneficiari e' sospesa la concessione dei contributi di cui agli [articoli 35](../Codici/Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md) e [37 del decreto legislativo 22 gennaio 2004, n. 42](../Codici/Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md), e successive modificazioni".
+Il [D.L. 6 luglio 2012, n. 95](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-07-06;95), convertito con modificazioni dalla [L. 7 agosto 2012, n. 135](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20luglio%202012%20n.%2095%20recante%20disposizioni%20urgenti%20per%20la%20revisione%20della%20spesa%20pubblica%20con%20invarianza%20dei%20servizi%20ai%20cittadini.%2012G0157.md), come modificato dalla [L. 24 dicembre 2012, n. 228](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20Legge%20di%20stabilita%202013.%2012G0252.md), ha disposto (con l'art. 1, comma 26-ter) che "A decorrere dalla data di entrata in vigore della legge di conversione del presente decreto e fino al pagamento dei contributi gia' concessi alla medesima data e non ancora erogati ai beneficiari e' sospesa la concessione dei contributi di cui agli [articoli 35](../Codici/Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md) e [37 del decreto legislativo 22 gennaio 2004, n. 42](../Codici/Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md), e successive modificazioni".
 
 ### Articolo 38
 
@@ -1180,11 +1180,11 @@ Sono altresi' inalienabili:
                                 le cose appartenenti ai soggetti indicati all'articolo 10, comma 1, che siano opera di autore non piu' vivente e la cui esecuzione risalga ad oltre ((settanta)) anni ((...)), fino alla conclusione del procedimento di verifica previsto dall'articolo 12.
 Se il procedimento si conclude con esito negativo, le cose medesime sono liberamente alienabili, ai fini del presente codice, ai sensi dell'articolo 12, commi 4, 5 e 6 ;
                             b)
-                                LETTERA SOPPRESSA DAL [D.LGS. 26 MARZO 2008 N. 62](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-03-26;62);
+                                LETTERA SOPPRESSA DAL [D.LGS. 26 MARZO 2008 N. 62](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ulteriori%20disposizioni%20integrative%20e%20correttive%20del%20decreto%20legislativo%2022%20gennaio%202004%20n.%2042%20in%20relazione%20ai%20beni%20culturali.md);
                             c)
                                 i singoli documenti appartenenti ai soggetti di cui all'articolo 53, nonche' gli archivi e i singoli documenti di enti ed istituti pubblici diversi da quelli indicati al medesimo articolo 53;
                             d)
-                                LETTERA SOPPRESSA DAL [D.LGS. 26 MARZO 2008 N. 62](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-03-26;62).
+                                LETTERA SOPPRESSA DAL [D.LGS. 26 MARZO 2008 N. 62](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ulteriori%20disposizioni%20integrative%20e%20correttive%20del%20decreto%20legislativo%2022%20gennaio%202004%20n.%2042%20in%20relazione%20ai%20beni%20culturali.md).
 
 3.
 
@@ -1462,13 +1462,13 @@ Il Ministero puo' rinunciare all'esercizio della prelazione, trasferendone la fa
 
 AGGIORNAMENTO (4)
 
-Il [D.Lgs. 24 marzo 2006, n. 156](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-03-24;156) ha disposto (con l'art. 2, comma 1, lettera bb), numero 1)) che all'articolo 62, al comma 2, la parola: "motivata" e' soppressa.
+Il [D.Lgs. 24 marzo 2006, n. 156](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20correttive%20ed%20integrative%20al%20decreto%20legislativo%2022%20gennaio%202004%20n.%2042%20in%20relazione%20ai%20beni%20culturali.md) ha disposto (con l'art. 2, comma 1, lettera bb), numero 1)) che all'articolo 62, al comma 2, la parola: "motivata" e' soppressa.
 
 ---------------
 
 AGGIORNAMENTO (4a)
 
-Il [D.Lgs. 24 marzo 2006, n. 156](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-03-24;156), come modificato dall'avviso di rettifica in G.U. 24/5/2006, n. 119, non dispone piu' (con l'art. 2, comma 1, lettera bb), numero 1)) che all'articolo 62, al comma 2, la parola: "motivata" e' soppressa.
+Il [D.Lgs. 24 marzo 2006, n. 156](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20correttive%20ed%20integrative%20al%20decreto%20legislativo%2022%20gennaio%202004%20n.%2042%20in%20relazione%20ai%20beni%20culturali.md), come modificato dall'avviso di rettifica in G.U. 24/5/2006, n. 119, non dispone piu' (con l'art. 2, comma 1, lettera bb), numero 1)) che all'articolo 62, al comma 2, la parola: "motivata" e' soppressa.
 
 ## Sezione III Commercio
 
@@ -1592,7 +1592,7 @@ Non possono comunque uscire:
  
 AGGIORNAMENTO (7) 
 --------------- 
- Il [D.Lgs. 26 marzo 2008, n. 62](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-03-26;62) ha disposto (con l'art. 2, comma 1, lettera ss)) l'introduzione della Sezione i-bis - Uscita dal territorio nazionale e ingresso nel territorio nazionale, comprendente gli articoli da 65 a 72.
+ Il [D.Lgs. 26 marzo 2008, n. 62](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ulteriori%20disposizioni%20integrative%20e%20correttive%20del%20decreto%20legislativo%2022%20gennaio%202004%20n.%2042%20in%20relazione%20ai%20beni%20culturali.md) ha disposto (con l'art. 2, comma 1, lettera ss)) l'introduzione della Sezione i-bis - Uscita dal territorio nazionale e ingresso nel territorio nazionale, comprendente gli articoli da 65 a 72.
 
 ### Articolo 67 — Altri casi di uscita temporanea
 
@@ -1614,7 +1614,7 @@ Non e' soggetta ad autorizzazione l'uscita temporanea dal territorio della Repub
  
 AGGIORNAMENTO (7) 
 --------------- 
- Il [D.Lgs. 26 marzo 2008, n. 62](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-03-26;62) ha disposto (con l'art. 2, comma 1, lettera ss)) l'introduzione della Sezione i-bis - Uscita dal territorio nazionale e ingresso nel territorio nazionale, comprendente gli articoli da 65 a 72.
+ Il [D.Lgs. 26 marzo 2008, n. 62](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ulteriori%20disposizioni%20integrative%20e%20correttive%20del%20decreto%20legislativo%2022%20gennaio%202004%20n.%2042%20in%20relazione%20ai%20beni%20culturali.md) ha disposto (con l'art. 2, comma 1, lettera ss)) l'introduzione della Sezione i-bis - Uscita dal territorio nazionale e ingresso nel territorio nazionale, comprendente gli articoli da 65 a 72.
 
 ### Articolo 68 — Attestato di libera circolazione
 
@@ -1738,7 +1738,7 @@ Con decreto ministeriale possono essere stabilite condizioni, modalita' e proced
 
 AGGIORNAMENTO (48)
 
-La Corte Costituzionale, con sentenza 23 febbraio - 14 aprile 2026, n. 51 (in G.U. 1ª s.s. 15/04/2026, n. 15), ha dichiarato "l'illegittimita' costituzionale dell'[art. 72, comma 1, del decreto legislativo 22 gennaio 2004, n. 42](../Codici/Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md) ([Codice dei beni culturali e del paesaggio](../Codici/Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md), ai sensi dell'[articolo 10 della legge 6 luglio 2002, n. 137](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-07-06;137#art_10)), nella parte in cui non prevede che sia certificato, a domanda, l'ingresso nel territorio nazionale delle cose di cui all'[art. 65, comma 4, lettera b), del d.lgs. n. 42 del 2004](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004;42#art_65-com4-letb)" ed "in via consequenziale, ai sensi dell'[art. 27 della legge 11 marzo 1953, n. 87](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-03-11;87#art_27) (Norme sulla costituzione e sul funzionamento della Corte costituzionale), l'illegittimita' costituzionale dell'[art. 72, comma 1, del d.lgs. n. 42 del 2004](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004;42#art_72-com1) nella parte in cui non prevede che sia certificato, a domanda, l'ingresso nel territorio nazionale delle cose di cui all'[art. 65, comma 4, lettera a), del d.lgs. n. 42 del 2004](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004;42#art_65-com4-leta)".
+La Corte Costituzionale, con sentenza 23 febbraio - 14 aprile 2026, n. 51 (in G.U. 1ª s.s. 15/04/2026, n. 15), ha dichiarato "l'illegittimita' costituzionale dell'[art. 72, comma 1, del decreto legislativo 22 gennaio 2004, n. 42](../Codici/Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md) ([Codice dei beni culturali e del paesaggio](../Codici/Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md), ai sensi dell'[articolo 10 della legge 6 luglio 2002, n. 137](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20per%20la%20riforma%20dellorganizzazione%20del%20Governo%20e%20della%20Presidenza%20del%20Consiglio%20dei%20Ministri%20nonche%20di%20enti%20pubblici.md)), nella parte in cui non prevede che sia certificato, a domanda, l'ingresso nel territorio nazionale delle cose di cui all'[art. 65, comma 4, lettera b), del d.lgs. n. 42 del 2004](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004;42#art_65-com4-letb)" ed "in via consequenziale, ai sensi dell'[art. 27 della legge 11 marzo 1953, n. 87](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-03-11;87#art_27) (Norme sulla costituzione e sul funzionamento della Corte costituzionale), l'illegittimita' costituzionale dell'[art. 72, comma 1, del d.lgs. n. 42 del 2004](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004;42#art_72-com1) nella parte in cui non prevede che sia certificato, a domanda, l'ingresso nel territorio nazionale delle cose di cui all'[art. 65, comma 4, lettera a), del d.lgs. n. 42 del 2004](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004;42#art_65-com4-leta)".
 
 ## Sezione II Esportazione dal territorio dell'Unione europea
 
@@ -3539,11 +3539,11 @@ Per i beni che alla data del 1° giugno 2008 siano oggetto di provvedimenti adot
 
 8.
 
-Sono fatti salvi gli atti, anche endoprocedimentali, ed i provvedimenti adottati dalla data di entrata in vigore del [decreto legislativo 26 marzo 2008, n. 63](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-03-26;63), fino alla data di entrata in vigore della presente disposizione, in applicazione dell'articolo 159 del presente codice, nel testo vigente anteriormente alla data di entrata in vigore del [decreto legislativo 26 marzo 2008, n. 63](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-03-26;63).
+Sono fatti salvi gli atti, anche endoprocedimentali, ed i provvedimenti adottati dalla data di entrata in vigore del [decreto legislativo 26 marzo 2008, n. 63](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ulteriori%20disposizioni%20integrative%20e%20correttive%20del%20decreto%20legislativo%2022%20gennaio%202004%20n.%2042%20in%20relazione%20al%20paesaggio.md), fino alla data di entrata in vigore della presente disposizione, in applicazione dell'articolo 159 del presente codice, nel testo vigente anteriormente alla data di entrata in vigore del [decreto legislativo 26 marzo 2008, n. 63](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ulteriori%20disposizioni%20integrative%20e%20correttive%20del%20decreto%20legislativo%2022%20gennaio%202004%20n.%2042%20in%20relazione%20al%20paesaggio.md).
 
 9.
 
-Nei confronti delle autorizzazioni paesaggistiche adottate dopo la data di entrata in vigore del [decreto legislativo 26 marzo 2008, n. 63](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-03-26;63), e prima della data di entrata in vigore della presente disposizione, la soprintendenza, qualora non abbia gia' esercitato il potere di annullamento, puo' esercitare detto potere, ai sensi dei precedenti commi 2 e 3, entro i trenta giorni decorrenti dalla data di entrata in vigore della presente disposizione; qualora l'autorizzazione, corredata dalla relativa documentazione, sia stata rinviata dalla soprintendenza all'Autorita' competente al rilascio dell'autorizzazione ai fini dell'applicazione dell'articolo 146, il predetto termine decorre dalla data in cui viene nuovamente trasmessa alla soprintendenza.
+Nei confronti delle autorizzazioni paesaggistiche adottate dopo la data di entrata in vigore del [decreto legislativo 26 marzo 2008, n. 63](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ulteriori%20disposizioni%20integrative%20e%20correttive%20del%20decreto%20legislativo%2022%20gennaio%202004%20n.%2042%20in%20relazione%20al%20paesaggio.md), e prima della data di entrata in vigore della presente disposizione, la soprintendenza, qualora non abbia gia' esercitato il potere di annullamento, puo' esercitare detto potere, ai sensi dei precedenti commi 2 e 3, entro i trenta giorni decorrenti dalla data di entrata in vigore della presente disposizione; qualora l'autorizzazione, corredata dalla relativa documentazione, sia stata rinviata dalla soprintendenza all'Autorita' competente al rilascio dell'autorizzazione ai fini dell'applicazione dell'articolo 146, il predetto termine decorre dalla data in cui viene nuovamente trasmessa alla soprintendenza.
 
 ## Sanzioni - - TITOLO I Sanzioni amministrative Capo I Sanzioni relative alla Parte seconda
 
@@ -3662,7 +3662,7 @@ L'importo della sanzione pecuniaria e' determinato previa perizia di stima. In c
 
 6.
 
-Le somme riscosse per effetto dell'applicazione del comma 5, nonche' per effetto dell'[articolo 1, comma 37, lettera b), n. 1), della legge 15 dicembre 2004, n. 308](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-12-15;308#art_1-com37-letb-num1), sono utilizzate, oltre che per l'esecuzione delle rimessioni in pristino di cui al comma 1, anche per finalita' di salvaguardia nonche' per interventi di recupero dei valori paesaggistici e di riqualificazione degli immobili e delle aree degradati o interessati dalle rimessioni in pristino. Per le medesime finalita' possono essere utilizzate anche le somme derivanti dal recupero delle spese sostenute dall'amministrazione per l'esecuzione della rimessione in pristino in danno dei soggetti obbligati, ovvero altre somme a cio' destinate dalle amministrazioni competenti.
+Le somme riscosse per effetto dell'applicazione del comma 5, nonche' per effetto dell'[articolo 1, comma 37, lettera b), n. 1), della legge 15 dicembre 2004, n. 308](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20riordino%20il%20coordinamento%20e%20lintegrazione%20della%20legislazione%20in%20materia%20ambientale%20e%20misure%20di%20diretta%20applicazione.md), sono utilizzate, oltre che per l'esecuzione delle rimessioni in pristino di cui al comma 1, anche per finalita' di salvaguardia nonche' per interventi di recupero dei valori paesaggistici e di riqualificazione degli immobili e delle aree degradati o interessati dalle rimessioni in pristino. Per le medesime finalita' possono essere utilizzate anche le somme derivanti dal recupero delle spese sostenute dall'amministrazione per l'esecuzione della rimessione in pristino in danno dei soggetti obbligati, ovvero altre somme a cio' destinate dalle amministrazioni competenti.
 
 ### Articolo 168 — Violazione in materia di affissione
 
@@ -3805,7 +3805,7 @@ Con la sentenza di condanna viene ordinata la rimessione in pristino dello stato
 
 AGGIORNAMENTO (28)
 
-La Corte Costituzionale, con sentenza 11 gennaio - 23 marzo 2016, n. 56 (in G.U. 1ª s.s. 30/3/2016, n. 13), ha dichiarato "l'illegittimita' costituzionale dell'[art. 181, comma 1-bis, del decreto legislativo 22 gennaio 2004, n. 42](../Codici/Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md) ([Codice dei beni culturali e del paesaggio](../Codici/Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md), ai sensi dell'[articolo 10 della legge 6 luglio 2002, n. 137](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-07-06;137#art_10)), nella parte in cui prevede «: a) ricadano su immobili od aree che, per le loro caratteristiche paesaggistiche siano stati dichiarati di notevole interesse pubblico con apposito provvedimento emanato in epoca antecedente alla realizzazione dei lavori; b) ricadano su immobili od aree tutelati per legge ai sensi dell'articolo 142 ed»".
+La Corte Costituzionale, con sentenza 11 gennaio - 23 marzo 2016, n. 56 (in G.U. 1ª s.s. 30/3/2016, n. 13), ha dichiarato "l'illegittimita' costituzionale dell'[art. 181, comma 1-bis, del decreto legislativo 22 gennaio 2004, n. 42](../Codici/Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md) ([Codice dei beni culturali e del paesaggio](../Codici/Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md), ai sensi dell'[articolo 10 della legge 6 luglio 2002, n. 137](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20per%20la%20riforma%20dellorganizzazione%20del%20Governo%20e%20della%20Presidenza%20del%20Consiglio%20dei%20Ministri%20nonche%20di%20enti%20pubblici.md)), nella parte in cui prevede «: a) ricadano su immobili od aree che, per le loro caratteristiche paesaggistiche siano stati dichiarati di notevole interesse pubblico con apposito provvedimento emanato in epoca antecedente alla realizzazione dei lavori; b) ricadano su immobili od aree tutelati per legge ai sensi dell'articolo 142 ed»".
 
 ## Disposizioni transitorie, abrogazioni ed entrata in vigore - - - -
 
@@ -3884,7 +3884,7 @@ Si applicano le sanzioni previste dall'articolo 167, comma 5.
 
 3-ter.
 
-Le disposizioni del comma 3-bis si applicano anche alle domande di sanatoria presentate nei termini ai sensi dell'[articolo 1, commi 37](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-12-15;308#art_1-com37) e [39, della legge 15 dicembre 2004, n. 308](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-12-15;308#art_1-com39), ferma restando la quantificazione della sanzione pecuniaria ivi stabilita. Il parere della soprintendenza di cui all'[articolo 1, comma 39, della legge 15 dicembre 2004, n. 308](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-12-15;308#art_1-com39), si intende vincolante.
+Le disposizioni del comma 3-bis si applicano anche alle domande di sanatoria presentate nei termini ai sensi dell'[articolo 1, commi 37](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20riordino%20il%20coordinamento%20e%20lintegrazione%20della%20legislazione%20in%20materia%20ambientale%20e%20misure%20di%20diretta%20applicazione.md) e [39, della legge 15 dicembre 2004, n. 308](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20riordino%20il%20coordinamento%20e%20lintegrazione%20della%20legislazione%20in%20materia%20ambientale%20e%20misure%20di%20diretta%20applicazione.md), ferma restando la quantificazione della sanzione pecuniaria ivi stabilita. Il parere della soprintendenza di cui all'[articolo 1, comma 39, della legge 15 dicembre 2004, n. 308](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20riordino%20il%20coordinamento%20e%20lintegrazione%20della%20legislazione%20in%20materia%20ambientale%20e%20misure%20di%20diretta%20applicazione.md), si intende vincolante.
 
 3-quater.
 

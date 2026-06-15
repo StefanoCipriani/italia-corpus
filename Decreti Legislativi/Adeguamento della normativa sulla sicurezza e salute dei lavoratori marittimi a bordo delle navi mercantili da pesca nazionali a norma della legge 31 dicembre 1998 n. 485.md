@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge 31 dicembre 1998, n. 485](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1998-12-31;485), concernente delega al Governo in materia di sicurezza del lavoro nel settore portuale marittimo;
+Vista la [legge 31 dicembre 1998, n. 485](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20in%20materia%20di%20sicurezza%20del%20lavoro%20nel%20settore%20portuale%20marittimo.md), concernente delega al Governo in materia di sicurezza del lavoro nel settore portuale marittimo;
 
 Vista la [legge 16 giugno 1939, n. 1045](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-06-16;1045), inerente le condizioni di igiene ed abitabilita' degli equipaggi a bordo delle navi mercantili nazionali;
 
@@ -104,7 +104,7 @@ AVVERTENZA:
  Presiede il Consiglio superiore della magistratura.
  Puo' concedere grazia e commutare le pene.
  Conferisce le onorificenze della Repubblica".
- - Il testo della [legge 31 dicembre 1998, n. 485](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1998-12-31;485), recante:
+ - Il testo della [legge 31 dicembre 1998, n. 485](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20in%20materia%20di%20sicurezza%20del%20lavoro%20nel%20settore%20portuale%20marittimo.md), recante:
  "Delega al Governo in materia di sicurezza del lavoro nel
  settore portuale marittimo" e' pubblicato nella Gazzetta
  Ufficiale del 14 gennaio 1999, n. 10".
@@ -630,7 +630,7 @@ Non appena possibile dopo che e' stata ripristinata la normale condizione di nav
 
 AGGIORNAMENTO (3)
 
-La [L. 6 agosto 2013, n. 97](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20degli%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20allUnione%20europea%20-%20Legge%20europea%202013.%2013G00138.md) ha disposto (con l'art. 11, comma 2) che "I contratti collettivi stipulati a decorrere dal 24 novembre 2010 che abbiano stabilito deroghe ai sensi dell'[articolo 11, comma 7, del decreto legislativo 27 luglio 1999, n. 271](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-07-27;271#art_11-com7), nel testo vigente prima della data di entrata in vigore della presente legge, devono essere sottoposti all'autorizzazione di cui al medesimo [articolo 11, comma 7, del decreto legislativo n. 271 del 1999](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999;271#art_11-com7), come sostituito dal comma 1 del presente articolo, entro sei mesi dalla data di entrata in vigore della presente legge. Qualora l'autorizzazione non venga richiesta, ovvero non venga concessa, le clausole dei contratti collettivi, le quali abbiano stabilito le deroghe di cui al primo periodo, perdono efficacia".
+La [L. 6 agosto 2013, n. 97](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20degli%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20allUnione%20europea%20-%20Legge%20europea%202013.%2013G00138.md) ha disposto (con l'art. 11, comma 2) che "I contratti collettivi stipulati a decorrere dal 24 novembre 2010 che abbiano stabilito deroghe ai sensi dell'[articolo 11, comma 7, del decreto legislativo 27 luglio 1999, n. 271](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Adeguamento%20della%20normativa%20sulla%20sicurezza%20e%20salute%20dei%20lavoratori%20marittimi%20a%20bordo%20delle%20navi%20mercantili%20da%20pesca%20nazionali%20a%20norma%20della%20legge%2031%20dicembre%201998%20n.%20485.md), nel testo vigente prima della data di entrata in vigore della presente legge, devono essere sottoposti all'autorizzazione di cui al medesimo [articolo 11, comma 7, del decreto legislativo n. 271 del 1999](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999;271#art_11-com7), come sostituito dal comma 1 del presente articolo, entro sei mesi dalla data di entrata in vigore della presente legge. Qualora l'autorizzazione non venga richiesta, ovvero non venga concessa, le clausole dei contratti collettivi, le quali abbiano stabilito le deroghe di cui al primo periodo, perdono efficacia".
 
 ## Art. 12. — Servizio di prevenzione e protezione - criteri generali
 

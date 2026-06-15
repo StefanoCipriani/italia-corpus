@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge 19 ottobre 2017, n. 155](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-10-19;155), recante «Delega al Governo per la riforma delle discipline della crisi di impresa e dell'insolvenza»;
+Vista la [legge 19 ottobre 2017, n. 155](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20riforma%20delle%20discipline%20della%20crisi%20di%20impresa%20e%20dellinsolvenza.%2017G00170.md), recante «Delega al Governo per la riforma delle discipline della crisi di impresa e dell'insolvenza»;
 
 Visto il regolamento (UE) n. 2015/848 del Parlamento europeo e del Consiglio, del 20 maggio 2015, relativo alle procedure di insolvenza;
 
@@ -56,7 +56,7 @@ Sono fatte salve le disposizioni delle leggi speciali in materia di crisi di imp
 
 4.
 
-Le disposizioni del presente codice in tema di liquidazione coatta amministrativa si applicano nelle regioni a statuto speciale e nelle province autonome di Trento e Bolzano compatibilmente con i rispettivi Statuti e le relative norme di attuazione, anche con riferimento alla [legge costituzionale 18 ottobre 2001, n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:2001-10-18;3).
+Le disposizioni del presente codice in tema di liquidazione coatta amministrativa si applicano nelle regioni a statuto speciale e nelle province autonome di Trento e Bolzano compatibilmente con i rispettivi Statuti e le relative norme di attuazione, anche con riferimento alla [legge costituzionale 18 ottobre 2001, n. 3](../Leggi%20costituzionali/Modifiche%20al%20titolo%20V%20della%20parte%20seconda%20della%20Costituzione.md).
 
 NOTE 
  
@@ -72,7 +72,7 @@ NOTE
  
  Note all'[art. 1: 
  
- - La legge costituzionale 18 ottobre 2001, n.3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:2001-10-18;3#art_1), reca: "Modifiche al titolo V della parte seconda della Costituzione.".
+ - La legge costituzionale 18 ottobre 2001, n.3](../Leggi%20costituzionali/Modifiche%20al%20titolo%20V%20della%20parte%20seconda%20della%20Costituzione.md), reca: "Modifiche al titolo V della parte seconda della Costituzione.".
 
 ### Art. 2. — Definizioni
 
@@ -1029,7 +1029,7 @@ Si applicano, in quanto compatibili, le disposizioni di cui agli articoli 106, 1
 
 AGGIORNAMENTO (22)
 
-Il [D.Lgs. 13 settembre 2024, n. 136](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-13;136), ha disposto (con l'art. 6, comma 1, lettera b)) che "al comma 2, le parole: «del deposito in cancelleria» sono inserite le seguenti: «del suo deposito»".
+Il [D.Lgs. 13 settembre 2024, n. 136](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20integrative%20e%20correttive%20al%20codice%20della%20crisi%20dimpresa%20e%20dellinsolvenza%20di%20cui%20al%20decreto%20legislativo%20del%2012%20gennaio%202019%20n.%2014.%2024G00154.md), ha disposto (con l'art. 6, comma 1, lettera b)) che "al comma 2, le parole: «del deposito in cancelleria» sono inserite le seguenti: «del suo deposito»".
 
 ### Art. 25-septies. — (Disciplina della liquidazione del patrimonio)
 
@@ -2249,7 +2249,7 @@ I compiti del commissario giudiziale o del liquidatore nominati nelle procedure 
 
 4.
 
-COMMA ABROGATO DAL [D.LGS. 26 OTTOBRE 2020, N. 147](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2020-10-26;147).
+COMMA ABROGATO DAL [D.LGS. 26 OTTOBRE 2020, N. 147](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20integrative%20e%20correttive%20a%20norma%20dellarticolo%201%20comma%201%20della%20legge%208%20marzo%202019%20n.%2020%20al%20decreto%20legislativo%2012%20gennaio%202019%20n.%2014%20recante%20codice%20della%20crisi%20dimpresa%20e%20dell_61bcd5e172cf.md).
 
 ((
 
@@ -4823,7 +4823,7 @@ I contratti di cui all'[articolo 5 del decreto legislativo 20 giugno 2005, n. 12
 
 Note all'art. 174: 
  
- - Si riporta il testo dell'[articolo 5 del decreto legislativo 20 giugno 2005, n. 122](Disposizioni%20per%20la%20tutela%20dei%20diritti%20patrimoniali%20degli%20acquirenti%20di%20immobili%20da%20costruire%20a%20norma%20della%20legge%202%20agosto%202004%20n.%20210.md) (Disposizioni per la tutela dei diritti patrimoniali degli acquirenti di immobili da costruire, a norma della [L. 2 agosto 2004, n. 210](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-08-02;210)): 
+ - Si riporta il testo dell'[articolo 5 del decreto legislativo 20 giugno 2005, n. 122](Disposizioni%20per%20la%20tutela%20dei%20diritti%20patrimoniali%20degli%20acquirenti%20di%20immobili%20da%20costruire%20a%20norma%20della%20legge%202%20agosto%202004%20n.%20210.md) (Disposizioni per la tutela dei diritti patrimoniali degli acquirenti di immobili da costruire, a norma della [L. 2 agosto 2004, n. 210](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20tutela%20dei%20diritti%20patrimoniali%20degli%20acquirenti%20di%20immobili%20da%20costruire.md)): 
  "Art. 5. Applicabilita' della disciplina. 
  1. La disciplina prevista dagli articoli 2, 3 e 4 si applica ai contratti aventi ad oggetto il trasferimento non immediato della proprieta' o di altro diritto reale di godimento di immobili per i quali il permesso di costruire o altra denuncia o provvedimento abilitativo sia stato richiesto successivamente alla data di entrata in vigore del presente decreto. 
  1-bis. L'acquirente non puo' rinunciare alle tutele previste dal presente decreto; ogni clausola contraria e' nulla e deve intendersi come non apposta.".
@@ -5073,7 +5073,7 @@ Qualora non sia possibile evitare la riduzione di personale, e' esaminata la pos
 
 7.
 
-Sono esclusi dall'ambito di applicazione dell'[articolo 1, commi da 224](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2021-12-30;234#art_1-com224) [a 238, della legge 30 dicembre 2021, n. 234](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2021-12-30;234#art_1-com238), i licenziamenti intimati ai sensi del comma 6.
+Sono esclusi dall'ambito di applicazione dell'[articolo 1, commi da 224](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202022%20e%20bilancio%20pluriennale%20per%20il%20triennio%202022-2024.%2021G00256.md) [a 238, della legge 30 dicembre 2021, n. 234](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202022%20e%20bilancio%20pluriennale%20per%20il%20triennio%202022-2024.%2021G00256.md), i licenziamenti intimati ai sensi del comma 6.
 
 8.
 
@@ -8435,7 +8435,7 @@ Dopo l'[articolo 16-bis, comma 4, del decreto-legge 18 ottobre 2012, n. 179](htt
 
 Note all'art. 360: 
  
- - Per l'articolo 16-bis del citato [decreto-legge 18 ottobre 2012, n. 179](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-10-18;179), convertito, con modificazioni, dalla [legge 24 dicembre 2012, n. 228](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-24;228) vedi note all'articolo 358 del presente decreto legislativo.
+ - Per l'articolo 16-bis del citato [decreto-legge 18 ottobre 2012, n. 179](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-10-18;179), convertito, con modificazioni, dalla [legge 24 dicembre 2012, n. 228](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20Legge%20di%20stabilita%202013.%2012G0252.md) vedi note all'articolo 358 del presente decreto legislativo.
 
 ### Art. 361.
 
@@ -8818,13 +8818,13 @@ Al [codice dei contratti pubblici](Codice%20dei%20contratti%20pubblici%20relativ
                             a)
                                 all'articolo 48, al comma 17, le parole «articolo 110, comma 5, in caso di fallimento, liquidazione coatta amministrativa, amministrazione controllata, amministrazione straordinaria, concordato preventivo ovvero procedura di insolvenza concorsuale o di liquidazione del mandatario ovvero, qualora si tratti di imprenditore individuale, in caso di morte, interdizione, inabilitazione o fallimento» sono sostituite dalle seguenti: «articolo 110, comma 6, in caso di liquidazione giudiziale, liquidazione coatta amministrativa, amministrazione straordinaria, concordato preventivo o di liquidazione del mandatario ovvero, qualora si tratti di imprenditore individuale, in caso di morte, interdizione, inabilitazione o liquidazione giudiziale» e, al comma 18, le parole «articolo 110, comma 5, in caso di fallimento, liquidazione coatta amministrativa, amministrazione controllata, amministrazione straordinaria, concordato preventivo ovvero procedura di insolvenza concorsuale o di liquidazione di uno dei mandanti ovvero, qualora si tratti di imprenditore individuale, in caso di morte, interdizione, inabilitazione o fallimento» sono sostituite dalle seguenti: «articolo 110, comma 6, in caso di liquidazione giudiziale, liquidazione coatta amministrativa, amministrazione straordinaria, concordato preventivo o di liquidazione di uno dei mandanti ovvero, qualora si tratti di imprenditore individuale, in caso di morte, interdizione, inabilitazione o liquidazione giudiziale»;
                             b)
-                                all'articolo 80, comma 5, la lettera b) e' sostituita dalla seguente: «b) l'operatore economico sia stato sottoposto a liquidazione giudiziale o si trovi in stato di liquidazione coatta o di concordato preventivo o sia in corso nei suoi confronti un procedimento per la dichiarazione di una di tali situazioni, fermo restando quanto previsto dall'articolo 95 del codice della crisi di impresa e dell'insolvenza adottato in attuazione della delega di cui all'[articolo 1 della legge 19 ottobre 2017, n.155](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-10-19;155#art_1) e dall'articolo 110;»;
+                                all'articolo 80, comma 5, la lettera b) e' sostituita dalla seguente: «b) l'operatore economico sia stato sottoposto a liquidazione giudiziale o si trovi in stato di liquidazione coatta o di concordato preventivo o sia in corso nei suoi confronti un procedimento per la dichiarazione di una di tali situazioni, fermo restando quanto previsto dall'articolo 95 del codice della crisi di impresa e dell'insolvenza adottato in attuazione della delega di cui all'[articolo 1 della legge 19 ottobre 2017, n.155](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20riforma%20delle%20discipline%20della%20crisi%20di%20impresa%20e%20dellinsolvenza.%2017G00170.md) e dall'articolo 110;»;
                             c)
                                 l'articolo 110 e' sostituito dal seguente: 
  «Art. 110 (Procedure di affidamento in caso di liquidazione giudiziale dell'esecutore o di risoluzione del contratto e misure straordinarie di gestione). - 1. Fatto salvo quanto previsto ai commi 3 e seguenti, le stazioni appaltanti, in caso di liquidazione giudiziale, di liquidazione coatta e concordato preventivo, ovvero di risoluzione del contratto ai sensi dell'articolo 108 ovvero di recesso dal contratto ai sensi dell'[articolo 88, comma 4-ter, del decreto legislativo 6 settembre 2011, n. 159](Codice%20delle%20leggi%20antimafia%20e%20delle%20misure%20di%20prevenzione%20nonche%20nuove%20disposizioni%20in%20materia%20di%20documentazione%20antimafia%20a%20norma%20degli%20articoli%201%20e%202%20della%20legge%2013%20agosto%202010%20n.%20136.%2011G0201.md), ovvero in caso di dichiarazione giudiziale di inefficacia del contratto, interpellano progressivamente i soggetti che hanno partecipato all'originaria procedura di gara, risultanti dalla relativa graduatoria, al fine di stipulare un nuovo contratto per l'affidamento dell'esecuzione o del completamento dei lavori, servizi o forniture. 
  2. L'affidamento avviene alle medesime condizioni gia' proposte dall'originario aggiudicatario in sede in offerta. 
  3. Il curatore della procedura di liquidazione giudiziale, autorizzato all'esercizio dell'impresa, puo' eseguire i contratti gia' stipulati dall'impresa assoggettata alla liquidazione giudiziale su autorizzazione del giudice delegato. 
- 4. Alle imprese che hanno depositato la domanda di cui all'articolo 40 del codice della crisi di impresa e dell'insolvenza adottato in attuazione della delega di cui all'[articolo 1 della legge 19 ottobre 2017, n.155](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-10-19;155#art_1), ((si applica l'articolo 95 del medesimo codice)). Per la partecipazione alle procedure di affidamento di contratti pubblici tra il momento del deposito della domanda di cui al primo periodo ed il momento del deposito del decreto previsto dall'articolo 47 del codice della crisi di impresa e dell'insolvenza e' sempre necessario l'avvalimento dei requisiti di un altro soggetto. 
+ 4. Alle imprese che hanno depositato la domanda di cui all'articolo 40 del codice della crisi di impresa e dell'insolvenza adottato in attuazione della delega di cui all'[articolo 1 della legge 19 ottobre 2017, n.155](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20riforma%20delle%20discipline%20della%20crisi%20di%20impresa%20e%20dellinsolvenza.%2017G00170.md), ((si applica l'articolo 95 del medesimo codice)). Per la partecipazione alle procedure di affidamento di contratti pubblici tra il momento del deposito della domanda di cui al primo periodo ed il momento del deposito del decreto previsto dall'articolo 47 del codice della crisi di impresa e dell'insolvenza e' sempre necessario l'avvalimento dei requisiti di un altro soggetto. 
  5. L'impresa ammessa al concordato preventivo non necessita di avvalimento di requisiti di altro soggetto. 
  6. L'ANAC puo' subordinare la partecipazione, l'affidamento di subappalti e la stipulazione dei relativi contratti alla necessita' che l'impresa in concordato si avvalga di un altro operatore in possesso dei requisiti di carattere generale, di capacita' finanziaria, tecnica, economica, nonche' di certificazione, richiesti per l'affidamento dell'appalto, che si impegni nei confronti dell'impresa concorrente e della stazione appaltante a mettere a disposizione, per la durata del contratto, le risorse necessarie all'esecuzione dell'appalto e a subentrare all'impresa ausiliata nel caso in cui questa nel corso della gara, ovvero dopo la stipulazione del contratto, non sia per qualsiasi ragione piu' in grado di dare regolare esecuzione all'appalto o alla concessione quando l'impresa non e' in possesso dei requisiti aggiuntivi che l'ANAC individua con apposite linee guida. 
  7. Restano ferme le disposizioni previste dall'[articolo 32 del decreto-legge 24 giugno 2014, n. 90](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2014-06-24;90#art_32), convertito, con modificazioni, dalla [legge 11 agosto 2014, n. 114](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2024%20giugno%202014%20n.%2090%20recante%20misure%20urgenti%20per%20la%20semplificazione%20e%20la%20trasparenza%20amministrativa%20e%20per%20lefficienza%20degli%20uffici%20_e082673dd6db.md), in materia di misure straordinarie di gestione di imprese nell'ambito della prevenzione della corruzione.»;
@@ -9094,7 +9094,7 @@ All'[articolo 3 del decreto legislativo 20 giugno 2005, n. 122](Disposizioni%20p
 
 Note all'art. 385: 
  
- - Si riporta il testo dell'[articolo 3 del decreto legislativo 20 giugno 2005, n. 122](Disposizioni%20per%20la%20tutela%20dei%20diritti%20patrimoniali%20degli%20acquirenti%20di%20immobili%20da%20costruire%20a%20norma%20della%20legge%202%20agosto%202004%20n.%20210.md) (Disposizioni per la tutela dei diritti patrimoniali degli acquirenti di immobili da costruire, a norma della [L. 2 agosto 2004, n. 210](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-08-02;210)), cosi' come modificato dal presente decreto legislativo: 
+ - Si riporta il testo dell'[articolo 3 del decreto legislativo 20 giugno 2005, n. 122](Disposizioni%20per%20la%20tutela%20dei%20diritti%20patrimoniali%20degli%20acquirenti%20di%20immobili%20da%20costruire%20a%20norma%20della%20legge%202%20agosto%202004%20n.%20210.md) (Disposizioni per la tutela dei diritti patrimoniali degli acquirenti di immobili da costruire, a norma della [L. 2 agosto 2004, n. 210](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20tutela%20dei%20diritti%20patrimoniali%20degli%20acquirenti%20di%20immobili%20da%20costruire.md)), cosi' come modificato dal presente decreto legislativo: 
  "Art. 3. Rilascio, contenuto e modalita' di escussione della fideiussione. 
  1. La fideiussione e' rilasciata da una banca o da un'impresa esercente le assicurazioni; essa deve garantire, nel caso in cui il costruttore incorra in una situazione di crisi di cui al comma 2 o, nel caso di inadempimento all'obbligo assicurativo di cui all'articolo 4, la restituzione delle somme e del valore di ogni altro eventuale corrispettivo effettivamente riscossi e dei relativi interessi legali maturati fino al momento in cui la predetta situazione si e' verificata. 
  2. La situazione di crisi si intende verificata in una delle seguenti date: 
@@ -9137,7 +9137,7 @@ Note all'art. 386:
 
 1.
 
-All'[articolo 5 del decreto legislativo 20 giugno 2005, n. 122](Disposizioni%20per%20la%20tutela%20dei%20diritti%20patrimoniali%20degli%20acquirenti%20di%20immobili%20da%20costruire%20a%20norma%20della%20legge%202%20agosto%202004%20n.%20210.md), dopo il comma 1-bis, e' aggiunto il seguente: «1-ter. Le modifiche apportate dal decreto legislativo di attuazione dell'[articolo 12 della legge 19 ottobre 2017, n. 155](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-10-19;155#art_12) si applicano ai contratti aventi ad oggetto immobili da costruire per i quali il titolo abilitativo edilizio sia stato richiesto o presentato successivamente alla data di entrata in vigore del decreto stesso.».
+All'[articolo 5 del decreto legislativo 20 giugno 2005, n. 122](Disposizioni%20per%20la%20tutela%20dei%20diritti%20patrimoniali%20degli%20acquirenti%20di%20immobili%20da%20costruire%20a%20norma%20della%20legge%202%20agosto%202004%20n.%20210.md), dopo il comma 1-bis, e' aggiunto il seguente: «1-ter. Le modifiche apportate dal decreto legislativo di attuazione dell'[articolo 12 della legge 19 ottobre 2017, n. 155](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20riforma%20delle%20discipline%20della%20crisi%20di%20impresa%20e%20dellinsolvenza.%2017G00170.md) si applicano ai contratti aventi ad oggetto immobili da costruire per i quali il titolo abilitativo edilizio sia stato richiesto o presentato successivamente alla data di entrata in vigore del decreto stesso.».
 
 Note all'art. 387: 
  
@@ -9145,7 +9145,7 @@ Note all'art. 387:
  "Art. 5. Applicabilita' della disciplina. 
  1. La disciplina prevista dagli articoli 2, 3 e 4 si applica ai contratti aventi ad oggetto il trasferimento non immediato della proprieta' o di altro diritto reale di godimento di immobili per i quali il permesso di costruire o altra denuncia o provvedimento abilitativo sia stato richiesto successivamente alla data di entrata in vigore del presente decreto. 
  1-bis. L'acquirente non puo' rinunciare alle tutele previste dal presente decreto; ogni clausola contraria e' nulla e deve intendersi come non apposta. 
- 1-ter. Le modifiche apportate dal decreto legislativo di attuazione dell'[articolo 12 della legge 19 ottobre 2017, n. 155](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-10-19;155#art_12) si applicano ai contratti aventi ad oggetto immobili da costruire per i quali il titolo abilitativo edilizio sia stato richiesto o presentato successivamente alla data di entrata in vigore del decreto stesso.".
+ 1-ter. Le modifiche apportate dal decreto legislativo di attuazione dell'[articolo 12 della legge 19 ottobre 2017, n. 155](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20riforma%20delle%20discipline%20della%20crisi%20di%20impresa%20e%20dellinsolvenza.%2017G00170.md) si applicano ai contratti aventi ad oggetto immobili da costruire per i quali il titolo abilitativo edilizio sia stato richiesto o presentato successivamente alla data di entrata in vigore del decreto stesso.".
 
 ### Art. 388. — Modifiche all'articolo 6 del decreto legislativo n. 122 del 2005
 

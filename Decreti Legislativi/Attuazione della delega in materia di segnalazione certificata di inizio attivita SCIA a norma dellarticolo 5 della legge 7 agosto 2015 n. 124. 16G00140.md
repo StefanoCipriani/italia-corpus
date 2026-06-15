@@ -97,7 +97,7 @@ Note all'[art. 2](Definizione%20ed%20ampliamento%20delle%20attribuzioni%20della%
  a) esprime parere: 
  1) sul disegno di legge finanziaria e sui disegni di legge collegati; 
  2) sul documento di programmazione economica e finanziaria; 
- 3) sugli schemi di decreto legislativo adottati in base all'[art. 1 della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_1); 
+ 3) sugli schemi di decreto legislativo adottati in base all'[art. 1 della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md); 
  b) promuove e sancisce intese tra Governo, regioni, province, comuni e comunita' montane. Nel caso di mancata intesa o di urgenza si applicano le disposizioni di cui all'art. 3, commi 3 e 4; 
  c) promuove e sancisce accordi tra Governo, regioni, province, comuni e comunita' montane, al fine di coordinare l'esercizio delle rispettive competenze e svolgere in collaborazione attivita' di interesse comune; 
  d) acquisisce le designazioni dei rappresentanti delle autonomie locali indicati, rispettivamente, dai presidenti delle regioni e province autonome di Trento e di Bolzano, dall'ANCI, dall'UPI e dall'UNCEM nei casi previsti dalla legge; 
@@ -115,9 +115,9 @@ Note all'[art. 2](Definizione%20ed%20ampliamento%20delle%20attribuzioni%20della%
  c) di ogni altro problema connesso con gli scopi di cui al presente comma che venga sottoposto, anche su richiesta del Presidente dell'ANCI, dell'UPI e dell'UNCEM, al parere della Conferenza dal Presidente del Consiglio dei ministri o dal Presidente delegato. 
  7. La Conferenza Stato-citta' ed autonomie locali ha inoltre il compito di favorire: 
  a) l'informazione e le iniziative per il miglioramento dell'efficienza dei servizi pubblici locali; 
- b) la promozione di accordi o contratti di programma ai sensi dell'[art. 12 della legge 23 dicembre 1992, n. 498](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-12-23;498#art_12); 
+ b) la promozione di accordi o contratti di programma ai sensi dell'[art. 12 della legge 23 dicembre 1992, n. 498](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20urgenti%20in%20materia%20di%20finanza%20pubblica.md); 
  c) le attivita' relative alla organizzazione di manifestazioni che coinvolgono piu' comuni o province da celebrare in ambito nazionale.». 
- - La [legge 5 giugno 2003, n. 131](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-06-05;131) (Disposizioni per l'adeguamento dell'ordinamento della Repubblica alla [Legge costituzionale 18 ottobre 2001, n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:2001-10-18;3)), e' pubblicata nella Gazzetta Ufficiale 10 giugno 2003, n. 132. 
+ - La [legge 5 giugno 2003, n. 131](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-06-05;131) (Disposizioni per l'adeguamento dell'ordinamento della Repubblica alla [Legge costituzionale 18 ottobre 2001, n. 3](../Leggi%20costituzionali/Modifiche%20al%20titolo%20V%20della%20parte%20seconda%20della%20Costituzione.md)), e' pubblicata nella Gazzetta Ufficiale 10 giugno 2003, n. 132. 
  - Il [decreto legislativo 14 marzo 2013, n. 33](Riordino%20della%20disciplina%20riguardante%20il%20diritto%20di%20accesso%20civico%20e%20gli%20obblighi%20di%20pubblicita%20trasparenza%20e%20diffusione%20di%20informazioni%20da%20parte%20delle%20pubbliche%20amministrazioni.%2013G00076.md) (Riordino della disciplina riguardante il diritto di accesso civico e gli obblighi di pubblicita', trasparenza e diffusione di informazioni da parte delle pubbliche amministrazioni), e' pubblicato nella Gazzetta Ufficiale il 5 aprile 2013, n. 80.
 
 ## Art. 3. — Modifiche alla legge 7 agosto 1990, n. 241

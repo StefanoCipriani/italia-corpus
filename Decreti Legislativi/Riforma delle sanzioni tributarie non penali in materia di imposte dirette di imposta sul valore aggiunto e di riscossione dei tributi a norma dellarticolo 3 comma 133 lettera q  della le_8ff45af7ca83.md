@@ -53,7 +53,7 @@ In caso di contestazione relativa alle disposizioni in materia di disallineament
 
 7.
 
-Nelle ipotesi di cui all'[articolo 3 del decreto legislativo 14 marzo 2011, n. 23](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-03-14;23#art_3), se nella dichiarazione dei redditi il canone derivante dalla locazione di immobili ad uso abitativo non e' indicato o e' indicato in misura inferiore a quella effettiva, si applicano in misura raddoppiata, rispettivamente, le sanzioni amministrative previste dai precedenti commi 1 e 2.
+Nelle ipotesi di cui all'[articolo 3 del decreto legislativo 14 marzo 2011, n. 23](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20in%20materia%20di%20federalismo%20Fiscale%20Municipale.%2011G0066.md), se nella dichiarazione dei redditi il canone derivante dalla locazione di immobili ad uso abitativo non e' indicato o e' indicato in misura inferiore a quella effettiva, si applicano in misura raddoppiata, rispettivamente, le sanzioni amministrative previste dai precedenti commi 1 e 2.
 
 8.
 
@@ -71,7 +71,7 @@ Il [D.L. 13 agosto 2011, n. 138](https://www.normattiva.it/uri-res/N2Ls?urn:nir:
 
 AGGIORNAMENTO (16)
 
-La [L. 27 dicembre 2013, n. 147](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2013-12-27;147) ha disposto: 
+La [L. 27 dicembre 2013, n. 147](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20Legge%20di%20stabilita%202014.%2013G00191.md) ha disposto: 
  - (con l'art. 1, comma 282) che "La sanzione di cui all'[articolo 1, comma 2, del decreto legislativo 18 dicembre 1997, n. 471](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riforma%20delle%20sanzioni%20tributarie%20non%20penali%20in%20materia%20di%20imposte%20dirette%20di%20imposta%20sul%20valore%20aggiunto%20e%20di%20riscossione%20dei%20tributi%20a%20norma%20dellarticolo%203%20comma%20133%20lettera%20q%20%20della%20le_8ff45af7ca83.md), non si applica alle rettifiche del valore della produzione netta di cui al comma 281"; 
  - (con l' art. 1, comma 283) che "La non applicazione delle sanzioni di cui al comma 282 e' limitata ai periodi d'imposta successivi a quello in corso alla data del 31 dicembre 2007 fino al periodo d'imposta per il quale, alla data di entrata in vigore della presente legge, siano decorsi i termini per la presentazione della relativa dichiarazione"; 
  - (con l'art. 1, comma 284) che "Le disposizioni dei commi 282 e 283 non si applicano se la sanzione e' gia' stata irrogata con provvedimento divenuto definitivo anteriormente alla data di entrata in vigore della presente legge".
@@ -80,25 +80,25 @@ La [L. 27 dicembre 2013, n. 147](https://www.normattiva.it/uri-res/N2Ls?urn:nir:
 
 AGGIORNAMENTO (20)
 
-Il [D.Lgs. 24 settembre 2015, n. 158](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-09-24;158), ha disposto (con l'art. 32, comma 1) che la presente modifica si applica a decorrere dal 1 gennaio 2017.
+Il [D.Lgs. 24 settembre 2015, n. 158](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20sistema%20sanzionatorio%20in%20attuazione%20dellarticolo%208%20comma%201%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00169.md), ha disposto (con l'art. 32, comma 1) che la presente modifica si applica a decorrere dal 1 gennaio 2017.
 
 ---------------
 
 AGGIORNAMENTO (21)
 
-Il [D.Lgs. 24 settembre 2015, n. 158](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-09-24;158), come modificato dalla [L. 28 dicembre 2015, n. 208](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-12-28;208), ha disposto (con l'art. 32, comma 1) che la presente modifica si applica a decorrere dal 1 gennaio 2016.
+Il [D.Lgs. 24 settembre 2015, n. 158](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20sistema%20sanzionatorio%20in%20attuazione%20dellarticolo%208%20comma%201%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00169.md), come modificato dalla [L. 28 dicembre 2015, n. 208](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202016.%2015G00222.md), ha disposto (con l'art. 32, comma 1) che la presente modifica si applica a decorrere dal 1 gennaio 2016.
 
 ---------------
 
 AGGIORNAMENTO (36)
 
-Il [D.Lgs. 27 dicembre 2023, n. 209](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2023-12-27;209) ha disposto (con l'art. 61, comma 4) che "L'applicazione dei commi 1 e 3 e' condizionata, in ogni caso, alla completa e veritiera descrizione delle fattispecie indicate nel decreto previsto dal [comma 6-bis dell'articolo 1 del decreto legislativo 18 dicembre 1997, n. 471](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riforma%20delle%20sanzioni%20tributarie%20non%20penali%20in%20materia%20di%20imposte%20dirette%20di%20imposta%20sul%20valore%20aggiunto%20e%20di%20riscossione%20dei%20tributi%20a%20norma%20dellarticolo%203%20comma%20133%20lettera%20q%20%20della%20le_8ff45af7ca83.md), introdotto dal comma 1, nonche' alla tempestiva comunicazione della relativa documentazione all'Agenzia delle entrate".
+Il [D.Lgs. 27 dicembre 2023, n. 209](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20riforma%20fiscale%20in%20materia%20di%20fiscalita%20internazionale.%2023G00222.md) ha disposto (con l'art. 61, comma 4) che "L'applicazione dei commi 1 e 3 e' condizionata, in ogni caso, alla completa e veritiera descrizione delle fattispecie indicate nel decreto previsto dal [comma 6-bis dell'articolo 1 del decreto legislativo 18 dicembre 1997, n. 471](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riforma%20delle%20sanzioni%20tributarie%20non%20penali%20in%20materia%20di%20imposte%20dirette%20di%20imposta%20sul%20valore%20aggiunto%20e%20di%20riscossione%20dei%20tributi%20a%20norma%20dellarticolo%203%20comma%20133%20lettera%20q%20%20della%20le_8ff45af7ca83.md), introdotto dal comma 1, nonche' alla tempestiva comunicazione della relativa documentazione all'Agenzia delle entrate".
 
 ---------------
 
 AGGIORNAMENTO (40)
 
-Il [D.Lgs. 14 giugno 2024, n. 87](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-06-14;87), ha disposto (con l'art. 5, comma 1) che le disposizioni di cui agli articoli 2, 3 e 4 del D.Lgs. medesimo si applicano alle violazioni commesse a partire dal 1° settembre 2024.
+Il [D.Lgs. 14 giugno 2024, n. 87](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20sistema%20sanzionatorio%20tributario%20ai%20sensi%20dellarticolo%2020%20della%20legge%209%20agosto%202023%20n.%20111.%2024G00103.md), ha disposto (con l'art. 5, comma 1) che le disposizioni di cui agli articoli 2, 3 e 4 del D.Lgs. medesimo si applicano alle violazioni commesse a partire dal 1° settembre 2024.
 
 ### Art. 2. — Violazioni relative alla dichiarazione dei sostituti d'imposta
 
@@ -145,19 +145,19 @@ Il contribuente che detiene la documentazione prevista dal provvedimento di cui 
 
 AGGIORNAMENTO (20)
 
-Il [D.Lgs. 24 settembre 2015, n. 158](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-09-24;158), ha disposto (con l'art. 32, comma 1) che le presenti modifiche si applicano a decorrere dal 1 gennaio 2017.
+Il [D.Lgs. 24 settembre 2015, n. 158](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20sistema%20sanzionatorio%20in%20attuazione%20dellarticolo%208%20comma%201%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00169.md), ha disposto (con l'art. 32, comma 1) che le presenti modifiche si applicano a decorrere dal 1 gennaio 2017.
 
 ---------------
 
 AGGIORNAMENTO (21)
 
-Il [D.Lgs. 24 settembre 2015, n. 158](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-09-24;158), come modificato dalla [L. 28 dicembre 2015, n. 208](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-12-28;208), ha disposto (con l'art. 32, comma 1) che le presenti modifiche si applicano a decorrere dal 1 gennaio 2016.
+Il [D.Lgs. 24 settembre 2015, n. 158](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20sistema%20sanzionatorio%20in%20attuazione%20dellarticolo%208%20comma%201%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00169.md), come modificato dalla [L. 28 dicembre 2015, n. 208](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202016.%2015G00222.md), ha disposto (con l'art. 32, comma 1) che le presenti modifiche si applicano a decorrere dal 1 gennaio 2016.
 
 ---------------
 
 AGGIORNAMENTO (40)
 
-Il [D.Lgs. 14 giugno 2024, n. 87](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-06-14;87), ha disposto (con l'art. 5, comma 1) che le disposizioni di cui agli articoli 2, 3 e 4 del D.Lgs. medesimo si applicano alle violazioni commesse a partire dal 1° settembre 2024.
+Il [D.Lgs. 14 giugno 2024, n. 87](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20sistema%20sanzionatorio%20tributario%20ai%20sensi%20dellarticolo%2020%20della%20legge%209%20agosto%202023%20n.%20111.%2024G00103.md), ha disposto (con l'art. 5, comma 1) che le disposizioni di cui agli articoli 2, 3 e 4 del D.Lgs. medesimo si applicano alle violazioni commesse a partire dal 1° settembre 2024.
 
 ### Art. 3. — Omessa denuncia delle variazioni dei redditi fondiari
 
@@ -169,13 +169,13 @@ In caso di omessa denuncia, nel termine previsto per legge, delle situazioni che
 
 AGGIORNAMENTO (20)
 
-Il [D.Lgs. 24 settembre 2015, n. 158](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-09-24;158), ha disposto (con l'art. 32, comma 1) che la presente modifica si applica a decorrere dal 1 gennaio 2017.
+Il [D.Lgs. 24 settembre 2015, n. 158](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20sistema%20sanzionatorio%20in%20attuazione%20dellarticolo%208%20comma%201%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00169.md), ha disposto (con l'art. 32, comma 1) che la presente modifica si applica a decorrere dal 1 gennaio 2017.
 
 ---------------
 
 AGGIORNAMENTO (21)
 
-Il [D.Lgs. 24 settembre 2015, n. 158](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-09-24;158), come modificato dalla [L. 28 dicembre 2015, n. 208](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-12-28;208), ha disposto (con l'art. 32, comma 1) che la presente modifica si applica a decorrere dal 1 gennaio 2016.
+Il [D.Lgs. 24 settembre 2015, n. 158](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20sistema%20sanzionatorio%20in%20attuazione%20dellarticolo%208%20comma%201%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00169.md), come modificato dalla [L. 28 dicembre 2015, n. 208](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202016.%2015G00222.md), ha disposto (con l'art. 32, comma 1) che la presente modifica si applica a decorrere dal 1 gennaio 2016.
 
 ### Art. 4.
 
@@ -186,7 +186,7 @@ Il [D.Lgs. 24 settembre 2015, n. 158](https://www.normattiva.it/uri-res/N2Ls?urn
 
 AGGIORNAMENTO (21)
 
-Il [D.Lgs. 24 settembre 2015, n. 158](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-09-24;158) aveva precedentemente disposto (con l'art. 32, comma 1) l'abrogazione del presente articolo a decorrere dal 1 gennaio 2017.
+Il [D.Lgs. 24 settembre 2015, n. 158](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20sistema%20sanzionatorio%20in%20attuazione%20dellarticolo%208%20comma%201%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00169.md) aveva precedentemente disposto (con l'art. 32, comma 1) l'abrogazione del presente articolo a decorrere dal 1 gennaio 2017.
 
 ## SANZIONI IN MATERIA DI IMPOSTE DIRETTE E DI IMPOSTA SUL VALORE AGGIUNTO Capo II Sanzioni in materia di imposta sul valore aggiunto
 
@@ -197,8 +197,8 @@ Titolo I
 1.
 
 Nel caso di omessa presentazione della dichiarazione annuale dell'imposta sul valore aggiunto si applica la sanzione amministrativa del centoventi per cento dell'ammontare del tributo dovuto per il periodo d'imposta o per le operazioni che avrebbero dovuto formare oggetto di dichiarazione, con un minimo di euro 250.
-Per determinare l'imposta dovuta sono computati in detrazione tutti i versamenti effettuati relativi al periodo, il credito dell'anno precedente del quale non e' stato chiesto il rimborso, nonche' le imposte detraibili risultanti dalle liquidazioni regolarmente eseguite. Nel caso di omessa presentazione della dichiarazione cui sono tenuti i soggetti che applicano i regimi speciali di cui agli articoli 70.1 e da 74-quinquies a 74-septies del [decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](../DPR/Istituzione%20e%20disciplina%20dellimposta%20sul%20valore%20aggiunto.md), la sanzione di cui al primo periodo e' commisurata all'ammontare dell'imposta dovuta nel territorio dello Stato che avrebbe dovuto formare oggetto di dichiarazione. PERIODO SOPPRESSO DAL [D.LGS. 14 GIUGNO 2024, N. 87](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-06-14;87).
-PERIODO SOPPRESSO DAL [D.LGS. 14 GIUGNO 2024, N. 87](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-06-14;87). Nel caso di presentazione della dichiarazione cui sono tenuti i soggetti che applicano i regimi speciali di cui agli articoli 70.1 e da 74-quinquies a 74-septies del [decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](../DPR/Istituzione%20e%20disciplina%20dellimposta%20sul%20valore%20aggiunto.md), entro tre anni dalla data in cui doveva essere presentata, si applica la sanzione del quarantacinque per cento dell'ammontare dell'imposta dovuta nel territorio dello Stato per il periodo oggetto di dichiarazione, con un minimo di euro 200.
+Per determinare l'imposta dovuta sono computati in detrazione tutti i versamenti effettuati relativi al periodo, il credito dell'anno precedente del quale non e' stato chiesto il rimborso, nonche' le imposte detraibili risultanti dalle liquidazioni regolarmente eseguite. Nel caso di omessa presentazione della dichiarazione cui sono tenuti i soggetti che applicano i regimi speciali di cui agli articoli 70.1 e da 74-quinquies a 74-septies del [decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](../DPR/Istituzione%20e%20disciplina%20dellimposta%20sul%20valore%20aggiunto.md), la sanzione di cui al primo periodo e' commisurata all'ammontare dell'imposta dovuta nel territorio dello Stato che avrebbe dovuto formare oggetto di dichiarazione. PERIODO SOPPRESSO DAL [D.LGS. 14 GIUGNO 2024, N. 87](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20sistema%20sanzionatorio%20tributario%20ai%20sensi%20dellarticolo%2020%20della%20legge%209%20agosto%202023%20n.%20111.%2024G00103.md).
+PERIODO SOPPRESSO DAL [D.LGS. 14 GIUGNO 2024, N. 87](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20sistema%20sanzionatorio%20tributario%20ai%20sensi%20dellarticolo%2020%20della%20legge%209%20agosto%202023%20n.%20111.%2024G00103.md). Nel caso di presentazione della dichiarazione cui sono tenuti i soggetti che applicano i regimi speciali di cui agli articoli 70.1 e da 74-quinquies a 74-septies del [decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](../DPR/Istituzione%20e%20disciplina%20dellimposta%20sul%20valore%20aggiunto.md), entro tre anni dalla data in cui doveva essere presentata, si applica la sanzione del quarantacinque per cento dell'ammontare dell'imposta dovuta nel territorio dello Stato per il periodo oggetto di dichiarazione, con un minimo di euro 200.
 Se la dichiarazione di cui al periodo precedente e' presentata entro il termine di presentazione della dichiarazione relativa al periodo successivo si applica la sanzione del venticinque per cento dell'ammontare dell'imposta dovuta nel territorio dello Stato per il periodo oggetto di dichiarazione, con un minimo di euro 100. ((In caso di avvenuta comunicazione della liquidazione di cui all'articolo 54-bis.1 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, per imposta dovuta si intende la differenza tra l'ammontare del tributo liquidato in base all'accertamento e quello gia' liquidato ai sensi del comma 1 del medesimo articolo 54-bis.1)). (1) (3) (18) (20) (21) (33) (40)
 
 1-bis.
@@ -244,13 +244,13 @@ Chiunque, essendovi obbligato, non presenta una delle dichiarazioni di inizio o 
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 5 giugno 1998, n. 203](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-06-05;203) ha disposto (con l'art. 5, comma 1) che "Le disposizioni del presente decreto hanno effetto a decorrere dal 1 aprile 1998".
+Il [D.Lgs. 5 giugno 1998, n. 203](Disposizioni%20integrative%20e%20correttive%20dei%20decreti%20legislativi%2018%20dicembre%201997%20numeri%20471%20472%20e%20473%20in%20materia%20di%20sanzioni%20amministrative%20tributarie.md) ha disposto (con l'art. 5, comma 1) che "Le disposizioni del presente decreto hanno effetto a decorrere dal 1 aprile 1998".
 
 -------------
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. 30 marzo 2000, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-03-30;99) ha disposto (con l'art. 4, comma 1) che "Le disposizioni del presente decreto hanno effetto a decorrere dal 1° aprile 1998, salvo quelle che modificano il trattamento sanzionatorio in senso sfavorevole al contribuente".
+Il [D.Lgs. 30 marzo 2000, n. 99](Disposizioni%20integrative%20e%20correttive%20dei%20decreti%20legislativi%2018%20dicembre%201997%20numeri%20471%20472%20e%20473%20in%20materia%20di%20sanzioni%20amministrative%20tributarie_2.md) ha disposto (con l'art. 4, comma 1) che "Le disposizioni del presente decreto hanno effetto a decorrere dal 1° aprile 1998, salvo quelle che modificano il trattamento sanzionatorio in senso sfavorevole al contribuente".
 
 -------------
 
@@ -262,31 +262,31 @@ Il [D.L. 13 agosto 2011, n. 138](https://www.normattiva.it/uri-res/N2Ls?urn:nir:
 
 AGGIORNAMENTO (18)
 
-Il [D.Lgs. 31 marzo 2015, n. 42](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-03-31;42) ha disposto (con l'art. 8, comma 1) che "Le disposizioni del presente decreto si applicano alle operazioni effettuate a partire dal 1° gennaio 2015".
+Il [D.Lgs. 31 marzo 2015, n. 42](Attuazione%20della%20direttiva%202008-8-CE%20che%20modifica%20la%20direttiva%202006-112-CE%20per%20quanto%20riguarda%20il%20luogo%20delle%20prestazioni%20di%20servizi.%2015G00056.md) ha disposto (con l'art. 8, comma 1) che "Le disposizioni del presente decreto si applicano alle operazioni effettuate a partire dal 1° gennaio 2015".
 
 -------------
 
 AGGIORNAMENTO (20)
 
-Il [D.Lgs. 24 settembre 2015, n. 158](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-09-24;158) ha disposto (con l'art. 32, comma 1) che le presenti modifiche si applicano a decorrere dal 1° gennaio 2017.
+Il [D.Lgs. 24 settembre 2015, n. 158](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20sistema%20sanzionatorio%20in%20attuazione%20dellarticolo%208%20comma%201%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00169.md) ha disposto (con l'art. 32, comma 1) che le presenti modifiche si applicano a decorrere dal 1° gennaio 2017.
 
 ---------------
 
 AGGIORNAMENTO (21)
 
-Il [D.Lgs. 24 settembre 2015, n. 158](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-09-24;158), come modificato dalla [L. 28 dicembre 2015, n. 208](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-12-28;208), ha disposto (con l'art. 32, comma 1) che le presenti modifiche si applicano a decorrere dal 1 gennaio 2016.
+Il [D.Lgs. 24 settembre 2015, n. 158](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20sistema%20sanzionatorio%20in%20attuazione%20dellarticolo%208%20comma%201%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00169.md), come modificato dalla [L. 28 dicembre 2015, n. 208](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202016.%2015G00222.md), ha disposto (con l'art. 32, comma 1) che le presenti modifiche si applicano a decorrere dal 1 gennaio 2016.
 
 ---------------
 
 AGGIORNAMENTO (33)
 
-Il [D.Lgs. 25 maggio 2021, n. 83](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-05-25;83) ha disposto (con l'art. 10, comma 1) che le presenti modifiche si applicano "alle operazioni, disciplinate dal decreto stesso, effettuate a partire dal 1° luglio 2021".
+Il [D.Lgs. 25 maggio 2021, n. 83](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Recepimento%20degli%20articoli%202%20e%203%20della%20direttiva%20UE%202017-2455%20del%20Consiglio%20del%205%20dicembre%202017%20che%20modifica%20la%20direttiva%202006-112-CE%20e%20la%20direttiva%202009-132-CE%20per%20quanto%20riguarda%20taluni_e87c3692f358.md) ha disposto (con l'art. 10, comma 1) che le presenti modifiche si applicano "alle operazioni, disciplinate dal decreto stesso, effettuate a partire dal 1° luglio 2021".
 
 ---------------
 
 AGGIORNAMENTO (40)
 
-Il [D.Lgs. 14 giugno 2024, n. 87](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-06-14;87), ha disposto (con l'art. 5, comma 1) che le disposizioni di cui agli articoli 2, 3 e 4 del D.Lgs. medesimo si applicano alle violazioni commesse a partire dal 1° settembre 2024.
+Il [D.Lgs. 14 giugno 2024, n. 87](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20sistema%20sanzionatorio%20tributario%20ai%20sensi%20dellarticolo%2020%20della%20legge%209%20agosto%202023%20n.%20111.%2024G00103.md), ha disposto (con l'art. 5, comma 1) che le disposizioni di cui agli articoli 2, 3 e 4 del D.Lgs. medesimo si applicano alle violazioni commesse a partire dal 1° settembre 2024.
 
 ### Art. 6. — Violazione degli obblighi relativi alla documentazione, registrazione ed individuazione delle operazioni soggette all'imposta sul valore aggiunto.
 
@@ -300,7 +300,7 @@ Il cedente o prestatore che viola obblighi inerenti alla documentazione e alla r
 
 2-bis.
 
-Nelle ipotesi di cui all'articolo 2, commi 1, 1-bis ((, 1-ter)) e 2, del [decreto legislativo 5 agosto 2015, n. 127](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-05;127), se le violazioni consistono nella mancata o non tempestiva memorizzazione o trasmissione, ovvero nella memorizzazione o trasmissione con dati incompleti o non veritieri, la sanzione e' pari, per ciascuna operazione, al settanta per cento dell'imposta corrispondente all'importo non memorizzato o trasmesso. Salve le procedure alternative adottate con i provvedimenti di attuazione dell'[articolo 2, comma 4, del decreto legislativo 5 agosto 2015, n. 127](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-05;127#art_2-com4), la sanzione di cui al primo periodo del presente comma si applica anche in caso di mancato o irregolare funzionamento degli strumenti di cui al medesimo comma 4. Se non constano omesse annotazioni, in caso di mancata tempestiva richiesta di intervento per la manutenzione degli stessi strumenti nei termini legislativamente previsti si applica la sanzione amministrativa da euro 250 a euro 2.000. La sanzione di cui al terzo periodo si applica anche in caso di omessa verificazione degli strumenti tecnologici di cui all'[articolo 2, comma 4, del decreto legislativo 5 agosto 2015, n. 127](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-05;127#art_2-com4) nei termini previsti. (32) (40)
+Nelle ipotesi di cui all'articolo 2, commi 1, 1-bis ((, 1-ter)) e 2, del [decreto legislativo 5 agosto 2015, n. 127](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Trasmissione%20telematica%20delle%20operazioni%20IVA%20e%20di%20controllo%20delle%20cessioni%20di%20beni%20effettuate%20attraverso%20distributori%20automatici%20in%20attuazione%20dellarticolo%209%20comma%201%20lettere%20d%20e%20g%20della%20l_9be8793a2d20.md), se le violazioni consistono nella mancata o non tempestiva memorizzazione o trasmissione, ovvero nella memorizzazione o trasmissione con dati incompleti o non veritieri, la sanzione e' pari, per ciascuna operazione, al settanta per cento dell'imposta corrispondente all'importo non memorizzato o trasmesso. Salve le procedure alternative adottate con i provvedimenti di attuazione dell'[articolo 2, comma 4, del decreto legislativo 5 agosto 2015, n. 127](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Trasmissione%20telematica%20delle%20operazioni%20IVA%20e%20di%20controllo%20delle%20cessioni%20di%20beni%20effettuate%20attraverso%20distributori%20automatici%20in%20attuazione%20dellarticolo%209%20comma%201%20lettere%20d%20e%20g%20della%20l_9be8793a2d20.md), la sanzione di cui al primo periodo del presente comma si applica anche in caso di mancato o irregolare funzionamento degli strumenti di cui al medesimo comma 4. Se non constano omesse annotazioni, in caso di mancata tempestiva richiesta di intervento per la manutenzione degli stessi strumenti nei termini legislativamente previsti si applica la sanzione amministrativa da euro 250 a euro 2.000. La sanzione di cui al terzo periodo si applica anche in caso di omessa verificazione degli strumenti tecnologici di cui all'[articolo 2, comma 4, del decreto legislativo 5 agosto 2015, n. 127](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Trasmissione%20telematica%20delle%20operazioni%20IVA%20e%20di%20controllo%20delle%20cessioni%20di%20beni%20effettuate%20attraverso%20distributori%20automatici%20in%20attuazione%20dellarticolo%209%20comma%201%20lettere%20d%20e%20g%20della%20l_9be8793a2d20.md) nei termini previsti. (32) (40)
 
 3.
 
@@ -332,7 +332,7 @@ Il cessionario o il committente che, nell'esercizio di imprese, arti o professio
 
 9.
 
-COMMA ABROGATO DAL [D.LGS. 14 GIUGNO 2024, N. 87](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-06-14;87). (40)
+COMMA ABROGATO DAL [D.LGS. 14 GIUGNO 2024, N. 87](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20sistema%20sanzionatorio%20tributario%20ai%20sensi%20dellarticolo%2020%20della%20legge%209%20agosto%202023%20n.%20111.%2024G00103.md). (40)
 
 9-bis.
 
@@ -349,7 +349,7 @@ Il cessionario che, nell'esercizio di imprese, arti o professioni, abbia acquist
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 5 giugno 1998, n. 203](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-06-05;203) ha disposto (con l'art. 5, comma 1) che "Le disposizioni del presente decreto hanno effetto a decorrere dal 1 aprile 1998".
+Il [D.Lgs. 5 giugno 1998, n. 203](Disposizioni%20integrative%20e%20correttive%20dei%20decreti%20legislativi%2018%20dicembre%201997%20numeri%20471%20472%20e%20473%20in%20materia%20di%20sanzioni%20amministrative%20tributarie.md) ha disposto (con l'art. 5, comma 1) che "Le disposizioni del presente decreto hanno effetto a decorrere dal 1 aprile 1998".
 
 ---------------
 
@@ -361,32 +361,32 @@ Il [D.L. 13 agosto 2011, n. 138](https://www.normattiva.it/uri-res/N2Ls?urn:nir:
 
 AGGIORNAMENTO (15)
 
-La [L. 24 dicembre 2012, n. 228](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-24;228) ha disposto (con l'art. 1, comma 335) che "Le disposizioni di cui ai commi da 325 a 334 del presente articolo si applicano alle operazioni effettuate a partire dal 1° gennaio 2013."
+La [L. 24 dicembre 2012, n. 228](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20Legge%20di%20stabilita%202013.%2012G0252.md) ha disposto (con l'art. 1, comma 335) che "Le disposizioni di cui ai commi da 325 a 334 del presente articolo si applicano alle operazioni effettuate a partire dal 1° gennaio 2013."
 
 ---------------
 
 AGGIORNAMENTO (20)
 
-Il [D.Lgs. 24 settembre 2015, n. 158](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-09-24;158) ha disposto (con l'art. 32, comma 1) che le presenti modifiche si applicano a decorrere dal 1° gennaio 2017.
+Il [D.Lgs. 24 settembre 2015, n. 158](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20sistema%20sanzionatorio%20in%20attuazione%20dellarticolo%208%20comma%201%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00169.md) ha disposto (con l'art. 32, comma 1) che le presenti modifiche si applicano a decorrere dal 1° gennaio 2017.
 
 ---------------
 
 AGGIORNAMENTO (21)
 
-Il [D.Lgs. 24 settembre 2015, n. 158](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-09-24;158), come modificato dalla [L. 28 dicembre 2015, n. 208](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-12-28;208), ha disposto (con l'art. 32, comma 1) che le presenti modifiche si applicano a decorrere dal 1 gennaio 2016.
+Il [D.Lgs. 24 settembre 2015, n. 158](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20sistema%20sanzionatorio%20in%20attuazione%20dellarticolo%208%20comma%201%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00169.md), come modificato dalla [L. 28 dicembre 2015, n. 208](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202016.%2015G00222.md), ha disposto (con l'art. 32, comma 1) che le presenti modifiche si applicano a decorrere dal 1 gennaio 2016.
 
 ---------------
 
 AGGIORNAMENTO (32)
 
-La [L. 30 dicembre 2020, n. 178](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2020-12-30;178) ha disposto (con l'art. 1, comma 1110, lettera b)) che al comma 3, primo periodo, del presente articolo le parole: «cento per cento» sono sostituite dalle seguenti: «novanta per cento». 
+La [L. 30 dicembre 2020, n. 178](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202021%20e%20bilancio%20pluriennale%20per%20il%20triennio%202021-2023.%2020G00202.md) ha disposto (con l'art. 1, comma 1110, lettera b)) che al comma 3, primo periodo, del presente articolo le parole: «cento per cento» sono sostituite dalle seguenti: «novanta per cento». 
  Ha inoltre disposto (con l'art. 1, comma 1115) che le presenti modifiche si applicano a decorrere dal 1° gennaio 2021.
 
 ---------------
 
 AGGIORNAMENTO (40)
 
-Il [D.Lgs. 14 giugno 2024, n. 87](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-06-14;87) ha disposto (con l'art. 2, comma 1, lettera d)) che "al comma 3, primo periodo, la parola: «novanta» e' sostituita dalla seguente: «settanta»". 
+Il [D.Lgs. 14 giugno 2024, n. 87](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20sistema%20sanzionatorio%20tributario%20ai%20sensi%20dellarticolo%2020%20della%20legge%209%20agosto%202023%20n.%20111.%2024G00103.md) ha disposto (con l'art. 2, comma 1, lettera d)) che "al comma 3, primo periodo, la parola: «novanta» e' sostituita dalla seguente: «settanta»". 
  Ha inoltre disposto (con l'art. 5, comma 1) che le disposizioni di cui agli articoli 2, 3 e 4 del D.Lgs. medesimo si applicano alle violazioni commesse a partire dal 1° settembre 2024.
 
 ### Art. 7. — Violazioni relative alle esportazioni
@@ -432,19 +432,19 @@ Chi, nelle fatture o nelle dichiarazioni in dogana relative a cessioni all'espor
 
 AGGIORNAMENTO (17)
 
-Il [D.Lgs. 21 novembre 2014, n. 175](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014-11-21;175) ha disposto (con l'art. 20, comma 3) che la presente modifica si applica alle dichiarazioni d'intento relative ad operazioni senza applicazione dell'imposta da effettuare a decorrere dal 1° gennaio 2015.
+Il [D.Lgs. 21 novembre 2014, n. 175](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Semplificazione%20fiscale%20e%20dichiarazione%20dei%20redditi%20precompilata.%2014G00190.md) ha disposto (con l'art. 20, comma 3) che la presente modifica si applica alle dichiarazioni d'intento relative ad operazioni senza applicazione dell'imposta da effettuare a decorrere dal 1° gennaio 2015.
 
 -------------
 
 AGGIORNAMENTO (20)
 
-Il [D.Lgs. 24 settembre 2015, n. 158](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-09-24;158) ha disposto (con l'art. 32, comma 1) che la presente modifica si applica a decorrere dal 1 gennaio 2017.
+Il [D.Lgs. 24 settembre 2015, n. 158](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20sistema%20sanzionatorio%20in%20attuazione%20dellarticolo%208%20comma%201%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00169.md) ha disposto (con l'art. 32, comma 1) che la presente modifica si applica a decorrere dal 1 gennaio 2017.
 
 -------------
 
 AGGIORNAMENTO (21)
 
-Il [D.Lgs. 24 settembre 2015, n. 158](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-09-24;158), come modificato dalla [L. 28 dicembre 2015, n. 208](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-12-28;208), ha disposto (con l'art. 32, comma 1) che la presente modifica si applica a decorrere dal 1 gennaio 2016.
+Il [D.Lgs. 24 settembre 2015, n. 158](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20sistema%20sanzionatorio%20in%20attuazione%20dellarticolo%208%20comma%201%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00169.md), come modificato dalla [L. 28 dicembre 2015, n. 208](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202016.%2015G00222.md), ha disposto (con l'art. 32, comma 1) che la presente modifica si applica a decorrere dal 1 gennaio 2016.
 
 -------------
 
@@ -456,13 +456,13 @@ Il [D.L. 30 aprile 2019, n. 34](https://www.normattiva.it/uri-res/N2Ls?urn:nir:s
 
 AGGIORNAMENTO (32)
 
-La [L. 30 dicembre 2020, n. 178](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2020-12-30;178) ha disposto (con l'art. 1, comma 712) che le presenti modifiche si applicano alle operazioni effettuate a partire dal sessantesimo giorno successivo all'adozione del provvedimento del direttore dell'Agenzia delle entrate di cui al comma 711 dell'art. 1 della legge medesima.
+La [L. 30 dicembre 2020, n. 178](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202021%20e%20bilancio%20pluriennale%20per%20il%20triennio%202021-2023.%2020G00202.md) ha disposto (con l'art. 1, comma 712) che le presenti modifiche si applicano alle operazioni effettuate a partire dal sessantesimo giorno successivo all'adozione del provvedimento del direttore dell'Agenzia delle entrate di cui al comma 711 dell'art. 1 della legge medesima.
 
 ---------------
 
 AGGIORNAMENTO (40)
 
-Il [D.Lgs. 14 giugno 2024, n. 87](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-06-14;87), ha disposto (con l'art. 5, comma 1) che le disposizioni di cui agli articoli 2, 3 e 4 del D.Lgs. medesimo si applicano alle violazioni commesse a partire dal 1° settembre 2024.
+Il [D.Lgs. 14 giugno 2024, n. 87](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20sistema%20sanzionatorio%20tributario%20ai%20sensi%20dellarticolo%2020%20della%20legge%209%20agosto%202023%20n.%20111.%2024G00103.md), ha disposto (con l'art. 5, comma 1) che le disposizioni di cui agli articoli 2, 3 e 4 del D.Lgs. medesimo si applicano alle violazioni commesse a partire dal 1° settembre 2024.
 
 ## SANZIONI IN MATERIA DI IMPOSTE DIRETTE E DI IMPOSTA SUL VALORE AGGIUNTO Capo III Disposizioni comuni alle imposte dirette e all'imposta sul valore aggiunto
 
@@ -502,19 +502,19 @@ Quando l'omissione o l'incompletezza riguarda le segnalazioni previste dagli [ar
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. 30 marzo 2000, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-03-30;99) ha disposto (con l'art. 4, comma 1) che "Le disposizioni del presente decreto hanno effetto a decorrere dal 1° aprile 1998, salvo quelle che modificano il trattamento sanzionatorio in senso sfavorevole al contribuente".
+Il [D.Lgs. 30 marzo 2000, n. 99](Disposizioni%20integrative%20e%20correttive%20dei%20decreti%20legislativi%2018%20dicembre%201997%20numeri%20471%20472%20e%20473%20in%20materia%20di%20sanzioni%20amministrative%20tributarie_2.md) ha disposto (con l'art. 4, comma 1) che "Le disposizioni del presente decreto hanno effetto a decorrere dal 1° aprile 1998, salvo quelle che modificano il trattamento sanzionatorio in senso sfavorevole al contribuente".
 
 -------------
 
 AGGIORNAMENTO (18)
 
-Il [D.Lgs. 31 marzo 2015, n. 42](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-03-31;42) ha disposto (con l'art. 8, comma 1) che "Le disposizioni del presente decreto si applicano alle operazioni effettuate a partire dal 1° gennaio 2015".
+Il [D.Lgs. 31 marzo 2015, n. 42](Attuazione%20della%20direttiva%202008-8-CE%20che%20modifica%20la%20direttiva%202006-112-CE%20per%20quanto%20riguarda%20il%20luogo%20delle%20prestazioni%20di%20servizi.%2015G00056.md) ha disposto (con l'art. 8, comma 1) che "Le disposizioni del presente decreto si applicano alle operazioni effettuate a partire dal 1° gennaio 2015".
 
 -------------
 
 AGGIORNAMENTO (19)
 
-Il [D.Lgs. 14 settembre 2015, n. 147](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-09-14;147) ha disposto (con l'art. 3, comma 4) che "Le disposizioni del presente articolo si applicano a decorrere dal periodo di imposta in corso alla data di entrata in vigore del presente decreto, nonche' agli utili distribuiti ed alle plusvalenze realizzate a decorrere dal medesimo periodo di imposta.
+Il [D.Lgs. 14 settembre 2015, n. 147](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20recanti%20misure%20per%20la%20crescita%20e%20linternazionalizzazione%20delle%20imprese.%2015G00163.md) ha disposto (con l'art. 3, comma 4) che "Le disposizioni del presente articolo si applicano a decorrere dal periodo di imposta in corso alla data di entrata in vigore del presente decreto, nonche' agli utili distribuiti ed alle plusvalenze realizzate a decorrere dal medesimo periodo di imposta.
 Per tali utili e plusvalenze il credito d'imposta previsto dal presente articolo e' riconosciuto per le imposte pagate dalla societa' controllata a partire dal quinto periodo d'imposta precedente a quello in corso alla data di entrata in vigore del presente decreto". 
  Ha inoltre disposto (con l'art. 8, comma 4) che l'introduzione del comma 3-quater si applica a decorrere dal periodo di imposta in corso alla data di entrata in vigore del D.Lgs. medesimo.
 
@@ -522,13 +522,13 @@ Per tali utili e plusvalenze il credito d'imposta previsto dal presente articolo
 
 AGGIORNAMENTO (20)
 
-Il [D.Lgs. 24 settembre 2015, n. 158](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-09-24;158) ha disposto (con l'art. 32, comma 1) che le presenti modifiche si applicano a decorrere dal 1 gennaio 2017.
+Il [D.Lgs. 24 settembre 2015, n. 158](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20sistema%20sanzionatorio%20in%20attuazione%20dellarticolo%208%20comma%201%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00169.md) ha disposto (con l'art. 32, comma 1) che le presenti modifiche si applicano a decorrere dal 1 gennaio 2017.
 
 -------------
 
 AGGIORNAMENTO (21)
 
-Il [D.Lgs. 24 settembre 2015, n. 158](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-09-24;158), come modificato dalla [L. 28 dicembre 2015, n. 208](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-12-28;208), ha disposto (con l'art. 32, comma 1) che le presenti modifiche si applicano a decorrere dal 1 gennaio 2016.
+Il [D.Lgs. 24 settembre 2015, n. 158](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20sistema%20sanzionatorio%20in%20attuazione%20dellarticolo%208%20comma%201%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00169.md), come modificato dalla [L. 28 dicembre 2015, n. 208](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202016.%2015G00222.md), ha disposto (con l'art. 32, comma 1) che le presenti modifiche si applicano a decorrere dal 1 gennaio 2016.
 
 -------------
 
@@ -540,13 +540,13 @@ Il [D.Lgs. 29 novembre 2018, n. 142](../Atti%20di%20recepimento%20direttive%20UE
 
 AGGIORNAMENTO (33)
 
-Il [D.Lgs. 25 maggio 2021, n. 83](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2021-05-25;83) ha disposto (con l'art. 10, comma 1) che la presente modifica si applica "alle operazioni, disciplinate dal decreto stesso, effettuate a partire dal 1° luglio 2021".
+Il [D.Lgs. 25 maggio 2021, n. 83](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Recepimento%20degli%20articoli%202%20e%203%20della%20direttiva%20UE%202017-2455%20del%20Consiglio%20del%205%20dicembre%202017%20che%20modifica%20la%20direttiva%202006-112-CE%20e%20la%20direttiva%202009-132-CE%20per%20quanto%20riguarda%20taluni_e87c3692f358.md) ha disposto (con l'art. 10, comma 1) che la presente modifica si applica "alle operazioni, disciplinate dal decreto stesso, effettuate a partire dal 1° luglio 2021".
 
 ---------------
 
 AGGIORNAMENTO (40)
 
-Il [D.Lgs. 14 giugno 2024, n. 87](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-06-14;87) ha disposto (con l'art. 2, comma 1, lettera f)) che all'articolo 8 "2) al comma 3-ter, le parole: «un massimo di euro 50.000» sono sostituite dalle seguenti: «un massimo di euro 30.000»; 
+Il [D.Lgs. 14 giugno 2024, n. 87](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20sistema%20sanzionatorio%20tributario%20ai%20sensi%20dellarticolo%2020%20della%20legge%209%20agosto%202023%20n.%20111.%2024G00103.md) ha disposto (con l'art. 2, comma 1, lettera f)) che all'articolo 8 "2) al comma 3-ter, le parole: «un massimo di euro 50.000» sono sostituite dalle seguenti: «un massimo di euro 30.000»; 
  3) al comma 3-quater, le parole: «un massimo di euro 50.000» sono sostituite dalle seguenti: «un massimo di euro 30.000»." 
  Ha inoltre disposto (con l'art. 5, comma 1) che le disposizioni di cui agli articoli 2, 3 e 4 del D.Lgs. medesimo si applicano alle violazioni commesse a partire dal 1° settembre 2024.
 
@@ -576,13 +576,13 @@ Se la dichiarazione delle societa' e degli enti soggetti all'imposta sul reddito
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. 30 marzo 2000, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-03-30;99) ha disposto (con l'art. 4, comma 1) che "Le disposizioni del presente decreto hanno effetto a decorrere dal 1° aprile 1998, salvo quelle che modificano il trattamento sanzionatorio in senso sfavorevole al contribuente".
+Il [D.Lgs. 30 marzo 2000, n. 99](Disposizioni%20integrative%20e%20correttive%20dei%20decreti%20legislativi%2018%20dicembre%201997%20numeri%20471%20472%20e%20473%20in%20materia%20di%20sanzioni%20amministrative%20tributarie_2.md) ha disposto (con l'art. 4, comma 1) che "Le disposizioni del presente decreto hanno effetto a decorrere dal 1° aprile 1998, salvo quelle che modificano il trattamento sanzionatorio in senso sfavorevole al contribuente".
 
 -------------
 
 AGGIORNAMENTO (20)
 
-Il [D.Lgs. 24 settembre 2015, n. 158](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-09-24;158) ha disposto (con l'art. 15, comma 1, lettera i)) che "all'articolo 9: 
+Il [D.Lgs. 24 settembre 2015, n. 158](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20sistema%20sanzionatorio%20in%20attuazione%20dellarticolo%208%20comma%201%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00169.md) ha disposto (con l'art. 15, comma 1, lettera i)) che "all'articolo 9: 
  [...] 
  3) nel comma 4 [...] le parole: "lire cinquantamila a lire cinque milioni" sono sostituite dalle seguenti: "euro 250 a euro 2.500"". 
  Ha inoltre disposto (con l'art. 32, comma 1) che le presenti modifiche si applicano a decorrere dal 1 gennaio 2017.
@@ -591,7 +591,7 @@ Il [D.Lgs. 24 settembre 2015, n. 158](https://www.normattiva.it/uri-res/N2Ls?urn
 
 AGGIORNAMENTO (21)
 
-Il [D.Lgs. 24 settembre 2015, n. 158](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-09-24;158), come modificato dalla [L. 28 dicembre 2015, n. 208](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-12-28;208), ha disposto (con l'art. 32, comma 1) che le presenti modifiche si applicano a decorrere dal 1 gennaio 2016.
+Il [D.Lgs. 24 settembre 2015, n. 158](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20sistema%20sanzionatorio%20in%20attuazione%20dellarticolo%208%20comma%201%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00169.md), come modificato dalla [L. 28 dicembre 2015, n. 208](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202016.%2015G00222.md), ha disposto (con l'art. 32, comma 1) che le presenti modifiche si applicano a decorrere dal 1 gennaio 2016.
 
 ### Art. 10. — Violazione degli obblighi degli operatori finanziari
 
@@ -606,7 +606,7 @@ La sanzione prevista al comma 1 si applica nel caso di violazione degli obblighi
 1-ter.
 
 La sanzione prevista al comma 1 si applica agli operatori che violano gli obblighi di trasmissione previsti dall'articolo 22, comma 5, terzo periodo, del [decreto-legge 26 ottobre 2019, n. 124](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2019-10-26;124), convertito, con modificazioni, dalla [legge 19 dicembre 2019, n. 157](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2026%20ottobre%202019%20n.%20124%20recante%20disposizioni%20urgenti%20in%20materia%20fiscale%20e%20per%20esigenze%20indifferibili.%2019G00164.md).
-La sanzione di cui al primo periodo e' applicata per ogni omesso, tardivo o errato invio dei dati e non si applica l'[articolo 12 del decreto legislativo 18 dicembre 1997, n. 472](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-12-18;472#art_12).
+La sanzione di cui al primo periodo e' applicata per ogni omesso, tardivo o errato invio dei dati e non si applica l'[articolo 12 del decreto legislativo 18 dicembre 1997, n. 472](Disposizioni%20generali%20in%20materia%20di%20sanzioni%20amministrative%20per%20le%20violazioni%20di%20norme%20tributarie%20a%20norma%20dellarticolo%203%20comma%20133%20della%20legge%2023%20dicembre%201996%20n.%20662.md).
 
 2.
 
@@ -624,19 +624,19 @@ All'irrogazione delle sanzioni provvede l'ufficio competente in relazione al dom
 
 AGGIORNAMENTO (20)
 
-Il [D.Lgs. 24 settembre 2015, n. 158](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-09-24;158), ha disposto (con l'art. 32, comma 1) che le presenti modifiche si applicano a decorrere dal 1 gennaio 2017.
+Il [D.Lgs. 24 settembre 2015, n. 158](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20sistema%20sanzionatorio%20in%20attuazione%20dellarticolo%208%20comma%201%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00169.md), ha disposto (con l'art. 32, comma 1) che le presenti modifiche si applicano a decorrere dal 1 gennaio 2017.
 
 -------------
 
 AGGIORNAMENTO (21)
 
-Il [D.Lgs. 24 settembre 2015, n. 158](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-09-24;158), come modificato dalla [L. 28 dicembre 2015, n. 208](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-12-28;208), ha disposto (con l'art. 32, comma 1) che le presenti modifiche si applicano a decorrere dal 1 gennaio 2016.
+Il [D.Lgs. 24 settembre 2015, n. 158](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20sistema%20sanzionatorio%20in%20attuazione%20dellarticolo%208%20comma%201%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00169.md), come modificato dalla [L. 28 dicembre 2015, n. 208](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202016.%2015G00222.md), ha disposto (con l'art. 32, comma 1) che le presenti modifiche si applicano a decorrere dal 1 gennaio 2016.
 
 ---------------
 
 AGGIORNAMENTO (40)
 
-Il [D.Lgs. 14 giugno 2024, n. 87](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-06-14;87), ha disposto (con l'art. 5, comma 1) che le disposizioni di cui agli articoli 2, 3 e 4 del D.Lgs. medesimo si applicano alle violazioni commesse a partire dal 1° settembre 2024.
+Il [D.Lgs. 14 giugno 2024, n. 87](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20sistema%20sanzionatorio%20tributario%20ai%20sensi%20dellarticolo%2020%20della%20legge%209%20agosto%202023%20n.%20111.%2024G00103.md), ha disposto (con l'art. 5, comma 1) che le disposizioni di cui agli articoli 2, 3 e 4 del D.Lgs. medesimo si applicano alle violazioni commesse a partire dal 1° settembre 2024.
 
 ### Art. 11. — Altre violazioni in materia di imposte dirette e di imposta sul valore aggiunto
 
@@ -657,7 +657,7 @@ La sanzione prevista nel comma 1 si applica, salvo che il fatto non costituisca 
 2-bis.
 
 Per l'omissione o l'errata trasmissione dei dati delle fatture emesse e ricevute, prevista dall'[articolo 21 del decreto-legge 31 maggio 2010, n. 78](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2010-05-31;78#art_21), convertito, con modificazioni, dalla [legge 30 luglio 2010, n. 122](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20maggio%202010%20n.%2078%20recante%20misure%20urgenti%20in%20materia%20di%20stabilizzazione%20finanziaria%20e%20di%20competitivita%20economica.%2010G0146.md), si applica la sanzione amministrativa di euro 2 per ciascuna fattura, comunque entro il limite massimo di euro 1.000 per ciascun trimestre. La sanzione e' ridotta alla meta', entro il limite massimo di euro 500, se la trasmissione e' effettuata entro i quindici giorni successivi alla scadenza stabilita ai sensi del periodo precedente, ovvero se, nel medesimo termine, e' effettuata la trasmissione corretta dei dati.
-Non si applica l'[articolo 12 del decreto legislativo 18 dicembre 1997, n. 472](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-12-18;472#art_12). (22) (23)
+Non si applica l'[articolo 12 del decreto legislativo 18 dicembre 1997, n. 472](Disposizioni%20generali%20in%20materia%20di%20sanzioni%20amministrative%20per%20le%20violazioni%20di%20norme%20tributarie%20a%20norma%20dellarticolo%203%20comma%20133%20della%20legge%2023%20dicembre%201996%20n.%20662.md). (22) (23)
 
 2-ter.
 
@@ -665,17 +665,17 @@ L'omessa, incompleta o infedele comunicazione dei dati delle liquidazioni period
 
 2-quater.
 
-Per l'omissione o l'errata trasmissione dei dati delle operazioni transfrontaliere di cui all'[articolo 1, comma 3-bis, del decreto legislativo 5 agosto 2015, n. 127](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-05;127#art_1-com3bis), si applica la sanzione amministrativa di euro 2 per ciascuna fattura, comunque entro il limite massimo di euro 1.000 per ciascun trimestre. La sanzione e' ridotta alla meta', entro il limite massimo di euro 500, se la trasmissione e' effettuata entro i quindici giorni successivi alla scadenza stabilita ai sensi del periodo precedente, ovvero se, nel medesimo termine, e' effettuata la trasmissione corretta dei dati.
-Per le operazioni effettuate a partire dal 1° luglio 2022, si applica la sanzione amministrativa di euro 2 per ciascuna fattura, entro il limite massimo di euro 400 mensili. La sanzione e' ridotta alla meta', entro il limite massimo di euro 200 per ciascun mese, se la trasmissione e' effettuata entro i quindici giorni successivi alle scadenze stabilite dall'[articolo 1, comma 3-bis, del decreto legislativo 5 agosto 2015, n. 127](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-05;127#art_1-com3bis), ovvero se, nel medesimo termine, e' effettuata la trasmissione corretta dei dati. Non si applica l'[articolo 12 del decreto legislativo 18 dicembre 1997, n. 472](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-12-18;472#art_12). (25) (26)
+Per l'omissione o l'errata trasmissione dei dati delle operazioni transfrontaliere di cui all'[articolo 1, comma 3-bis, del decreto legislativo 5 agosto 2015, n. 127](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Trasmissione%20telematica%20delle%20operazioni%20IVA%20e%20di%20controllo%20delle%20cessioni%20di%20beni%20effettuate%20attraverso%20distributori%20automatici%20in%20attuazione%20dellarticolo%209%20comma%201%20lettere%20d%20e%20g%20della%20l_9be8793a2d20.md), si applica la sanzione amministrativa di euro 2 per ciascuna fattura, comunque entro il limite massimo di euro 1.000 per ciascun trimestre. La sanzione e' ridotta alla meta', entro il limite massimo di euro 500, se la trasmissione e' effettuata entro i quindici giorni successivi alla scadenza stabilita ai sensi del periodo precedente, ovvero se, nel medesimo termine, e' effettuata la trasmissione corretta dei dati.
+Per le operazioni effettuate a partire dal 1° luglio 2022, si applica la sanzione amministrativa di euro 2 per ciascuna fattura, entro il limite massimo di euro 400 mensili. La sanzione e' ridotta alla meta', entro il limite massimo di euro 200 per ciascun mese, se la trasmissione e' effettuata entro i quindici giorni successivi alle scadenze stabilite dall'[articolo 1, comma 3-bis, del decreto legislativo 5 agosto 2015, n. 127](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Trasmissione%20telematica%20delle%20operazioni%20IVA%20e%20di%20controllo%20delle%20cessioni%20di%20beni%20effettuate%20attraverso%20distributori%20automatici%20in%20attuazione%20dellarticolo%209%20comma%201%20lettere%20d%20e%20g%20della%20l_9be8793a2d20.md), ovvero se, nel medesimo termine, e' effettuata la trasmissione corretta dei dati. Non si applica l'[articolo 12 del decreto legislativo 18 dicembre 1997, n. 472](Disposizioni%20generali%20in%20materia%20di%20sanzioni%20amministrative%20per%20le%20violazioni%20di%20norme%20tributarie%20a%20norma%20dellarticolo%203%20comma%20133%20della%20legge%2023%20dicembre%201996%20n.%20662.md). (25) (26)
 
 2-quinquies.
 
-Per l'omessa o tardiva trasmissione ovvero per la trasmissione con dati incompleti o non veritieri dei corrispettivi giornalieri di cui all'articolo 2, commi 1, 1-bis ((, 1-ter)) e 2, del [decreto legislativo 5 agosto 2015, n. 127](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-05;127), se la violazione non ha inciso sulla corretta liquidazione del tributo, si applica la sanzione amministrativa di euro 100 per ciascuna trasmissione, comunque entro il limite massimo di euro 1.000 per ciascun trimestre.
-Non si applica l'[articolo 12 del decreto legislativo 18 dicembre 1997, n. 472](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-12-18;472#art_12). Le disposizioni dei periodi precedenti si applicano anche nei casi di violazione degli obblighi di memorizzazione o trasmissione dei pagamenti elettronici di cui all'[articolo 2, comma 3, del decreto legislativo 5 agosto 2015, n. 127](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-05;127#art_2-com3). (32) (40) (42)
+Per l'omessa o tardiva trasmissione ovvero per la trasmissione con dati incompleti o non veritieri dei corrispettivi giornalieri di cui all'articolo 2, commi 1, 1-bis ((, 1-ter)) e 2, del [decreto legislativo 5 agosto 2015, n. 127](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Trasmissione%20telematica%20delle%20operazioni%20IVA%20e%20di%20controllo%20delle%20cessioni%20di%20beni%20effettuate%20attraverso%20distributori%20automatici%20in%20attuazione%20dellarticolo%209%20comma%201%20lettere%20d%20e%20g%20della%20l_9be8793a2d20.md), se la violazione non ha inciso sulla corretta liquidazione del tributo, si applica la sanzione amministrativa di euro 100 per ciascuna trasmissione, comunque entro il limite massimo di euro 1.000 per ciascun trimestre.
+Non si applica l'[articolo 12 del decreto legislativo 18 dicembre 1997, n. 472](Disposizioni%20generali%20in%20materia%20di%20sanzioni%20amministrative%20per%20le%20violazioni%20di%20norme%20tributarie%20a%20norma%20dellarticolo%203%20comma%20133%20della%20legge%2023%20dicembre%201996%20n.%20662.md). Le disposizioni dei periodi precedenti si applicano anche nei casi di violazione degli obblighi di memorizzazione o trasmissione dei pagamenti elettronici di cui all'[articolo 2, comma 3, del decreto legislativo 5 agosto 2015, n. 127](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Trasmissione%20telematica%20delle%20operazioni%20IVA%20e%20di%20controllo%20delle%20cessioni%20di%20beni%20effettuate%20attraverso%20distributori%20automatici%20in%20attuazione%20dellarticolo%209%20comma%201%20lettere%20d%20e%20g%20della%20l_9be8793a2d20.md). (32) (40) (42)
 
 3.
 
-COMMA ABROGATO DALLA [L. 23 DICEMBRE 1999, N. 488](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-12-23;488). (2)
+COMMA ABROGATO DALLA [L. 23 DICEMBRE 1999, N. 488](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202000.md). (2)
 
 4.
 
@@ -687,11 +687,11 @@ L'omessa, incompleta o infedele comunicazione delle minusvalenze e delle differe
 
 5.
 
-L'omessa installazione degli apparecchi per l'emissione dello scontrino fiscale previsti dall'[articolo 1 della legge 26 gennaio 1983, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-01-26;18#art_1), e' punita con la sanzione amministrativa da euro 1.000 a euro 4.000. La sanzione di cui al periodo precedente si applica anche all'omessa installazione degli strumenti di cui all'[articolo 2, comma 4, del decreto legislativo 5 agosto 2015, n. 127](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-05;127#art_2-com4), salve le procedure alternative adottate con i provvedimenti di attuazione di cui al medesimo comma. La sanzione di cui al primo periodo si applica anche nel caso di mancato collegamento dello strumento hardware o software mediante il quale sono accettati i pagamenti elettronici di cui all'articolo 2, comma 3, secondo periodo, del [decreto legislativo 5 agosto 2015, n. 127](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-05;127). (20) (21) (32) (42)
+L'omessa installazione degli apparecchi per l'emissione dello scontrino fiscale previsti dall'[articolo 1 della legge 26 gennaio 1983, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-01-26;18#art_1), e' punita con la sanzione amministrativa da euro 1.000 a euro 4.000. La sanzione di cui al periodo precedente si applica anche all'omessa installazione degli strumenti di cui all'[articolo 2, comma 4, del decreto legislativo 5 agosto 2015, n. 127](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Trasmissione%20telematica%20delle%20operazioni%20IVA%20e%20di%20controllo%20delle%20cessioni%20di%20beni%20effettuate%20attraverso%20distributori%20automatici%20in%20attuazione%20dellarticolo%209%20comma%201%20lettere%20d%20e%20g%20della%20l_9be8793a2d20.md), salve le procedure alternative adottate con i provvedimenti di attuazione di cui al medesimo comma. La sanzione di cui al primo periodo si applica anche nel caso di mancato collegamento dello strumento hardware o software mediante il quale sono accettati i pagamenti elettronici di cui all'articolo 2, comma 3, secondo periodo, del [decreto legislativo 5 agosto 2015, n. 127](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Trasmissione%20telematica%20delle%20operazioni%20IVA%20e%20di%20controllo%20delle%20cessioni%20di%20beni%20effettuate%20attraverso%20distributori%20automatici%20in%20attuazione%20dellarticolo%209%20comma%201%20lettere%20d%20e%20g%20della%20l_9be8793a2d20.md). (20) (21) (32) (42)
 
 5-bis.
 
-Salvo che il fatto costituisca reato, a chiunque manomette o comunque altera gli strumenti di cui all'[articolo 2, comma 4, del decreto legislativo 5 agosto 2015, n. 127](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-05;127#art_2-com4), o fa uso di essi allorche' siano stati manomessi o alterati o consente che altri ne faccia uso al fine di eludere le disposizioni di cui al comma 1 del citato articolo si applica la sanzione amministrativa pecuniaria da euro 3.000 a euro 12.000. (32)
+Salvo che il fatto costituisca reato, a chiunque manomette o comunque altera gli strumenti di cui all'[articolo 2, comma 4, del decreto legislativo 5 agosto 2015, n. 127](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Trasmissione%20telematica%20delle%20operazioni%20IVA%20e%20di%20controllo%20delle%20cessioni%20di%20beni%20effettuate%20attraverso%20distributori%20automatici%20in%20attuazione%20dellarticolo%209%20comma%201%20lettere%20d%20e%20g%20della%20l_9be8793a2d20.md), o fa uso di essi allorche' siano stati manomessi o alterati o consente che altri ne faccia uso al fine di eludere le disposizioni di cui al comma 1 del citato articolo si applica la sanzione amministrativa pecuniaria da euro 3.000 a euro 12.000. (32)
 
 6.
 
@@ -711,41 +711,41 @@ Nei casi in cui il contribuente non presenti l'interpello previsto dall'[articol
 
 7-quater.
 
-Il contribuente destinatario del provvedimento emesso ai sensi dell'articolo 35, commi 15-bis e 15-bis.1, del [decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](../DPR/Istituzione%20e%20disciplina%20dellimposta%20sul%20valore%20aggiunto.md), e' soggetto alla sanzione amministrativa di euro 3.000, irrogata contestualmente al provvedimento che dispone la cessazione della partita IVA. Non si applica l'[articolo 12 del decreto legislativo 18 dicembre 1997, n. 472](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-12-18;472#art_12).
+Il contribuente destinatario del provvedimento emesso ai sensi dell'articolo 35, commi 15-bis e 15-bis.1, del [decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](../DPR/Istituzione%20e%20disciplina%20dellimposta%20sul%20valore%20aggiunto.md), e' soggetto alla sanzione amministrativa di euro 3.000, irrogata contestualmente al provvedimento che dispone la cessazione della partita IVA. Non si applica l'[articolo 12 del decreto legislativo 18 dicembre 1997, n. 472](Disposizioni%20generali%20in%20materia%20di%20sanzioni%20amministrative%20per%20le%20violazioni%20di%20norme%20tributarie%20a%20norma%20dellarticolo%203%20comma%20133%20della%20legge%2023%20dicembre%201996%20n.%20662.md).
 
 7-quinquies.
 
-Nei confronti del rappresentante fiscale, nominato ai sensi dell'[articolo 17, terzo comma, del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](../DPR/Istituzione%20e%20disciplina%20dellimposta%20sul%20valore%20aggiunto.md), che non adempie agli obblighi di cui all'articolo 35, comma 7-quater, terzo periodo, del [decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](../DPR/Istituzione%20e%20disciplina%20dellimposta%20sul%20valore%20aggiunto.md), e' irrogata la sanzione amministrativa da euro 3.000 a euro 50.000; non si applica l'[articolo 12 del decreto legislativo 18 dicembre 1997, n. 472](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-12-18;472#art_12).
+Nei confronti del rappresentante fiscale, nominato ai sensi dell'[articolo 17, terzo comma, del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](../DPR/Istituzione%20e%20disciplina%20dellimposta%20sul%20valore%20aggiunto.md), che non adempie agli obblighi di cui all'articolo 35, comma 7-quater, terzo periodo, del [decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](../DPR/Istituzione%20e%20disciplina%20dellimposta%20sul%20valore%20aggiunto.md), e' irrogata la sanzione amministrativa da euro 3.000 a euro 50.000; non si applica l'[articolo 12 del decreto legislativo 18 dicembre 1997, n. 472](Disposizioni%20generali%20in%20materia%20di%20sanzioni%20amministrative%20per%20le%20violazioni%20di%20norme%20tributarie%20a%20norma%20dellarticolo%203%20comma%20133%20della%20legge%2023%20dicembre%201996%20n.%20662.md).
 
 ---------------
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 5 giugno 1998, n. 203](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-06-05;203) ha disposto (con l'art. 5, comma 1) che "Le disposizioni del presente decreto hanno effetto a decorrere dal 1 aprile 1998".
+Il [D.Lgs. 5 giugno 1998, n. 203](Disposizioni%20integrative%20e%20correttive%20dei%20decreti%20legislativi%2018%20dicembre%201997%20numeri%20471%20472%20e%20473%20in%20materia%20di%20sanzioni%20amministrative%20tributarie.md) ha disposto (con l'art. 5, comma 1) che "Le disposizioni del presente decreto hanno effetto a decorrere dal 1 aprile 1998".
 
 ---------------
 
 AGGIORNAMENTO (2)
 
-La [L. 23 dicembre 1999, n. 488](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-12-23;488) ha disposto (con l'art. 54, comma 6) che "Le disposizioni del presente comma operano anche per le revoche gia' disposte per le quali alla data di entrata in vigore della presente legge non sono stati ancora adottati i relativi provvedimenti sanzionatori".
+La [L. 23 dicembre 1999, n. 488](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202000.md) ha disposto (con l'art. 54, comma 6) che "Le disposizioni del presente comma operano anche per le revoche gia' disposte per le quali alla data di entrata in vigore della presente legge non sono stati ancora adottati i relativi provvedimenti sanzionatori".
 
 ---------------
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. 30 marzo 2000, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-03-30;99) ha disposto (con l'art. 4, comma 1) che "Le disposizioni del presente decreto hanno effetto a decorrere dal 1° aprile 1998, salvo quelle che modificano il trattamento sanzionatorio in senso sfavorevole al contribuente".
+Il [D.Lgs. 30 marzo 2000, n. 99](Disposizioni%20integrative%20e%20correttive%20dei%20decreti%20legislativi%2018%20dicembre%201997%20numeri%20471%20472%20e%20473%20in%20materia%20di%20sanzioni%20amministrative%20tributarie_2.md) ha disposto (con l'art. 4, comma 1) che "Le disposizioni del presente decreto hanno effetto a decorrere dal 1° aprile 1998, salvo quelle che modificano il trattamento sanzionatorio in senso sfavorevole al contribuente".
 
 -----------
 
 AGGIORNAMENTO (20)
 
-Il [D.Lgs. 24 settembre 2015, n. 158](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-09-24;158), ha disposto (con l'art. 32, comma 1) che le presenti modifiche si applicano a decorrere dal 1 gennaio 2017.
+Il [D.Lgs. 24 settembre 2015, n. 158](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20sistema%20sanzionatorio%20in%20attuazione%20dellarticolo%208%20comma%201%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00169.md), ha disposto (con l'art. 32, comma 1) che le presenti modifiche si applicano a decorrere dal 1 gennaio 2017.
 
 -------------
 
 AGGIORNAMENTO (21)
 
-Il [D.Lgs. 24 settembre 2015, n. 158](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-09-24;158), come modificato dalla [L. 28 dicembre 2015, n. 208](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-12-28;208), ha disposto (con l'art. 32, comma 1) che le presenti modifiche si applicano a decorrere dal 1 gennaio 2016.
+Il [D.Lgs. 24 settembre 2015, n. 158](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20sistema%20sanzionatorio%20in%20attuazione%20dellarticolo%208%20comma%201%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00169.md), come modificato dalla [L. 28 dicembre 2015, n. 208](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202016.%2015G00222.md), ha disposto (con l'art. 32, comma 1) che le presenti modifiche si applicano a decorrere dal 1 gennaio 2016.
 
 -------------
 
@@ -757,42 +757,42 @@ Il [D.L. 22 ottobre 2016, n. 193](https://www.normattiva.it/uri-res/N2Ls?urn:nir
 
 AGGIORNAMENTO (23)
 
-Il [D.L. 16 ottobre 2017, n. 148](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2017-10-16;148), convertito con modificazioni dalla [L. 4 dicembre 2017, n. 172](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2016%20ottobre%202017%20n.%20148%20recante%20disposizioni%20urgenti%20in%20materia%20finanziaria%20e%20per%20esigenze%20indifferibili.%20Modifica%20alla%20disciplina%20_76272513d08b.md), ha disposto (con l'art. 1-ter, comma 1) che "Le sanzioni di cui all'[articolo 11, commi 1](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riforma%20delle%20sanzioni%20tributarie%20non%20penali%20in%20materia%20di%20imposte%20dirette%20di%20imposta%20sul%20valore%20aggiunto%20e%20di%20riscossione%20dei%20tributi%20a%20norma%20dellarticolo%203%20comma%20133%20lettera%20q%20%20della%20le_8ff45af7ca83.md) e [2-bis, del decreto legislativo 18 dicembre 1997, n. 471](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riforma%20delle%20sanzioni%20tributarie%20non%20penali%20in%20materia%20di%20imposte%20dirette%20di%20imposta%20sul%20valore%20aggiunto%20e%20di%20riscossione%20dei%20tributi%20a%20norma%20dellarticolo%203%20comma%20133%20lettera%20q%20%20della%20le_8ff45af7ca83.md), per l'errata trasmissione dei dati delle fatture emesse e ricevute, prevista dall'[articolo 1, comma 3, del decreto legislativo 5 agosto 2015, n. 127](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-05;127#art_1-com3), e dall'[articolo 21 del decreto-legge 31 maggio 2010, n. 78](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2010-05-31;78#art_21), convertito, con modificazioni, dalla [legge 30 luglio 2010, n. 122](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20maggio%202010%20n.%2078%20recante%20misure%20urgenti%20in%20materia%20di%20stabilizzazione%20finanziaria%20e%20di%20competitivita%20economica.%2010G0146.md), non si applicano relativamente alle comunicazioni effettuate per il primo semestre 2017, a condizione che i dati esatti siano trasmessi entro il 28 febbraio 2018".
+Il [D.L. 16 ottobre 2017, n. 148](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2017-10-16;148), convertito con modificazioni dalla [L. 4 dicembre 2017, n. 172](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2016%20ottobre%202017%20n.%20148%20recante%20disposizioni%20urgenti%20in%20materia%20finanziaria%20e%20per%20esigenze%20indifferibili.%20Modifica%20alla%20disciplina%20_76272513d08b.md), ha disposto (con l'art. 1-ter, comma 1) che "Le sanzioni di cui all'[articolo 11, commi 1](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riforma%20delle%20sanzioni%20tributarie%20non%20penali%20in%20materia%20di%20imposte%20dirette%20di%20imposta%20sul%20valore%20aggiunto%20e%20di%20riscossione%20dei%20tributi%20a%20norma%20dellarticolo%203%20comma%20133%20lettera%20q%20%20della%20le_8ff45af7ca83.md) e [2-bis, del decreto legislativo 18 dicembre 1997, n. 471](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riforma%20delle%20sanzioni%20tributarie%20non%20penali%20in%20materia%20di%20imposte%20dirette%20di%20imposta%20sul%20valore%20aggiunto%20e%20di%20riscossione%20dei%20tributi%20a%20norma%20dellarticolo%203%20comma%20133%20lettera%20q%20%20della%20le_8ff45af7ca83.md), per l'errata trasmissione dei dati delle fatture emesse e ricevute, prevista dall'[articolo 1, comma 3, del decreto legislativo 5 agosto 2015, n. 127](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Trasmissione%20telematica%20delle%20operazioni%20IVA%20e%20di%20controllo%20delle%20cessioni%20di%20beni%20effettuate%20attraverso%20distributori%20automatici%20in%20attuazione%20dellarticolo%209%20comma%201%20lettere%20d%20e%20g%20della%20l_9be8793a2d20.md), e dall'[articolo 21 del decreto-legge 31 maggio 2010, n. 78](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2010-05-31;78#art_21), convertito, con modificazioni, dalla [legge 30 luglio 2010, n. 122](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20maggio%202010%20n.%2078%20recante%20misure%20urgenti%20in%20materia%20di%20stabilizzazione%20finanziaria%20e%20di%20competitivita%20economica.%2010G0146.md), non si applicano relativamente alle comunicazioni effettuate per il primo semestre 2017, a condizione che i dati esatti siano trasmessi entro il 28 febbraio 2018".
 
 -------------
 
 AGGIORNAMENTO (25)
 
-La [L. 27 dicembre 2017, n. 205](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-12-27;205) ha disposto (con l'art. 1, comma 916) che la presente modifica si applica alle fatture emesse a partire dal 1º gennaio 2019. 
+La [L. 27 dicembre 2017, n. 205](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202018%20e%20bilancio%20pluriennale%20per%20il%20triennio%202018-2020.%2017G00222.md) ha disposto (con l'art. 1, comma 916) che la presente modifica si applica alle fatture emesse a partire dal 1º gennaio 2019. 
  Ha inoltre disposto (con l'art. 1, comma 917, lettere a) e b)) che "Fermo restando quanto previsto al comma 916, le disposizioni dei commi da 909 a 928 si applicano alle fatture emesse a partire dal 1º luglio 2018 relative a: 
  a) cessioni di benzina o di gasolio destinati ad essere utilizzati come carburanti per motori; 
- b) prestazioni rese da soggetti subappaltatori e subcontraenti della filiera delle imprese nel quadro di un contratto di appalto di lavori, servizi o forniture stipulato con un'amministrazione pubblica. Ai fini della presente lettera, per filiera delle imprese si intende l'insieme dei soggetti, destinatari della normativa di cui all'[articolo 3 della legge 13 agosto 2010, n. 136](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2010-08-13;136#art_3), che intervengono a qualunque titolo nel ciclo di realizzazione del contratto, anche con noli e forniture di beni e prestazioni di servizi, ivi compresi quelli di natura intellettuale, qualunque sia l'importo dei relativi contratti o dei subcontratti. Le fatture elettroniche emesse ai sensi della presente lettera riportano gli stessi codici CUP e CIG di cui all'[articolo 25, comma 2, del decreto-legge 24 aprile 2014, n. 66](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2014-04-24;66#art_25-com2), convertito, con modificazioni, dalla [legge 23 giugno 2014, n. 89](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2024%20aprile%202014%20n.%2066%20recante%20misure%20urgenti%20per%20la%20competitivita%20e%20la%20giustizia%20sociale.%20Deleghe%20al%20Governo%20per%20il%20completamento%20d_83bebe792254.md), riportati nelle fatture emesse dall'impresa capofila nei confronti dell'amministrazione pubblica".
+ b) prestazioni rese da soggetti subappaltatori e subcontraenti della filiera delle imprese nel quadro di un contratto di appalto di lavori, servizi o forniture stipulato con un'amministrazione pubblica. Ai fini della presente lettera, per filiera delle imprese si intende l'insieme dei soggetti, destinatari della normativa di cui all'[articolo 3 della legge 13 agosto 2010, n. 136](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Piano%20straordinario%20contro%20le%20mafie%20nonche%20delega%20al%20Governo%20in%20materia%20di%20normativa%20antimafia.%2010G0162.md), che intervengono a qualunque titolo nel ciclo di realizzazione del contratto, anche con noli e forniture di beni e prestazioni di servizi, ivi compresi quelli di natura intellettuale, qualunque sia l'importo dei relativi contratti o dei subcontratti. Le fatture elettroniche emesse ai sensi della presente lettera riportano gli stessi codici CUP e CIG di cui all'[articolo 25, comma 2, del decreto-legge 24 aprile 2014, n. 66](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2014-04-24;66#art_25-com2), convertito, con modificazioni, dalla [legge 23 giugno 2014, n. 89](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2024%20aprile%202014%20n.%2066%20recante%20misure%20urgenti%20per%20la%20competitivita%20e%20la%20giustizia%20sociale.%20Deleghe%20al%20Governo%20per%20il%20completamento%20d_83bebe792254.md), riportati nelle fatture emesse dall'impresa capofila nei confronti dell'amministrazione pubblica".
 
 ---------------
 
 AGGIORNAMENTO (26)
 
-La [L. 27 dicembre 2017, n. 205](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-12-27;205), come modificata dal [D.L. 12 luglio 2018, n. 87](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2018-07-12;87), convertito con modificazioni dalla [L. 9 agosto 2018, n. 96](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2012%20luglio%202018%20n.%2087%20recante%20disposizioni%20urgenti%20per%20la%20dignita%20dei%20lavoratori%20e%20delle%20imprese.%2018G00122.md), ha disposto (con l'art. 1, comma 917, lettera a)) che "Fermo restando quanto previsto al comma 916, le disposizioni dei commi da 909 a 928 si applicano alle fatture emesse a partire dal 1º luglio 2018 relative a: 
+La [L. 27 dicembre 2017, n. 205](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202018%20e%20bilancio%20pluriennale%20per%20il%20triennio%202018-2020.%2017G00222.md), come modificata dal [D.L. 12 luglio 2018, n. 87](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2018-07-12;87), convertito con modificazioni dalla [L. 9 agosto 2018, n. 96](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2012%20luglio%202018%20n.%2087%20recante%20disposizioni%20urgenti%20per%20la%20dignita%20dei%20lavoratori%20e%20delle%20imprese.%2018G00122.md), ha disposto (con l'art. 1, comma 917, lettera a)) che "Fermo restando quanto previsto al comma 916, le disposizioni dei commi da 909 a 928 si applicano alle fatture emesse a partire dal 1º luglio 2018 relative a: 
  a) cessioni di benzina o di gasolio destinati ad essere utilizzati come carburanti per motori, ad eccezione delle cessioni di carburante per autotrazione presso gli impianti stradali di distribuzione, per le quali il comma 920 si applica dal 1°gennaio 2019".
 
 ---------------
 
 AGGIORNAMENTO (32)
 
-La [L. 30 dicembre 2020, n. 178](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2020-12-30;178) ha disposto (con l'art. 1, comma 1115) che le modifiche dei commi 2-quinquies, 5 e 5-bis del presente articolo si applicano a decorrere dal 1° gennaio 2021.
+La [L. 30 dicembre 2020, n. 178](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202021%20e%20bilancio%20pluriennale%20per%20il%20triennio%202021-2023.%2020G00202.md) ha disposto (con l'art. 1, comma 1115) che le modifiche dei commi 2-quinquies, 5 e 5-bis del presente articolo si applicano a decorrere dal 1° gennaio 2021.
 
 ---------------
 
 AGGIORNAMENTO (40)
 
-Il [D.Lgs. 14 giugno 2024, n. 87](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-06-14;87) ha disposto (con l'art. 2, comma 1, lettera h)) che all'articolo 11 "al comma 4-bis, le parole: «ed un massimo di 50.000» sono sostituite dalle seguenti: «e un massimo di 30.000». 
+Il [D.Lgs. 14 giugno 2024, n. 87](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20sistema%20sanzionatorio%20tributario%20ai%20sensi%20dellarticolo%2020%20della%20legge%209%20agosto%202023%20n.%20111.%2024G00103.md) ha disposto (con l'art. 2, comma 1, lettera h)) che all'articolo 11 "al comma 4-bis, le parole: «ed un massimo di 50.000» sono sostituite dalle seguenti: «e un massimo di 30.000». 
  Ha inoltre disposto (con l'art. 5, comma 1) che che le disposizioni di cui agli articoli 2, 3 e 4 del D.Lgs. medesimo si applicano alle violazioni commesse a partire dal 1° settembre 2024.
 
 ---------------
 
 AGGIORNAMENTO (42)
 
-La [L. 30 dicembre 2024, n. 207](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2024-12-30;207) ha disposto (con l'art. 1, comma 77) che le presenti modifiche si applicano a decorrere dal 1° gennaio 2026.
+La [L. 30 dicembre 2024, n. 207](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202025%20e%20bilancio%20pluriennale%20per%20il%20triennio%202025-2027.%2024G00229.md) ha disposto (con l'art. 1, comma 77) che le presenti modifiche si applicano a decorrere dal 1° gennaio 2026.
 
 ### Art. 12. — Sanzioni accessorie in materia di imposte dirette ed imposta sul valore aggiunto
 
@@ -802,11 +802,11 @@ Quando e' irrogata una sanzione amministrativa superiore a euro 50.000 si applic
 
 1-bis.
 
-Quando e' irrogata una sanzione amministrativa nei confronti dei soggetti di cui all'[articolo 7, comma 3, del decreto legislativo 18 dicembre 1997, n. 472](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-12-18;472#art_7-com3), le soglie per l'applicazione delle sanzioni accessorie di cui al comma 1 sono ridotte alla meta'. (40)
+Quando e' irrogata una sanzione amministrativa nei confronti dei soggetti di cui all'[articolo 7, comma 3, del decreto legislativo 18 dicembre 1997, n. 472](Disposizioni%20generali%20in%20materia%20di%20sanzioni%20amministrative%20per%20le%20violazioni%20di%20norme%20tributarie%20a%20norma%20dellarticolo%203%20comma%20133%20della%20legge%2023%20dicembre%201996%20n.%20662.md), le soglie per l'applicazione delle sanzioni accessorie di cui al comma 1 sono ridotte alla meta'. (40)
 
 2.
 
-Qualora siano state contestate ai sensi dell'[articolo 16 del decreto legislativo 18 dicembre 1997, n. 472](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-12-18;472#art_16), nel corso di un quinquennio, quattro distinte violazioni dell'obbligo di emettere la ricevuta fiscale o lo scontrino fiscale compiute in giorni diversi, anche se non sono state irrogate sanzioni accessorie in applicazione delle disposizioni del citato [decreto legislativo n. 472 del 1997](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997;472), e' disposta la sospensione della licenza o dell'autorizzazione all'esercizio dell'attivita' ovvero dell'esercizio dell'attivita' medesima per un periodo da tre giorni ad un mese. In deroga all'articolo 19, comma 7, del medesimo [decreto legislativo n. 472 del 1997](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997;472), il provvedimento di sospensione e' immediatamente esecutivo. Se l'importo complessivo dei corrispettivi oggetto di contestazione eccede la somma di euro 50.000 la sospensione e' disposta per un periodo da un mese a sei mesi. Le sanzioni di cui ai periodi precedenti si applicano anche nelle ipotesi di cui all'articolo 2, ((commi 1, 1-bis, 2 e 3,)) del [decreto legislativo 5 agosto 2015, n. 127](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-05;127), se le violazioni consistono nella mancata o non tempestiva memorizzazione o trasmissione, ovvero nella memorizzazione o trasmissione con dati incompleti o non veritieri. (32) ((42))
+Qualora siano state contestate ai sensi dell'[articolo 16 del decreto legislativo 18 dicembre 1997, n. 472](Disposizioni%20generali%20in%20materia%20di%20sanzioni%20amministrative%20per%20le%20violazioni%20di%20norme%20tributarie%20a%20norma%20dellarticolo%203%20comma%20133%20della%20legge%2023%20dicembre%201996%20n.%20662.md), nel corso di un quinquennio, quattro distinte violazioni dell'obbligo di emettere la ricevuta fiscale o lo scontrino fiscale compiute in giorni diversi, anche se non sono state irrogate sanzioni accessorie in applicazione delle disposizioni del citato [decreto legislativo n. 472 del 1997](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997;472), e' disposta la sospensione della licenza o dell'autorizzazione all'esercizio dell'attivita' ovvero dell'esercizio dell'attivita' medesima per un periodo da tre giorni ad un mese. In deroga all'articolo 19, comma 7, del medesimo [decreto legislativo n. 472 del 1997](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997;472), il provvedimento di sospensione e' immediatamente esecutivo. Se l'importo complessivo dei corrispettivi oggetto di contestazione eccede la somma di euro 50.000 la sospensione e' disposta per un periodo da un mese a sei mesi. Le sanzioni di cui ai periodi precedenti si applicano anche nelle ipotesi di cui all'articolo 2, ((commi 1, 1-bis, 2 e 3,)) del [decreto legislativo 5 agosto 2015, n. 127](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Trasmissione%20telematica%20delle%20operazioni%20IVA%20e%20di%20controllo%20delle%20cessioni%20di%20beni%20effettuate%20attraverso%20distributori%20automatici%20in%20attuazione%20dellarticolo%209%20comma%201%20lettere%20d%20e%20g%20della%20l_9be8793a2d20.md), se le violazioni consistono nella mancata o non tempestiva memorizzazione o trasmissione, ovvero nella memorizzazione o trasmissione con dati incompleti o non veritieri. (32) ((42))
 
 2-bis.
 
@@ -826,7 +826,7 @@ La sospensione di cui al comma 2 e' disposta anche nei confronti dei soggetti es
 
 2-sexies.
 
-Qualora siano state contestate a carico di soggetti iscritti in albi ovvero ad ordini professionali, nel corso di un quinquennio, quattro distinte violazioni dell'obbligo di emettere il documento certificativo dei corrispettivi compiute in giorni diversi, e' disposta in ogni caso la sanzione accessoria della sospensione dell'iscrizione all'albo o all'ordine per un periodo da tre giorni ad un mese. In caso di recidiva, la sospensione e' disposta per un periodo da quindici giorni a sei mesi. In deroga all'[articolo 19, comma 7, del decreto legislativo 18 dicembre 1997, n. 472](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-12-18;472#art_19-com7), il provvedimento di sospensione e' immediatamente esecutivo. Gli atti di sospensione sono comunicati all'ordine professionale ovvero al soggetto competente alla tenuta dell'albo affinche' ne sia data pubblicazione sul relativo sito internet. Si applicano le disposizioni dei commi 2-bis e 2-ter.
+Qualora siano state contestate a carico di soggetti iscritti in albi ovvero ad ordini professionali, nel corso di un quinquennio, quattro distinte violazioni dell'obbligo di emettere il documento certificativo dei corrispettivi compiute in giorni diversi, e' disposta in ogni caso la sanzione accessoria della sospensione dell'iscrizione all'albo o all'ordine per un periodo da tre giorni ad un mese. In caso di recidiva, la sospensione e' disposta per un periodo da quindici giorni a sei mesi. In deroga all'[articolo 19, comma 7, del decreto legislativo 18 dicembre 1997, n. 472](Disposizioni%20generali%20in%20materia%20di%20sanzioni%20amministrative%20per%20le%20violazioni%20di%20norme%20tributarie%20a%20norma%20dellarticolo%203%20comma%20133%20della%20legge%2023%20dicembre%201996%20n.%20662.md), il provvedimento di sospensione e' immediatamente esecutivo. Gli atti di sospensione sono comunicati all'ordine professionale ovvero al soggetto competente alla tenuta dell'albo affinche' ne sia data pubblicazione sul relativo sito internet. Si applicano le disposizioni dei commi 2-bis e 2-ter.
 
 2-septies.
 
@@ -834,41 +834,41 @@ Nel caso in cui le violazioni di cui al comma 2-sexies siano commesse nell'eserc
 
 3.
 
-Se e' accertata l'omessa installazione degli apparecchi misuratori previsti dall'[articolo 1 della legge 26 gennaio 1983, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-01-26;18#art_1), e' disposta la sospensione della licenza o dell'autorizzazione all'esercizio dell'attivita' nei locali ad essa destinati per un periodo da quindici giorni a due mesi. In caso di recidiva, la sospensione e' disposta da due a sei mesi. Le sanzioni di cui ai periodi precedenti si applicano anche all'omessa installazione ovvero alla manomissione o alterazione degli strumenti di cui all'[articolo 2, comma 4, del decreto legislativo 5 agosto 2015, n. 127](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-05;127#art_2-com4), salve le procedure alternative adottate con i provvedimenti di attuazione di cui al medesimo comma. ((Le sanzioni di cui al primo e al secondo periodo si applicano anche nel caso di mancato collegamento dello strumento hardware o software mediante il quale sono accettati i pagamenti elettronici di cui all'articolo 2, comma 3, secondo periodo, del decreto legislativo 5 agosto 2015, n. 127)). (32) ((42))
+Se e' accertata l'omessa installazione degli apparecchi misuratori previsti dall'[articolo 1 della legge 26 gennaio 1983, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-01-26;18#art_1), e' disposta la sospensione della licenza o dell'autorizzazione all'esercizio dell'attivita' nei locali ad essa destinati per un periodo da quindici giorni a due mesi. In caso di recidiva, la sospensione e' disposta da due a sei mesi. Le sanzioni di cui ai periodi precedenti si applicano anche all'omessa installazione ovvero alla manomissione o alterazione degli strumenti di cui all'[articolo 2, comma 4, del decreto legislativo 5 agosto 2015, n. 127](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Trasmissione%20telematica%20delle%20operazioni%20IVA%20e%20di%20controllo%20delle%20cessioni%20di%20beni%20effettuate%20attraverso%20distributori%20automatici%20in%20attuazione%20dellarticolo%209%20comma%201%20lettere%20d%20e%20g%20della%20l_9be8793a2d20.md), salve le procedure alternative adottate con i provvedimenti di attuazione di cui al medesimo comma. ((Le sanzioni di cui al primo e al secondo periodo si applicano anche nel caso di mancato collegamento dello strumento hardware o software mediante il quale sono accettati i pagamenti elettronici di cui all'articolo 2, comma 3, secondo periodo, del decreto legislativo 5 agosto 2015, n. 127)). (32) ((42))
 
 4.
 
-COMMA ABROGATO DAL [D.LGS. 14 GIUGNO 2024, N. 87](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-06-14;87). (40)
+COMMA ABROGATO DAL [D.LGS. 14 GIUGNO 2024, N. 87](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20sistema%20sanzionatorio%20tributario%20ai%20sensi%20dellarticolo%2020%20della%20legge%209%20agosto%202023%20n.%20111.%2024G00103.md). (40)
 
 -----------
 
 AGGIORNAMENTO (20)
 
-Il [D.Lgs. 24 settembre 2015, n. 158](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-09-24;158), ha disposto (con l'art. 32, comma 1) che le presenti modifiche si applicano a decorrere dal 1 gennaio 2017.
+Il [D.Lgs. 24 settembre 2015, n. 158](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20sistema%20sanzionatorio%20in%20attuazione%20dellarticolo%208%20comma%201%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00169.md), ha disposto (con l'art. 32, comma 1) che le presenti modifiche si applicano a decorrere dal 1 gennaio 2017.
 
 -----------
 
 AGGIORNAMENTO (21)
 
-Il [D.Lgs. 24 settembre 2015, n. 158](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-09-24;158), come modificato dalla [L. 28 dicembre 2015, n. 208](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-12-28;208), ha disposto (con l'art. 32, comma 1) che le presenti modifiche si applicano a decorrere dal 1 gennaio 2016.
+Il [D.Lgs. 24 settembre 2015, n. 158](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20sistema%20sanzionatorio%20in%20attuazione%20dellarticolo%208%20comma%201%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00169.md), come modificato dalla [L. 28 dicembre 2015, n. 208](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202016.%2015G00222.md), ha disposto (con l'art. 32, comma 1) che le presenti modifiche si applicano a decorrere dal 1 gennaio 2016.
 
 ---------------
 
 AGGIORNAMENTO (32)
 
-La [L. 30 dicembre 2020, n. 178](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2020-12-30;178) ha disposto (con l'art. 1, comma 1115) che le presenti modifiche si applicano a decorrere dal 1° gennaio 2021.
+La [L. 30 dicembre 2020, n. 178](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202021%20e%20bilancio%20pluriennale%20per%20il%20triennio%202021-2023.%2020G00202.md) ha disposto (con l'art. 1, comma 1115) che le presenti modifiche si applicano a decorrere dal 1° gennaio 2021.
 
 ---------------
 
 AGGIORNAMENTO (40)
 
-Il [D.Lgs. 14 giugno 2024, n. 87](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-06-14;87), ha disposto (con l'art. 5, comma 1) che le disposizioni di cui agli articoli 2, 3 e 4 del D.Lgs. medesimo si applicano alle violazioni commesse a partire dal 1° settembre 2024.
+Il [D.Lgs. 14 giugno 2024, n. 87](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20sistema%20sanzionatorio%20tributario%20ai%20sensi%20dellarticolo%2020%20della%20legge%209%20agosto%202023%20n.%20111.%2024G00103.md), ha disposto (con l'art. 5, comma 1) che le disposizioni di cui agli articoli 2, 3 e 4 del D.Lgs. medesimo si applicano alle violazioni commesse a partire dal 1° settembre 2024.
 
 ---------------
 
 AGGIORNAMENTO (42)
 
-La [L. 30 dicembre 2024, n. 207](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2024-12-30;207) ha disposto (con l'art. 1, comma 77) che le presenti modifiche si applicano a decorrere dal 1° gennaio 2026.
+La [L. 30 dicembre 2024, n. 207](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202025%20e%20bilancio%20pluriennale%20per%20il%20triennio%202025-2027.%2024G00229.md) ha disposto (con l'art. 1, comma 77) che le presenti modifiche si applicano a decorrere dal 1° gennaio 2026.
 
 ## SANZIONI IN MATERIA DI RISCOSSIONE
 
@@ -878,7 +878,7 @@ Titolo II
 
 1.
 
-Chi non esegue, in tutto o in parte, alle prescritte scadenze, i versamenti in acconto, i versamenti periodici, il versamento di conguaglio o a saldo dell'imposta risultante dalla dichiarazione, detratto in questi casi l'ammontare dei versamenti periodici e in acconto, ancorche' non effettuati, e' soggetto a sanzione amministrativa ((pari al venticinque)) per cento di ogni importo non versato, anche quando, in seguito alla correzione di errori materiali o di calcolo rilevati in sede di controllo della dichiarazione annuale, risulti una maggiore imposta o una minore eccedenza detraibile. Per i versamenti effettuati con un ritardo non superiore a novanta giorni, la sanzione di cui al primo periodo e' ridotta alla meta'. Salva l'applicazione dell'[articolo 13 del decreto legislativo 18 dicembre 1997, n. 472](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-12-18;472#art_13), per i versamenti effettuati con un ritardo non superiore a quindici giorni, la sanzione di cui al secondo periodo e' ulteriormente ridotta a un importo pari a un quindicesimo per ciascun giorno di ritardo. ((40))
+Chi non esegue, in tutto o in parte, alle prescritte scadenze, i versamenti in acconto, i versamenti periodici, il versamento di conguaglio o a saldo dell'imposta risultante dalla dichiarazione, detratto in questi casi l'ammontare dei versamenti periodici e in acconto, ancorche' non effettuati, e' soggetto a sanzione amministrativa ((pari al venticinque)) per cento di ogni importo non versato, anche quando, in seguito alla correzione di errori materiali o di calcolo rilevati in sede di controllo della dichiarazione annuale, risulti una maggiore imposta o una minore eccedenza detraibile. Per i versamenti effettuati con un ritardo non superiore a novanta giorni, la sanzione di cui al primo periodo e' ridotta alla meta'. Salva l'applicazione dell'[articolo 13 del decreto legislativo 18 dicembre 1997, n. 472](Disposizioni%20generali%20in%20materia%20di%20sanzioni%20amministrative%20per%20le%20violazioni%20di%20norme%20tributarie%20a%20norma%20dellarticolo%203%20comma%20133%20della%20legge%2023%20dicembre%201996%20n.%20662.md), per i versamenti effettuati con un ritardo non superiore a quindici giorni, la sanzione di cui al secondo periodo e' ulteriormente ridotta a un importo pari a un quindicesimo per ciascun giorno di ritardo. ((40))
 
 2.
 
@@ -923,25 +923,25 @@ Le sanzioni previste nel presente articolo non si applicano quando i versamenti 
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. 30 marzo 2000, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-03-30;99) ha disposto (con l'art. 4, comma 1) che "Le disposizioni del presente decreto hanno effetto a decorrere dal 1° aprile 1998, salvo quelle che modificano il trattamento sanzionatorio in senso sfavorevole al contribuente".
+Il [D.Lgs. 30 marzo 2000, n. 99](Disposizioni%20integrative%20e%20correttive%20dei%20decreti%20legislativi%2018%20dicembre%201997%20numeri%20471%20472%20e%20473%20in%20materia%20di%20sanzioni%20amministrative%20tributarie_2.md) ha disposto (con l'art. 4, comma 1) che "Le disposizioni del presente decreto hanno effetto a decorrere dal 1° aprile 1998, salvo quelle che modificano il trattamento sanzionatorio in senso sfavorevole al contribuente".
 
 -----------
 
 AGGIORNAMENTO (20)
 
-Il [D.Lgs. 24 settembre 2015, n. 158](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-09-24;158), ha disposto (con l'art. 32, comma 1) che la presente modifica si applica a decorrere dal 1 gennaio 2017.
+Il [D.Lgs. 24 settembre 2015, n. 158](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20sistema%20sanzionatorio%20in%20attuazione%20dellarticolo%208%20comma%201%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00169.md), ha disposto (con l'art. 32, comma 1) che la presente modifica si applica a decorrere dal 1 gennaio 2017.
 
 -----------
 
 AGGIORNAMENTO (21)
 
-Il [D.Lgs. 24 settembre 2015, n. 158](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-09-24;158), come modificato dalla [L. 28 dicembre 2015, n. 208](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-12-28;208), ha disposto (con l'art. 32, comma 1) che la presente modifica si applica a decorrere dal 1 gennaio 2016.
+Il [D.Lgs. 24 settembre 2015, n. 158](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20sistema%20sanzionatorio%20in%20attuazione%20dellarticolo%208%20comma%201%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00169.md), come modificato dalla [L. 28 dicembre 2015, n. 208](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202016.%2015G00222.md), ha disposto (con l'art. 32, comma 1) che la presente modifica si applica a decorrere dal 1 gennaio 2016.
 
 ---------------
 
 AGGIORNAMENTO (40)
 
-Il [D.Lgs. 14 giugno 2024, n. 87](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-06-14;87), ha disposto (con l'art. 5, comma 1) che le disposizioni di cui agli articoli 2, 3 e 4 del D.Lgs. medesimo si applicano alle violazioni commesse a partire dal 1° settembre 2024.
+Il [D.Lgs. 14 giugno 2024, n. 87](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20sistema%20sanzionatorio%20tributario%20ai%20sensi%20dellarticolo%2020%20della%20legge%209%20agosto%202023%20n.%20111.%2024G00103.md), ha disposto (con l'art. 5, comma 1) che le disposizioni di cui agli articoli 2, 3 e 4 del D.Lgs. medesimo si applicano alle violazioni commesse a partire dal 1° settembre 2024.
 
 ### Art. 14. — Violazioni dell'obbligo di esecuzione di ritenute alla fonte
 
@@ -953,13 +953,13 @@ Chi non esegue, in tutto o in parte, le ritenute alla fonte e' soggetto alla san
 
 AGGIORNAMENTO (20)
 
-Il [D.Lgs. 24 settembre 2015, n. 158](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-09-24;158), ha disposto (con l'art. 32, comma 1) che la presente modifica si applica a decorrere dal 1 gennaio 2017.
+Il [D.Lgs. 24 settembre 2015, n. 158](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20sistema%20sanzionatorio%20in%20attuazione%20dellarticolo%208%20comma%201%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00169.md), ha disposto (con l'art. 32, comma 1) che la presente modifica si applica a decorrere dal 1 gennaio 2017.
 
 -----------
 
 AGGIORNAMENTO (21)
 
-Il [D.Lgs. 24 settembre 2015, n. 158](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-09-24;158), come modificato dalla [L. 28 dicembre 2015, n. 208](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-12-28;208), ha disposto (con l'art. 32, comma 1) che la presente modifica si applica a decorrere dal 1 gennaio 2016.
+Il [D.Lgs. 24 settembre 2015, n. 158](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20sistema%20sanzionatorio%20in%20attuazione%20dellarticolo%208%20comma%201%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00169.md), come modificato dalla [L. 28 dicembre 2015, n. 208](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202016.%2015G00222.md), ha disposto (con l'art. 32, comma 1) che la presente modifica si applica a decorrere dal 1 gennaio 2016.
 
 ### Art. 15. — Incompletezza dei documenti di versamento
 
@@ -983,13 +983,13 @@ Per l'omessa presentazione del modello di versamento contenente i dati relativi 
 
 AGGIORNAMENTO (20)
 
-Il [D.Lgs. 24 settembre 2015, n. 158](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-09-24;158) ha disposto (con l'art. 32, comma 1) che le presenti modifiche si applicano a decorrere dal 1 gennaio 2017.
+Il [D.Lgs. 24 settembre 2015, n. 158](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20sistema%20sanzionatorio%20in%20attuazione%20dellarticolo%208%20comma%201%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00169.md) ha disposto (con l'art. 32, comma 1) che le presenti modifiche si applicano a decorrere dal 1 gennaio 2017.
 
 -----------
 
 AGGIORNAMENTO (21)
 
-Il [D.Lgs. 24 settembre 2015, n. 158](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-09-24;158), come modificato dalla [L. 28 dicembre 2015, n. 208](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-12-28;208), ha disposto (con l'art. 32, comma 1) che le presenti modifiche si applicano a decorrere dal 1 gennaio 2016.
+Il [D.Lgs. 24 settembre 2015, n. 158](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20sistema%20sanzionatorio%20in%20attuazione%20dellarticolo%208%20comma%201%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00169.md), come modificato dalla [L. 28 dicembre 2015, n. 208](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202016.%2015G00222.md), ha disposto (con l'art. 32, comma 1) che le presenti modifiche si applicano a decorrere dal 1 gennaio 2016.
 
 -----------
 
@@ -1001,7 +1001,7 @@ Il [D.L. 26 ottobre 2019, n. 124](https://www.normattiva.it/uri-res/N2Ls?urn:nir
 
 AGGIORNAMENTO (40)
 
-Il [D.Lgs. 14 giugno 2024, n. 87](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-06-14;87) ha disposto (con l'art. 5, comma 1) che "Le disposizioni di cui agli articoli 2, 3 e 4 si applicano alle violazioni commesse a partire dal 1° settembre 2024".
+Il [D.Lgs. 14 giugno 2024, n. 87](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20sistema%20sanzionatorio%20tributario%20ai%20sensi%20dellarticolo%2020%20della%20legge%209%20agosto%202023%20n.%20111.%2024G00103.md) ha disposto (con l'art. 5, comma 1) che "Le disposizioni di cui agli articoli 2, 3 e 4 si applicano alle violazioni commesse a partire dal 1° settembre 2024".
 
 ## DISPOSIZIONI COMUNI
 
@@ -1037,7 +1037,7 @@ E' altresi' abrogata ogni altra disposizione in contrasto con il presente decret
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 5 giugno 1998, n. 203](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-06-05;203) ha disposto (con l'art. 5, comma 1) che "Le disposizioni del presente decreto hanno effetto a decorrere dal 1 aprile 1998".
+Il [D.Lgs. 5 giugno 1998, n. 203](Disposizioni%20integrative%20e%20correttive%20dei%20decreti%20legislativi%2018%20dicembre%201997%20numeri%20471%20472%20e%20473%20in%20materia%20di%20sanzioni%20amministrative%20tributarie.md) ha disposto (con l'art. 5, comma 1) che "Le disposizioni del presente decreto hanno effetto a decorrere dal 1 aprile 1998".
 
 ### Art. 17. — Entrata in vigore
 

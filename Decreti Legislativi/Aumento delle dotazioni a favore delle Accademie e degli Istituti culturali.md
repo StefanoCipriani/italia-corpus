@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4), con le modificazioni ad esso apportate dall'[art. 3, comma primo, del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98#art_3-com1);
+Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4), con le modificazioni ad esso apportate dall'[art. 3, comma primo, del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Viste le disposizioni transitorie I e XV della Costituzione;
 
@@ -139,19 +139,19 @@ La [L. 16 aprile 1953, n. 325](https://www.normattiva.it/uri-res/N2Ls?urn:nir:st
 
 AGGIORNAMENTO (3)
 
-La [L. 29 maggio 1954, n. 314](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-05-29;314) ha disposto (con l'art. 1) che "La dotazione ordinaria annua a favore della Societa' geografica italiana, di cui al [decreto legislativo 27 marzo 1948, n. 472](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-03-27;472), viene elevata da lire 500.000 a cinque milioni di lire annue, a decorrere dall'esercizio finanziario 1953-54".
+La [L. 29 maggio 1954, n. 314](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-05-29;314) ha disposto (con l'art. 1) che "La dotazione ordinaria annua a favore della Societa' geografica italiana, di cui al [decreto legislativo 27 marzo 1948, n. 472](Aumento%20delle%20dotazioni%20a%20favore%20delle%20Accademie%20e%20degli%20Istituti%20culturali.md), viene elevata da lire 500.000 a cinque milioni di lire annue, a decorrere dall'esercizio finanziario 1953-54".
 
 ---------------
 
 AGGIORNAMENTO (4)
 
-La [L. 4 febbraio 1955, n. 33](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1955-02-04;33) ha disposto (con l'art. 1) che "La dotazione ordinaria annua dell'Istituto di studi filosofici, di cui al [decreto legislativo 27 marzo 1948, n. 472](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-03-27;472), viene elevata da lire 1.000.000 a lire 5.000.000 annue, a decorrere dall'esercizio finanziario 1954-55".
+La [L. 4 febbraio 1955, n. 33](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1955-02-04;33) ha disposto (con l'art. 1) che "La dotazione ordinaria annua dell'Istituto di studi filosofici, di cui al [decreto legislativo 27 marzo 1948, n. 472](Aumento%20delle%20dotazioni%20a%20favore%20delle%20Accademie%20e%20degli%20Istituti%20culturali.md), viene elevata da lire 1.000.000 a lire 5.000.000 annue, a decorrere dall'esercizio finanziario 1954-55".
 
 ---------------
 
 AGGIORNAMENTO (5)
 
-La [L. 15 febbraio 1958, n. 92](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1958-02-15;92) ha disposto (con l'art. 1) che "La dotazione ordinaria annua a favore della Societa' italiana per il progresso delle scienze di cui al [decreto legislativo 27 marzo 1948, n. 472](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-03-27;472), viene elevata da lire 500.000 a 4.000.000 di lire annue, a decorrere dall'esercizio finanziario 1957-58".
+La [L. 15 febbraio 1958, n. 92](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1958-02-15;92) ha disposto (con l'art. 1) che "La dotazione ordinaria annua a favore della Societa' italiana per il progresso delle scienze di cui al [decreto legislativo 27 marzo 1948, n. 472](Aumento%20delle%20dotazioni%20a%20favore%20delle%20Accademie%20e%20degli%20Istituti%20culturali.md), viene elevata da lire 500.000 a 4.000.000 di lire annue, a decorrere dall'esercizio finanziario 1957-58".
 
 ---------------
 
@@ -163,7 +163,7 @@ La [L. 3 luglio 1962, n. 887](https://www.normattiva.it/uri-res/N2Ls?urn:nir:sta
 
 AGGIORNAMENTO (7)
 
-La [L. 12 marzo 1973, n. 64](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-03-12;64) ha disposto (con l'art. 1) che "L'assegno annuo a favore dell'Accademia della Crusca, con sede in Firenze, previsto dal [decreto legislativo 27 marzo 1948, n. 472](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-03-27;472), in misura di lire 3.000.000, viene elevato, con effetto dall'anno 1972, a lire 100 milioni".
+La [L. 12 marzo 1973, n. 64](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-03-12;64) ha disposto (con l'art. 1) che "L'assegno annuo a favore dell'Accademia della Crusca, con sede in Firenze, previsto dal [decreto legislativo 27 marzo 1948, n. 472](Aumento%20delle%20dotazioni%20a%20favore%20delle%20Accademie%20e%20degli%20Istituti%20culturali.md), in misura di lire 3.000.000, viene elevato, con effetto dall'anno 1972, a lire 100 milioni".
 
 ## Art. 2.
 

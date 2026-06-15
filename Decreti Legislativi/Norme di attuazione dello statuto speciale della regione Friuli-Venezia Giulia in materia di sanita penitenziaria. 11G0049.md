@@ -12,9 +12,9 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[articolo 87, quinto comma, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge costituzionale 31 gennaio 1963, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1963-01-31;1), che approva lo statuto speciale della regione Friuli Venezia Giulia;
+Vista la [legge costituzionale 31 gennaio 1963, n. 1](../Leggi%20costituzionali/Statuto%20speciale%20della%20Regione%20Friuli-Venezia%20Giulia.md), che approva lo statuto speciale della regione Friuli Venezia Giulia;
 
-Visto l'[articolo 2, comma 283, della legge 24 dicembre 2007, n. 244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-12-24;244#art_2-com283);
+Visto l'[articolo 2, comma 283, della legge 24 dicembre 2007, n. 244](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202008.md);
 
 Visto il decreto del Presidente del Consiglio dei Ministri in data 1° aprile 2008, concernente le modalita' e i criteri per il trasferimento al Servizio sanitario nazionale delle funzioni sanitarie, dei rapporti di lavoro, delle risorse finanziarie e delle attrezzature e dei beni strumentali in materia di sanita' penitenziaria;
 
@@ -30,7 +30,7 @@ Emana il seguente decreto legislativo:
 
 1.
 
-Il presente decreto disciplina, ai sensi dell'[articolo 5, comma 1, numero 16), della legge costituzionale 31 gennaio 1963, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1963-01-31;1#art_5-com1-num16) (Statuto speciale della Regione autonoma Friuli Venezia Giulia), le modalita', i criteri e le procedure per il trasferimento al Servizio sanitario della Regione delle funzioni sanitarie, delle risorse finanziarie, dei rapporti di lavoro, delle attrezzature, arredi e beni strumentali relativi alla sanita' penitenziaria.
+Il presente decreto disciplina, ai sensi dell'[articolo 5, comma 1, numero 16), della legge costituzionale 31 gennaio 1963, n. 1](../Leggi%20costituzionali/Statuto%20speciale%20della%20Regione%20Friuli-Venezia%20Giulia.md) (Statuto speciale della Regione autonoma Friuli Venezia Giulia), le modalita', i criteri e le procedure per il trasferimento al Servizio sanitario della Regione delle funzioni sanitarie, delle risorse finanziarie, dei rapporti di lavoro, delle attrezzature, arredi e beni strumentali relativi alla sanita' penitenziaria.
 
 ((
 
@@ -131,7 +131,7 @@ Nelle convenzioni di cui al comma 4 sono altresi' disciplinate la facolta' e le 
 Gli inventari di cui al comma 4 dovranno includere anche i locali gia' utilizzati gratuitamente dalle Aziende per i servizi sanitari per le attivita' connesse alle patologie da dipendenza.
 
 Note all'art. 4: 
- - Si riporta il testo dell'[art. 5 del decreto legislativo 30 dicembre 1992, n. 502](Riordino%20della%20disciplina%20in%20materia%20sanitaria%20a%20norma%20dellarticolo%201%20della%20legge%2023%20ottobre%201992%20n.%20421.md) (Riordino della disciplina in materia sanitaria, a norma dell'[articolo 1 della legge 23 ottobre 1992, n. 421](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-10-23;421#art_1)),pubblicato nella Gazzetta Ufficiale 30 dicembre 1992, n. 305, S.O.; 
+ - Si riporta il testo dell'[art. 5 del decreto legislativo 30 dicembre 1992, n. 502](Riordino%20della%20disciplina%20in%20materia%20sanitaria%20a%20norma%20dellarticolo%201%20della%20legge%2023%20ottobre%201992%20n.%20421.md) (Riordino della disciplina in materia sanitaria, a norma dell'[articolo 1 della legge 23 ottobre 1992, n. 421](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20razionalizzazione%20e%20la%20revisione%20delle%20discipline%20in%20materia%20di%20sanita%20di%20pubblico%20impiego%20di%20previdenza%20e%20di%20finanza%20territoriale.md)),pubblicato nella Gazzetta Ufficiale 30 dicembre 1992, n. 305, S.O.; 
  «Art. 5. (Patrimonio e contabilita'). - 1. Nel rispetto della normativa regionale vigente, il patrimonio delle unita' sanitarie locali e delle aziende ospedaliere e' costituito da tutti i beni mobili e immobili ad esse appartenenti, ivi compresi quelli da trasferire o trasferiti loro dallo Stato o da altri enti pubblici, in virtu' di leggi o di provvedimenti amministrativi, nonche' da tutti i beni comunque acquisiti nell'esercizio della propria attivita' o a seguito di atti di liberalita'. 
  2. Le unita' sanitarie locali e le aziende ospedaliere hanno disponibilita' del patrimonio secondo il regime della proprieta' privata, ferme restando le disposizioni di cui all'[articolo 830, secondo comma, del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_830-com2). Gli atti di trasferimento a terzi di diritti reali su immobili sono assoggettati a previa autorizzazione della regione. I beni mobili e immobili che le unita' sanitarie locali, le aziende ospedaliere e gli istituti di ricovero e cura a carattere scientifico utilizzano per il perseguimento dei loro fini istituzionali costituiscono patrimonio indisponibile degli stessi, soggetti alla disciplina dell'[articolo 828, secondo comma, del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_828-com2). 
  3. Le leggi e i provvedimenti di cui al comma 1 costituiscono titolo per la trascrizione, la quale e' esente da ogni onere relativo a imposte e tasse. 
@@ -165,7 +165,7 @@ Tutti gli atti, contratti, formalita' ed adempimenti necessari per l'attuazione 
 
 1.
 
-Fatti salvi i termini espressamente previsti, le disposizioni del presente decreto hanno effetto dal giorno successivo alla data di entrata in vigore della legge o delle leggi statali che, ai sensi dell'[articolo 63, quinto comma, della legge costituzionale 31 gennaio 1963, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1963-01-31;1#art_63-com5) (Statuto speciale della Regione autonoma Friuli Venezia Giulia), modificano il Titolo IV dello Statuto.
+Fatti salvi i termini espressamente previsti, le disposizioni del presente decreto hanno effetto dal giorno successivo alla data di entrata in vigore della legge o delle leggi statali che, ai sensi dell'[articolo 63, quinto comma, della legge costituzionale 31 gennaio 1963, n. 1](../Leggi%20costituzionali/Statuto%20speciale%20della%20Regione%20Friuli-Venezia%20Giulia.md) (Statuto speciale della Regione autonoma Friuli Venezia Giulia), modificano il Titolo IV dello Statuto.
 
 2.
 

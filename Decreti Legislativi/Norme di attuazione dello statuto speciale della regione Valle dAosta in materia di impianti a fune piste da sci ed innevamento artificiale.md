@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[articolo 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge costituzionale 26 febbraio 1948, n. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1948-02-26;4);
+Vista la [legge costituzionale 26 febbraio 1948, n. 4](../Leggi%20costituzionali/Statuto%20speciale%20per%20la%20Valle%20dAosta.md);
 
 Vista la proposta della commissione paritetica;
 

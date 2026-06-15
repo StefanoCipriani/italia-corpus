@@ -82,7 +82,7 @@ Visto il Piano nazionale di ripartizione delle frequenze, approvato con decreto 
 
 Visto il [decreto legislativo 4 settembre 2002, n. 198](Disposizioni%20volte%20ad%20accelerare%20la%20realizzazione%20delle%20infrastrutture%20di%20telecomunicazioni%20strategiche%20per%20la%20modernizzazione%20e%20lo%20sviluppo%20del%20Paese%20a%20norma%20dellarticolo%201%20comma%202%20della_5fb746a2e2c4.md);
 
-Vista la [legge 27 dicembre 2002, n. 289](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-12-27;289);
+Vista la [legge 27 dicembre 2002, n. 289](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202003.md);
 
 Vista la [legge 16 gennaio 2003, n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-01-16;3), ed in particolare l'articolo 41;
 
@@ -298,7 +298,7 @@ Tale servizio puo' essere basato sul numero e non consente la realizzazione di u
                             ppp)
                                 servizio telefonico accessibile al pubblico: un servizio reso accessibile al pubblico che consente di effettuare e ricevere direttamente o indirettamente, chiamate nazionali o nazionali e internazionali tramite uno o piu' numeri che figurano in un piano di numerazione dei servizi di comunicazione elettronica nazionale o internazionale;
                             qqq)
-                                LETTERA ABROGATA DAL [D.LGS. 24 MARZO 2024, N. 48](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-03-24;48);
+                                LETTERA ABROGATA DAL [D.LGS. 24 MARZO 2024, N. 48](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20correttive%20al%20decreto%20legislativo%208%20novembre%202021%20n.%20207%20di%20attuazione%20della%20direttiva%20UE%202018-1972%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20dell11%20dicembre%202018%20che%20modifica%20i_55ee14ad1a1e.md);
                             rrr)
                                 servizio universale: un insieme minimo di servizi di una qualita' determinata, accessibili a tutti gli utenti a prescindere dalla loro ubicazione geografica e, tenuto conto delle condizioni nazionali specifiche, offerti ad un prezzo accessibile;
                             sss)
@@ -712,7 +712,7 @@ Le informazioni di cui al comma 4 comprendono quanto segue:
 
 6.
 
-Al fine di consentire al BEREC la tenuta di una banca dati dell'Unione delle notifiche trasmesse, il Ministero inoltra senza indebito ritardo al BEREC, per via elettronica per il tramite dell'Autorita', ciascuna notifica ricevuta. PERIODO SOPPRESSO DAL [D.LGS. 24 MARZO 2024, N. 48](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-03-24;48).
+Al fine di consentire al BEREC la tenuta di una banca dati dell'Unione delle notifiche trasmesse, il Ministero inoltra senza indebito ritardo al BEREC, per via elettronica per il tramite dell'Autorita', ciascuna notifica ricevuta. PERIODO SOPPRESSO DAL [D.LGS. 24 MARZO 2024, N. 48](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20correttive%20al%20decreto%20legislativo%208%20novembre%202021%20n.%20207%20di%20attuazione%20della%20direttiva%20UE%202018-1972%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20dell11%20dicembre%202018%20che%20modifica%20i_55ee14ad1a1e.md).
 
 7.
 
@@ -1706,7 +1706,7 @@ Per quanto concerne i diritti d'uso dello spettro radio, il Ministero e l'Autori
 
 6.
 
-I contributi per la concessione di diritti di uso dello spettro radio per le imprese titolari di autorizzazione generale per l'attivita' di operatore di rete televisiva in tecnologia digitale terrestre sono fissati dal Ministero sulla base dei criteri stabiliti dall'[articolo 1, commi da 172](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-12-28;208#art_1-com172) [a 176, della legge 28 dicembre 2015, n. 208](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-12-28;208#art_1-com176).
+I contributi per la concessione di diritti di uso dello spettro radio per le imprese titolari di autorizzazione generale per l'attivita' di operatore di rete televisiva in tecnologia digitale terrestre sono fissati dal Ministero sulla base dei criteri stabiliti dall'[articolo 1, commi da 172](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202016.%2015G00222.md) [a 176, della legge 28 dicembre 2015, n. 208](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202016.%2015G00222.md).
 
 ## ((Capo II)) (( Accesso al suolo (Disposizioni relative a reti ed impianti) ))
 
@@ -2122,7 +2122,7 @@ Il proprietario che ha ricevuto una indennita' per la servitu' impostagli, nel m
 
 1.
 
-Le Pubbliche Amministrazioni, le Regioni, le Province ed i Comuni, i consorzi, gli enti pubblici economici, i concessionari di pubblici servizi, di aree e beni pubblici o demaniali, gli enti pubblici non economici nonche' ogni altro soggetto preposto alla cura di interessi pubblici non possono imporre per l'impianto di reti o per l'esercizio dei servizi di comunicazione elettronica , nonche' per la modifica o lo spostamento di opere o impianti resisi necessari per ragioni di viabilita' o di realizzazione di opere pubbliche, oneri ((di qualsiasi natura)) o canoni ulteriori a quelli stabiliti nel presente decreto, fatta salva l'applicazione del canone previsto dall'[articolo 1, comma 816, della legge 27 dicembre 2019, n. 160](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2019-12-27;160#art_1-com816), come modificato dalla [legge 30 dicembre 2020 n.178](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2020-12-30;178) ((, nel rispetto dei presupposti previsti dalla normativa in materia)). Resta escluso ogni altro tipo di onere finanziario, reale o contributo, comunque denominato, di qualsiasi natura e per qualsiasi ragione o titolo richiesto, come da [art. 12 del decreto legislativo 15 febbraio 2016, n. 33](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202014-61-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2015%20maggio%202014%20recante%20misure%20volte%20a%20ridurre%20i%20costi%20dellinstallazione%20di%20reti%20di%20comunicazione%20elettroni_7f1a7c2e7a47.md), come integrato dall' [art. 8 bis, comma 1, lettera c) del decreto-legge14 dicembre 2018, n. 135](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2018-12-14;135#art_8bis-com1-letc), coordinato con la legge di conversione 11 febbraio 2019, n. 12. (45)
+Le Pubbliche Amministrazioni, le Regioni, le Province ed i Comuni, i consorzi, gli enti pubblici economici, i concessionari di pubblici servizi, di aree e beni pubblici o demaniali, gli enti pubblici non economici nonche' ogni altro soggetto preposto alla cura di interessi pubblici non possono imporre per l'impianto di reti o per l'esercizio dei servizi di comunicazione elettronica , nonche' per la modifica o lo spostamento di opere o impianti resisi necessari per ragioni di viabilita' o di realizzazione di opere pubbliche, oneri ((di qualsiasi natura)) o canoni ulteriori a quelli stabiliti nel presente decreto, fatta salva l'applicazione del canone previsto dall'[articolo 1, comma 816, della legge 27 dicembre 2019, n. 160](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202020%20e%20bilancio%20pluriennale%20per%20il%20triennio%202020-2022.%2019G00165.md), come modificato dalla [legge 30 dicembre 2020 n.178](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202021%20e%20bilancio%20pluriennale%20per%20il%20triennio%202021-2023.%2020G00202.md) ((, nel rispetto dei presupposti previsti dalla normativa in materia)). Resta escluso ogni altro tipo di onere finanziario, reale o contributo, comunque denominato, di qualsiasi natura e per qualsiasi ragione o titolo richiesto, come da [art. 12 del decreto legislativo 15 febbraio 2016, n. 33](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202014-61-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2015%20maggio%202014%20recante%20misure%20volte%20a%20ridurre%20i%20costi%20dellinstallazione%20di%20reti%20di%20comunicazione%20elettroni_7f1a7c2e7a47.md), come integrato dall' [art. 8 bis, comma 1, lettera c) del decreto-legge14 dicembre 2018, n. 135](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2018-12-14;135#art_8bis-com1-letc), coordinato con la legge di conversione 11 febbraio 2019, n. 12. (45)
 
 2.
 
@@ -3709,7 +3709,7 @@ Qualora intenda cedere tutte le sue attivita' nelle reti di accesso locale, o un
 
 AGGIORNAMENTO (3)
 
-La [L. 24 dicembre 2012, n. 228](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-24;228), ha disposto (con l'art. 1, comma 23) che "L'abrogazione del comma 4 dell'articolo 96 del codice di cui al [decreto legislativo 1° agosto 2003, n. 259](../Codici/Codice%20delle%20comunicazioni%20elettroniche.md), ha effetto a decorrere dalla data di entrata in vigore del decreto di cui al comma 2 del medesimo articolo 96, come da ultimo sostituito dal comma 22, lettera a), del presente articolo."
+La [L. 24 dicembre 2012, n. 228](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20Legge%20di%20stabilita%202013.%2012G0252.md), ha disposto (con l'art. 1, comma 23) che "L'abrogazione del comma 4 dell'articolo 96 del codice di cui al [decreto legislativo 1° agosto 2003, n. 259](../Codici/Codice%20delle%20comunicazioni%20elettroniche.md), ha effetto a decorrere dalla data di entrata in vigore del decreto di cui al comma 2 del medesimo articolo 96, come da ultimo sostituito dal comma 22, lettera a), del presente articolo."
 
 ### Art. 97.
 
@@ -3743,7 +3743,7 @@ L'Autorita', se constata che le prestazioni sono ampiamente disponibili, puo' di
 
 AGGIORNAMENTO (6)
 
-La [L. 27 dicembre 2006, n. 296](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-12-27;296) ha disposto (con l'art. 1, comma 930) che "Nei confronti dei soggetti esercenti la radiodiffusione sonora, nonche' la radiodiffusione televisiva in ambito locale, le sanzioni amministrative previste dall'[articolo 98 del codice delle comunicazioni elettroniche](../Codici/Codice%20delle%20comunicazioni%20elettroniche.md), di cui al [decreto legislativo 1° agosto 2003, n. 259](../Codici/Codice%20delle%20comunicazioni%20elettroniche.md), e successive modificazioni, sono ridotte a un decimo".
+La [L. 27 dicembre 2006, n. 296](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202007.md) ha disposto (con l'art. 1, comma 930) che "Nei confronti dei soggetti esercenti la radiodiffusione sonora, nonche' la radiodiffusione televisiva in ambito locale, le sanzioni amministrative previste dall'[articolo 98 del codice delle comunicazioni elettroniche](../Codici/Codice%20delle%20comunicazioni%20elettroniche.md), di cui al [decreto legislativo 1° agosto 2003, n. 259](../Codici/Codice%20delle%20comunicazioni%20elettroniche.md), e successive modificazioni, sono ridotte a un decimo".
 
 ---------------
 
@@ -4186,7 +4186,7 @@ Art. 98-vicies semel
 (Disposizioni per favorire l'attuazione del numero di emergenza unico europeo) 
  (ex art. 75-bis Codice 2003) 
  
- 1. Al Ministero dell'interno, di concerto con il Ministero, sono attribuiti poteri di indirizzo e coordinamento per l'individuazione e l'attuazione delle iniziative volte all'istituzione su tutto il territorio nazionale del numero unico di emergenza europeo «112» attraverso l'istituzione di PSAP di primo livello da realizzare in ambito regionale, denominati Centrali Uniche di Risposta-CUR, secondo le modalita' definite con appositi protocolli d'intesa tra il Ministero dell'interno e le regioni, ai sensi di quanto disposto dalla [legge 7 agosto 2015, n.124](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-08-07;124) e dal [decreto legislativo 19 agosto 2016, n.177](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-08-19;177). 
+ 1. Al Ministero dell'interno, di concerto con il Ministero, sono attribuiti poteri di indirizzo e coordinamento per l'individuazione e l'attuazione delle iniziative volte all'istituzione su tutto il territorio nazionale del numero unico di emergenza europeo «112» attraverso l'istituzione di PSAP di primo livello da realizzare in ambito regionale, denominati Centrali Uniche di Risposta-CUR, secondo le modalita' definite con appositi protocolli d'intesa tra il Ministero dell'interno e le regioni, ai sensi di quanto disposto dalla [legge 7 agosto 2015, n.124](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-08-07;124) e dal [decreto legislativo 19 agosto 2016, n.177](Disposizioni%20in%20materia%20di%20razionalizzazione%20delle%20funzioni%20di%20polizia%20e%20assorbimento%20del%20Corpo%20forestale%20dello%20Stato%20ai%20sensi%20dellarticolo%208%20comma%201%20lettera%20a%20della%20legge%207%20agosto%202015%20n_f1f59b60450c.md). 
  2. Per l'esercizio dei poteri di cui al comma 1, il Ministero dell'interno si avvale di una commissione consultiva costituita presso il medesimo Ministero e composta dai rappresentanti del Ministero dell'interno, della Presidenza del Consiglio dei ministri - Dipartimento per le politiche europee, dei Ministeri dell'economia e delle finanze, dello sviluppo economico, della salute e della difesa nonche' dai rappresentanti designati dalla Conferenza Stato-Regioni.
 Ai componenti della commissione non spetta alcun compenso e rimborso spese. 
  3. Ai fini dell'attuazione delle iniziative individuate ai sensi del presente articolo ((,)) il Ministero d'intesa con il Ministero dell'interno che a tale fine si avvale della commissione consultiva di cui al comma 2, esercita le relative attribuzioni nei confronti degli operatori di comunicazioni elettroniche. 
@@ -4449,7 +4449,7 @@ L'autorizzazione generale e' in ogni caso necessaria nei seguenti casi:
  2.7) di installazione od esercizio di apparecchiature in ausilio alle attivita' professionali sanitarie ed alle attivita' direttamente ad esse collegate; 
  2.8) di installazione od esercizio di apparecchiature per comunicazioni a breve distanza, di tipo diverso da quelle di cui ai numeri da 2.1) a 2.8). 
  2.8-bis) di installazione o esercizio di apparati concentratori in tecnologie LPWAN rispondenti alla raccomandazione della Conferenza europea delle amministrazioni delle poste e delle telecomunicazioni CEPT/ERC/REC 70-03, fatte salve le esigenze di difesa e sicurezza dello Stato. ((A tal fine il Ministero, con proprio decreto, adottato di concerto con il Ministero della difesa definisce apposite linee guida entro il 30 giugno 2024.)) 
- 3) NUMERO SOPPRESSO DAL [D.LGS. 28 MAGGIO 2012, N. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2012-05-28;70).
+ 3) NUMERO SOPPRESSO DAL [D.LGS. 28 MAGGIO 2012, N. 70](Modifiche%20al%20decreto%20legislativo%201%20agosto%202003%20n.%20259%20recante%20codice%20delle%20comunicazioni%20elettroniche%20in%20attuazione%20delle%20direttive%202009-140-CE%20in%20materia%20di%20reti%20e%20servizi%20di%20comunicazio_5d04ac553983.md).
 
 2.
 
@@ -6153,7 +6153,7 @@ Le disposizioni del Codice, ai sensi dell'[articolo 41, comma 2, lettera b), del
 
 2.
 
-Le disposizioni degli allegati, nel rispetto delle attribuzioni del Ministero e dell'Autorita', delle disposizioni di cui al Codice, di quelle assunte in sede comunitaria e dell'[articolo 36 della legge 24 dicembre 2012, n. 234](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-24;234#art_36) ), sono modificate, all'occorrenza, con decreto del ((Ministero delle imprese e del made in Italy)).
+Le disposizioni degli allegati, nel rispetto delle attribuzioni del Ministero e dell'Autorita', delle disposizioni di cui al Codice, di quelle assunte in sede comunitaria e dell'[articolo 36 della legge 24 dicembre 2012, n. 234](../Leggi%20di%20delegazione%20europea/Norme%20generali%20sulla%20partecipazione%20dellItalia%20alla%20formazione%20e%20allattuazione%20della%20normativa%20e%20delle%20politiche%20dellUnione%20europea.%2013G00003.md) ), sono modificate, all'occorrenza, con decreto del ((Ministero delle imprese e del made in Italy)).
 
 ### Art. 221. — Entrata in vigore
 

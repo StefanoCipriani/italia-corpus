@@ -130,7 +130,7 @@ Ai fini del presente decreto si intende per:
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 15 febbraio 2016, n. 31 (con l'art. 3, comma 1, lettera a)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-02-15;31#art_3-com1-leta)) che "l'allegato II al presente decreto sostituisce il certificato richiamato dal [decreto legislativo 7 settembre 2010, n. 161](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-09-07;161)".
+Il [D.Lgs. 15 febbraio 2016, n. 31 (con l'art. 3, comma 1, lettera a)](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20decisione%20quadro%202009-299-GAI%20del%20Consiglio%20del%2026%20febbraio%202009%20che%20modifica%20le%20decisioni%20quadro%202002-584-GAI%202005-214-GAI%202006-783-GAI%202008-909-GAI%20e%202008-947-GAI%20raffo_0730e8e28558.md)) che "l'allegato II al presente decreto sostituisce il certificato richiamato dal [decreto legislativo 7 settembre 2010, n. 161](Disposizioni%20per%20conformare%20il%20diritto%20interno%20alla%20Decisione%20quadro%202008-909-GAI%20relativa%20allapplicazione%20del%20principio%20del%20reciproco%20riconoscimento%20alle%20sentenze%20penali%20che%20irrogano%20pen_e72690a373d5.md)".
 
 ### Art. 3. — Autorita' competenti
 

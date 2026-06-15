@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4), con le modificazioni ad esso apportate dall'[art. 3, comma primo, del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98#art_3-com1);
+Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4), con le modificazioni ad esso apportate dall'[art. 3, comma primo, del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Viste le disposizioni transitorie I e XV della Costituzione;
 
@@ -30,8 +30,8 @@ per l'Esercito. . . . . . . . . . . . . . . . . . . . N. 8.710 unita' per la Mar
 
 AGGIORNAMENTO (1)
 
-Il [D.P.R. 8 aprile 1954, n. 572](../DPR/Norme%20di%20attuazione%20del%20decreto%20legislativo%207%20maggio%201948%20n.%20940%20concernente%20modificazioni%20degli%20organici%20degli%20operai%20di%20ruolo%20delle%20Forze%20armate.md) ha disposto (con l'art. 1) che il contingente numerico degli operai permanenti, fissato, per ciascuna Forza armata, dall'[art. 1 del decreto legislativo 7 maggio 1948, n. 940](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-05-07;940#art_1), e' ripartito come da tabella di seguito riportata.
- Ripartizione in gruppi e categorie dei posti di organico stabiliti per le tre Forze armate dal [decreto legislativo 7 maggio 1948, n. 940](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-05-07;940).
+Il [D.P.R. 8 aprile 1954, n. 572](../DPR/Norme%20di%20attuazione%20del%20decreto%20legislativo%207%20maggio%201948%20n.%20940%20concernente%20modificazioni%20degli%20organici%20degli%20operai%20di%20ruolo%20delle%20Forze%20armate.md) ha disposto (con l'art. 1) che il contingente numerico degli operai permanenti, fissato, per ciascuna Forza armata, dall'[art. 1 del decreto legislativo 7 maggio 1948, n. 940](Modificazioni%20degli%20organici%20degli%20operai%20di%20ruolo%20delle%20Forze%20armate.md), e' ripartito come da tabella di seguito riportata.
+ Ripartizione in gruppi e categorie dei posti di organico stabiliti per le tre Forze armate dal [decreto legislativo 7 maggio 1948, n. 940](Modificazioni%20degli%20organici%20degli%20operai%20di%20ruolo%20delle%20Forze%20armate.md).
  ----> Parte di provvedimento in formato grafico <---
 
 ## Art. 2.

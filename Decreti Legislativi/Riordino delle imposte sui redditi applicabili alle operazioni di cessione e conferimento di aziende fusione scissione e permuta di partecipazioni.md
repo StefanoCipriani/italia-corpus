@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87, quinto comma, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Visto l'[articolo 3, comma 161, della legge 23 dicembre 1996, n. 662](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;662#art_3-com161), recante delega al Governo per l'emanazione di uno o piu' decreti legislativi di riforma delle disposizioni delle imposte sui redditi applicabili alle operazioni di cessione di aziende, conferimento di aziende, fusione, scissione e permuta di partecipazioni;
+Visto l'[articolo 3, comma 161, della legge 23 dicembre 1996, n. 662](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_3.md), recante delega al Governo per l'emanazione di uno o piu' decreti legislativi di riforma delle disposizioni delle imposte sui redditi applicabili alle operazioni di cessione di aziende, conferimento di aziende, fusione, scissione e permuta di partecipazioni;
 
 Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella riunione del 18 giugno 1997;
 
@@ -30,37 +30,37 @@ Capo I
 
 ### Art. 1.
 
-ARTICOLO ABROGATO DAL [D.LGS. 12 DICEMBRE 2003, N. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-12;344) (3) ((4))
+ARTICOLO ABROGATO DAL [D.LGS. 12 DICEMBRE 2003, N. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md) (3) ((4))
 
 --------------
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. 12 dicembre 2003, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-12;344) ha disposto (con l'art. 3, comma 2) che il presente articolo e' abrogato con riguardo alle cessioni e ai conferimenti effettuati nonche' alle operazioni di fusione e scissione perfezionate dopo il 31 dicembre 2003.
+Il [D.Lgs. 12 dicembre 2003, n. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md) ha disposto (con l'art. 3, comma 2) che il presente articolo e' abrogato con riguardo alle cessioni e ai conferimenti effettuati nonche' alle operazioni di fusione e scissione perfezionate dopo il 31 dicembre 2003.
 
 --------------
 
 AGGIORNAMENTO (4)
 
-Il [D.Lgs. 12 dicembre 2003, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-12;344), come modificato dal [D.Lgs. 18 novembre 2005, n. 247](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-11-18;247), ha confermato (con l'art. 3, comma 2) l'abrogazione del presente articolo.
- Inoltre, il [D.Lgs. 18 novembre 2005, n. 247](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-11-18;247) ha disposto (con l'art. 18, comma 6) che l'abrogazione si applica alle operazioni effettuate nel periodo d'imposta in corso al 1° gennaio 2004 e a partire da quest'ultima data.
+Il [D.Lgs. 12 dicembre 2003, n. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md), come modificato dal [D.Lgs. 18 novembre 2005, n. 247](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20correttive%20ed%20integrative%20al%20decreto%20legislativo%2012%20dicembre%202003%20n.%20344%20in%20materia%20di%20imposta%20sul%20reddito%20delle%20societa%20nonche%20altre%20disposizioni%20tributarie.md), ha confermato (con l'art. 3, comma 2) l'abrogazione del presente articolo.
+ Inoltre, il [D.Lgs. 18 novembre 2005, n. 247](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20correttive%20ed%20integrative%20al%20decreto%20legislativo%2012%20dicembre%202003%20n.%20344%20in%20materia%20di%20imposta%20sul%20reddito%20delle%20societa%20nonche%20altre%20disposizioni%20tributarie.md) ha disposto (con l'art. 18, comma 6) che l'abrogazione si applica alle operazioni effettuate nel periodo d'imposta in corso al 1° gennaio 2004 e a partire da quest'ultima data.
 
 ### Art. 2.
 
-ARTICOLO ABROGATO DAL [D.LGS. 12 DICEMBRE 2003, N. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-12;344) (3) ((4))
+ARTICOLO ABROGATO DAL [D.LGS. 12 DICEMBRE 2003, N. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md) (3) ((4))
 
 --------------
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. 12 dicembre 2003, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-12;344) ha disposto (con l'art. 3, comma 2) che il presente articolo e' abrogato con riguardo alle cessioni e ai conferimenti effettuati nonche' alle operazioni di fusione e scissione perfezionate dopo il 31 dicembre 2003.
+Il [D.Lgs. 12 dicembre 2003, n. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md) ha disposto (con l'art. 3, comma 2) che il presente articolo e' abrogato con riguardo alle cessioni e ai conferimenti effettuati nonche' alle operazioni di fusione e scissione perfezionate dopo il 31 dicembre 2003.
 
 --------------
 
 AGGIORNAMENTO (4)
 
-Il [D.Lgs. 12 dicembre 2003, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-12;344), come modificato dal [D.Lgs. 18 novembre 2005, n. 247](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-11-18;247), ha confermato (con l'art. 3, comma 2) l'abrogazione del presente articolo.
- Inoltre, il [D.Lgs. 18 novembre 2005, n. 247](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-11-18;247) ha disposto (con l'art. 18, comma 6) che l'abrogazione si applica alle operazioni effettuate nel periodo d'imposta in corso al 1° gennaio 2004 e a partire da quest'ultima data.
+Il [D.Lgs. 12 dicembre 2003, n. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md), come modificato dal [D.Lgs. 18 novembre 2005, n. 247](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20correttive%20ed%20integrative%20al%20decreto%20legislativo%2012%20dicembre%202003%20n.%20344%20in%20materia%20di%20imposta%20sul%20reddito%20delle%20societa%20nonche%20altre%20disposizioni%20tributarie.md), ha confermato (con l'art. 3, comma 2) l'abrogazione del presente articolo.
+ Inoltre, il [D.Lgs. 18 novembre 2005, n. 247](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20correttive%20ed%20integrative%20al%20decreto%20legislativo%2012%20dicembre%202003%20n.%20344%20in%20materia%20di%20imposta%20sul%20reddito%20delle%20societa%20nonche%20altre%20disposizioni%20tributarie.md) ha disposto (con l'art. 18, comma 6) che l'abrogazione si applica alle operazioni effettuate nel periodo d'imposta in corso al 1° gennaio 2004 e a partire da quest'ultima data.
 
 ### Art. 3. — Conferimenti di aziende o di partecipazioni
  di controllo o di collegamento
@@ -81,13 +81,13 @@ Qualora il conferimento abbia ad oggetto l'unica azienda dell'imprenditore indiv
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. 12 dicembre 2003, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-12;344) ha disposto (con l'art. 3, comma 2) che il presente articolo e' abrogato con riguardo alle cessioni e ai conferimenti effettuati nonche' alle operazioni di fusione e scissione perfezionate dopo il 31 dicembre 2003.
+Il [D.Lgs. 12 dicembre 2003, n. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md) ha disposto (con l'art. 3, comma 2) che il presente articolo e' abrogato con riguardo alle cessioni e ai conferimenti effettuati nonche' alle operazioni di fusione e scissione perfezionate dopo il 31 dicembre 2003.
 
 --------------
 
 AGGIORNAMENTO (4)
 
-Il [D.Lgs. 12 dicembre 2003, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-12;344), come modificato dal [D.Lgs. 18 novembre 2005, n. 247](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-11-18;247), ha disposto (con l'art. 3, comma 2) l'abrogazione dei soli artt. 1, 2 e 6 del presente decreto, con conseguente ripristino del presente articolo.
+Il [D.Lgs. 12 dicembre 2003, n. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md), come modificato dal [D.Lgs. 18 novembre 2005, n. 247](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20correttive%20ed%20integrative%20al%20decreto%20legislativo%2012%20dicembre%202003%20n.%20344%20in%20materia%20di%20imposta%20sul%20reddito%20delle%20societa%20nonche%20altre%20disposizioni%20tributarie.md), ha disposto (con l'art. 3, comma 2) l'abrogazione dei soli artt. 1, 2 e 6 del presente decreto, con conseguente ripristino del presente articolo.
 
 ### Art. 4. — Regimi fiscali del soggetto conferente
  e del soggetto conferitario
@@ -109,7 +109,7 @@ Qualora non sia esercitata l'opzione di cui al comma 2, l'aumento di patrimonio 
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. 12 dicembre 2003, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-12;344) ha disposto (con l'art. 3, comma 2) che il presente articolo e' abrogato con riguardo alle cessioni e ai conferimenti effettuati nonche' alle operazioni di fusione e scissione perfezionate dopo il 31 dicembre 2003.
+Il [D.Lgs. 12 dicembre 2003, n. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md) ha disposto (con l'art. 3, comma 2) che il presente articolo e' abrogato con riguardo alle cessioni e ai conferimenti effettuati nonche' alle operazioni di fusione e scissione perfezionate dopo il 31 dicembre 2003.
 
 ### Art. 5. — Scambi di partecipazioni
 
@@ -126,30 +126,30 @@ Le azioni o quote ricevute a seguito di conferimenti in societa', mediante i qua
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. 12 dicembre 2003, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-12;344) ha disposto (con l'art. 3, comma 2) che il presente articolo e' abrogato con riguardo alle cessioni e ai conferimenti effettuati nonche' alle operazioni di fusione e scissione perfezionate dopo il 31 dicembre 2003.
+Il [D.Lgs. 12 dicembre 2003, n. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md) ha disposto (con l'art. 3, comma 2) che il presente articolo e' abrogato con riguardo alle cessioni e ai conferimenti effettuati nonche' alle operazioni di fusione e scissione perfezionate dopo il 31 dicembre 2003.
 
 --------------
 
 AGGIORNAMENTO (4)
 
-Il [D.Lgs. 12 dicembre 2003, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-12;344), come modificato dal [D.Lgs. 18 novembre 2005, n. 247](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-11-18;247), ha disposto (con l'art. 3, comma 2) l'abrogazione dei soli artt. 1, 2 e 6 del presente decreto, con conseguente ripristino del presente articolo.
+Il [D.Lgs. 12 dicembre 2003, n. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md), come modificato dal [D.Lgs. 18 novembre 2005, n. 247](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20correttive%20ed%20integrative%20al%20decreto%20legislativo%2012%20dicembre%202003%20n.%20344%20in%20materia%20di%20imposta%20sul%20reddito%20delle%20societa%20nonche%20altre%20disposizioni%20tributarie.md), ha disposto (con l'art. 3, comma 2) l'abrogazione dei soli artt. 1, 2 e 6 del presente decreto, con conseguente ripristino del presente articolo.
 
 ### Art. 6.
 
-ARTICOLO ABROGATO DAL [D.LGS. 12 DICEMBRE 2003, N. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-12;344) (3) ((4))
+ARTICOLO ABROGATO DAL [D.LGS. 12 DICEMBRE 2003, N. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md) (3) ((4))
 
 --------------
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. 12 dicembre 2003, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-12;344) ha disposto (con l'art. 3, comma 2) che il presente articolo e' abrogato con riguardo alle cessioni e ai conferimenti effettuati nonche' alle operazioni di fusione e scissione perfezionate dopo il 31 dicembre 2003.
+Il [D.Lgs. 12 dicembre 2003, n. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md) ha disposto (con l'art. 3, comma 2) che il presente articolo e' abrogato con riguardo alle cessioni e ai conferimenti effettuati nonche' alle operazioni di fusione e scissione perfezionate dopo il 31 dicembre 2003.
 
 --------------
 
 AGGIORNAMENTO (4)
 
-Il [D.Lgs. 12 dicembre 2003, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-12-12;344), come modificato dal [D.Lgs. 18 novembre 2005, n. 247](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-11-18;247), ha confermato (con l'art. 3, comma 2) l'abrogazione del presente articolo.
- Inoltre, il [D.Lgs. 18 novembre 2005, n. 247](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-11-18;247) ha disposto (con l'art. 18, comma 6) che l'abrogazione si applica alle operazioni effettuate nel periodo d'imposta in corso al 1° gennaio 2004 e a partire da quest'ultima data.
+Il [D.Lgs. 12 dicembre 2003, n. 344](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellimposizione%20sul%20reddito%20delle%20societa%20a%20norma%20dellarticolo%204%20della%20legge%207%20aprile%202003%20n.%2080.md), come modificato dal [D.Lgs. 18 novembre 2005, n. 247](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20correttive%20ed%20integrative%20al%20decreto%20legislativo%2012%20dicembre%202003%20n.%20344%20in%20materia%20di%20imposta%20sul%20reddito%20delle%20societa%20nonche%20altre%20disposizioni%20tributarie.md), ha confermato (con l'art. 3, comma 2) l'abrogazione del presente articolo.
+ Inoltre, il [D.Lgs. 18 novembre 2005, n. 247](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20correttive%20ed%20integrative%20al%20decreto%20legislativo%2012%20dicembre%202003%20n.%20344%20in%20materia%20di%20imposta%20sul%20reddito%20delle%20societa%20nonche%20altre%20disposizioni%20tributarie.md) ha disposto (con l'art. 18, comma 6) che l'abrogazione si applica alle operazioni effettuate nel periodo d'imposta in corso al 1° gennaio 2004 e a partire da quest'ultima data.
 
 ## DISPOSIZIONI IN MATERIA DI COMPORTAMENTI ELUSIVI
 
@@ -189,7 +189,7 @@ L'amministrazione procede al rimborso dopo che l'accertamento, nei confronti del
 
 4.
 
-Nell'[articolo 21, comma 2, della legge 30 dicembre 1991, n. 413](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-12-30;413#art_21-com2), riguardante le richieste di parere al comitato consultivo per l'applicazione delle norme antielusive, le parole: "nell'[articolo 10 della legge 29 dicembre 1990, n. 408](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-12-29;408#art_10), e nell'ultimo comma dell'articolo 37" sono soppresse e dopo le parole: ", delle disposizioni contenute" sono inserite le seguenti parole: "negli articoli 37, comma terzo, e 37 -bis.".
+Nell'[articolo 21, comma 2, della legge 30 dicembre 1991, n. 413](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20ampliare%20le%20basi%20imponibili%20per%20razionalizzare%20facilitare%20e%20potenziare%20lattivita%20di%20accertamento%20disposizioni%20per%20la%20rivalutazione%20obbligatoria%20dei%20beni%20immobili%20delle%20im_715eda796591.md), riguardante le richieste di parere al comitato consultivo per l'applicazione delle norme antielusive, le parole: "nell'[articolo 10 della legge 29 dicembre 1990, n. 408](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-12-29;408#art_10), e nell'ultimo comma dell'articolo 37" sono soppresse e dopo le parole: ", delle disposizioni contenute" sono inserite le seguenti parole: "negli articoli 37, comma terzo, e 37 -bis.".
 
 Note all'art. 7:
  - Si riporta il testo dell'art. 37, come modificato dal presente articolo, nonche' dell'art. 42 del D P.R. 29 settembre 1973, n. 600, recante: "Disposizioni comuni in materia di accertamento delle imposte sui redditi":
@@ -208,7 +208,7 @@ Note all'art. 7:
  c) le plusvalenze realizzate mediante cessione a titolo oneroso di partecipazioni sociali, escluse quelle acquisite per successione, superiori al 2, al 5 o al 10 per cento del capitale della societa' secondo che si tratti di azioni ammesse alla borsa o al mercato ristretto, di altre azioni o di partecipazioni non azionarie. La percentuale di partecipazione e' determinata tenendo conto di tutte le cessioni effettuate nel corso di dodici mesi ancorche' nei confronti di soggetti diversi; si considerano cedute per prime le partecipazioni acquisite in data piu' recente;
  cbis) le plusvalenze diverse da quelle imponibili ai sensi della lettera c), realizzate mediante cessione a titolo oneroso di azioni, quote rappresentative del capitale o del patrimonio e di altre partecipazioni analoghe, nonche' dei certificati rappresentativi di partecipazioni in societa', associazioni, enti ed altri organismi nazionali ed esteri, di obbligazioni convertibili, diritti di opzione e ogni altro diritto, che non abbia natura di interesse, connesso ai predetti rapporti, ancorche' derivanti da operazioni a premio e da compravendita a pronti o a termine. Non si tiene conto delle plusvalenze realizzate se il periodo di tempo intercorso tra la data dell'acquisto o della sottoscrizione per ammontare superiore a quello spettante in virtu' del diritto di opzione e la data della cessione e' superiore a quindici anni; si considerano cedute per prime le partecipazioni acquisite in data piu' recente;
  c -ter) le plusvalenze realizzate mediante cessioni a termine di valute estere ovvero conseguite attraverso altri contratti che assumono, anche in modo implicito, valori a termine delle valute come riferimento per la determinazione del corrispettivo. Per le cessioni a termine le suddette plusvalenze sono costituite dalla differenza fra il corrispettivo della cessione e quello dell'acquisto della valuta ceduta, se l'acquisto e' contestuale alla stipula del contratto a termine, e, negli altri casi, dalla differenza tra il corrispettivo della cessione e il valore della valuta ceduta, al cambio a pronti vigente alla data della stipula del contratto. Per gli altri contratti le plusvalenze sono costituite dalla differenza tra il valore a termine della valuta assunto come riferimento e il corrispettivo dell'acquisto della valuta, se l'acquisto e' contestuale alla stipula del contratto, e, negli altri casi, dalla differenza tra il suddetto valore e quello a pronti della valuta, al cambio vigente alla data di stipula del contratto. Non sono considerate plusvalenze quelle conseguite attraverso contratti uniformi a termine negoziati nei mercati regolamentati di cui all'[art. 23 della legge 2 gennaio 1991, n. 1](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disciplina%20dellattivita%20di%20intermediazione%20mobiliare%20e%20disposizioni%20sullorganizzazione%20dei%20mercati%20mobiliari.md)".
- - Si riporta il testo dell'art. 30, come modificato dal presente articolo, nonche' dell'[art. 68 del D.Lgs. 31 dicembre 1992, n. 546](Disposizioni%20sul%20processo%20tributario%20in%20attuazione%20della%20delega%20al%20Governo%20contenuta%20nellart.%2030%20della%20legge%2030%20dicembre%201991%20n.%20413.md), recante: "Disposizioni sul processo tributario in attuazione della delega al governo contenuta nell'[art. 30 della legge 30 dicembre 1991, n. 413](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-12-30;413#art_30)":
+ - Si riporta il testo dell'art. 30, come modificato dal presente articolo, nonche' dell'[art. 68 del D.Lgs. 31 dicembre 1992, n. 546](Disposizioni%20sul%20processo%20tributario%20in%20attuazione%20della%20delega%20al%20Governo%20contenuta%20nellart.%2030%20della%20legge%2030%20dicembre%201991%20n.%20413.md), recante: "Disposizioni sul processo tributario in attuazione della delega al governo contenuta nell'[art. 30 della legge 30 dicembre 1991, n. 413](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20ampliare%20le%20basi%20imponibili%20per%20razionalizzare%20facilitare%20e%20potenziare%20lattivita%20di%20accertamento%20disposizioni%20per%20la%20rivalutazione%20obbligatoria%20dei%20beni%20immobili%20delle%20im_715eda796591.md)":
  "Art. 30 (Nomina del relatore e fissazione della data di trattazione). - 1. Se non ritiene di adottare preliminarmente i provvedimenti di cui all'art. 27, il presidente, scaduto in ogni caso il termine per la costituzione delle parti, fissa la trattazione della controversia secondo quanto previsto dagli articoli 33 e 34 e nomina il relatore.
  2. Almeno una udienza per ogni mese e per ciascuna sezione e' riservata alla trattazione di controversie per le quali l'ammontare dei tributi accertati e delle conseguenti soprattasse e pene pecuniarie non sia inferiore a cento milioni di lire. Un'altra udienza per ogni mese e per ciascuna sezione e' comunque riservata alla trattazione di controversie nei confronti di societa' con personalita' giuridica, nonche' di controversie inerenti l'applicazione dell'[art. 37-bis del decreto del Presidente della Repubblica 29 settembre 1973, n. 600](../DPR/Disposizioni%20comuni%20in%20materia%20di%20accertamento%20delle%20imposte%20sui%20redditi.md)".
  "Art. 68 (Pagamento del tributo e delle sanzioni pecuniarie in pendenza del processo). - 1. Anche in deroga a quanto previsto nelle singole leggi d'imposta, nei casi in cui e' prevista la riscossione frazionata del tributo oggetto di giudizio davanti alle commissioni, il tributo, con i relativi interessi previsti dalle leggi fiscali, deve essere pagato:
@@ -219,7 +219,7 @@ Note all'art. 7:
  2. Se il ricorso viene accolto, il tributo corrisposto in eccedenza rispetto a quanto statuito dalla sentenza della commissione tributaria provinciale, con i relativi interessi previsti dalle leggi fiscali, deve essere rimborsato d'ufficio entro novanta giorni dalla notificazione della sentenza.
  3. Le imposte suppletive e le sanzioni pecuniarie debbono essere corrisposte dopo l'ultima sentenza non impugnata o impugnabile solo con ricorso in cassazione".
  - Si riporta il testo dell'[art. 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3), recante: "Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri": "3. Con decreto ministeriale possono essere adottati regolamenti nelle materie di competenza del ministro o di autorita' sottordinate al ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di piu' ministri, possono essere adottati con decreti interministeriali, ferma restando la necessita' di apposita autorizzazione da parte della legge. I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo. Essi debbono essere comunicati al Presidente del Consiglio dei Ministri prima della loro emanazione".
- - Si riporta il testo dell'art. 21, comma 2, come modificato dal presente articolo, della [legge 30 dicembre 1991, n. 413](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-12-30;413), recante: "Disposizioni per ampliare le basi imponibili, per razionalizzare, facilitare e potenziare l'attivita' di accertamento; disposizioni per la rivalutazione obbligatoria dei beni immobili delle imprese, nonche' per riformare il contenzioso e per la definizione agevolata dei rapporti tributari pendenti; delega al Presidente della Repubblica per la concessione di amnistia per reati tributari; istituzioni dei centri di assistenza fiscale e del conto fiscale": "2. La richiesta di parere deve riguardare l'applicazione, ai casi concreti rappresentati dal contribuente, delle disposizioni contenute negli articoli 37, terzo comma e 37-bis del [decreto del Presidente della Repubblica 29 settembre 1973, n. 600](../DPR/Disposizioni%20comuni%20in%20materia%20di%20accertamento%20delle%20imposte%20sui%20redditi.md), e successive modificazioni. La richiesta di parere puo' altresi' riguardare, ai fini dell'applicazione dell'art. 74, comma 2, del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), e successive modificazioni, la qualificazione di determinate spese, sostenute dal contribuente, tra quelle di pubblicita' e di propaganda ovvero tra quelle di rappresentanza".
+ - Si riporta il testo dell'art. 21, comma 2, come modificato dal presente articolo, della [legge 30 dicembre 1991, n. 413](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20ampliare%20le%20basi%20imponibili%20per%20razionalizzare%20facilitare%20e%20potenziare%20lattivita%20di%20accertamento%20disposizioni%20per%20la%20rivalutazione%20obbligatoria%20dei%20beni%20immobili%20delle%20im_715eda796591.md), recante: "Disposizioni per ampliare le basi imponibili, per razionalizzare, facilitare e potenziare l'attivita' di accertamento; disposizioni per la rivalutazione obbligatoria dei beni immobili delle imprese, nonche' per riformare il contenzioso e per la definizione agevolata dei rapporti tributari pendenti; delega al Presidente della Repubblica per la concessione di amnistia per reati tributari; istituzioni dei centri di assistenza fiscale e del conto fiscale": "2. La richiesta di parere deve riguardare l'applicazione, ai casi concreti rappresentati dal contribuente, delle disposizioni contenute negli articoli 37, terzo comma e 37-bis del [decreto del Presidente della Repubblica 29 settembre 1973, n. 600](../DPR/Disposizioni%20comuni%20in%20materia%20di%20accertamento%20delle%20imposte%20sui%20redditi.md), e successive modificazioni. La richiesta di parere puo' altresi' riguardare, ai fini dell'applicazione dell'art. 74, comma 2, del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), e successive modificazioni, la qualificazione di determinate spese, sostenute dal contribuente, tra quelle di pubblicita' e di propaganda ovvero tra quelle di rappresentanza".
 
 ### Art. 8. — Limitazioni al riporto delle perdite
 

@@ -35,8 +35,8 @@ Il Ministero della marina mercantile e' costituito dai seguenti uffici:
 
 AGGIORNAMENTO (4)
 
-Il [D.P.R. 24 aprile 1998, n. 202](../DPR/Regolamento%20recante%20norme%20sullorganizzazione%20del%20Ministero%20dei%20trasporti%20e%20della%20navigazione%20a%20norma%20dellarticolo%201%20comma%2013%20della%20legge%2024%20dicembre%201993%20n.%20537.md) ha disposto (con l'art. 18, comma 1) che "Ai sensi dell'[articolo 1, commi 13](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537#art_1-com13) e [16, della legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537#art_1-com16), si intendono abrogate le disposizioni sotto elencate, con effetto dalla data di entrata in vigore dei decreti di cui al precedente articolo 14:
- h) [decreto legislativo 7 maggio 1948, n. 615](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-05-07;615)."
+Il [D.P.R. 24 aprile 1998, n. 202](../DPR/Regolamento%20recante%20norme%20sullorganizzazione%20del%20Ministero%20dei%20trasporti%20e%20della%20navigazione%20a%20norma%20dellarticolo%201%20comma%2013%20della%20legge%2024%20dicembre%201993%20n.%20537.md) ha disposto (con l'art. 18, comma 1) che "Ai sensi dell'[articolo 1, commi 13](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md) e [16, della legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md), si intendono abrogate le disposizioni sotto elencate, con effetto dalla data di entrata in vigore dei decreti di cui al precedente articolo 14:
+ h) [decreto legislativo 7 maggio 1948, n. 615](Organizzazione%20dei%20servizi%20e%20istituzione%20dei%20ruoli%20organici%20del%20Ministero%20della%20marina%20mercantile.md)."
 
 ## Art. 2.
 
@@ -46,8 +46,8 @@ L'Ispettorato generale delle capitanerie di porto ed il Corpo delle capitanerie 
 
 AGGIORNAMENTO (4)
 
-Il [D.P.R. 24 aprile 1998, n. 202](../DPR/Regolamento%20recante%20norme%20sullorganizzazione%20del%20Ministero%20dei%20trasporti%20e%20della%20navigazione%20a%20norma%20dellarticolo%201%20comma%2013%20della%20legge%2024%20dicembre%201993%20n.%20537.md) ha disposto (con l'art. 18, comma 1) che "Ai sensi dell'[articolo 1, commi 13](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537#art_1-com13) e [16, della legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537#art_1-com16), si intendono abrogate le disposizioni sotto elencate, con effetto dalla data di entrata in vigore dei decreti di cui al precedente articolo 14:
- h) [decreto legislativo 7 maggio 1948, n. 615](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-05-07;615)."
+Il [D.P.R. 24 aprile 1998, n. 202](../DPR/Regolamento%20recante%20norme%20sullorganizzazione%20del%20Ministero%20dei%20trasporti%20e%20della%20navigazione%20a%20norma%20dellarticolo%201%20comma%2013%20della%20legge%2024%20dicembre%201993%20n.%20537.md) ha disposto (con l'art. 18, comma 1) che "Ai sensi dell'[articolo 1, commi 13](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md) e [16, della legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md), si intendono abrogate le disposizioni sotto elencate, con effetto dalla data di entrata in vigore dei decreti di cui al precedente articolo 14:
+ h) [decreto legislativo 7 maggio 1948, n. 615](Organizzazione%20dei%20servizi%20e%20istituzione%20dei%20ruoli%20organici%20del%20Ministero%20della%20marina%20mercantile.md)."
 
 ## Art. 3.
 
@@ -57,8 +57,8 @@ E' organo consultivo dell'Amministrazione della marina mercantile il Consiglio s
 
 AGGIORNAMENTO (4)
 
-Il [D.P.R. 24 aprile 1998, n. 202](../DPR/Regolamento%20recante%20norme%20sullorganizzazione%20del%20Ministero%20dei%20trasporti%20e%20della%20navigazione%20a%20norma%20dellarticolo%201%20comma%2013%20della%20legge%2024%20dicembre%201993%20n.%20537.md) ha disposto (con l'art. 18, comma 1) che "Ai sensi dell'[articolo 1, commi 13](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537#art_1-com13) e [16, della legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537#art_1-com16), si intendono abrogate le disposizioni sotto elencate, con effetto dalla data di entrata in vigore dei decreti di cui al precedente articolo 14:
- h) [decreto legislativo 7 maggio 1948, n. 615](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-05-07;615)."
+Il [D.P.R. 24 aprile 1998, n. 202](../DPR/Regolamento%20recante%20norme%20sullorganizzazione%20del%20Ministero%20dei%20trasporti%20e%20della%20navigazione%20a%20norma%20dellarticolo%201%20comma%2013%20della%20legge%2024%20dicembre%201993%20n.%20537.md) ha disposto (con l'art. 18, comma 1) che "Ai sensi dell'[articolo 1, commi 13](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md) e [16, della legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md), si intendono abrogate le disposizioni sotto elencate, con effetto dalla data di entrata in vigore dei decreti di cui al precedente articolo 14:
+ h) [decreto legislativo 7 maggio 1948, n. 615](Organizzazione%20dei%20servizi%20e%20istituzione%20dei%20ruoli%20organici%20del%20Ministero%20della%20marina%20mercantile.md)."
 
 ## Art. 4.
 
@@ -71,8 +71,8 @@ I ruoli organici del personale del Ministero della marina mercantile sono costit
 
 AGGIORNAMENTO (4)
 
-Il [D.P.R. 24 aprile 1998, n. 202](../DPR/Regolamento%20recante%20norme%20sullorganizzazione%20del%20Ministero%20dei%20trasporti%20e%20della%20navigazione%20a%20norma%20dellarticolo%201%20comma%2013%20della%20legge%2024%20dicembre%201993%20n.%20537.md) ha disposto (con l'art. 18, comma 1) che "Ai sensi dell'[articolo 1, commi 13](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537#art_1-com13) e [16, della legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537#art_1-com16), si intendono abrogate le disposizioni sotto elencate, con effetto dalla data di entrata in vigore dei decreti di cui al precedente articolo 14:
- h) [decreto legislativo 7 maggio 1948, n. 615](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-05-07;615)."
+Il [D.P.R. 24 aprile 1998, n. 202](../DPR/Regolamento%20recante%20norme%20sullorganizzazione%20del%20Ministero%20dei%20trasporti%20e%20della%20navigazione%20a%20norma%20dellarticolo%201%20comma%2013%20della%20legge%2024%20dicembre%201993%20n.%20537.md) ha disposto (con l'art. 18, comma 1) che "Ai sensi dell'[articolo 1, commi 13](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md) e [16, della legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md), si intendono abrogate le disposizioni sotto elencate, con effetto dalla data di entrata in vigore dei decreti di cui al precedente articolo 14:
+ h) [decreto legislativo 7 maggio 1948, n. 615](Organizzazione%20dei%20servizi%20e%20istituzione%20dei%20ruoli%20organici%20del%20Ministero%20della%20marina%20mercantile.md)."
 
 ## Art. 5.
 
@@ -83,20 +83,20 @@ I posti di grado iniziale nel ruolo tecnico di gruppo A saranno conferiti median
 
 AGGIORNAMENTO (2)
 
-La [L. 21 marzo 1953, n. 231](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-03-21;231) ha disposto (con l'art. 1, comma 1) che "In deroga all'[art. 5 del decreto legislativo 7 maggio 1948, n. 615](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-05-07;615#art_5), il Ministero della marina mercantile e' autorizzato ad espletare un concorso straordinario per soli titoli, per il conferimento dei posti di grado iniziale nel ruolo tecnico di gruppo A del Ministero stesso."
+La [L. 21 marzo 1953, n. 231](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-03-21;231) ha disposto (con l'art. 1, comma 1) che "In deroga all'[art. 5 del decreto legislativo 7 maggio 1948, n. 615](Organizzazione%20dei%20servizi%20e%20istituzione%20dei%20ruoli%20organici%20del%20Ministero%20della%20marina%20mercantile.md), il Ministero della marina mercantile e' autorizzato ad espletare un concorso straordinario per soli titoli, per il conferimento dei posti di grado iniziale nel ruolo tecnico di gruppo A del Ministero stesso."
 
 ---------------
 
 AGGIORNAMENTO (3)
 
-La [L. 23 ottobre 1956, n. 1259](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-10-23;1259) ha disposto (con l'art. 1, comma 1) che "In deroga all'[art. 5 del decreto legislativo 7 maggio 1948, n. 615](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-05-07;615#art_5), il Ministero della marina mercantile e' autorizzato ad espletare un concorso straordinario per soli titoli, per il conferimento dei posti di grado iniziale nel ruolo tecnico di gruppo A del Ministero stesso."
+La [L. 23 ottobre 1956, n. 1259](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-10-23;1259) ha disposto (con l'art. 1, comma 1) che "In deroga all'[art. 5 del decreto legislativo 7 maggio 1948, n. 615](Organizzazione%20dei%20servizi%20e%20istituzione%20dei%20ruoli%20organici%20del%20Ministero%20della%20marina%20mercantile.md), il Ministero della marina mercantile e' autorizzato ad espletare un concorso straordinario per soli titoli, per il conferimento dei posti di grado iniziale nel ruolo tecnico di gruppo A del Ministero stesso."
 
 ---------------
 
 AGGIORNAMENTO (4)
 
-Il [D.P.R. 24 aprile 1998, n. 202](../DPR/Regolamento%20recante%20norme%20sullorganizzazione%20del%20Ministero%20dei%20trasporti%20e%20della%20navigazione%20a%20norma%20dellarticolo%201%20comma%2013%20della%20legge%2024%20dicembre%201993%20n.%20537.md) ha disposto (con l'art. 18, comma 1) che "Ai sensi dell'[articolo 1, commi 13](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537#art_1-com13) e [16, della legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537#art_1-com16), si intendono abrogate le disposizioni sotto elencate, con effetto dalla data di entrata in vigore dei decreti di cui al precedente articolo 14:
- h) [decreto legislativo 7 maggio 1948, n. 615](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-05-07;615)."
+Il [D.P.R. 24 aprile 1998, n. 202](../DPR/Regolamento%20recante%20norme%20sullorganizzazione%20del%20Ministero%20dei%20trasporti%20e%20della%20navigazione%20a%20norma%20dellarticolo%201%20comma%2013%20della%20legge%2024%20dicembre%201993%20n.%20537.md) ha disposto (con l'art. 18, comma 1) che "Ai sensi dell'[articolo 1, commi 13](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md) e [16, della legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md), si intendono abrogate le disposizioni sotto elencate, con effetto dalla data di entrata in vigore dei decreti di cui al precedente articolo 14:
+ h) [decreto legislativo 7 maggio 1948, n. 615](Organizzazione%20dei%20servizi%20e%20istituzione%20dei%20ruoli%20organici%20del%20Ministero%20della%20marina%20mercantile.md)."
 
 ## Art. 6.
 
@@ -108,8 +108,8 @@ Nella prima applicazione del presente decreto e per la durata di un anno, per il
 
 AGGIORNAMENTO (4)
 
-Il [D.P.R. 24 aprile 1998, n. 202](../DPR/Regolamento%20recante%20norme%20sullorganizzazione%20del%20Ministero%20dei%20trasporti%20e%20della%20navigazione%20a%20norma%20dellarticolo%201%20comma%2013%20della%20legge%2024%20dicembre%201993%20n.%20537.md) ha disposto (con l'art. 18, comma 1) che "Ai sensi dell'[articolo 1, commi 13](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537#art_1-com13) e [16, della legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537#art_1-com16), si intendono abrogate le disposizioni sotto elencate, con effetto dalla data di entrata in vigore dei decreti di cui al precedente articolo 14:
- h) [decreto legislativo 7 maggio 1948, n. 615](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-05-07;615)."
+Il [D.P.R. 24 aprile 1998, n. 202](../DPR/Regolamento%20recante%20norme%20sullorganizzazione%20del%20Ministero%20dei%20trasporti%20e%20della%20navigazione%20a%20norma%20dellarticolo%201%20comma%2013%20della%20legge%2024%20dicembre%201993%20n.%20537.md) ha disposto (con l'art. 18, comma 1) che "Ai sensi dell'[articolo 1, commi 13](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md) e [16, della legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md), si intendono abrogate le disposizioni sotto elencate, con effetto dalla data di entrata in vigore dei decreti di cui al precedente articolo 14:
+ h) [decreto legislativo 7 maggio 1948, n. 615](Organizzazione%20dei%20servizi%20e%20istituzione%20dei%20ruoli%20organici%20del%20Ministero%20della%20marina%20mercantile.md)."
 
 ## Art. 7.
 
@@ -120,8 +120,8 @@ Con decreto del Presidente della Repubblica, su proposta del Ministro, per la ma
 
 AGGIORNAMENTO (4)
 
-Il [D.P.R. 24 aprile 1998, n. 202](../DPR/Regolamento%20recante%20norme%20sullorganizzazione%20del%20Ministero%20dei%20trasporti%20e%20della%20navigazione%20a%20norma%20dellarticolo%201%20comma%2013%20della%20legge%2024%20dicembre%201993%20n.%20537.md) ha disposto (con l'art. 18, comma 1) che "Ai sensi dell'[articolo 1, commi 13](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537#art_1-com13) e [16, della legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537#art_1-com16), si intendono abrogate le disposizioni sotto elencate, con effetto dalla data di entrata in vigore dei decreti di cui al precedente articolo 14:
- h) [decreto legislativo 7 maggio 1948, n. 615](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-05-07;615)."
+Il [D.P.R. 24 aprile 1998, n. 202](../DPR/Regolamento%20recante%20norme%20sullorganizzazione%20del%20Ministero%20dei%20trasporti%20e%20della%20navigazione%20a%20norma%20dellarticolo%201%20comma%2013%20della%20legge%2024%20dicembre%201993%20n.%20537.md) ha disposto (con l'art. 18, comma 1) che "Ai sensi dell'[articolo 1, commi 13](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md) e [16, della legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md), si intendono abrogate le disposizioni sotto elencate, con effetto dalla data di entrata in vigore dei decreti di cui al precedente articolo 14:
+ h) [decreto legislativo 7 maggio 1948, n. 615](Organizzazione%20dei%20servizi%20e%20istituzione%20dei%20ruoli%20organici%20del%20Ministero%20della%20marina%20mercantile.md)."
 
 ## Art. 8.
 
@@ -131,8 +131,8 @@ Con provvedimento da emanarsi su proposta del Ministero della marina mercantile,
 
 AGGIORNAMENTO (4)
 
-Il [D.P.R. 24 aprile 1998, n. 202](../DPR/Regolamento%20recante%20norme%20sullorganizzazione%20del%20Ministero%20dei%20trasporti%20e%20della%20navigazione%20a%20norma%20dellarticolo%201%20comma%2013%20della%20legge%2024%20dicembre%201993%20n.%20537.md) ha disposto (con l'art. 18, comma 1) che "Ai sensi dell'[articolo 1, commi 13](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537#art_1-com13) e [16, della legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537#art_1-com16), si intendono abrogate le disposizioni sotto elencate, con effetto dalla data di entrata in vigore dei decreti di cui al precedente articolo 14:
- h) [decreto legislativo 7 maggio 1948, n. 615](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-05-07;615)."
+Il [D.P.R. 24 aprile 1998, n. 202](../DPR/Regolamento%20recante%20norme%20sullorganizzazione%20del%20Ministero%20dei%20trasporti%20e%20della%20navigazione%20a%20norma%20dellarticolo%201%20comma%2013%20della%20legge%2024%20dicembre%201993%20n.%20537.md) ha disposto (con l'art. 18, comma 1) che "Ai sensi dell'[articolo 1, commi 13](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md) e [16, della legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md), si intendono abrogate le disposizioni sotto elencate, con effetto dalla data di entrata in vigore dei decreti di cui al precedente articolo 14:
+ h) [decreto legislativo 7 maggio 1948, n. 615](Organizzazione%20dei%20servizi%20e%20istituzione%20dei%20ruoli%20organici%20del%20Ministero%20della%20marina%20mercantile.md)."
 
 ## Art. 9.
 

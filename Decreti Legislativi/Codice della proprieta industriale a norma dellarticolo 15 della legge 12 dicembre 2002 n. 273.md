@@ -3842,7 +3842,7 @@ La domanda di rinnovazione di marchio di impresa deve essere fatta dal titolare 
 
 2.
 
-COMMA ABROGATO DAL [D.LGS. 13 AGOSTO 2010, N. 131](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-08-13;131).
+COMMA ABROGATO DAL [D.LGS. 13 AGOSTO 2010, N. 131](Modifiche%20al%20decreto%20legislativo%2010%20febbraio%202005%20n.%2030%20recante%20il%20codice%20della%20proprieta%20industriale%20ai%20sensi%20dellarticolo%2019%20della%20legge%2023%20luglio%202009%20n.%2099.%2010G0160.md).
 
 3.
 
@@ -3854,7 +3854,7 @@ Per i marchi registrati sulla base di una domanda di trasformazione di una doman
 
 5.
 
-COMMA ABROGATO DAL [D.LGS. 13 AGOSTO 2010, N. 131](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-08-13;131).
+COMMA ABROGATO DAL [D.LGS. 13 AGOSTO 2010, N. 131](Modifiche%20al%20decreto%20legislativo%2010%20febbraio%202005%20n.%2030%20recante%20il%20codice%20della%20proprieta%20industriale%20ai%20sensi%20dellarticolo%2019%20della%20legge%2023%20luglio%202009%20n.%2099.%2010G0160.md).
 
 6.
 
@@ -5924,7 +5924,7 @@ Se si tratta di un diritto annuale, l'Ufficio italiano brevetti e marchi provved
 
 3.
 
-COMMA ABROGATO DAL [D.LGS 13 AGOSTO 2010, N. 131](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-08-13;131).
+COMMA ABROGATO DAL [D.LGS 13 AGOSTO 2010, N. 131](Modifiche%20al%20decreto%20legislativo%2010%20febbraio%202005%20n.%2030%20recante%20il%20codice%20della%20proprieta%20industriale%20ai%20sensi%20dellarticolo%2019%20della%20legge%2023%20luglio%202009%20n.%2099.%2010G0160.md).
 
 ## Capo VIII DISPOSIZIONI TRANSITORIE E FINALI Sezione I Marchi
 
@@ -6234,11 +6234,11 @@ Sono abrogate le seguenti disposizioni:
                             oo)
                                 l'[articolo 17 della legge 12 dicembre 2002, n. 273](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-12-12;273#art_17);
                             pp)
-                                i [commi 72](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-12-24;350#art_4-com72), [73](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-12-24;350#art_4-com73), [79](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-12-24;350#art_4-com79), [80](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-12-24;350#art_4-com80) e [81 dell'articolo 4 della legge 24 dicembre 2003, n. 350](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-12-24;350#art_4-com81).
+                                i [commi 72](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202004.md), [73](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202004.md), [79](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202004.md), [80](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202004.md) e [81 dell'articolo 4 della legge 24 dicembre 2003, n. 350](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202004.md).
 
 Note all'art. 246:
  - Si riporta il testo dell'[art. 3 del decreto-legge 15 aprile 2002, n. 63](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2002-04-15;63#art_3), (Disposizioni finanziarie e fiscali urgenti in materia di riscossione, razionalizzazione del sistema di formazione del costo dei prodotti farmaceutici, adempimenti ed adeguamenti comunitari, cartolarizzazioni, valorizzazione del patrimonio e finanziamento delle infrastrutture), convertito in legge, con modificazioni, dall'[art. 1, legge 15 giugno 2002, n. 112](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2015%20aprile%202002%20n.%2063%20recante%20disposizioni%20finanziarie%20e%20fiscali%20urgenti%20in%20materia%20di%20riscossione%20razionalizzazione%20del%20sistema%20di_ab86efa0420b.md), come modificato dal presente decreto legislativo:
- «Art. 3 (Razionalizzazione del sistema dei costi dei prodotti farmaceutici). - 1. Il prezzo di vendita al pubblico dei medicinali di cui alla [lettera a) dell'art. 8, comma 10, della legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537#art_8-com10-leta), ivi compresi quelli previsti dal decreto ministeriale 4 dicembre 2001 del Ministro della salute pubblicato nella Gazzetta Ufficiale n. 33 dell'8 febbraio 2002, e' ridotto, fino al 31 dicembre 2002, del cinque per cento al netto dell'IVA.
+ «Art. 3 (Razionalizzazione del sistema dei costi dei prodotti farmaceutici). - 1. Il prezzo di vendita al pubblico dei medicinali di cui alla [lettera a) dell'art. 8, comma 10, della legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md), ivi compresi quelli previsti dal decreto ministeriale 4 dicembre 2001 del Ministro della salute pubblicato nella Gazzetta Ufficiale n. 33 dell'8 febbraio 2002, e' ridotto, fino al 31 dicembre 2002, del cinque per cento al netto dell'IVA.
  2. Sono esclusi dalla riduzione del prezzo di cui al comma 1 i medicinali emoderivati estrattivi e da DNA ricombinante nonche' i medicinali da DNA ricombinante inseriti nell'allegato 2 al decreto ministeriale 22 dicembre 2000, del Ministro della sanita' pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 7 del 10 gennaio 2001, e i farmaci il cui prezzo di vendita al pubblico e' inferiore a cinque euro.
  3. Alle imprese farmaceutiche titolari dell'autorizzazione all'immissione in commercio di medicinali, e' consentito di organizzare o contribuire a realizzare mediante finanziamenti anche indiretti all'estero per gli anni 2002 e 2003 congressi, convegni o riunioni ai sensi dell'[art. 12 del decreto legislativo 30 dicembre 1992, n. 541](Attuazione%20della%20direttiva%2092-28-CEE%20concernente%20la%20pubblicita%20dei%20medicinali%20per%20uso%20umano.md), nella misura massima del cinquanta per cento di quelli notificati al Ministero della salute nell'anno 2001 o autorizzati ai sensi del comma 7 del citato art. 12.
  4. La spesa delle imprese farmaceutiche per la organizzazione, partecipazione e il finanziamento anche indiretto di convegni, congressi, seminari o riunioni di cui al comma 3 per gli esercizi 2002 e 2003 non potra' eccedere il cinquanta per cento delle spese sostenute e documentate per il medesimo fine nell'esercizio 2001.
@@ -6252,7 +6252,7 @@ Note all'art. 246:
  9. A partire dal 1° gennaio 2003 le confezioni dei farmaci, ad esclusione di quelli di cui all'[art. 3, comma 1, del decreto legislativo 30 dicembre 1992, n. 539](Attuazione%20della%20direttiva%2092-26-CEE%20riguardante%20la%20classificazione%20nella%20fornitura%20dei%20medicinali%20per%20uso%20umano.md), debbono riportare sulle confezioni e sulle istruzioni, nonche' nelle forme consentite di pubblicita', dopo l'indicazione del marchio, la sigla classificativa internazionale corrispondente alla denominazione comune internazionale cosiddetta «anatomico-terapeutico-chimica» (ATC), seguita dal corrispondente nome chimico del prodotto. La denominazione commerciale - se presente - deve essere stampata al di sotto di sigla e della denominazione chimica in corpo uguale a quello dei nome chimico; sino ad esaurimento delle scorte e' consentita la vendita di confezioni che riportino la sola denominazione commerciale solo se confezionate prima del 1° novembre 2002.
  9-bis. Il collegio sindacale delle aziende sanitarie e delle aziende ospedaliere segnala periodicamente al direttore generale dell'azienda, al presidente della regione e al Ministero dell'economia e delle finanze gli eventuali scostamenti della spesa effettuata rispetto ai livelli programmati nei documenti contabili vigenti di finanza pubblica. Il direttore generale dell'azienda da' comunicazione dei provvedimenti adottati per assicurare il rispetto dei limiti di spesa previsti.
  9-ter.».
- - La [legge 24 dicembre 2003, n. 350](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-12-24;350) (Disposizioni per la formazione del bilancio annuale e pluriennale dello Stato - legge finanziaria 2004), pubblicata nella Gazzetta Ufficiale 27 dicembre 2003, n. 299, supplemento ordinario.
+ - La [legge 24 dicembre 2003, n. 350](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202004.md) (Disposizioni per la formazione del bilancio annuale e pluriennale dello Stato - legge finanziaria 2004), pubblicata nella Gazzetta Ufficiale 27 dicembre 2003, n. 299, supplemento ordinario.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

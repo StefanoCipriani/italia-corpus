@@ -54,7 +54,7 @@ Della violazione risponde anche chi abbia agevolato con la propria condotta atti
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 20 luglio 2017, n. 118](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-07-20;118) ha disposto (con l'art. 5, comma 1) che "Sono fatti salvi gli effetti gia' prodotti dal [decreto legislativo n. 116 del 2016](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016;116)".
+Il [D.Lgs. 20 luglio 2017, n. 118](Disposizioni%20integrative%20e%20correttive%20al%20decreto%20legislativo%2020%20giugno%202016%20n.%20116%20recante%20modifiche%20allarticolo%2055-quater%20del%20decreto%20legislativo%2030%20marzo%202001%20n.%20165%20ai%20sensi%20dellartico_43371f68b9c5.md) ha disposto (con l'art. 5, comma 1) che "Sono fatti salvi gli effetti gia' prodotti dal [decreto legislativo n. 116 del 2016](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016;116)".
 
 ## Art. 2. — Clausola di invarianza finanziaria
 

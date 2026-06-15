@@ -16,7 +16,7 @@ Visto il [decreto legislativo 30 dicembre 1992, n. 537](Attuazione%20della%20dir
 
 Ritenuto necessario apportare modificazioni al citato [decreto legislativo n. 537 del 1992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992;537);
 
-Visto l'[art. 6, comma 1, della legge 22 febbraio 1994, n. 146](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-22;146#art_6-com1);
+Visto l'[art. 6, comma 1, della legge 22 febbraio 1994, n. 146](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%201993.md);
 
 Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 18 marzo 1996;
 
@@ -117,7 +117,7 @@ AVVERTENZA:
  - L'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5) conferisce al Presidente della Repubblica il potere di promulgare le leggi e di emanare i decreti aventi valore di legge e i regolamenti. 
  - Il titolo del [D.Lgs. 30 dicembre 1992, n. 537](Attuazione%20della%20direttiva%2092-5-CEE%20relativa%20a%20problemi%20sanitari%20in%20materia%20di%20produzione%20e%20commercializzazione%20di%20prodotti%20a%20base%20di%20carne%20e%20di%20alcuni%20prodotti%20di%20origine%20animale.md) (in G.U.C.E. n. 7 serie generale dell'11 gennaio 1993), come modificato dall'art. 1 del decreto qui pubblicato e' il seguente: "Attuazione della [direttiva 92/5/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1992;5) relativa a problemi sanitari in materia di produzione e commercializzazione di prodotti a base di carne e di alcuni prodotti di origine animale". 
  - La [direttiva 92/5/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1992;5) e' pubblicata in G.U.C.E. L 57 del 2 marzo 1992. 
- - La [legge 22 febbraio 1994, n. 146](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-22;146), concerne disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee. Legge comunitaria 1993. L'art. 6, comma 1, della suddetta legge cosi' recita: 
+ - La [legge 22 febbraio 1994, n. 146](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%201993.md), concerne disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee. Legge comunitaria 1993. L'art. 6, comma 1, della suddetta legge cosi' recita: 
  "1. La disposizione dettata dall'art. 1, comma 5, si applica anche ai decreti legislativi emanati in esercizio delle deleghe conferite al Governo con le [leggi 29 dicembre 1990, n. 428](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%20per%20il%201990.md), e successive modificazioni, 19 febbraio 1992, n. 142, e successive modificazioni, e 19 dicembre 1992, n. 489". 
  Note all'art. 1: 
  - Per quanto concerne il [D.Lgs. 30 dicembre 1992, n. 537](Attuazione%20della%20direttiva%2092-5-CEE%20relativa%20a%20problemi%20sanitari%20in%20materia%20di%20produzione%20e%20commercializzazione%20di%20prodotti%20a%20base%20di%20carne%20e%20di%20alcuni%20prodotti%20di%20origine%20animale.md), vedi in nota alle premesse. 

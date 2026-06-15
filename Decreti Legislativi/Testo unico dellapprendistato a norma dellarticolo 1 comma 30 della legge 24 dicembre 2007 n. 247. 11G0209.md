@@ -17,7 +17,7 @@ vigente: true
 
 AGGIORNAMENTO (5)
 
-Il [D.Lgs. 15 giugno 2015, n. 81](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-06-15;81), ha disposto (con l'art. 55, comma 1, lettera g)) l'abrogazione del presente provvedimento eccetto quanto disposto dall'art. 47, comma 5: "Per le regioni e le province autonome e i settori ove la disciplina di cui al presente capo non sia immediatamente operativa, trovano applicazione le regolazioni vigenti. In assenza della offerta formativa pubblica di cui all'articolo 44, comma 3, trovano immediata applicazione le regolazioni contrattuali vigenti".
+Il [D.Lgs. 15 giugno 2015, n. 81](Disciplina%20organica%20dei%20contratti%20di%20lavoro%20e%20revisione%20della%20normativa%20in%20tema%20di%20mansioni%20a%20norma%20dellarticolo%201%20comma%207%20della%20legge%2010%20dicembre%202014%20n.%20183.%2015G00095.md), ha disposto (con l'art. 55, comma 1, lettera g)) l'abrogazione del presente provvedimento eccetto quanto disposto dall'art. 47, comma 5: "Per le regioni e le province autonome e i settori ove la disciplina di cui al presente capo non sia immediatamente operativa, trovano applicazione le regolazioni vigenti. In assenza della offerta formativa pubblica di cui all'articolo 44, comma 3, trovano immediata applicazione le regolazioni contrattuali vigenti".
 
 ## Art. 2.
 
@@ -28,7 +28,7 @@ Il [D.Lgs. 15 giugno 2015, n. 81](https://www.normattiva.it/uri-res/N2Ls?urn:nir
 
 AGGIORNAMENTO (5)
 
-Il [D.Lgs. 15 giugno 2015, n. 81](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-06-15;81), ha disposto (con l'art. 55, comma 1, lettera g)) l'abrogazione del presente provvedimento eccetto quanto disposto dall'art. 47, comma 5: "Per le regioni e le province autonome e i settori ove la disciplina di cui al presente capo non sia immediatamente operativa, trovano applicazione le regolazioni vigenti. In assenza della offerta formativa pubblica di cui all'articolo 44, comma 3, trovano immediata applicazione le regolazioni contrattuali vigenti".
+Il [D.Lgs. 15 giugno 2015, n. 81](Disciplina%20organica%20dei%20contratti%20di%20lavoro%20e%20revisione%20della%20normativa%20in%20tema%20di%20mansioni%20a%20norma%20dellarticolo%201%20comma%207%20della%20legge%2010%20dicembre%202014%20n.%20183.%2015G00095.md), ha disposto (con l'art. 55, comma 1, lettera g)) l'abrogazione del presente provvedimento eccetto quanto disposto dall'art. 47, comma 5: "Per le regioni e le province autonome e i settori ove la disciplina di cui al presente capo non sia immediatamente operativa, trovano applicazione le regolazioni vigenti. In assenza della offerta formativa pubblica di cui all'articolo 44, comma 3, trovano immediata applicazione le regolazioni contrattuali vigenti".
 
 ## Art. 3.
 
@@ -39,7 +39,7 @@ Il [D.Lgs. 15 giugno 2015, n. 81](https://www.normattiva.it/uri-res/N2Ls?urn:nir
 
 AGGIORNAMENTO (5)
 
-Il [D.Lgs. 15 giugno 2015, n. 81](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-06-15;81), ha disposto (con l'art. 55, comma 1, lettera g)) l'abrogazione del presente provvedimento eccetto quanto disposto dall'art. 47, comma 5: "Per le regioni e le province autonome e i settori ove la disciplina di cui al presente capo non sia immediatamente operativa, trovano applicazione le regolazioni vigenti. In assenza della offerta formativa pubblica di cui all'articolo 44, comma 3, trovano immediata applicazione le regolazioni contrattuali vigenti".
+Il [D.Lgs. 15 giugno 2015, n. 81](Disciplina%20organica%20dei%20contratti%20di%20lavoro%20e%20revisione%20della%20normativa%20in%20tema%20di%20mansioni%20a%20norma%20dellarticolo%201%20comma%207%20della%20legge%2010%20dicembre%202014%20n.%20183.%2015G00095.md), ha disposto (con l'art. 55, comma 1, lettera g)) l'abrogazione del presente provvedimento eccetto quanto disposto dall'art. 47, comma 5: "Per le regioni e le province autonome e i settori ove la disciplina di cui al presente capo non sia immediatamente operativa, trovano applicazione le regolazioni vigenti. In assenza della offerta formativa pubblica di cui all'articolo 44, comma 3, trovano immediata applicazione le regolazioni contrattuali vigenti".
 
 ## Art. 4.
 
@@ -50,7 +50,7 @@ Il [D.Lgs. 15 giugno 2015, n. 81](https://www.normattiva.it/uri-res/N2Ls?urn:nir
 
 AGGIORNAMENTO (5)
 
-Il [D.Lgs. 15 giugno 2015, n. 81](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-06-15;81), ha disposto (con l'art. 55, comma 1, lettera g)) l'abrogazione del presente provvedimento eccetto quanto disposto dall'art. 47, comma 5: "Per le regioni e le province autonome e i settori ove la disciplina di cui al presente capo non sia immediatamente operativa, trovano applicazione le regolazioni vigenti. In assenza della offerta formativa pubblica di cui all'articolo 44, comma 3, trovano immediata applicazione le regolazioni contrattuali vigenti".
+Il [D.Lgs. 15 giugno 2015, n. 81](Disciplina%20organica%20dei%20contratti%20di%20lavoro%20e%20revisione%20della%20normativa%20in%20tema%20di%20mansioni%20a%20norma%20dellarticolo%201%20comma%207%20della%20legge%2010%20dicembre%202014%20n.%20183.%2015G00095.md), ha disposto (con l'art. 55, comma 1, lettera g)) l'abrogazione del presente provvedimento eccetto quanto disposto dall'art. 47, comma 5: "Per le regioni e le province autonome e i settori ove la disciplina di cui al presente capo non sia immediatamente operativa, trovano applicazione le regolazioni vigenti. In assenza della offerta formativa pubblica di cui all'articolo 44, comma 3, trovano immediata applicazione le regolazioni contrattuali vigenti".
 
 ## Art. 5.
 
@@ -61,7 +61,7 @@ Il [D.Lgs. 15 giugno 2015, n. 81](https://www.normattiva.it/uri-res/N2Ls?urn:nir
 
 AGGIORNAMENTO (5)
 
-Il [D.Lgs. 15 giugno 2015, n. 81](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-06-15;81), ha disposto (con l'art. 55, comma 1, lettera g)) l'abrogazione del presente provvedimento eccetto quanto disposto dall'art. 47, comma 5: "Per le regioni e le province autonome e i settori ove la disciplina di cui al presente capo non sia immediatamente operativa, trovano applicazione le regolazioni vigenti. In assenza della offerta formativa pubblica di cui all'articolo 44, comma 3, trovano immediata applicazione le regolazioni contrattuali vigenti".
+Il [D.Lgs. 15 giugno 2015, n. 81](Disciplina%20organica%20dei%20contratti%20di%20lavoro%20e%20revisione%20della%20normativa%20in%20tema%20di%20mansioni%20a%20norma%20dellarticolo%201%20comma%207%20della%20legge%2010%20dicembre%202014%20n.%20183.%2015G00095.md), ha disposto (con l'art. 55, comma 1, lettera g)) l'abrogazione del presente provvedimento eccetto quanto disposto dall'art. 47, comma 5: "Per le regioni e le province autonome e i settori ove la disciplina di cui al presente capo non sia immediatamente operativa, trovano applicazione le regolazioni vigenti. In assenza della offerta formativa pubblica di cui all'articolo 44, comma 3, trovano immediata applicazione le regolazioni contrattuali vigenti".
 
 ## Art. 6.
 
@@ -72,7 +72,7 @@ Il [D.Lgs. 15 giugno 2015, n. 81](https://www.normattiva.it/uri-res/N2Ls?urn:nir
 
 AGGIORNAMENTO (5)
 
-Il [D.Lgs. 15 giugno 2015, n. 81](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-06-15;81), ha disposto (con l'art. 55, comma 1, lettera g)) l'abrogazione del presente provvedimento eccetto quanto disposto dall'art. 47, comma 5: "Per le regioni e le province autonome e i settori ove la disciplina di cui al presente capo non sia immediatamente operativa, trovano applicazione le regolazioni vigenti. In assenza della offerta formativa pubblica di cui all'articolo 44, comma 3, trovano immediata applicazione le regolazioni contrattuali vigenti".
+Il [D.Lgs. 15 giugno 2015, n. 81](Disciplina%20organica%20dei%20contratti%20di%20lavoro%20e%20revisione%20della%20normativa%20in%20tema%20di%20mansioni%20a%20norma%20dellarticolo%201%20comma%207%20della%20legge%2010%20dicembre%202014%20n.%20183.%2015G00095.md), ha disposto (con l'art. 55, comma 1, lettera g)) l'abrogazione del presente provvedimento eccetto quanto disposto dall'art. 47, comma 5: "Per le regioni e le province autonome e i settori ove la disciplina di cui al presente capo non sia immediatamente operativa, trovano applicazione le regolazioni vigenti. In assenza della offerta formativa pubblica di cui all'articolo 44, comma 3, trovano immediata applicazione le regolazioni contrattuali vigenti".
 
 ## Art. 7.
 
@@ -83,4 +83,4 @@ Il [D.Lgs. 15 giugno 2015, n. 81](https://www.normattiva.it/uri-res/N2Ls?urn:nir
 
 AGGIORNAMENTO (5)
 
-Il [D.Lgs. 15 giugno 2015, n. 81](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-06-15;81), ha disposto (con l'art. 55, comma 1, lettera g)) l'abrogazione del presente provvedimento eccetto quanto disposto dall'art. 47, comma 5: "Per le regioni e le province autonome e i settori ove la disciplina di cui al presente capo non sia immediatamente operativa, trovano applicazione le regolazioni vigenti. In assenza della offerta formativa pubblica di cui all'articolo 44, comma 3, trovano immediata applicazione le regolazioni contrattuali vigenti".
+Il [D.Lgs. 15 giugno 2015, n. 81](Disciplina%20organica%20dei%20contratti%20di%20lavoro%20e%20revisione%20della%20normativa%20in%20tema%20di%20mansioni%20a%20norma%20dellarticolo%201%20comma%207%20della%20legge%2010%20dicembre%202014%20n.%20183.%2015G00095.md), ha disposto (con l'art. 55, comma 1, lettera g)) l'abrogazione del presente provvedimento eccetto quanto disposto dall'art. 47, comma 5: "Per le regioni e le province autonome e i settori ove la disciplina di cui al presente capo non sia immediatamente operativa, trovano applicazione le regolazioni vigenti. In assenza della offerta formativa pubblica di cui all'articolo 44, comma 3, trovano immediata applicazione le regolazioni contrattuali vigenti".

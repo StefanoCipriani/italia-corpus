@@ -646,7 +646,7 @@ Qualora gli organi di vigilanza competenti ai sensi del presente articolo, nell'
 
 6.
 
-Ai fini di cui al comma 4 e per le analoghe attivita' di collaborazione dell'INAIL in materia di controlli tecnici per le attrezzature a pressione e gli insiemi, le disposizioni di cui all'[articolo 9, comma 6, lettera d), del decreto legislativo 9 aprile 2008, n. 81](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81#art_9-com6-letd), si ritengono soddisfatte a condizione che l'INAIL adotti le opportune soluzioni organizzative per svolgere tali funzioni di controllo senza interferenze con quelle di organismo notificato e che queste ultime funzioni siano svolte previo accreditamento da parte dell'organismo nazionale unico di accreditamento.
+Ai fini di cui al comma 4 e per le analoghe attivita' di collaborazione dell'INAIL in materia di controlli tecnici per le attrezzature a pressione e gli insiemi, le disposizioni di cui all'[articolo 9, comma 6, lettera d), del decreto legislativo 9 aprile 2008, n. 81](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20dellarticolo%201%20della%20legge%203%20agosto%202007%20n.%20123%20in%20materia%20di%20tutela%20della%20salute%20e%20della%20sicurezza%20nei%20luoghi%20di%20lavoro.md), si ritengono soddisfatte a condizione che l'INAIL adotti le opportune soluzioni organizzative per svolgere tali funzioni di controllo senza interferenze con quelle di organismo notificato e che queste ultime funzioni siano svolte previo accreditamento da parte dell'organismo nazionale unico di accreditamento.
 
 ))
 

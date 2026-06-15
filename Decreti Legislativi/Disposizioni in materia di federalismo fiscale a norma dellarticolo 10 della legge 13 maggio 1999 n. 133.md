@@ -46,7 +46,7 @@ A decorrere dall'anno 2001 cessano i trasferimenti erariali in favore delle regi
 
 2.
 
-La spesa sanitaria corrente di cui alla lettera d) del comma 1 e' computata al netto delle somme vincolate da accordi internazionali vigenti all'entrata in vigore del presente decreto, di quelle spettanti agli Istituti di ricovero e cura a carattere scientifico per le prestazioni e funzioni assistenziali rese nell'anno 2000 strettamente connesse all'attivita' di ricerca corrente e finalizzata di cui al programma di ricerca sanitaria previsto dall'[articolo 12-bis, comma 3, del decreto legislativo 30 dicembre 1992, n. 502](Riordino%20della%20disciplina%20in%20materia%20sanitaria%20a%20norma%20dellarticolo%201%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni e integrazioni, di quelle destinate al finanziamento degli Istituti zooprofilattici sperimentali nell'anno 2000, di quelle destinate dal Comitato interministeriale per la programmazione economica (CIPE) al finanziamento della Croce Rossa Italiana nel 2000, di quelle destinate nel 2000 al finanziamento dei progetti di cui all'[articolo 1, comma 34-bis, della legge 23 dicembre 1996, n. 662](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;662#art_1-com34bis), e successive modificazioni ed integrazioni, nonche' di quelle previste dalle seguenti norme:
+La spesa sanitaria corrente di cui alla lettera d) del comma 1 e' computata al netto delle somme vincolate da accordi internazionali vigenti all'entrata in vigore del presente decreto, di quelle spettanti agli Istituti di ricovero e cura a carattere scientifico per le prestazioni e funzioni assistenziali rese nell'anno 2000 strettamente connesse all'attivita' di ricerca corrente e finalizzata di cui al programma di ricerca sanitaria previsto dall'[articolo 12-bis, comma 3, del decreto legislativo 30 dicembre 1992, n. 502](Riordino%20della%20disciplina%20in%20materia%20sanitaria%20a%20norma%20dellarticolo%201%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni e integrazioni, di quelle destinate al finanziamento degli Istituti zooprofilattici sperimentali nell'anno 2000, di quelle destinate dal Comitato interministeriale per la programmazione economica (CIPE) al finanziamento della Croce Rossa Italiana nel 2000, di quelle destinate nel 2000 al finanziamento dei progetti di cui all'[articolo 1, comma 34-bis, della legge 23 dicembre 1996, n. 662](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_3.md), e successive modificazioni ed integrazioni, nonche' di quelle previste dalle seguenti norme:
  [legge 5 giugno 1990, n. 135](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-06-05;135);
  [legge 6 marzo 1998, n. 40](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1998-03-06;40);
  [legge 27 ottobre 1993, n. 433](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-10-27;433);
@@ -58,7 +58,7 @@ La spesa sanitaria corrente di cui alla lettera d) del comma 1 e' computata al n
 
 3.
 
-Con atto di indirizzo e coordinamento emanato ai sensi dell'[articolo 8 della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_8), entro 180 giorni dalla data di entrata in vigore del presente decreto, sulla base del rispetto della programmazione sanitaria regionale e della specificita' degli Istituti di ricovero e cura a carattere scientifico nel rapporto tra attivita' di ricerca e attivita' assistenziale, sono stabiliti i criteri per il raccordo delle attivita' degli stessi Istituti con la programmazione regionale, in termini di definizione e verifica dei programmi di attivita' assistenziale e dei corrispondenti fabbisogni di finanziamento. ((PERIODO ABROGATO DALLA L. 23 DICEMBRE 2000, N. 388)).
+Con atto di indirizzo e coordinamento emanato ai sensi dell'[articolo 8 della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), entro 180 giorni dalla data di entrata in vigore del presente decreto, sulla base del rispetto della programmazione sanitaria regionale e della specificita' degli Istituti di ricovero e cura a carattere scientifico nel rapporto tra attivita' di ricerca e attivita' assistenziale, sono stabiliti i criteri per il raccordo delle attivita' degli stessi Istituti con la programmazione regionale, in termini di definizione e verifica dei programmi di attivita' assistenziale e dei corrispondenti fabbisogni di finanziamento. ((PERIODO ABROGATO DALLA L. 23 DICEMBRE 2000, N. 388)).
 
 4.
 
@@ -68,7 +68,7 @@ I trasferimenti soppressi ai sensi del presente articolo sono compensati con la 
 
 AGGIORNAMENTO (1)
 
-La [L. 23 dicembre 2000, n. 388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-23;388) ha disposto (con l'art. 83, comma 2) che al comma 2 del presente articolo, le parole: "di quelle spettanti agli Istituti di ricovero e cura a carattere scientifico per le prestazioni e funzioni assistenziali rese nell'anno 2000 strettamente connesse all'attivita' di ricerca corrente e finalizzata di cui al programma di ricerca sanitaria previsto dall'[articolo 12-bis, comma 3, del decreto legislativo 30 dicembre 1992, n. 502](Riordino%20della%20disciplina%20in%20materia%20sanitaria%20a%20norma%20dellarticolo%201%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni," sono soppresse.
+La [L. 23 dicembre 2000, n. 388](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202001.md) ha disposto (con l'art. 83, comma 2) che al comma 2 del presente articolo, le parole: "di quelle spettanti agli Istituti di ricovero e cura a carattere scientifico per le prestazioni e funzioni assistenziali rese nell'anno 2000 strettamente connesse all'attivita' di ricerca corrente e finalizzata di cui al programma di ricerca sanitaria previsto dall'[articolo 12-bis, comma 3, del decreto legislativo 30 dicembre 1992, n. 502](Riordino%20della%20disciplina%20in%20materia%20sanitaria%20a%20norma%20dellarticolo%201%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni," sono soppresse.
 
 ## Art. 2. — Compartecipazione regionale all'IVA
 
@@ -100,122 +100,122 @@ Con decreto del Presidente del Consiglio dei Ministri, su proposta del Ministro 
 
 AGGIORNAMENTO (3)
 
-Il D.P.C.M. 17 maggio 2001 (in G.U. 05/06/2001, n. 128) ha disposto (con l'art. 1, comma 1) che "L'aliquota della compartecipazione regionale all'imposta sul valore aggiunto, di cui all'[art. 2 del decreto legislativo 18 febbraio 2000, n. 56](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-02-18;56#art_2), fissata nella misura del 25,7 per cento, e' rideterminata nella misura del 38,55 per cento per l'anno 2001".
+Il D.P.C.M. 17 maggio 2001 (in G.U. 05/06/2001, n. 128) ha disposto (con l'art. 1, comma 1) che "L'aliquota della compartecipazione regionale all'imposta sul valore aggiunto, di cui all'[art. 2 del decreto legislativo 18 febbraio 2000, n. 56](Disposizioni%20in%20materia%20di%20federalismo%20fiscale%20a%20norma%20dellarticolo%2010%20della%20legge%2013%20maggio%201999%20n.%20133.md), fissata nella misura del 25,7 per cento, e' rideterminata nella misura del 38,55 per cento per l'anno 2001".
 
 -------------
 
 AGGIORNAMENTO (10)
 
-Il D.P.C.M. 7 maggio 2004, (in G.U. 30/11/2006, n. 279), ha disposto (con l'art. 1, comma 1) che "L'aliquota della compartecipazione regionale all'imposta sul valore aggiunto, di cui all'[art. 2 del decreto legislativo 18 febbraio 2000, n. 56](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-02-18;56#art_2), e' rideterminata nella misura del 37,39 per cento per l'anno 2002".
+Il D.P.C.M. 7 maggio 2004, (in G.U. 30/11/2006, n. 279), ha disposto (con l'art. 1, comma 1) che "L'aliquota della compartecipazione regionale all'imposta sul valore aggiunto, di cui all'[art. 2 del decreto legislativo 18 febbraio 2000, n. 56](Disposizioni%20in%20materia%20di%20federalismo%20fiscale%20a%20norma%20dellarticolo%2010%20della%20legge%2013%20maggio%201999%20n.%20133.md), e' rideterminata nella misura del 37,39 per cento per l'anno 2002".
 
 -------------
 
 AGGIORNAMENTO (11)
 
-Il D.P.C.M. 7 maggio 2004, (in G.U. 30/11/2006, n. 279), ha disposto (con l'art. 1, comma 1) che "L'aliquota della compartecipazione regionale all'imposta sul valore aggiunto, di cui all'[art. 2 del decreto legislativo 18 febbraio 2000, n. 56](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-02-18;56#art_2), e' rideterminata nella misura del 38,69% per cento per l'anno 2003".
+Il D.P.C.M. 7 maggio 2004, (in G.U. 30/11/2006, n. 279), ha disposto (con l'art. 1, comma 1) che "L'aliquota della compartecipazione regionale all'imposta sul valore aggiunto, di cui all'[art. 2 del decreto legislativo 18 febbraio 2000, n. 56](Disposizioni%20in%20materia%20di%20federalismo%20fiscale%20a%20norma%20dellarticolo%2010%20della%20legge%2013%20maggio%201999%20n.%20133.md), e' rideterminata nella misura del 38,69% per cento per l'anno 2003".
 
 -------------
 
 AGGIORNAMENTO (12)
 
-Il D.P.C.M. 27 settembre 2006, (in G.U. 5/12/2006, n. 283), ha disposto (con l'art. 1, comma 1) che "L'aliquota della compartecipazione regionale all'imposta sul valore aggiunto, di cui all'[art. 2 del decreto legislativo 18 febbraio 2000, n. 56](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-02-18;56#art_2), e' rideterminata nella misura del 40,31 per cento per l'anno 2004".
+Il D.P.C.M. 27 settembre 2006, (in G.U. 5/12/2006, n. 283), ha disposto (con l'art. 1, comma 1) che "L'aliquota della compartecipazione regionale all'imposta sul valore aggiunto, di cui all'[art. 2 del decreto legislativo 18 febbraio 2000, n. 56](Disposizioni%20in%20materia%20di%20federalismo%20fiscale%20a%20norma%20dellarticolo%2010%20della%20legge%2013%20maggio%201999%20n.%20133.md), e' rideterminata nella misura del 40,31 per cento per l'anno 2004".
 
 -------------
 
 AGGIORNAMENTO (14)
 
-Il D.P.C.M. 16 febbraio 2007 (in G.U. 27/06/2007, n. 147) ha disposto (con l'art. 1, comma 1) che " L'aliquota della compartecipazione regionale all'imposta sul valore aggiunto, di cui all'[art. 2 del decreto legislativo 18 febbraio 2000, n. 56](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-02-18;56#art_2), e' rideterminata nella misura del 44,28 per cento per l'anno 2005".
+Il D.P.C.M. 16 febbraio 2007 (in G.U. 27/06/2007, n. 147) ha disposto (con l'art. 1, comma 1) che " L'aliquota della compartecipazione regionale all'imposta sul valore aggiunto, di cui all'[art. 2 del decreto legislativo 18 febbraio 2000, n. 56](Disposizioni%20in%20materia%20di%20federalismo%20fiscale%20a%20norma%20dellarticolo%2010%20della%20legge%2013%20maggio%201999%20n.%20133.md), e' rideterminata nella misura del 44,28 per cento per l'anno 2005".
 
 -------------
 
 AGGIORNAMENTO (15)
 
-Il D.P.C.M. 7 dicembre 2007, (in G.U. 01/02/2008, n. 27), ha disposto (con l'art. 1, comma 1) che "L'aliquota della compartecipazione regionale all'imposta sul valore aggiunto, di cui all'[art. 2 del decreto legislativo 18 febbraio 2000, n. 56](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-02-18;56#art_2), e' rideterminata nella misura del 43,58 per cento per l'anno 2006".
+Il D.P.C.M. 7 dicembre 2007, (in G.U. 01/02/2008, n. 27), ha disposto (con l'art. 1, comma 1) che "L'aliquota della compartecipazione regionale all'imposta sul valore aggiunto, di cui all'[art. 2 del decreto legislativo 18 febbraio 2000, n. 56](Disposizioni%20in%20materia%20di%20federalismo%20fiscale%20a%20norma%20dellarticolo%2010%20della%20legge%2013%20maggio%201999%20n.%20133.md), e' rideterminata nella misura del 43,58 per cento per l'anno 2006".
 
 -------------
 
 AGGIORNAMENTO (17)
 
-Il D.P.C.M. 17 ottobre 2008 (in G.U. 27/01/2009, n. 21) ha disposto (con l'art. 1, comma 1) che "L'aliquota della compartecipazione regionale all'imposta sul valore aggiunto, di cui all'[art. 2 del decreto legislativo 18 febbraio 2000, n. 56](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-02-18;56#art_2), e' rideterminata nella misura del 46,10 per cento per l'anno 2007".
+Il D.P.C.M. 17 ottobre 2008 (in G.U. 27/01/2009, n. 21) ha disposto (con l'art. 1, comma 1) che "L'aliquota della compartecipazione regionale all'imposta sul valore aggiunto, di cui all'[art. 2 del decreto legislativo 18 febbraio 2000, n. 56](Disposizioni%20in%20materia%20di%20federalismo%20fiscale%20a%20norma%20dellarticolo%2010%20della%20legge%2013%20maggio%201999%20n.%20133.md), e' rideterminata nella misura del 46,10 per cento per l'anno 2007".
 
 -------------
 
 AGGIORNAMENTO (18)
 
-Il D.P.C.M. 30 settembre 2009, (in G.U. 6/11/2009, n. 259), ha disposto (con l'art. 1, comma 1) che "L'aliquota della compartecipazione regionale all'imposta sul valore aggiunto, di cui all'[art. 2, del decreto legislativo 18 febbraio 2000, n. 56](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-02-18;56#art_2), e' rideterminata nella misura del 44,72 per cento per l'anno 2008". 
+Il D.P.C.M. 30 settembre 2009, (in G.U. 6/11/2009, n. 259), ha disposto (con l'art. 1, comma 1) che "L'aliquota della compartecipazione regionale all'imposta sul valore aggiunto, di cui all'[art. 2, del decreto legislativo 18 febbraio 2000, n. 56](Disposizioni%20in%20materia%20di%20federalismo%20fiscale%20a%20norma%20dellarticolo%2010%20della%20legge%2013%20maggio%201999%20n.%20133.md), e' rideterminata nella misura del 44,72 per cento per l'anno 2008". 
  Ha inoltre disposto (con l'art. 1 comma 2) che "L'aliquota di cui al comma 1, va commisurata al gettito IVA complessivo, di cui all'art. 2, comma 2, del decreto legislativo citato, desunto dal rendiconto generale dello Stato, capitolo 1203, articoli 01 e 02, in conto competenza per l'anno 2006".
 
 ------------
 
 AGGIORNAMENTO (19)
 
-Il D.P.C.M. 21 ottobre 2010 (in G.U. 31/12/2010, n. 305) ha disposto (con l'art. 1, comma 1) che "L'aliquota della compartecipazione regionale all'imposta sul valore aggiunto, di cui all'[art. 2 del decreto legislativo 18 febbraio 2000, n. 56](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-02-18;56#art_2), e' rideterminata nella misura del 44,71 per cento per l'anno 2009".
+Il D.P.C.M. 21 ottobre 2010 (in G.U. 31/12/2010, n. 305) ha disposto (con l'art. 1, comma 1) che "L'aliquota della compartecipazione regionale all'imposta sul valore aggiunto, di cui all'[art. 2 del decreto legislativo 18 febbraio 2000, n. 56](Disposizioni%20in%20materia%20di%20federalismo%20fiscale%20a%20norma%20dellarticolo%2010%20della%20legge%2013%20maggio%201999%20n.%20133.md), e' rideterminata nella misura del 44,71 per cento per l'anno 2009".
 
 ------------
 
 AGGIORNAMENTO (20)
 
-Il D.P.C.M. 14 novembre 2011 (in G.U. 20/01/2012, n. 16) ha disposto (con l'art. 1, comma 1) che "L'aliquota della compartecipazione regionale all'imposta sul valore aggiunto, di cui all'[art. 2 del decreto legislativo 18 febbraio 2000, n. 56](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-02-18;56#art_2), e' rideterminata nella misura del 49,21 per cento per l'anno 2010".
+Il D.P.C.M. 14 novembre 2011 (in G.U. 20/01/2012, n. 16) ha disposto (con l'art. 1, comma 1) che "L'aliquota della compartecipazione regionale all'imposta sul valore aggiunto, di cui all'[art. 2 del decreto legislativo 18 febbraio 2000, n. 56](Disposizioni%20in%20materia%20di%20federalismo%20fiscale%20a%20norma%20dellarticolo%2010%20della%20legge%2013%20maggio%201999%20n.%20133.md), e' rideterminata nella misura del 49,21 per cento per l'anno 2010".
 
 ------------
 
 AGGIORNAMENTO (21)
 
-Il D.P.C.M. 18 gennaio 2013 (in G.U. 9/3/2013, n. 58) ha disposto (con l'art. 1, comma 1) che "L'aliquota della compartecipazione regionale all'imposta sul valore aggiunto, di cui all'[art. 2 del decreto legislativo 18 febbraio 2000, n. 56](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-02-18;56#art_2), e' rideterminata nella misura del 52,89 per cento per l'anno 2011".
+Il D.P.C.M. 18 gennaio 2013 (in G.U. 9/3/2013, n. 58) ha disposto (con l'art. 1, comma 1) che "L'aliquota della compartecipazione regionale all'imposta sul valore aggiunto, di cui all'[art. 2 del decreto legislativo 18 febbraio 2000, n. 56](Disposizioni%20in%20materia%20di%20federalismo%20fiscale%20a%20norma%20dellarticolo%2010%20della%20legge%2013%20maggio%201999%20n.%20133.md), e' rideterminata nella misura del 52,89 per cento per l'anno 2011".
 
 ------------
 
 AGGIORNAMENTO (22)
 
-Il D.P.C.M. 21 ottobre 2013 (in G.U. 24/12/2013, n. 301) ha disposto (con l'art. 1, comma 1) che "L'aliquota della compartecipazione regionale all'imposta sul valore aggiunto, di cui all'[art. 2 del decreto legislativo 18 febbraio 2000, n. 56](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-02-18;56#art_2), e' rideterminata nella misura del 49,79 per cento per l'anno 2012".
+Il D.P.C.M. 21 ottobre 2013 (in G.U. 24/12/2013, n. 301) ha disposto (con l'art. 1, comma 1) che "L'aliquota della compartecipazione regionale all'imposta sul valore aggiunto, di cui all'[art. 2 del decreto legislativo 18 febbraio 2000, n. 56](Disposizioni%20in%20materia%20di%20federalismo%20fiscale%20a%20norma%20dellarticolo%2010%20della%20legge%2013%20maggio%201999%20n.%20133.md), e' rideterminata nella misura del 49,79 per cento per l'anno 2012".
 
 ------------
 
 AGGIORNAMENTO (23)
 
-Il D.P.C.M. 9 giugno 2016 (in G.U. 21/07/2016, n. 169) ha disposto (con l'art. 1, comma 1) che "L'aliquota della compartecipazione regionale all'imposta sul valore aggiunto, di cui all'[art. 2 del decreto legislativo 18 febbraio 2000, n. 56](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-02-18;56#art_2), e' rideterminata nella misura del 58,57 per cento per l'anno 2014".
+Il D.P.C.M. 9 giugno 2016 (in G.U. 21/07/2016, n. 169) ha disposto (con l'art. 1, comma 1) che "L'aliquota della compartecipazione regionale all'imposta sul valore aggiunto, di cui all'[art. 2 del decreto legislativo 18 febbraio 2000, n. 56](Disposizioni%20in%20materia%20di%20federalismo%20fiscale%20a%20norma%20dellarticolo%2010%20della%20legge%2013%20maggio%201999%20n.%20133.md), e' rideterminata nella misura del 58,57 per cento per l'anno 2014".
 
 ------------
 
 AGGIORNAMENTO (24)
 
-Il D.P.C.M. 19 luglio 2017 (in G.U. 19/08/2017, n. 193) ha disposto (con l'art. 1, comma 1) che "L'aliquota della compartecipazione regionale all'imposta sul valore aggiunto, di cui all'[art. 2 del decreto legislativo 18 febbraio 2000, n. 56](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-02-18;56#art_2), e' rideterminata nella misura del 61,69 per cento per l'anno 2015".
+Il D.P.C.M. 19 luglio 2017 (in G.U. 19/08/2017, n. 193) ha disposto (con l'art. 1, comma 1) che "L'aliquota della compartecipazione regionale all'imposta sul valore aggiunto, di cui all'[art. 2 del decreto legislativo 18 febbraio 2000, n. 56](Disposizioni%20in%20materia%20di%20federalismo%20fiscale%20a%20norma%20dellarticolo%2010%20della%20legge%2013%20maggio%201999%20n.%20133.md), e' rideterminata nella misura del 61,69 per cento per l'anno 2015".
 
 ------------
 
 AGGIORNAMENTO (25)
 
-Il D.P.C.M. 17 gennaio 2018 (in G.U. 02/03/2018, n. 51) ha disposto (con l'art. 1, comma 1) che "L'aliquota della compartecipazione regionale all'imposta sul valore aggiunto, di cui all'[art. 2 del decreto legislativo 18 febbraio 2000, n. 56](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-02-18;56#art_2), e' rideterminata nella misura del 64,61 per cento per l'anno 2016".
+Il D.P.C.M. 17 gennaio 2018 (in G.U. 02/03/2018, n. 51) ha disposto (con l'art. 1, comma 1) che "L'aliquota della compartecipazione regionale all'imposta sul valore aggiunto, di cui all'[art. 2 del decreto legislativo 18 febbraio 2000, n. 56](Disposizioni%20in%20materia%20di%20federalismo%20fiscale%20a%20norma%20dellarticolo%2010%20della%20legge%2013%20maggio%201999%20n.%20133.md), e' rideterminata nella misura del 64,61 per cento per l'anno 2016".
 
 ------------
 
 AGGIORNAMENTO (26)
 
-Il D.P.C.M. 24 dicembre 2018 (in G.U. 30/01/2019, n. 25) ha disposto (con l'art. 1, comma 1) che "L'aliquota della compartecipazione regionale all'imposta sul valore aggiunto, di cui all'[art. 2 del decreto legislativo 18 febbraio 2000, n. 56](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-02-18;56#art_2), e' rideterminata nella misura del 63,60 per cento per l'anno 2017".
+Il D.P.C.M. 24 dicembre 2018 (in G.U. 30/01/2019, n. 25) ha disposto (con l'art. 1, comma 1) che "L'aliquota della compartecipazione regionale all'imposta sul valore aggiunto, di cui all'[art. 2 del decreto legislativo 18 febbraio 2000, n. 56](Disposizioni%20in%20materia%20di%20federalismo%20fiscale%20a%20norma%20dellarticolo%2010%20della%20legge%2013%20maggio%201999%20n.%20133.md), e' rideterminata nella misura del 63,60 per cento per l'anno 2017".
 
 ------------
 
 AGGIORNAMENTO (27)
 
-Il D.P.C.M. 3 settembre 2019 (in G.U. 4/10/2019, n. 233) ha disposto (con l'art. 1, comma 1) che "L'aliquota della compartecipazione regionale all'imposta sul valore aggiunto, di cui all'[art. 2 del decreto legislativo 18 febbraio 2000, n. 56](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-02-18;56#art_2), e' rideterminata nella misura del 67,07 per cento per l'anno 2018".
+Il D.P.C.M. 3 settembre 2019 (in G.U. 4/10/2019, n. 233) ha disposto (con l'art. 1, comma 1) che "L'aliquota della compartecipazione regionale all'imposta sul valore aggiunto, di cui all'[art. 2 del decreto legislativo 18 febbraio 2000, n. 56](Disposizioni%20in%20materia%20di%20federalismo%20fiscale%20a%20norma%20dellarticolo%2010%20della%20legge%2013%20maggio%201999%20n.%20133.md), e' rideterminata nella misura del 67,07 per cento per l'anno 2018".
 
 ------------
 
 AGGIORNAMENTO (28)
 
-Il D.P.C.M. 12 febbraio 2021 (in G.U. 26/05/2021, n. 124) ha disposto (con l'art. 1, comma 1) che "L'aliquota della compartecipazione regionale all'imposta sul valore aggiunto, di cui all'[art. 2 del decreto legislativo 18 febbraio 2000, n. 56](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-02-18;56#art_2), e' rideterminata nella misura del 64,27 per cento per l'anno 2019".
+Il D.P.C.M. 12 febbraio 2021 (in G.U. 26/05/2021, n. 124) ha disposto (con l'art. 1, comma 1) che "L'aliquota della compartecipazione regionale all'imposta sul valore aggiunto, di cui all'[art. 2 del decreto legislativo 18 febbraio 2000, n. 56](Disposizioni%20in%20materia%20di%20federalismo%20fiscale%20a%20norma%20dellarticolo%2010%20della%20legge%2013%20maggio%201999%20n.%20133.md), e' rideterminata nella misura del 64,27 per cento per l'anno 2019".
 
 ------------
 
 AGGIORNAMENTO (29)
 
-Il D.P.C.M. 10 dicembre 2021 (in G.U. 22/01/2022, n. 17) ha disposto (con l'art. 1, comma 1) che "L'aliquota della compartecipazione regionale all'imposta sul valore aggiunto, di cui all'[art. 2 del decreto legislativo 18 febbraio 2000, n. 56](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-02-18;56#art_2), e' rideterminata nella misura del 70,14 per cento per l'anno 2020".
+Il D.P.C.M. 10 dicembre 2021 (in G.U. 22/01/2022, n. 17) ha disposto (con l'art. 1, comma 1) che "L'aliquota della compartecipazione regionale all'imposta sul valore aggiunto, di cui all'[art. 2 del decreto legislativo 18 febbraio 2000, n. 56](Disposizioni%20in%20materia%20di%20federalismo%20fiscale%20a%20norma%20dellarticolo%2010%20della%20legge%2013%20maggio%201999%20n.%20133.md), e' rideterminata nella misura del 70,14 per cento per l'anno 2020".
 
 ------------
 
 AGGIORNAMENTO (30)
 
-Il D.P.C.M. 12 dicembre 2024 (in G.U. 5/2/2025, n. 29) ha disposto (con l'art. 1, comma 1) che "L'aliquota della compartecipazione regionale all'imposta sul valore aggiunto, di cui all'[art. 2 del decreto legislativo 18 febbraio 2000, n. 56](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-02-18;56#art_2), e' rideterminata nella misura del 62.67 per cento per l'anno 2021".
+Il D.P.C.M. 12 dicembre 2024 (in G.U. 5/2/2025, n. 29) ha disposto (con l'art. 1, comma 1) che "L'aliquota della compartecipazione regionale all'imposta sul valore aggiunto, di cui all'[art. 2 del decreto legislativo 18 febbraio 2000, n. 56](Disposizioni%20in%20materia%20di%20federalismo%20fiscale%20a%20norma%20dellarticolo%2010%20della%20legge%2013%20maggio%201999%20n.%20133.md), e' rideterminata nella misura del 62.67 per cento per l'anno 2021".
 
 ## Art. 3. — Aliquote dell'addizionale regionale IRPEF
  e rideterminazione delle aliquote erariali
@@ -236,7 +236,7 @@ L'acconto dell'IRPEf e' ridotto, relativamente al periodo d'imposta 2001, dal 98
 
 1.
 
-A decorrere dall'anno 2001, la quota dell'accisa spettante alle regioni a statuto ordinario ai sensi dell'[articolo 3, comma 12, della legge 28 dicembre 1995, n. 549](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-12-28;549#art_3-com12), come modificato dall'[articolo 17, comma 22, della legge 27 dicembre 1997, n. 449](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-12-27;449#art_17-com22), e' elevata da lire 242 a lire 250 per ciascun litro di benzina venduta.
+A decorrere dall'anno 2001, la quota dell'accisa spettante alle regioni a statuto ordinario ai sensi dell'[articolo 3, comma 12, della legge 28 dicembre 1995, n. 549](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_2.md), come modificato dall'[articolo 17, comma 22, della legge 27 dicembre 1997, n. 449](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20per%20la%20stabilizzazione%20della%20finanza%20pubblica.md), e' elevata da lire 242 a lire 250 per ciascun litro di benzina venduta.
 
 ## Art. 5. — Rideterminazione delle aliquote
 
@@ -257,13 +257,13 @@ Alla determinazione delle aliquote e compartecipazioni per l'anno 2005 si provve
 
 1.
 
-Il trasferimento dal bilancio dello Stato delle risorse individuate dai decreti del Presidente del Consiglio dei ministri, emanati ai sensi dell'[articolo 7 della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_7), ad esclusione di quelle relative all'esercizio delle funzioni nel settore del trasporto pubblico locale, cessa a decorrere dal 1° gennaio del secondo anno successivo all'adozione dei provvedimenti di attuazione dell'articolo 119 della Costituzione.
+Il trasferimento dal bilancio dello Stato delle risorse individuate dai decreti del Presidente del Consiglio dei ministri, emanati ai sensi dell'[articolo 7 della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), ad esclusione di quelle relative all'esercizio delle funzioni nel settore del trasporto pubblico locale, cessa a decorrere dal 1° gennaio del secondo anno successivo all'adozione dei provvedimenti di attuazione dell'articolo 119 della Costituzione.
 
 (( 1-bis. Le aliquote e le compartecipazioni definitive di cui all'articolo 5, comma 3, sono rideterminate, a decorrere dal 1° gennaio del secondo anno successivo all'adozione dei provvedimenti di attuazione dell'[articolo 119 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_119) al fine di assicurare la copertura degli oneri connessi alle funzioni attribuite alle regioni a statuto ordinario di cui al comma 1))
 
 2.
 
-COMMA ABROGATO DALLA [L. 23 DICEMBRE 2005, N. 266](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-12-23;266).
+COMMA ABROGATO DALLA [L. 23 DICEMBRE 2005, N. 266](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202006.md).
 
 ## Art. 7. — Fondo perequativo nazionale e criteri
  per le assegnazioni alle regioni
@@ -289,7 +289,7 @@ L'importo cosi' determinato viene rapportato all'importo della compartecipazione
 
 1.
 
-Al fine di assicurare in ogni regione i livelli essenziali ed uniformi di assistenza di cui all'[articolo 1, comma 2, del decreto legislativo 30 dicembre 1992, n. 502](Riordino%20della%20disciplina%20in%20materia%20sanitaria%20a%20norma%20dellarticolo%201%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni, per gli anni dal 2001 al 2003, ciascuna regione e' vincolata a destinare, per l'erogazione delle tipologie di assistenza, delle prestazioni e dei servizi individuati dal Piano sanitario nazionale, una spesa corrente pari al fabbisogno finanziario per il Servizio sanitario regionale, definito in funzione della quota capitaria di finanziamento di cui all'[articolo 1, comma 10, lettera c), del decreto legislativo n. 502 del 1992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992;502#art_1-com10-letc), e successive modificazioni, determinata tenendo conto delle specifiche caratteristiche demografiche e socio sanitarie di ciascuna regione secondo i criteri generali e le modalita' indicate nell'[articolo 1, comma 34, della legge 23 dicembre 1996, n. 662](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;662#art_1-com34). ((1))
+Al fine di assicurare in ogni regione i livelli essenziali ed uniformi di assistenza di cui all'[articolo 1, comma 2, del decreto legislativo 30 dicembre 1992, n. 502](Riordino%20della%20disciplina%20in%20materia%20sanitaria%20a%20norma%20dellarticolo%201%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni, per gli anni dal 2001 al 2003, ciascuna regione e' vincolata a destinare, per l'erogazione delle tipologie di assistenza, delle prestazioni e dei servizi individuati dal Piano sanitario nazionale, una spesa corrente pari al fabbisogno finanziario per il Servizio sanitario regionale, definito in funzione della quota capitaria di finanziamento di cui all'[articolo 1, comma 10, lettera c), del decreto legislativo n. 502 del 1992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992;502#art_1-com10-letc), e successive modificazioni, determinata tenendo conto delle specifiche caratteristiche demografiche e socio sanitarie di ciascuna regione secondo i criteri generali e le modalita' indicate nell'[articolo 1, comma 34, della legge 23 dicembre 1996, n. 662](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_3.md). ((1))
 
 2.
 
@@ -307,7 +307,7 @@ Gli eventuali risparmi di spesa sanitaria rimangono attribuiti alla regione che 
 
 AGGIORNAMENTO (1)
 
-La [L. 23 dicembre 2000, n. 388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-23;388) ha disposto (con l'art. 83, comma 1) che "Con decorrenza dal 1° gennaio 2001, il vincolo di destinazione delle risorse destinate al finanziamento del Servizio sanitario nazionale, previsto dall'[articolo 8, comma 1, del decreto legislativo 18 febbraio 2000, n. 56](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-02-18;56#art_8-com1), e' soppresso".
+La [L. 23 dicembre 2000, n. 388](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202001.md) ha disposto (con l'art. 83, comma 1) che "Con decorrenza dal 1° gennaio 2001, il vincolo di destinazione delle risorse destinate al finanziamento del Servizio sanitario nazionale, previsto dall'[articolo 8, comma 1, del decreto legislativo 18 febbraio 2000, n. 56](Disposizioni%20in%20materia%20di%20federalismo%20fiscale%20a%20norma%20dellarticolo%2010%20della%20legge%2013%20maggio%201999%20n.%20133.md), e' soppresso".
 
 ## Art. 9. — Procedure di monitoraggio dell'assistenza sanitaria
 
@@ -377,7 +377,7 @@ A decorrere dall'anno 2001 sono soppressi l'[articolo 41, comma 1](Istituzione%2
 
 2.
 
-Per l'anno 2001, ai fini della determinazione del Fondo sanitario nazionale di parte corrente e delle specifiche quote da assegnare alle regioni a statuto ordinario si considera come dotazione propria il gettito dell'addizionale regionale all'IRPEF, commisurato all'aliquota dello 0,5 per cento e il gettito dell'IRAP al netto dell'ammontare della quota di cui all'[articolo 26, comma 1, del decreto legislativo 15 dicembre 1997, n. 446](Istituzione%20dellimposta%20regionale%20sulle%20attivita%20produttive%20revisione%20degli%20scaglioni%20delle%20aliquote%20e%20delle%20detrazioni%20dellIrpef%20e%20istituzione%20di%20una%20addizionale%20regionale%20a%20tale%20imposta_576f8a3bbc05.md), delle spettanze determinate, per il medesimo anno 2001, in applicazione dell'[articolo 3, commi 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-12-28;549#art_3-com2) e [3, della legge 28 dicembre 1995, n. 549](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-12-28;549#art_3-com3), nonche', limitatamente alla regione Toscana, della somma spettante ai sensi dell'[articolo 4 della legge 8 aprile 1999, n. 87](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-04-08;87#art_4).
+Per l'anno 2001, ai fini della determinazione del Fondo sanitario nazionale di parte corrente e delle specifiche quote da assegnare alle regioni a statuto ordinario si considera come dotazione propria il gettito dell'addizionale regionale all'IRPEF, commisurato all'aliquota dello 0,5 per cento e il gettito dell'IRAP al netto dell'ammontare della quota di cui all'[articolo 26, comma 1, del decreto legislativo 15 dicembre 1997, n. 446](Istituzione%20dellimposta%20regionale%20sulle%20attivita%20produttive%20revisione%20degli%20scaglioni%20delle%20aliquote%20e%20delle%20detrazioni%20dellIrpef%20e%20istituzione%20di%20una%20addizionale%20regionale%20a%20tale%20imposta_576f8a3bbc05.md), delle spettanze determinate, per il medesimo anno 2001, in applicazione dell'[articolo 3, commi 2](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_2.md) e [3, della legge 28 dicembre 1995, n. 549](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_2.md), nonche', limitatamente alla regione Toscana, della somma spettante ai sensi dell'[articolo 4 della legge 8 aprile 1999, n. 87](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-04-08;87#art_4).
 
 3.
 
@@ -403,7 +403,7 @@ Ai soli fini dell'applicazione delle disposizioni di cui ai commi 3, 4, 5 e 6 si
 
 AGGIORNAMENTO (2)
 
-Il [D.L. 19 febbraio 2001, n. 17](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2001-02-19;17), convertito con modificazioni dalla [L. 28 marzo 2001, n. 129](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2019%20febbraio%202001%20n.%2017%20recante%20interventi%20per%20il%20ripiano%20dei%20disavanzi%20del%20Servizio%20sanitario%20nazionale%20al%2031%20dicembre%201999%20nonche_499a006ea471.md) ha disposto (con l'art. 1, comma 4-quater) che "Con effetto dall'anno 2001, le anticipazioni di cui all'[articolo 13, comma 6, del decreto legislativo 18 febbraio 2000, n. 56](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-02-18;56#art_13-com6), possono essere concesse dal Ministro del tesoro, del bilancio e della programmazione economica limitatamente al primo semestre di ciascun anno."
+Il [D.L. 19 febbraio 2001, n. 17](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2001-02-19;17), convertito con modificazioni dalla [L. 28 marzo 2001, n. 129](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2019%20febbraio%202001%20n.%2017%20recante%20interventi%20per%20il%20ripiano%20dei%20disavanzi%20del%20Servizio%20sanitario%20nazionale%20al%2031%20dicembre%201999%20nonche_499a006ea471.md) ha disposto (con l'art. 1, comma 4-quater) che "Con effetto dall'anno 2001, le anticipazioni di cui all'[articolo 13, comma 6, del decreto legislativo 18 febbraio 2000, n. 56](Disposizioni%20in%20materia%20di%20federalismo%20fiscale%20a%20norma%20dellarticolo%2010%20della%20legge%2013%20maggio%201999%20n.%20133.md), possono essere concesse dal Ministro del tesoro, del bilancio e della programmazione economica limitatamente al primo semestre di ciascun anno."
 
 ## Art. 14. — Provvedimenti di attuazione
 

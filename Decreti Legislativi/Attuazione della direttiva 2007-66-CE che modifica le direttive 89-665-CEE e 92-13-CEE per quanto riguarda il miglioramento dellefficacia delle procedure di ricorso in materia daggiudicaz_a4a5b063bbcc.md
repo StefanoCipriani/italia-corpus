@@ -88,7 +88,7 @@ Resta ferma la disciplina di cui all'[articolo 20, comma 8, del decreto-legge 29
 
 5.
 
-E' abrogato l'[articolo 3, commi 19](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-12-24;244#art_3-com19), [20](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-12-24;244#art_3-com20) e [21, della legge 24 dicembre 2007, n. 244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-12-24;244#art_3-com21).
+E' abrogato l'[articolo 3, commi 19](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202008.md), [20](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202008.md) e [21, della legge 24 dicembre 2007, n. 244](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202008.md).
 
 6.
 

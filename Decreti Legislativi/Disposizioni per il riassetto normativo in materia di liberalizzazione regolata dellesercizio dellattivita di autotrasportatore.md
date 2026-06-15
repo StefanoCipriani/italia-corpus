@@ -12,9 +12,9 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto l'[articolo 1, comma 1, lettera b)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-03-01;32#art_1-com1-letb), e l'[articolo 2, comma 1, lettere a)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-03-01;32#art_2-com1-leta), [b)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-03-01;32#art_2-com1-letb), [c)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-03-01;32#art_2-com1-letc) e [d)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-03-01;32#art_2-com1-letd), e [comma 2, lettera b), della legge 1° marzo 2005, n. 32](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-03-01;32#art_2-com2-letb);
+Visto l'[articolo 1, comma 1, lettera b)](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20riassetto%20normativo%20del%20settore%20dellautotrasporto%20di%20persone%20e%20cose.md), e l'[articolo 2, comma 1, lettere a)](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20riassetto%20normativo%20del%20settore%20dellautotrasporto%20di%20persone%20e%20cose.md), [b)](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20riassetto%20normativo%20del%20settore%20dellautotrasporto%20di%20persone%20e%20cose.md), [c)](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20riassetto%20normativo%20del%20settore%20dellautotrasporto%20di%20persone%20e%20cose.md) e [d)](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20riassetto%20normativo%20del%20settore%20dellautotrasporto%20di%20persone%20e%20cose.md), e [comma 2, lettera b), della legge 1° marzo 2005, n. 32](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20riassetto%20normativo%20del%20settore%20dellautotrasporto%20di%20persone%20e%20cose.md);
 
-Vista la [legge 18 aprile 2005, n. 62](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-04-18;62), ed in particolare l'articolo 1, commi 1 e 3, e l'allegato B;
+Vista la [legge 18 aprile 2005, n. 62](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%202004.md), ed in particolare l'articolo 1, commi 1 e 3, e l'allegato B;
 
 Vista la [direttiva 2003/59/CE del Parlamento europeo e del Consiglio, del 15 luglio 2003](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2003;59), sulla qualificazione iniziale e formazione periodica dei conducenti di taluni veicoli stradali adibiti al trasporto di merci o di passeggeri;
 
@@ -26,7 +26,7 @@ Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella ri
 
 Acquisiti i pareri delle competenti Commissioni V, IX e XIV della Camera dei deputati;
 
-Considerato che le competenti Commissioni del Senato non hanno espresso il parere nel termine previsto dall'[articolo 1, comma 3, della legge 18 aprile 2005, n. 62](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-04-18;62#art_1-com3);
+Considerato che le competenti Commissioni del Senato non hanno espresso il parere nel termine previsto dall'[articolo 1, comma 3, della legge 18 aprile 2005, n. 62](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%202004.md);
 
 Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 18 novembre 2005;
 
@@ -42,7 +42,7 @@ Capo I
 
 1.
 
-Il presente Capo ha per oggetto la liberalizzazione regolata dell'esercizio dell'attivita' di autotrasporto di cose per conto di terzi ed il contestuale raccordo con la disciplina delle condizioni e dei prezzi dei servizi di autotrasporto di merci per conto di terzi, in attuazione della delega di cui all'[articolo 1, comma 1, lettera b), della legge 1° marzo 2005, n. 32](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-03-01;32#art_1-com1-letb), sulla base dei principi e criteri direttivi generali previsti dall'articolo 2, comma 1 e dei principi e criteri direttivi specifici previsti dall'articolo 2, comma 2, lettera b), della medesima legge.
+Il presente Capo ha per oggetto la liberalizzazione regolata dell'esercizio dell'attivita' di autotrasporto di cose per conto di terzi ed il contestuale raccordo con la disciplina delle condizioni e dei prezzi dei servizi di autotrasporto di merci per conto di terzi, in attuazione della delega di cui all'[articolo 1, comma 1, lettera b), della legge 1° marzo 2005, n. 32](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20riassetto%20normativo%20del%20settore%20dellautotrasporto%20di%20persone%20e%20cose.md), sulla base dei principi e criteri direttivi generali previsti dall'articolo 2, comma 1 e dei principi e criteri direttivi specifici previsti dall'articolo 2, comma 2, lettera b), della medesima legge.
 
 Avvertenza:
  Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, commi 2 e 3 del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
@@ -50,7 +50,7 @@ Avvertenza:
  Note alle premesse:
  - L'[art. 76 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) stabilisce che l'esercizio della funzione legislativa non puo' essere delegato al Governo se non con determinazione di principi e criteri direttivi e soltanto per tempo limitato e per oggetti definiti.
  - L'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87) conferisce, tra l'altro, al Presidente della Repubblica il potere di promulgare le leggi e di emanare i decreti aventi valore di legge ed i regolamenti.
- - Si riporta il testo dell'art.1, comma 1, lettera b) e l'art. 2, comma 1, lettere a), b) c), e d), e [comma 2, lettera b), della legge 1° marzo 2005, n. 32](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-03-01;32#art_com2-letb), recante: «Delega al Governo per il riassetto normativo del settore dell'autotrasporto di persone e cose».
+ - Si riporta il testo dell'art.1, comma 1, lettera b) e l'art. 2, comma 1, lettere a), b) c), e d), e [comma 2, lettera b), della legge 1° marzo 2005, n. 32](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20riassetto%20normativo%20del%20settore%20dellautotrasporto%20di%20persone%20e%20cose.md), recante: «Delega al Governo per il riassetto normativo del settore dell'autotrasporto di persone e cose».
  «Art. 1 (Delega al Governo per il riassetto normativo in materia di autotrasporto di persone e cose). - 1. Il Governo e' delegato ad adottare, entro il termine di sei mesi dalla data di entrata in vigore della presente legge, uno o piu' decreti legislativi per il riassetto delle disposizioni vigenti in materia di:
  a) (omissis);
  b) liberalizzazione regolata secondo i principi e i criteri direttivi di cui all'art. 2 dell'esercizio dell'attivita' di autotrasporto e contestuale raccordo con la disciplina delle condizioni e dei prezzi dei servizi di autotrasporto di merci per conto di terzi.».
@@ -72,7 +72,7 @@ Avvertenza:
  8) individuazione di un sistema di certificazione di qualita' per particolari tipologie di trasporti su strada, come quelle delle merci pericolose, delle derrate deperibili, dei rifiuti industriali e dei prodotti farmaceutici, con definizione dei modi e dei tempi per attuare tale disposizione nel rispetto dell'autonomia di impresa e della normativa nazionale e comunitaria in materia di certificazione;
  9) nel rispetto della disciplina nazionale e comunitaria in materia di tutela della concorrenza, possibilita' di previsione di accordi di diritto privato, definiti fra le organizzazioni associative di vettori e di utenti dei servizi di trasporto, a seguito di autonome e concordi iniziative negoziali, nell'interesse delle imprese rispettivamente associate;
  10) introduzione di strumenti che consentano il pieno rispetto e il puntuale controllo della regolarita' amministrativa di circolazione.».
- - Si riporta il testo dell'art. 1, commi 1 e 3, e l'allegato B, della [legge 18 aprile 2005, n. 62](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-04-18;62), recante: «Disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee. Legge comunitaria 2004».
+ - Si riporta il testo dell'art. 1, commi 1 e 3, e l'allegato B, della [legge 18 aprile 2005, n. 62](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%202004.md), recante: «Disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee. Legge comunitaria 2004».
  «Art. 1 (Delega al Governo per l'attuazione di direttive comuni-tarie). - 1. Il Governo e' delegato ad adottare, entro il termine di diciotto mesi dalla data di entrata in vigore della presente legge, i decreti legislativi recanti le norme occorrenti per dare attuazione alle direttive comprese negli elenchi di cui agli allegati A e B.
  2. (Omissis).
  3. Gli schemi dei decreti legislativi recanti attuazione delle direttive comprese nell'elenco di cui all'allegato B, nonche', qualora sia previsto il ricorso a sanzioni penali, quelli relativi all'attuazione delle direttive elencate nell'allegato A, sono trasmessi, dopo l'acquisizione degli altri pareri previsti dalla legge, alla Camera dei deputati e al Senato della Repubblica perche' su di essi sia espresso il parere dei competenti organi parlamentari. Decorsi quaranta giorni dalla data di trasmissione, i decreti sono emanati anche in mancanza del parere. Qualora il termine per l'espressione del parere parlamentare di cui al presente comma, ovvero i diversi termini previsti dai commi 4 e 8, scadano nei trenta giorni che precedono la scadenza dei termini previsti ai commi 1 o 5 o successivamente, questi ultimi sono prorogati di novanta giorni.».
@@ -118,7 +118,7 @@ Avvertenza:
  - Il [decreto legislativo 30 aprile 1992, n 285](Nuovo%20codice%20della%20strada.md), e' pubblicato nella Gazzetta Ufficiale 18 maggio 1992, n. 114, supplemento ordinario.
  - Il [decreto del Presidente della Repubblica 16 dicembre 1992, n. 495](../DPR/Regolamento%20di%20esecuzione%20e%20di%20attuazione%20del%20nuovo%20codice%20della%20strada.md), e' pubblicato nella Gazzetta Ufficiale 28 dicembre 1992, n. 303, supplemento ordinario.
  Nota all'[art. 1:
- - Per la legge 1° marzo 2005, n. 32](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-03-01;32#art_1) e gli articoli 1, comma 1, lettera b) e 2, comma 2, lettera b), vedi note alle premesse.
+ - Per la legge 1° marzo 2005, n. 32](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20riassetto%20normativo%20del%20settore%20dellautotrasporto%20di%20persone%20e%20cose.md) e gli articoli 1, comma 1, lettera b) e 2, comma 2, lettera b), vedi note alle premesse.
 
 ### Art. 2. — Definizioni
 
@@ -203,7 +203,7 @@ Elementi essenziali degli accordi di cui al presente articolo sono:
                                 previsione dell'obbligo di subordinare la stipula dei
 contratti alla condizione del regolare esercizio, da parte del vettore, dell'attivita' di autotrasporto;
                             d)
-                                previsione della responsabilita' soggettiva del vettore e, se accertata, del committente, del caricatore e del proprietario della merce, nei termini di cui alla [legge 1° marzo 2005, n. 32, articolo 2, comma 2, lettera b), numero 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-03-01;32#art_2-com2-letb-num3)), nei casi di violazione della normativa in materia di sicurezza della circolazione, con particolare riguardo a quelle relative al carico dei veicoli, ai tempi di guida e di riposo dei conducenti e alla velocita' massima consentita;
+                                previsione della responsabilita' soggettiva del vettore e, se accertata, del committente, del caricatore e del proprietario della merce, nei termini di cui alla [legge 1° marzo 2005, n. 32, articolo 2, comma 2, lettera b), numero 3](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20riassetto%20normativo%20del%20settore%20dellautotrasporto%20di%20persone%20e%20cose.md)), nei casi di violazione della normativa in materia di sicurezza della circolazione, con particolare riguardo a quelle relative al carico dei veicoli, ai tempi di guida e di riposo dei conducenti e alla velocita' massima consentita;
                             e)
                                 previsione della dichiarazione, da parte dell'impresa di autotrasporto, con riferimento all'operato dei suoi conducenti, dell'osservanza dei contratti collettivi ed individuali di lavoro, della normativa in materia previdenziale ed assistenziale, e di quella in materia di autotrasporto di merci per conto di terzi, nonche' per la perdita, i danni o l'avaria delle merci trasportate;
                             f)
@@ -226,7 +226,7 @@ Gli accordi entrano in vigore dieci giorni dopo la notifica degli stessi, da eff
 Gli accordi collettivi nazionali di settore, stipulati, ai sensi della disciplina tariffaria dettata dalla [legge 6 giugno 1974, n. 298](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1974-06-06;298), e relative disposizioni attuative, prima della data di entrata in vigore dei decreti dirigenziali di cui agli articoli 6, 11 e 12, mantengono la loro validita' fino alla scadenza indicata negli stessi, e comunque non oltre il 31 dicembre 2006.
 
 Note all'[art. 5:
- - Per la legge 1° marzo 2005, n. 32](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-03-01;32#art_5), e l'art. 2, comma 2, lettera b), n. 3, vedi note alle premesse.
+ - Per la legge 1° marzo 2005, n. 32](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20riassetto%20normativo%20del%20settore%20dellautotrasporto%20di%20persone%20e%20cose.md), e l'art. 2, comma 2, lettera b), n. 3, vedi note alle premesse.
  - Per la [legge 6 giugno 1974, n. 298](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1974-06-06;298), vedi note all'art. 3.
 
 ### Art. 6. — Forma dei contratti
@@ -273,7 +273,7 @@ In assenza di anche uno degli elementi indicati al comma 3, il contratto di tras
 
 6-bis.
 
-Al fine di mitigare gli effetti conseguenti all'aumento dei costi del carburante per autotrazione incentivando, al contempo, il ricorso alla forma scritta nella ((stipulazione dei contratti)) di trasporto di merci su strada, il corrispettivo ((,)) nei contratti di trasporto di merci su strada conclusi in forma non scritta, si determina in base ai valori indicativi di riferimento dei costi di esercizio dell'impresa di trasporto merci per conto di terzi, pubblicati e aggiornati dal Ministero delle infrastrutture e della mobilita' sostenibili ai sensi dell'[articolo 1, comma 250, della legge 23 dicembre 2014, n. 190](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-12-23;190#art_1-com250).
+Al fine di mitigare gli effetti conseguenti all'aumento dei costi del carburante per autotrazione incentivando, al contempo, il ricorso alla forma scritta nella ((stipulazione dei contratti)) di trasporto di merci su strada, il corrispettivo ((,)) nei contratti di trasporto di merci su strada conclusi in forma non scritta, si determina in base ai valori indicativi di riferimento dei costi di esercizio dell'impresa di trasporto merci per conto di terzi, pubblicati e aggiornati dal Ministero delle infrastrutture e della mobilita' sostenibili ai sensi dell'[articolo 1, comma 250, della legge 23 dicembre 2014, n. 190](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202015.%2014G00203.md).
 
 ### Art. 6-bis. — (Disciplina dei tempi di attesa ai fini del carico e scarico.
  Franchigia)
@@ -484,7 +484,7 @@ Capo II
 
 1.
 
-Il presente Capo ha per oggetto il recepimento della [direttiva n. 2003/59/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2003;59) sulla qualificazione iniziale e la formazione periodica dei conducenti di taluni veicoli stradali adibiti al trasporto di ((cose)) e di passeggeri, in attuazione della delega di cui all'[articolo 1 della legge 18 aprile 2005, n. 62](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-04-18;62#art_1). ((6))
+Il presente Capo ha per oggetto il recepimento della [direttiva n. 2003/59/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2003;59) sulla qualificazione iniziale e la formazione periodica dei conducenti di taluni veicoli stradali adibiti al trasporto di ((cose)) e di passeggeri, in attuazione della delega di cui all'[articolo 1 della legge 18 aprile 2005, n. 62](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%202004.md). ((6))
 
 -------------
 
@@ -663,7 +663,7 @@ Con decreto del Ministro delle infrastrutture e dei trasporti e' dettata la disc
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 22 dicembre 2008, n. 214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-12-22;214) ha disposto (con l'art. 2, comma 5) che "Il decreto di cui al [comma 2-bis dell'articolo 19 del decreto legislativo n. 286 del 2005](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005;286#art_19-com2bis), introdotto dall'articolo 2, comma 2, lettera b), e' adottato entro tre mesi dalla data di entrata in vigore del presente decreto legislativo".
+Il [D.Lgs. 22 dicembre 2008, n. 214](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Modifiche%20ed%20integrazioni%20al%20decreto%20legislativo%2021%20novembre%202005%20n.%20286%20recante%20disposizioni%20per%20il%20riassetto%20normativo%20in%20materia%20di%20liberalizzazione%20regolata%20dellesercizio%20dellattivita_b3e50d48d43f.md) ha disposto (con l'art. 2, comma 5) che "Il decreto di cui al [comma 2-bis dell'articolo 19 del decreto legislativo n. 286 del 2005](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005;286#art_19-com2bis), introdotto dall'articolo 2, comma 2, lettera b), e' adottato entro tre mesi dalla data di entrata in vigore del presente decreto legislativo".
 
 -------------
 
@@ -765,7 +765,7 @@ All'atto del rilascio della patente, sulla stessa e' apposto il codice unionale 
 
 AGGIORNAMENTO (6)
 
-Il [D. Lgs. 16 gennaio 2013, n. 2](../Atti%20di%20recepimento%20direttive%20UE/Modifiche%20ed%20integrazioni%20ai%20decreti%20legislativi%2018%20aprile%202011%20n.%2059%20e%2021%20novembre%202005%20n.%20286%20nonche%20attuazione%20della%20direttiva%202011-94-UE%20recante%20modifiche%20della%20direttiva%202006-126-CE%20_03398a30c7d7.md) ha disposto (con l'art. 13, comma 1) che "Nel capo II del [decreto legislativo 21 novembre 2005, n. 286](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-11-21;286), e successive modificazioni, ivi compresi negli allegati che ne costituiscono parte integrante, la parola "merci", ovunque ricorra, e' sostituita dalla seguente: "cose"". 
+Il [D. Lgs. 16 gennaio 2013, n. 2](../Atti%20di%20recepimento%20direttive%20UE/Modifiche%20ed%20integrazioni%20ai%20decreti%20legislativi%2018%20aprile%202011%20n.%2059%20e%2021%20novembre%202005%20n.%20286%20nonche%20attuazione%20della%20direttiva%202011-94-UE%20recante%20modifiche%20della%20direttiva%202006-126-CE%20_03398a30c7d7.md) ha disposto (con l'art. 13, comma 1) che "Nel capo II del [decreto legislativo 21 novembre 2005, n. 286](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20il%20riassetto%20normativo%20in%20materia%20di%20liberalizzazione%20regolata%20dellesercizio%20dellattivita%20di%20autotrasportatore.md), e successive modificazioni, ivi compresi negli allegati che ne costituiscono parte integrante, la parola "merci", ovunque ricorra, e' sostituita dalla seguente: "cose"". 
  Ha inoltre disposto (con l'art. 24, comma 1) che "Le disposizioni di cui al Capo II del presente decreto si applicano a far data dal 19 gennaio 2013, fatte salve le disposizioni di cui all'articolo 21, comma 1, lettere b), c) e d), che si applicano a decorrere dal novantesimo giorno successivo alla data di entrata in vigore del presente decreto".
 
 ### Art. 22-bis. — (( (Assistenza reciproca degli Stati dell'Unione europea e dello Spazio economico europeo). ))

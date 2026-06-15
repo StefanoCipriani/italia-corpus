@@ -12,11 +12,11 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto l'[articolo 117, secondo comma, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_117-com2), come modificato dalla [legge costituzionale 18 ottobre 2001, n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:2001-10-18;3), con riferimento ai principi di unita', continuita' e completezza dell'ordinamento giuridico;
+Visto l'[articolo 117, secondo comma, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_117-com2), come modificato dalla [legge costituzionale 18 ottobre 2001, n. 3](../Leggi%20costituzionali/Modifiche%20al%20titolo%20V%20della%20parte%20seconda%20della%20Costituzione.md), con riferimento ai principi di unita', continuita' e completezza dell'ordinamento giuridico;
 
 Visti gli [articoli 14](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_14) e [16 della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_16);
 
-Visto l'[articolo 20 della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_20), come sostituito dall'[articolo 1 della legge 29 luglio 2003, n. 229](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-07-29;229#art_1), recante interventi urgenti in materia di qualita' della regolazione, riassetto normativo e semplificazione - legge di semplificazione per il 2001;
+Visto l'[articolo 20 della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), come sostituito dall'[articolo 1 della legge 29 luglio 2003, n. 229](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-07-29;229#art_1), recante interventi urgenti in materia di qualita' della regolazione, riassetto normativo e semplificazione - legge di semplificazione per il 2001;
 
 Vista la [legge 29 luglio 2003, n. 229](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-07-29;229), recante interventi urgenti in materia di qualita' della regolazione, riassetto normativo e codificazione - legge di semplificazione per il 2001, ed in particolare l'articolo 4, recante delega al Governo per il riassetto delle disposizioni in materia di assicurazioni private, cosi' come modificato dall'[articolo 2, comma 7, della legge 27 luglio 2004, n. 186](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2028%20maggio%202004%20n.%20136%20recante%20disposizioni%20urgenti%20per%20garantire%20la%20funzionalita%20di%20taluni%20settori%20della%20pubblica%20amministrazione._7e8641cbc13d.md), di conversione in legge, con modificazioni, del [decreto-legge 28 maggio 2004, n. 136](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2004-05-28;136);
 
@@ -66,7 +66,7 @@ Visto il [decreto legislativo 17 marzo 1995, n. 175](Attuazione%20della%20dirett
 
 Visto il [decreto legislativo 26 maggio 1997, n. 173](Attuazione%20della%20direttiva%2091-674-CEE%20in%20materia%20di%20conti%20annuali%20e%20consolidati%20delle%20imprese%20di%20assicurazione.md), di attuazione della [direttiva 91/674/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1991;674) in materia di conti annuali e consolidati delle imprese di assicurazione;
 
-Visto il [decreto legislativo 13 ottobre 1998, n. 373](Razionalizzazione%20delle%20norme%20concernenti%20lIstituto%20per%20la%20vigilanza%20sulle%20assicurazioni%20private%20e%20di%20interesse%20collettivo%20a%20norma%20degli%20articoli%2011%20comma%201%20lettera%20b%20%20e%2014%20della%20legge%2015_612fe06d6246.md), recante razionalizzazione delle norme concernenti l'Istituto per la vigilanza sulle assicurazioni private e di interesse collettivo, a norma degli articoli 11, comma 1, lettera b), e 14 della [legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59);
+Visto il [decreto legislativo 13 ottobre 1998, n. 373](Razionalizzazione%20delle%20norme%20concernenti%20lIstituto%20per%20la%20vigilanza%20sulle%20assicurazioni%20private%20e%20di%20interesse%20collettivo%20a%20norma%20degli%20articoli%2011%20comma%201%20lettera%20b%20%20e%2014%20della%20legge%2015_612fe06d6246.md), recante razionalizzazione delle norme concernenti l'Istituto per la vigilanza sulle assicurazioni private e di interesse collettivo, a norma degli articoli 11, comma 1, lettera b), e 14 della [legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md);
 
 Visto il [decreto legislativo 4 agosto 1999, n. 343](Attuazione%20della%20direttiva%2095-26-CE%20in%20materia%20di%20rafforzamento%20della%20vigilanza%20prudenziale%20nel%20settore%20assicurativo.md), di attuazione della [direttiva 95/26/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1995;26) in materia di rafforzamento della vigilanza prudenziale nel settore assicurativo;
 
@@ -366,7 +366,7 @@ Il [D.Lgs. 21 maggio 2018, n. 68](../Atti%20di%20recepimento%20direttive%20UE/At
 
 AGGIORNAMENTO (70)
 
-Il [D.Lgs. 22 novembre 2023, n. 184](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2023-11-22;184) ha disposto (con l'art. 4, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 23 dicembre 2023".
+Il [D.Lgs. 22 novembre 2023, n. 184](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Recepimento%20della%20direttiva%20UE%202021-2118%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2024%20novembre%202021%20recante%20modifica%20della%20direttiva%202009-103-CE%20concernente%20lassicurazione%20della%20responsa_563e6d25065b.md) ha disposto (con l'art. 4, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 23 dicembre 2023".
 
 ### Art. 2. — Classificazione per ramo
 
@@ -1593,7 +1593,7 @@ I soggetti di cui al comma 1 comprendono e riesaminano regolarmente i prodotti a
 
 I soggetti di cui al comma 1 trasmettono ai distributori di prodotti assicurativi tutte le informazioni rilevanti sul prodotto assicurativo e sul processo di approvazione del prodotto, compreso il relativo mercato di riferimento individuato.
 
-7. L'IVASS, sentita la Consob, adotta le disposizioni attuative del presente articolo in modo da garantire uniformita' alla disciplina applicabile alla vendita dei prodotti d'investimento assicurativo a prescindere dal canale distributivo e la coerenza e l'efficacia complessiva del sistema di vigilanza sui prodotti di investimento assicurativi, ai sensi ed in coerenza con quanto disposto all'[articolo 5, comma 1, lettera b), n. 1, della legge 25 ottobre 2017, n. 163](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-10-25;163#art_5-com1-letb-num1).))
+7. L'IVASS, sentita la Consob, adotta le disposizioni attuative del presente articolo in modo da garantire uniformita' alla disciplina applicabile alla vendita dei prodotti d'investimento assicurativo a prescindere dal canale distributivo e la coerenza e l'efficacia complessiva del sistema di vigilanza sui prodotti di investimento assicurativi, ai sensi ed in coerenza con quanto disposto all'[articolo 5, comma 1, lettera b), n. 1, della legge 25 ottobre 2017, n. 163](../Leggi%20di%20delegazione%20europea/Delega%20al%20Governo%20per%20il%20recepimento%20delle%20direttive%20europee%20e%20lattuazione%20di%20altri%20atti%20dellUnione%20europea%20-%20Legge%20di%20delegazione%20europea%202016-2017.%2017G00177.md).))
 
 ((45))
 
@@ -4680,7 +4680,7 @@ Il regolamento di cui ((ai commi 1-quater e 1-quinquies.)) stabilisce le cause c
 
 AGGIORNAMENTO (65)
 
-Il [D.Lgs. 14 luglio 2020, n. 84](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2020-07-14;84) ha disposto (con l'art. 4, comma 2) che le presenti modifiche "si applicano alle nomine successive alla data di entrata in vigore del regolamento previsto dall'[articolo 76 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), come modificato dal presente decreto".
+Il [D.Lgs. 14 luglio 2020, n. 84](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20dellarticolo%207%20della%20legge%204%20ottobre%202019%20n.%20117%20per%20quanto%20riguarda%20lincoraggiamento%20dellimpegno%20a%20lungo%20termine%20degli%20azionisti%20e%20la%20disciplina%20del%20sistema%20di%20governo%20societario.%2020G00102.md) ha disposto (con l'art. 4, comma 2) che le presenti modifiche "si applicano alle nomine successive alla data di entrata in vigore del regolamento previsto dall'[articolo 76 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), come modificato dal presente decreto".
 
 ### Art. 77. — Requisiti dei partecipanti
 
@@ -4709,7 +4709,7 @@ Le partecipazioni, eccedenti le soglie previste dal comma 1, dei soggetti ((che 
 
 AGGIORNAMENTO (65)
 
-Il [D.Lgs. 14 luglio 2020, n. 84](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2020-07-14;84) ha disposto (con l'art. 4, comma 3) che le presenti modifiche "si applicano a decorrere dalla data di entrata in vigore del regolamento previsto dall'[articolo 77 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), come modificato dal presente decreto".
+Il [D.Lgs. 14 luglio 2020, n. 84](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20dellarticolo%207%20della%20legge%204%20ottobre%202019%20n.%20117%20per%20quanto%20riguarda%20lincoraggiamento%20dellimpegno%20a%20lungo%20termine%20degli%20azionisti%20e%20la%20disciplina%20del%20sistema%20di%20governo%20societario.%2020G00102.md) ha disposto (con l'art. 4, comma 3) che le presenti modifiche "si applicano a decorrere dalla data di entrata in vigore del regolamento previsto dall'[articolo 77 del decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), come modificato dal presente decreto".
 
 ### Art. 78. — Consiglio di gestione, consiglio di sorveglianza e comitato per il controllo sulla gestione
 
@@ -5679,7 +5679,7 @@ L'istanza di cancellazione, nel caso di cui al comma 1, lettere b) e c), relativ
 
 3.
 
-COMMA ABROGATO DAL [D.LGS. 30 DICEMBRE 2020, N. 187](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2020-12-30;187).
+COMMA ABROGATO DAL [D.LGS. 30 DICEMBRE 2020, N. 187](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20integrative%20e%20correttive%20al%20decreto%20legislativo%2021%20maggio%202018%20n.%2068%20di%20attuazione%20della%20direttiva%20UE%202016-97%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2020%20gennaio%202016%20relat_d17da12d676c.md).
 
 ---------------
 
@@ -6687,7 +6687,7 @@ L'assicurazione copre anche la responsabilita' per i danni causati nel territori
 
 AGGIORNAMENTO (70)
 
-Il [D.Lgs. 22 novembre 2023, n. 184](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2023-11-22;184) ha disposto (con l'art. 4, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 23 dicembre 2023".
+Il [D.Lgs. 22 novembre 2023, n. 184](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Recepimento%20della%20direttiva%20UE%202021-2118%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2024%20novembre%202021%20recante%20modifica%20della%20direttiva%202009-103-CE%20concernente%20lassicurazione%20della%20responsa_563e6d25065b.md) ha disposto (con l'art. 4, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 23 dicembre 2023".
 
 ### Art. 122-bis. — (Deroghe)
 
@@ -6729,7 +6729,7 @@ Qualora il veicolo responsabile del sinistro stazioni abitualmente in un altro S
 
 AGGIORNAMENTO (70)
 
-Il [D.Lgs. 22 novembre 2023, n. 184](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2023-11-22;184) ha disposto (con l'art. 4, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 23 dicembre 2023".
+Il [D.Lgs. 22 novembre 2023, n. 184](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Recepimento%20della%20direttiva%20UE%202021-2118%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2024%20novembre%202021%20recante%20modifica%20della%20direttiva%202009-103-CE%20concernente%20lassicurazione%20della%20responsa_563e6d25065b.md) ha disposto (con l'art. 4, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 23 dicembre 2023".
 
 ### Art. 123. — Natanti
 
@@ -6839,7 +6839,7 @@ In caso di incidente cagionato nel territorio della Repubblica dalla circolazion
 
 AGGIORNAMENTO (75)
 
-Il [D.Lgs. 31 ottobre 2024, n. 164](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-10-31;164), ha disposto (con l'art. 7, comma 1) che "Ove non diversamente previsto, le disposizioni del presente decreto si applicano ai procedimenti introdotti successivamente al 28 febbraio 2023".
+Il [D.Lgs. 31 ottobre 2024, n. 164](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20integrative%20e%20correttive%20al%20decreto%20legislativo%2010%20ottobre%202022%20n.%20149%20recante%20attuazione%20della%20legge%2026%20novembre%202021%20n.%20206%20recante%20delega%20al%20Governo%20per%20lefficienza%20del%20pr_a8f73c9c3a66.md), ha disposto (con l'art. 7, comma 1) che "Ove non diversamente previsto, le disposizioni del presente decreto si applicano ai procedimenti introdotti successivamente al 28 febbraio 2023".
 
 ### Art. 127. — Certificato di assicurazione e contrassegno
 
@@ -6909,7 +6909,7 @@ Il Decreto 31 maggio 2022 (in G.U. 27/06/2022, n. 148) ha disposto (con l'art. 1
 
 AGGIORNAMENTO (70)
 
-Il [D.Lgs. 22 novembre 2023, n. 184](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2023-11-22;184) ha disposto (con l'art. 4, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 23 dicembre 2023".
+Il [D.Lgs. 22 novembre 2023, n. 184](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Recepimento%20della%20direttiva%20UE%202021-2118%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2024%20novembre%202021%20recante%20modifica%20della%20direttiva%202009-103-CE%20concernente%20lassicurazione%20della%20responsa_563e6d25065b.md) ha disposto (con l'art. 4, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 23 dicembre 2023".
 
 ### Art. 129. — Soggetti esclusi dall'assicurazione
 
@@ -7026,7 +7026,7 @@ h) comprende una dichiarazione indicante che i prezzi si basano sulle informazio
 
 AGGIORNAMENTO (70)
 
-Il [D.Lgs. 22 novembre 2023, n. 184](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2023-11-22;184) ha disposto (con l'art. 4, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 23 dicembre 2023".
+Il [D.Lgs. 22 novembre 2023, n. 184](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Recepimento%20della%20direttiva%20UE%202021-2118%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2024%20novembre%202021%20recante%20modifica%20della%20direttiva%202009-103-CE%20concernente%20lassicurazione%20della%20responsa_563e6d25065b.md) ha disposto (con l'art. 4, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 23 dicembre 2023".
 
 ### Art. 132-bis. — (Obblighi informativi degli intermediari)
 
@@ -7050,7 +7050,7 @@ Il contratto stipulato senza la dichiarazione del cliente di aver ricevuto, ove 
 
 AGGIORNAMENTO (70)
 
-Il [D.Lgs. 22 novembre 2023, n. 184](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2023-11-22;184) ha disposto (con l'art. 4, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 23 dicembre 2023".
+Il [D.Lgs. 22 novembre 2023, n. 184](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Recepimento%20della%20direttiva%20UE%202021-2118%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2024%20novembre%202021%20recante%20modifica%20della%20direttiva%202009-103-CE%20concernente%20lassicurazione%20della%20responsa_563e6d25065b.md) ha disposto (con l'art. 4, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 23 dicembre 2023".
 
 ### Art. 132-ter. — (Sconti obbligatori)
 
@@ -7136,11 +7136,11 @@ Le imprese di assicurazione trattano le attestazioni emesse in altri Stati membr
 
 1-bis.
 
-COMMA ABROGATO DAL [D.LGS. 22 NOVEMBRE 2023, N. 184](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2023-11-22;184).
+COMMA ABROGATO DAL [D.LGS. 22 NOVEMBRE 2023, N. 184](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Recepimento%20della%20direttiva%20UE%202021-2118%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2024%20novembre%202021%20recante%20modifica%20della%20direttiva%202009-103-CE%20concernente%20lassicurazione%20della%20responsa_563e6d25065b.md).
 
 1-ter.
 
-COMMA ABROGATO DAL [D.LGS. 22 NOVEMBRE 2023, N. 184](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2023-11-22;184).
+COMMA ABROGATO DAL [D.LGS. 22 NOVEMBRE 2023, N. 184](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Recepimento%20della%20direttiva%20UE%202021-2118%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2024%20novembre%202021%20recante%20modifica%20della%20direttiva%202009-103-CE%20concernente%20lassicurazione%20della%20responsa_563e6d25065b.md).
 
 2.
 
@@ -7148,7 +7148,7 @@ L'impresa di assicurazione inserisce le informazioni riportate sull'attestato di
 
 3.
 
-La classe di merito indicata sull'attestato di rischio si riferisce al proprietario del veicolo. PERIODO SOPPRESSO DAL [D.LGS. 22 NOVEMBRE 2023, N. 184](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2023-11-22;184). ((L'IVASS con regolamento determina le indicazioni aggiuntive relative all'attestazione sullo stato del rischio, rispetto a quelle previste dal modello europeo, approvato con regolamento di esecuzione (UE) 2024/1855 della Commissione, del 3 luglio 2024, ne stabilisce la validita', comunque non inferiore a dodici mesi, e individua i termini relativi alla decorrenza e alla durata del periodo di osservazione del rischio. Le indicazioni contenute nell'attestazione sullo stato del rischio devono comprendere i dati relativi ai sinistri e al conducente del veicolo.
+La classe di merito indicata sull'attestato di rischio si riferisce al proprietario del veicolo. PERIODO SOPPRESSO DAL [D.LGS. 22 NOVEMBRE 2023, N. 184](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Recepimento%20della%20direttiva%20UE%202021-2118%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2024%20novembre%202021%20recante%20modifica%20della%20direttiva%202009-103-CE%20concernente%20lassicurazione%20della%20responsa_563e6d25065b.md). ((L'IVASS con regolamento determina le indicazioni aggiuntive relative all'attestazione sullo stato del rischio, rispetto a quelle previste dal modello europeo, approvato con regolamento di esecuzione (UE) 2024/1855 della Commissione, del 3 luglio 2024, ne stabilisce la validita', comunque non inferiore a dodici mesi, e individua i termini relativi alla decorrenza e alla durata del periodo di osservazione del rischio. Le indicazioni contenute nell'attestazione sullo stato del rischio devono comprendere i dati relativi ai sinistri e al conducente del veicolo.
 Con medesimo regolamento l'IVASS disciplina le modalita' di alimentazione e di accesso alla banca dati elettronica di cui al comma 2 e le modalita' di consegna dell'attestato di rischio. Per le finalita' di vigilanza di cui al comma 1, l'IVASS accede alle banche dati di cui agli articoli 225 e 226 del codice della strada, di cui al decreto legislativo 30 aprile 1992, n. 285.))
 
 4.
@@ -7193,7 +7193,7 @@ Il [D.L. 30 dicembre 2019, n. 162](../DL%20proroghe/Disposizioni%20urgenti%20in%
 
 AGGIORNAMENTO (70)
 
-Il [D.Lgs. 22 novembre 2023, n. 184](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2023-11-22;184) ha disposto (con l'art. 4, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 23 dicembre 2023".
+Il [D.Lgs. 22 novembre 2023, n. 184](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Recepimento%20della%20direttiva%20UE%202021-2118%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2024%20novembre%202021%20recante%20modifica%20della%20direttiva%202009-103-CE%20concernente%20lassicurazione%20della%20responsa_563e6d25065b.md) ha disposto (con l'art. 4, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 23 dicembre 2023".
 
 ### Art. 135. — Banca dati sinistri e banche dati anagrafe testimoni e anagrafe danneggiati
 
@@ -7529,7 +7529,7 @@ In ogni caso l'ente gestore dell'assicurazione sociale non puo' esercitare l'azi
 
 AGGIORNAMENTO (52)
 
-Il [D.L. 30 aprile 2019, n. 34](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2019-04-30;34), convertito con modificazioni dalla [L. 28 giugno 2019, n. 58](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20aprile%202019%20n.%2034%20recante%20misure%20urgenti%20di%20crescita%20economica%20e%20per%20la%20risoluzione%20di%20specifiche%20situazioni%20di%20crisi.%2019G00066.md), nel modificare l'[art. 1, comma 1126, lettera f) della L. 30 dicembre 2018, n. 145](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2018-12-30;145#art_1-com1126-letf), ha conseguentemente disposto (con l'art. 3-sexies, comma 1) che "All'articolo 1, comma 1126, della citata [legge n. 145 del 2018, le lettere a)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2018;145#art_leta), [b)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2018;145#art_letb), [c)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2018;145#art_letc), [d)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2018;145#art_letd), [e)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2018;145#art_lete) e [f)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2018;145#art_letf) sono abrogate; le disposizioni ivi indicate riacquistano efficacia nel testo vigente prima della data di entrata in vigore della medesima [legge n. 145 del 2018](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2018;145)".
+Il [D.L. 30 aprile 2019, n. 34](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2019-04-30;34), convertito con modificazioni dalla [L. 28 giugno 2019, n. 58](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20aprile%202019%20n.%2034%20recante%20misure%20urgenti%20di%20crescita%20economica%20e%20per%20la%20risoluzione%20di%20specifiche%20situazioni%20di%20crisi.%2019G00066.md), nel modificare l'[art. 1, comma 1126, lettera f) della L. 30 dicembre 2018, n. 145](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202019%20e%20bilancio%20pluriennale%20per%20il%20triennio%202019-2021.%2018G00172.md), ha conseguentemente disposto (con l'art. 3-sexies, comma 1) che "All'articolo 1, comma 1126, della citata [legge n. 145 del 2018, le lettere a)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2018;145#art_leta), [b)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2018;145#art_letb), [c)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2018;145#art_letc), [d)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2018;145#art_letd), [e)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2018;145#art_lete) e [f)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2018;145#art_letf) sono abrogate; le disposizioni ivi indicate riacquistano efficacia nel testo vigente prima della data di entrata in vigore della medesima [legge n. 145 del 2018](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2018;145)".
 
 ### Art. 142-bis. — (((Informazioni sulla copertura assicurativa))
 
@@ -7614,7 +7614,7 @@ Nel caso di sinistro di cui al comma 1, l'assicuratore del rimorchio, laddove la
 
 AGGIORNAMENTO (70)
 
-Il [D.Lgs. 22 novembre 2023, n. 184](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2023-11-22;184) ha disposto (con l'art. 4, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 23 dicembre 2023".
+Il [D.Lgs. 22 novembre 2023, n. 184](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Recepimento%20della%20direttiva%20UE%202021-2118%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2024%20novembre%202021%20recante%20modifica%20della%20direttiva%202009-103-CE%20concernente%20lassicurazione%20della%20responsa_563e6d25065b.md) ha disposto (con l'art. 4, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 23 dicembre 2023".
 
 ### Art. 145. — Proponibilita' dell'azione di risarcimento
 
@@ -8777,7 +8777,7 @@ Con decreto del Ministro dello sviluppo economico, di concerto con il Ministro d
 
 3.
 
-Per le controversie definite dal decreto di cui al comma 2, il ricorso al sistema di risoluzione delle controversie di cui al comma 1 e' alternativo all'esperimento delle procedure di mediazione e di negoziazione assistita previste, rispettivamente, dal [decreto legislativo 4 marzo 2010, n. 28](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-04;28), e dal [decreto-legge 12 settembre 2014, n. 132](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2014-09-12;132), convertito, con modificazioni, dalla [legge 10 novembre 2014, n. 162](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2012%20settembre%202014%20n.%20132%20recante%20misure%20urgenti%20di%20degiurisdizionalizzazione%20ed%20altri%20interventi%20per%20la%20definizione%20dellarretrato%20_e90ce8a7199c.md), e non pregiudica il ricorso ad ogni altro strumento di tutela previsto dall'ordinamento.
+Per le controversie definite dal decreto di cui al comma 2, il ricorso al sistema di risoluzione delle controversie di cui al comma 1 e' alternativo all'esperimento delle procedure di mediazione e di negoziazione assistita previste, rispettivamente, dal [decreto legislativo 4 marzo 2010, n. 28](Attuazione%20dellarticolo%2060%20della%20legge%2018%20giugno%202009%20n.%2069%20in%20materia%20di%20mediazione%20finalizzata%20alla%20conciliazione%20delle%20controversie%20civili%20e%20commerciali.%2010G0050.md), e dal [decreto-legge 12 settembre 2014, n. 132](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2014-09-12;132), convertito, con modificazioni, dalla [legge 10 novembre 2014, n. 162](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2012%20settembre%202014%20n.%20132%20recante%20misure%20urgenti%20di%20degiurisdizionalizzazione%20ed%20altri%20interventi%20per%20la%20definizione%20dellarretrato%20_e90ce8a7199c.md), e non pregiudica il ricorso ad ogni altro strumento di tutela previsto dall'ordinamento.
 
 4.
 
@@ -8800,7 +8800,7 @@ I poteri di vigilanza sono esercitati in modo tempestivo e proporzionato.
 
 AGGIORNAMENTO (69)
 
-Il [D.Lgs. 30 dicembre 2020, n. 187](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2020-12-30;187), ha disposto (con l'art. 1, comma 19) la modifica del Titolo XIV.
+Il [D.Lgs. 30 dicembre 2020, n. 187](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20integrative%20e%20correttive%20al%20decreto%20legislativo%2021%20maggio%202018%20n.%2068%20di%20attuazione%20della%20direttiva%20UE%202016-97%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2020%20gennaio%202016%20relat_d17da12d676c.md), ha disposto (con l'art. 1, comma 19) la modifica del Titolo XIV.
 
 ### Art. 187-ter.
 
@@ -12979,7 +12979,7 @@ Il Fondo di garanzia per le vittime della strada e' surrogato, per l'importo pag
 
 AGGIORNAMENTO (70)
 
-Il [D.Lgs. 22 novembre 2023, n. 184](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2023-11-22;184) ha disposto (con l'art. 2, comma 1, lettera m)) che "al comma 2, terzo periodo, le parole: «lettera c)» sono sostituite dalle seguenti: «lettere c) e c-bis)»". 
+Il [D.Lgs. 22 novembre 2023, n. 184](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Recepimento%20della%20direttiva%20UE%202021-2118%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2024%20novembre%202021%20recante%20modifica%20della%20direttiva%202009-103-CE%20concernente%20lassicurazione%20della%20responsa_563e6d25065b.md) ha disposto (con l'art. 2, comma 1, lettera m)) che "al comma 2, terzo periodo, le parole: «lettera c)» sono sostituite dalle seguenti: «lettere c) e c-bis)»". 
  Ha inoltre disposto (con l'art. 4, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 23 dicembre 2023".
 
 ### Art. 283-bis. — (( (Obblighi di informativa a carico del Fondo di garanzia per le vittime della strada). ))
@@ -12991,7 +12991,7 @@ Il [D.Lgs. 22 novembre 2023, n. 184](https://www.normattiva.it/uri-res/N2Ls?urn:
 
 AGGIORNAMENTO (70)
 
-Il [D.Lgs. 22 novembre 2023, n. 184](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2023-11-22;184) ha disposto (con l'art. 4, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 23 dicembre 2023".
+Il [D.Lgs. 22 novembre 2023, n. 184](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Recepimento%20della%20direttiva%20UE%202021-2118%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2024%20novembre%202021%20recante%20modifica%20della%20direttiva%202009-103-CE%20concernente%20lassicurazione%20della%20responsa_563e6d25065b.md) ha disposto (con l'art. 4, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 23 dicembre 2023".
 
 ### Art. 284. — ((Sinistri causati da natanti in altro Stato membro))
 
@@ -13009,7 +13009,7 @@ Il ((Ministro delle imprese e del made in Italy)) autorizza, con decreto da pubb
 
 AGGIORNAMENTO (70)
 
-Il [D.Lgs. 22 novembre 2023, n. 184](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2023-11-22;184) ha disposto (con l'art. 4, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 23 dicembre 2023".
+Il [D.Lgs. 22 novembre 2023, n. 184](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Recepimento%20della%20direttiva%20UE%202021-2118%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2024%20novembre%202021%20recante%20modifica%20della%20direttiva%202009-103-CE%20concernente%20lassicurazione%20della%20responsa_563e6d25065b.md) ha disposto (con l'art. 4, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 23 dicembre 2023".
 
 ### Art. 285. — Fondo di garanzia per le vittime della strada
 
@@ -13054,7 +13054,7 @@ La CONSAP ha il potere di negoziare e di concludere, entro il 23 dicembre 2023, 
 
 AGGIORNAMENTO (70)
 
-Il [D.Lgs. 22 novembre 2023, n. 184](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2023-11-22;184) ha disposto (con l'art. 4, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 23 dicembre 2023".
+Il [D.Lgs. 22 novembre 2023, n. 184](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Recepimento%20della%20direttiva%20UE%202021-2118%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2024%20novembre%202021%20recante%20modifica%20della%20direttiva%202009-103-CE%20concernente%20lassicurazione%20della%20responsa_563e6d25065b.md) ha disposto (con l'art. 4, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 23 dicembre 2023".
 
 ## Capo II Liquidazione dei danni a cura dell'impresa designata
 
@@ -13078,7 +13078,7 @@ Le imprese designate sono sottoposte, per l'attivita' oggetto delle convenzioni,
 
 AGGIORNAMENTO (70)
 
-Il [D.Lgs. 22 novembre 2023, n. 184](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2023-11-22;184) ha disposto (con l'art. 4, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 23 dicembre 2023".
+Il [D.Lgs. 22 novembre 2023, n. 184](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Recepimento%20della%20direttiva%20UE%202021-2118%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2024%20novembre%202021%20recante%20modifica%20della%20direttiva%202009-103-CE%20concernente%20lassicurazione%20della%20responsa_563e6d25065b.md) ha disposto (con l'art. 4, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 23 dicembre 2023".
 
 ### Art. 287. — Esercizio dell'azione di risarcimento
 
@@ -13106,7 +13106,7 @@ Nel giudizio promosso ai sensi dell'articolo 283, comma 1, ((lettere c) e c-bis)
 
 AGGIORNAMENTO (70)
 
-Il [D.Lgs. 22 novembre 2023, n. 184](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2023-11-22;184) ha disposto (con l'art. 4, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 23 dicembre 2023".
+Il [D.Lgs. 22 novembre 2023, n. 184](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Recepimento%20della%20direttiva%20UE%202021-2118%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2024%20novembre%202021%20recante%20modifica%20della%20direttiva%202009-103-CE%20concernente%20lassicurazione%20della%20responsa_563e6d25065b.md) ha disposto (con l'art. 4, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 23 dicembre 2023".
 
 ### Art. 288. — (( (Diritti dei danneggiati nei confronti del Fondo di garanzia per le vittime della Strada). ))
 
@@ -13140,7 +13140,7 @@ L'impresa designata non subordina il pagamento dell'indennizzo alla condizione c
 
 AGGIORNAMENTO (70)
 
-Il [D.Lgs. 22 novembre 2023, n. 184](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2023-11-22;184) ha disposto (con l'art. 4, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 23 dicembre 2023".
+Il [D.Lgs. 22 novembre 2023, n. 184](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Recepimento%20della%20direttiva%20UE%202021-2118%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2024%20novembre%202021%20recante%20modifica%20della%20direttiva%202009-103-CE%20concernente%20lassicurazione%20della%20responsa_563e6d25065b.md) ha disposto (con l'art. 4, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 23 dicembre 2023".
 
 ### Art. 289. — Effetti della liquidazione coatta sulle sentenze passate in giudicato e sui giudizi pendenti
 
@@ -13170,7 +13170,7 @@ L'azione che spetta al danneggiato nei confronti dell'impresa designata, nel cas
 
 AGGIORNAMENTO (70)
 
-Il [D.Lgs. 22 novembre 2023, n. 184](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2023-11-22;184) ha disposto (con l'art. 4, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 23 dicembre 2023".
+Il [D.Lgs. 22 novembre 2023, n. 184](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Recepimento%20della%20direttiva%20UE%202021-2118%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2024%20novembre%202021%20recante%20modifica%20della%20direttiva%202009-103-CE%20concernente%20lassicurazione%20della%20responsa_563e6d25065b.md) ha disposto (con l'art. 4, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 23 dicembre 2023".
 
 ### Art. 291. — Pluralita' di danneggiati e supero del massimale
 
@@ -13209,7 +13209,7 @@ Nel caso previsto dall'articolo 283, comma 1, lettere c) e c-bis), l'impresa des
 
 AGGIORNAMENTO (70)
 
-Il [D.Lgs. 22 novembre 2023, n. 184](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2023-11-22;184) ha disposto (con l'art. 4, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 23 dicembre 2023".
+Il [D.Lgs. 22 novembre 2023, n. 184](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Recepimento%20della%20direttiva%20UE%202021-2118%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2024%20novembre%202021%20recante%20modifica%20della%20direttiva%202009-103-CE%20concernente%20lassicurazione%20della%20responsa_563e6d25065b.md) ha disposto (con l'art. 4, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 23 dicembre 2023".
 
 ## Capo III Liquidazione dei danni a cura del commissario dell'impresa in liquidazione coatta
 
@@ -13276,7 +13276,7 @@ La CONSAP ha il potere di negoziare e di concludere, entro il 23 dicembre 2023, 
 
 AGGIORNAMENTO (70)
 
-Il [D.Lgs. 22 novembre 2023, n. 184](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2023-11-22;184) ha disposto (con l'art. 4, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 23 dicembre 2023".
+Il [D.Lgs. 22 novembre 2023, n. 184](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Recepimento%20della%20direttiva%20UE%202021-2118%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2024%20novembre%202021%20recante%20modifica%20della%20direttiva%202009-103-CE%20concernente%20lassicurazione%20della%20responsa_563e6d25065b.md) ha disposto (con l'art. 4, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 23 dicembre 2023".
 
 ### Art. 297. — Ambito di intervento dell'Organismo di indennizzo italiano
 
@@ -13310,7 +13310,7 @@ Nel caso di cui al comma 1, lettera a), l'Organismo di indennizzo italiano inter
 
 AGGIORNAMENTO (70)
 
-Il [D.Lgs. 22 novembre 2023, n. 184](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2023-11-22;184) ha disposto (con l'art. 4, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 23 dicembre 2023".
+Il [D.Lgs. 22 novembre 2023, n. 184](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Recepimento%20della%20direttiva%20UE%202021-2118%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2024%20novembre%202021%20recante%20modifica%20della%20direttiva%202009-103-CE%20concernente%20lassicurazione%20della%20responsa_563e6d25065b.md) ha disposto (con l'art. 4, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 23 dicembre 2023".
 
 ### Art. 298. — Sinistri causati da veicoli regolarmente assicurati
 
@@ -13382,7 +13382,7 @@ L'organismo di indennizzo italiano cui e' stata presentata la richiesta di risar
 
 AGGIORNAMENTO (70)
 
-Il [D.Lgs. 22 novembre 2023, n. 184](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2023-11-22;184) ha disposto (con l'art. 4, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 23 dicembre 2023".
+Il [D.Lgs. 22 novembre 2023, n. 184](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Recepimento%20della%20direttiva%20UE%202021-2118%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2024%20novembre%202021%20recante%20modifica%20della%20direttiva%202009-103-CE%20concernente%20lassicurazione%20della%20responsa_563e6d25065b.md) ha disposto (con l'art. 4, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 23 dicembre 2023".
 
 ### Art. 299. — Rimborsi tra organismi di indennizzo
 
@@ -14079,11 +14079,11 @@ La disposizione di cui al comma 1 si applica anche agli intermediari iscritti al
 
 7-ter.
 
-In caso di inosservanza delle disposizioni di cui agli articoli 5, 6, paragrafi 1, 2, 3, 4, 5, 6, 7 e 8, 10, 12, 16, paragrafi 1 e 2, 17, 19, paragrafi 1, 3 e 4, 24 del regolamento (UE) 2022/2554, del Parlamento europeo e del Consiglio, del 14 dicembre 2022 e delle relative norme tecniche di regolamentazione e attuazione, ovvero in caso di omessa collaborazione o mancato seguito dato nell'ambito di un'indagine, un'ispezione o una richiesta ai sensi dell'articolo 8 del decreto legislativo adottato in attuazione dell'[articolo 16 della legge 21 febbraio 2024, n. 15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2024-02-21;15#art_16), da parte degli intermediari assicurativi, degli intermediari riassicurativi, degli intermediari assicurativi a titolo accessorio e dei relativi fornitori terzi di servizi TIC di cui all'articolo 3, punto 19), del citato [regolamento (UE) 2022/2554](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:2022;2554), si applica, per le societa', la sanzione amministrativa pecuniaria di cui al comma 1, lettera c), numero 1) .
+In caso di inosservanza delle disposizioni di cui agli articoli 5, 6, paragrafi 1, 2, 3, 4, 5, 6, 7 e 8, 10, 12, 16, paragrafi 1 e 2, 17, 19, paragrafi 1, 3 e 4, 24 del regolamento (UE) 2022/2554, del Parlamento europeo e del Consiglio, del 14 dicembre 2022 e delle relative norme tecniche di regolamentazione e attuazione, ovvero in caso di omessa collaborazione o mancato seguito dato nell'ambito di un'indagine, un'ispezione o una richiesta ai sensi dell'articolo 8 del decreto legislativo adottato in attuazione dell'[articolo 16 della legge 21 febbraio 2024, n. 15](../Leggi%20di%20delegazione%20europea/Delega%20al%20Governo%20per%20il%20recepimento%20delle%20direttive%20europee%20e%20lattuazione%20di%20altri%20atti%20dellUnione%20europea%20-%20Legge%20di%20delegazione%20europea%202022-2023.%2024G00027.md), da parte degli intermediari assicurativi, degli intermediari riassicurativi, degli intermediari assicurativi a titolo accessorio e dei relativi fornitori terzi di servizi TIC di cui all'articolo 3, punto 19), del citato [regolamento (UE) 2022/2554](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:2022;2554), si applica, per le societa', la sanzione amministrativa pecuniaria di cui al comma 1, lettera c), numero 1) .
 
 7-quater.
 
-In caso di inosservanza delle disposizioni di cui agli articoli 7, 8, 9, 11, paragrafi 1, 2, 3, 4, 5, 6, 7, 8, 9 e 10, 13, 14, 18, paragrafi 1 e 2, 25, 26, paragrafi 1, 2, 3, 4, 5, 6, 7 e 8, 27, 28, paragrafi 2, 3, 4, 5, 6, 7 e 8, 29, 30, paragrafi 1, 2, 3 e 4, e 31, [paragrafo 12, del regolamento (UE) 2022/2554](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:2022;2554#art_par12) e delle relative norme tecniche di regolamentazione e attuazione, ovvero in caso di omessa collaborazione o mancato seguito dato nell'ambito di un'indagine, un'ispezione o una richiesta ai sensi dell'articolo 8 del decreto legislativo adottato in attuazione dell'[articolo 16 della legge 21 febbraio 2024, n. 15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2024-02-21;15#art_16), da parte degli intermediari assicurativi, degli intermediari riassicurativi, degli intermediari assicurativi a titolo accessorio e dei relativi fornitori terzi di servizi TIC di cui all'articolo 3, punto 19), del citato [regolamento (UE) 2022/2554](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:2022;2554), si applica, per le societa', la sanzione amministrativa pecuniaria da 5.000 euro a 3,5 milioni di euro oppure, se superiore, pari al 3,50 per cento del fatturato complessivo annuo risultante dall'ultimo bilancio disponibile approvato dall'organo di amministrazione.
+In caso di inosservanza delle disposizioni di cui agli articoli 7, 8, 9, 11, paragrafi 1, 2, 3, 4, 5, 6, 7, 8, 9 e 10, 13, 14, 18, paragrafi 1 e 2, 25, 26, paragrafi 1, 2, 3, 4, 5, 6, 7 e 8, 27, 28, paragrafi 2, 3, 4, 5, 6, 7 e 8, 29, 30, paragrafi 1, 2, 3 e 4, e 31, [paragrafo 12, del regolamento (UE) 2022/2554](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:2022;2554#art_par12) e delle relative norme tecniche di regolamentazione e attuazione, ovvero in caso di omessa collaborazione o mancato seguito dato nell'ambito di un'indagine, un'ispezione o una richiesta ai sensi dell'articolo 8 del decreto legislativo adottato in attuazione dell'[articolo 16 della legge 21 febbraio 2024, n. 15](../Leggi%20di%20delegazione%20europea/Delega%20al%20Governo%20per%20il%20recepimento%20delle%20direttive%20europee%20e%20lattuazione%20di%20altri%20atti%20dellUnione%20europea%20-%20Legge%20di%20delegazione%20europea%202022-2023.%2024G00027.md), da parte degli intermediari assicurativi, degli intermediari riassicurativi, degli intermediari assicurativi a titolo accessorio e dei relativi fornitori terzi di servizi TIC di cui all'articolo 3, punto 19), del citato [regolamento (UE) 2022/2554](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:2022;2554), si applica, per le societa', la sanzione amministrativa pecuniaria da 5.000 euro a 3,5 milioni di euro oppure, se superiore, pari al 3,50 per cento del fatturato complessivo annuo risultante dall'ultimo bilancio disponibile approvato dall'organo di amministrazione.
 
 7-quinquies.
 
@@ -14095,7 +14095,7 @@ Salvo che il fatto costituisca reato, se le violazioni indicate dai commi 7-ter 
 
 7-sexies.
 
-Fermo restando quanto previsto per le societa' e gli enti nei confronti dei quali sono accertate le violazioni, la sanzione di cui al comma 7-quinquies si applica nei confronti dei soggetti che svolgono funzioni di amministrazione, direzione o controllo e del personale delle societa' e degli enti nei confronti dei quali sono accertate le violazioni, quando l'inosservanza e' conseguenza della violazione di doveri propri o dell'organo di appartenenza e la condotta ha inciso in modo rilevante sulla complessiva organizzazione o sui profili di rischio aziendali o ha contribuito a determinare la mancata ottemperanza della societa' o dell'ente a provvedimenti specifici adottati dall'IVASS, ai sensi dell'articolo 8 del decreto legislativo adottato in attuazione dell'[articolo 16 della legge 21 febbraio 2024, n. 15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2024-02-21;15#art_16), ovvero quando la condotta abbia contribuito a determinare l'inosservanza dell'ordine di cui all'[articolo 50, paragrafo 4, lettera a), del regolamento (UE) 2022/2554](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:2022;2554#art_50-par4-leta) da parte della societa' o dell'ente.
+Fermo restando quanto previsto per le societa' e gli enti nei confronti dei quali sono accertate le violazioni, la sanzione di cui al comma 7-quinquies si applica nei confronti dei soggetti che svolgono funzioni di amministrazione, direzione o controllo e del personale delle societa' e degli enti nei confronti dei quali sono accertate le violazioni, quando l'inosservanza e' conseguenza della violazione di doveri propri o dell'organo di appartenenza e la condotta ha inciso in modo rilevante sulla complessiva organizzazione o sui profili di rischio aziendali o ha contribuito a determinare la mancata ottemperanza della societa' o dell'ente a provvedimenti specifici adottati dall'IVASS, ai sensi dell'articolo 8 del decreto legislativo adottato in attuazione dell'[articolo 16 della legge 21 febbraio 2024, n. 15](../Leggi%20di%20delegazione%20europea/Delega%20al%20Governo%20per%20il%20recepimento%20delle%20direttive%20europee%20e%20lattuazione%20di%20altri%20atti%20dellUnione%20europea%20-%20Legge%20di%20delegazione%20europea%202022-2023.%2024G00027.md), ovvero quando la condotta abbia contribuito a determinare l'inosservanza dell'ordine di cui all'[articolo 50, paragrafo 4, lettera a), del regolamento (UE) 2022/2554](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:2022;2554#art_50-par4-leta) da parte della societa' o dell'ente.
 
 7-septies.
 
@@ -14103,7 +14103,7 @@ Se il vantaggio ottenuto dall'autore della violazione come conseguenza della vio
 
 7-octies.
 
-Con il provvedimento di applicazione della sanzione amministrativa pecuniaria di cui al comma 7-quinquies, in ragione della gravita' della violazione accertata, puo' essere applicata la sanzione amministrativa accessoria dell'interdizione, per un periodo non inferiore a sei mesi e non superiore a tre anni, dallo svolgimento di funzioni di amministrazione, direzione e controllo presso intermediari e imprese autorizzati ai sensi del presente decreto, del [decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385), del [decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), del [decreto legislativo 5 settembre 2024, n. 129](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-09-05;129), o presso fondi pensione. 
+Con il provvedimento di applicazione della sanzione amministrativa pecuniaria di cui al comma 7-quinquies, in ragione della gravita' della violazione accertata, puo' essere applicata la sanzione amministrativa accessoria dell'interdizione, per un periodo non inferiore a sei mesi e non superiore a tre anni, dallo svolgimento di funzioni di amministrazione, direzione e controllo presso intermediari e imprese autorizzati ai sensi del presente decreto, del [decreto legislativo 1° settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385), del [decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), del [decreto legislativo 5 settembre 2024, n. 129](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Adeguamento%20della%20normativa%20nazionale%20al%20regolamento%20UE%202023-1114%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2031%20maggio%202023%20relativo%20ai%20mercati%20delle%20cripto-attivita%20e%20che%20modifica%20i%20rego_c3f0f66c7bd3.md), o presso fondi pensione. 
  (45)
 
 ------------
@@ -14678,7 +14678,7 @@ Il contributo si applica, con aliquota del diecivirgolacinque per cento, sui pre
 
 AGGIORNAMENTO (15)
 
-La [L. 23 dicembre 2009, n. 191](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-12-23;191), ha disposto (con l'art. 2, comma 110) che "A decorrere dal 1° gennaio 2010, il contributo di cui all'[articolo 334 del codice delle assicurazioni private](../Codici/Codice%20delle%20assicurazioni%20private.md), di cui al [decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), relativamente agli intestatari delle carte di circolazione residenti nelle province autonome di Trento e di Bolzano, e' attribuito alla rispettiva provincia. Gli assicuratori sono tenuti a scorporare dal totale dei contributi di cui al citato articolo 334 del codice di cui al [decreto legislativo n. 209 del 2005](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005;209) le somme attribuite alle province autonome di Trento e di Bolzano e a effettuare distinti versamenti a favore di ogni singola provincia autonoma con le stesse modalita' previste dal regolamento di cui al [decreto del Ministro delle finanze 14 dicembre 1998, n. 457](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.finanze:decreto:1998-12-14;457), per il versamento dell'imposta sulle assicurazioni per la responsabilita' civile derivante dalla circolazione dei veicoli a motore."
+La [L. 23 dicembre 2009, n. 191](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202010.%2009G0205.md), ha disposto (con l'art. 2, comma 110) che "A decorrere dal 1° gennaio 2010, il contributo di cui all'[articolo 334 del codice delle assicurazioni private](../Codici/Codice%20delle%20assicurazioni%20private.md), di cui al [decreto legislativo 7 settembre 2005, n. 209](../Codici/Codice%20delle%20assicurazioni%20private.md), relativamente agli intestatari delle carte di circolazione residenti nelle province autonome di Trento e di Bolzano, e' attribuito alla rispettiva provincia. Gli assicuratori sono tenuti a scorporare dal totale dei contributi di cui al citato articolo 334 del codice di cui al [decreto legislativo n. 209 del 2005](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005;209) le somme attribuite alle province autonome di Trento e di Bolzano e a effettuare distinti versamenti a favore di ogni singola provincia autonoma con le stesse modalita' previste dal regolamento di cui al [decreto del Ministro delle finanze 14 dicembre 1998, n. 457](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.finanze:decreto:1998-12-14;457), per il versamento dell'imposta sulle assicurazioni per la responsabilita' civile derivante dalla circolazione dei veicoli a motore."
 
 -------------
 
@@ -14940,7 +14940,7 @@ Le disposizioni di cui all'articolo 252 si applicano alle imprese poste in liqui
 
 2.
 
-Resta in vigore il decreto del Ministro del lavoro e delle politiche sociali, di concerto con il ((Ministro dello sviluppo economico)), recante norme per agevolare, senza oneri a carico del bilancio dello Stato, l'esodo dei lavoratori provenienti da imprese esercenti l'assicurazione obbligatoria della responsabilita' civile derivante dalla circolazione dei veicoli a motore e dei natanti, poste in liquidazione coatta amministrativa, che siano stati riassunti dal commissario liquidatore nell'ambito delle misure per il perseguimento di politiche attive di sostegno del reddito e dell'occupazione di cui all'[articolo 2, comma 28, della legge 23 dicembre 1996, n. 662](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;662#art_2-com28).
+Resta in vigore il decreto del Ministro del lavoro e delle politiche sociali, di concerto con il ((Ministro dello sviluppo economico)), recante norme per agevolare, senza oneri a carico del bilancio dello Stato, l'esodo dei lavoratori provenienti da imprese esercenti l'assicurazione obbligatoria della responsabilita' civile derivante dalla circolazione dei veicoli a motore e dei natanti, poste in liquidazione coatta amministrativa, che siano stati riassunti dal commissario liquidatore nell'ambito delle misure per il perseguimento di politiche attive di sostegno del reddito e dell'occupazione di cui all'[articolo 2, comma 28, della legge 23 dicembre 1996, n. 662](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_3.md).
 
 ### Art. 342. — Partecipazioni gia' autorizzate
 
@@ -15015,8 +15015,8 @@ Note all'[art. 343:
 
 I periti di assicurazione che esercitano l'attivita' di accertamento e stima dei danni alle cose derivanti dalla circolazione, dal furto e dall'incendio dei veicoli a motore e dei natanti e che alla data di entrata in vigore del presente codice sono iscritti nel ruolo di cui all'[articolo 2 della legge 17 febbraio 1992, n. 166](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20e%20funzionamento%20del%20ruolo%20nazionale%20dei%20periti%20assicurativi%20per%20laccertamento%20e%20la%20stima%20dei%20danni%20ai%20veicoli%20a%20motore%20ed%20ai%20natanti%20soggetti%20alla%20disciplina%20della%20legge%2024%20di_7ad79d2a2af8.md), sono iscritti di diritto al ruolo previsto dall'articolo 156.
 
-Nota all'[art. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;662#art_344): 
- - Per l'[art. 2 della legge 23 dicembre 1996, n. 662](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;662#art_2), vedi le note all'art. 341.
+Nota all'[art. 344](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_3.md): 
+ - Per l'[art. 2 della legge 23 dicembre 1996, n. 662](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_3.md), vedi le note all'art. 341.
 
 ## ((Capo IIIbis Disposizioni transitorie relative all'entrata in vigore del regime solvibilita' II Sezione I Regime di applicazione immediata))
 
@@ -15437,7 +15437,7 @@ Sono esclusi dall'ambito di applicazione delle disposizioni di cui al presente c
                             c)
                                 la SACE Servizi assicurativi per il commercio estero S.p.a., di cui alla [legge 24 maggio 1977, n. 227](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-05-24;227), e successive modificazioni, limitatamente alle attivita' che beneficiano della garanzia dello Stato e fatto salvo quanto previsto al comma 2;
                             d)
-                                il Fondo di solidarieta' nazionale per la riassicurazione dei rischi agricoli istituito presso l'ISMEA dall'[articolo 127 delle legge 23 dicembre 2000, n. 388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-23;388#art_127), e disciplinato dagli [articoli 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2002-09-13;200#art_2) e [4 del decreto-legge 13 settembre 2002 n. 200](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2002-09-13;200#art_4), convertito, con modificazioni, dalla [legge 13 novembre 2002, n. 256](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20settembre%202002%20n.%20200%20recante%20interventi%20urgenti%20a%20favore%20del%20comparto%20agricolo%20colpito%20da%20eccezionali%20eventi%20atmosferici.md);
+                                il Fondo di solidarieta' nazionale per la riassicurazione dei rischi agricoli istituito presso l'ISMEA dall'[articolo 127 delle legge 23 dicembre 2000, n. 388](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202001.md), e disciplinato dagli [articoli 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2002-09-13;200#art_2) e [4 del decreto-legge 13 settembre 2002 n. 200](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2002-09-13;200#art_4), convertito, con modificazioni, dalla [legge 13 novembre 2002, n. 256](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20settembre%202002%20n.%20200%20recante%20interventi%20urgenti%20a%20favore%20del%20comparto%20agricolo%20colpito%20da%20eccezionali%20eventi%20atmosferici.md);
                             e)
                                 gli enti che garantiscono unicamente prestazioni in caso di decesso qualora le prestazioni siano erogate in natura o qualora l'importo della prestazione non superi il valore medio delle spese funerarie determinato nella misura di cui all'articolo 15, comma 1, lettera d), del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), e successive modificazioni;
                             f)
@@ -15764,7 +15764,7 @@ Dopo l'[articolo 6 della legge 29 ottobre 1961, n. 1216](https://www.normattiva.
 
 1.
 
-Fermo quanto disposto dall'[articolo 20, comma 3, lettera b), della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_20-com3-letb), nel testo sostituito dall'[articolo 1 della legge 23 luglio 2003, n. 229](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-07-23;229#art_1), sono o restano abrogati: 
+Fermo quanto disposto dall'[articolo 20, comma 3, lettera b), della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), nel testo sostituito dall'[articolo 1 della legge 23 luglio 2003, n. 229](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-07-23;229#art_1), sono o restano abrogati: 
  il [regio decreto 23 marzo 1922, n. 387](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1922-03-23;387); 
  il [regio decreto 4 gennaio 1925, n. 63](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1925-01-04;63); 
  il [decreto del Presidente della Repubblica 13 febbraio 1959, n. 449](../DPR/Approvazione%20del%20testo%20unico%20delle%20leggi%20sullesercizio%20delle%20assicurazioni%20private.md); 
@@ -15786,16 +15786,16 @@ Fermo quanto disposto dall'[articolo 20, comma 3, lettera b), della legge 15 mar
  l'articolo 12](../DPR/Regolamento%20recante%20semplificazione%20dei%20procedimenti%20amministrativi%20in%20materia%20di%20assicurazioni%20private%20e%20di%20interesse%20collettivo%20di%20competenza%20del%20Ministero%20dellindustria%20del%20commercio%20e_549113c8088f.md) del [decreto-legge 19 dicembre 1994, n. 691](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1994-12-19;691), convertito, con modificazioni, dalla [legge 16 febbraio 1995, n. 35](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2019%20dicembre%201994%20n.%20691%20recante%20misure%20urgenti%20per%20la%20ricostruzione%20e%20la%20ripresa%20delle%20attivita%20produttive%20nelle%20zone%20colpite%20dall_68dcc341f398.md);  il [decreto legislativo 17 marzo 1995, n. 174](Attuazione%20della%20direttiva%2092-96-CEE%20in%20materia%20di%20assicurazione%20diretta%20sulla%20vita.md); 
  il [decreto legislativo 17 marzo 1995, n. 175](Attuazione%20della%20direttiva%2092-49-CEE%20in%20materia%20di%20assicurazione%20diretta%20diversa%20dallassicurazione%20sulla%20vita.md); 
  il [decreto legislativo 26 maggio 1997, n. 173](Attuazione%20della%20direttiva%2091-674-CEE%20in%20materia%20di%20conti%20annuali%20e%20consolidati%20delle%20imprese%20di%20assicurazione.md), ad eccezione degli articoli 2, 4, 5, 14, 15, 16, commi da 1 a 16, 17, 18, 19, 20, 21, 22, 23, 24, 26, 27, 28, 29, 30, 31, commi 2, 3 e 4, 38, 40, 41, 42, 44, 45, 46, 47, 48,49, 50, 51, 52, 53, 54, 55 e 56; 
- l'[articolo 38 della legge 27 dicembre 1997, n. 449](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-12-27;449#art_38); 
+ l'[articolo 38 della legge 27 dicembre 1997, n. 449](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20per%20la%20stabilizzazione%20della%20finanza%20pubblica.md); 
  il [decreto legislativo 13 ottobre 1998, n. 373; 
  l'articolo 45, comma 11](Razionalizzazione%20delle%20norme%20concernenti%20lIstituto%20per%20la%20vigilanza%20sulle%20assicurazioni%20private%20e%20di%20interesse%20collettivo%20a%20norma%20degli%20articoli%2011%20comma%201%20lettera%20b%20%20e%2014%20della%20legge%2015_612fe06d6246.md), della [legge 23 dicembre 1998, n. 448](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1998-12-23;448); 
  il [decreto legislativo 4 agosto 1999, n. 343; 
- l'articolo 27, comma 13](Attuazione%20della%20direttiva%2095-26-CE%20in%20materia%20di%20rafforzamento%20della%20vigilanza%20prudenziale%20nel%20settore%20assicurativo.md), della [legge 23 dicembre 1999, n. 488](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-12-23;488); 
+ l'articolo 27, comma 13](Attuazione%20della%20direttiva%2095-26-CE%20in%20materia%20di%20rafforzamento%20della%20vigilanza%20prudenziale%20nel%20settore%20assicurativo.md), della [legge 23 dicembre 1999, n. 488](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202000.md); 
  il [decreto-legge 28 marzo 2000, n. 70](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20urgenti%20per%20il%20contenimento%20delle%20spinte%20inflazionistiche.md), convertito, con modificazioni, dalla [legge 26 maggio 2000, n. 137; 
  l'articolo 89](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2028%20marzo%202000%20n.%2070%20recante%20Disposizioni%20urgenti%20per%20il%20contenimento%20delle%20spinte%20inflazionistiche.md) della [legge 23 dicembre 2000, n. 388; 
- gli articoli 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-23;388#art_1), [2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-23;388#art_2), [3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-23;388#art_3), [4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-23;388#art_4), [5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-23;388#art_5) e [6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-23;388#art_6) della [legge 5 marzo 2001, n. 57](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001-03-05;57);  il [decreto legislativo 17 aprile 2001, n. 239; 
+ gli articoli 1](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202001.md), [2](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202001.md), [3](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202001.md), [4](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202001.md), [5](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202001.md) e [6](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202001.md) della [legge 5 marzo 2001, n. 57](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001-03-05;57);  il [decreto legislativo 17 aprile 2001, n. 239; 
  gli articoli 19](Attuazione%20della%20direttiva%2098-78-CE%20relativa%20alla%20vigilanza%20supplementare%20sulle%20imprese%20di%20assicurazione%20appartenenti%20ad%20un%20gruppo%20assicurativo.md), [20](Attuazione%20della%20direttiva%2098-78-CE%20relativa%20alla%20vigilanza%20supplementare%20sulle%20imprese%20di%20assicurazione%20appartenenti%20ad%20un%20gruppo%20assicurativo.md), [21](Attuazione%20della%20direttiva%2098-78-CE%20relativa%20alla%20vigilanza%20supplementare%20sulle%20imprese%20di%20assicurazione%20appartenenti%20ad%20un%20gruppo%20assicurativo.md), [22](Attuazione%20della%20direttiva%2098-78-CE%20relativa%20alla%20vigilanza%20supplementare%20sulle%20imprese%20di%20assicurazione%20appartenenti%20ad%20un%20gruppo%20assicurativo.md), [23](Attuazione%20della%20direttiva%2098-78-CE%20relativa%20alla%20vigilanza%20supplementare%20sulle%20imprese%20di%20assicurazione%20appartenenti%20ad%20un%20gruppo%20assicurativo.md), [25](Attuazione%20della%20direttiva%2098-78-CE%20relativa%20alla%20vigilanza%20supplementare%20sulle%20imprese%20di%20assicurazione%20appartenenti%20ad%20un%20gruppo%20assicurativo.md) e [26](Attuazione%20della%20direttiva%2098-78-CE%20relativa%20alla%20vigilanza%20supplementare%20sulle%20imprese%20di%20assicurazione%20appartenenti%20ad%20un%20gruppo%20assicurativo.md) della [legge 12 dicembre 2002, n. 273; 
- l'articolo 81, comma 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-12-12;273#art_81-com1), della [legge 27 dicembre 2002, n. 289](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-12-27;289); 
+ l'articolo 81, comma 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-12-12;273#art_81-com1), della [legge 27 dicembre 2002, n. 289](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202003.md); 
  il [decreto legislativo 9 aprile 2003, n. 93](Attuazione%20della%20direttiva%202001-17-CEE%20in%20materia%20di%20risanamento%20e%20liquidazione%20delle%20imprese%20di%20assicurazione.md); 
  il [decreto legislativo 30 giugno 2003, n. 190](Attuazione%20della%20direttiva%202000-26-CE%20in%20materia%20di%20assicurazione%20della%20responsabilita%20civile%20risultante%20dalla%20circolazione%20di%20autoveicoli%20che%20modifica%20anche%20le%20direttive%2073-239-CEE%20e%2088-357-CEE.md); 
  il [decreto legislativo 3 novembre 2003, n. 307; 

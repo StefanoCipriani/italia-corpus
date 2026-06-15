@@ -145,7 +145,7 @@ Il Ministro del tesoro, di concerto con i Ministri dell'interno, di grazia e giu
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 19 novembre 2008, n. 195](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-11-19;195) ha disposto (con l'art. 16, comma 2) che la presente modifica ha efficacia dal 1° gennaio 2009.
+Il [D.Lgs. 19 novembre 2008, n. 195](Modifiche%20ed%20integrazioni%20alla%20normativa%20in%20materia%20valutaria%20in%20attuazione%20del%20regolamento%20UE%201672-2018%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2023%20ottobre%202018.md) ha disposto (con l'art. 16, comma 2) che la presente modifica ha efficacia dal 1° gennaio 2009.
 
 ## Art. 6.
 

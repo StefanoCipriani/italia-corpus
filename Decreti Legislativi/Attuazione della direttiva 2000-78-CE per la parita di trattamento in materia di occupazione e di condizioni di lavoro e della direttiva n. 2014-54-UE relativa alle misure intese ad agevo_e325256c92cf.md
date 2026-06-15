@@ -132,7 +132,7 @@ Non costituiscono, comunque, atti di discriminazione ai sensi dell'articolo 2 qu
 
 All'[articolo 15, comma 2, della legge 20 maggio 1970, n. 300](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-05-20;300#art_15-com2), dopo la parola "sesso" sono aggiunte le seguenti: ", di handicap, di eta' o basata sull'orientamento sessuale o sulle convinzioni personali".
 
-((2. I giudizi civili avverso gli atti e i comportamenti di cui all'articolo 2 sono regolati dall'[articolo 28 del decreto legislativo 1° settembre 2011, n. 150](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-09-01;150#art_28). In caso di accertamento di atti o comportamenti discriminatori, come definiti dall'articolo 2 del presente decreto, si applica, altresi', l'[articolo 44, comma 11, del decreto legislativo 25 luglio 1998, n. 286](Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero.md).))
+((2. I giudizi civili avverso gli atti e i comportamenti di cui all'articolo 2 sono regolati dall'[articolo 28 del decreto legislativo 1° settembre 2011, n. 150](Disposizioni%20complementari%20al%20codice%20di%20procedura%20civile%20in%20materia%20di%20riduzione%20e%20semplificazione%20dei%20procedimenti%20civili%20di%20cognizione%20ai%20sensi%20dellarticolo%2054%20della%20legge%2018%20giugno%20200_79c74cc89038.md). In caso di accertamento di atti o comportamenti discriminatori, come definiti dall'articolo 2 del presente decreto, si applica, altresi', l'[articolo 44, comma 11, del decreto legislativo 25 luglio 1998, n. 286](Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero.md).))
 
 ((3))
 
@@ -164,7 +164,7 @@ Resta salva la giurisdizione del giudice amministrativo per il personale di cui 
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. 1 settembre 2011, n. 150](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-09-01;150) ha disposto (con l'art. 36, commi 1 e 2) che "1. Le norme del presente decreto si applicano ai procedimenti instaurati successivamente alla data di entrata in vigore dello stesso. 
+Il [D.Lgs. 1 settembre 2011, n. 150](Disposizioni%20complementari%20al%20codice%20di%20procedura%20civile%20in%20materia%20di%20riduzione%20e%20semplificazione%20dei%20procedimenti%20civili%20di%20cognizione%20ai%20sensi%20dellarticolo%2054%20della%20legge%2018%20giugno%20200_79c74cc89038.md) ha disposto (con l'art. 36, commi 1 e 2) che "1. Le norme del presente decreto si applicano ai procedimenti instaurati successivamente alla data di entrata in vigore dello stesso. 
  2. Le norme abrogate o modificate dal presente decreto continuano ad applicarsi alle controversie pendenti alla data di entrata in vigore dello stesso."
 
 ## Art. 4-bis. — (( (Protezione delle vittime) ))

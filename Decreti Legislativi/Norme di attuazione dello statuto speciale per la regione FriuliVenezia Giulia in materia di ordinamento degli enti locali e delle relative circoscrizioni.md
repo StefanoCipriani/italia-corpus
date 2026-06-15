@@ -12,9 +12,9 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[articolo 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge costituzionale 31 gennaio 1963, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1963-01-31;1), che ha approvato lo statuto speciale della regione Friuli-Venezia Giulia;
+Vista la [legge costituzionale 31 gennaio 1963, n. 1](../Leggi%20costituzionali/Statuto%20speciale%20della%20Regione%20Friuli-Venezia%20Giulia.md), che ha approvato lo statuto speciale della regione Friuli-Venezia Giulia;
 
-Visto in particolare il punto 1-bis) dell'[articolo 4 della legge costituzionale 31 gennaio 1963, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1963-01-31;1#art_4), introdotto dall'[articolo 5 della legge costituzionale 23 settembre 1993, n. 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1993-09-23;2#art_5);
+Visto in particolare il punto 1-bis) dell'[articolo 4 della legge costituzionale 31 gennaio 1963, n. 1](../Leggi%20costituzionali/Statuto%20speciale%20della%20Regione%20Friuli-Venezia%20Giulia.md), introdotto dall'[articolo 5 della legge costituzionale 23 settembre 1993, n. 2](../Leggi%20costituzionali/Modifiche%20ed%20integrazioni%20agli%20statuti%20speciali%20per%20la%20Valle%20dAosta%20per%20la%20Sardegna%20per%20il%20Friuli-Venezia%20Giulia%20e%20per%20il%20Trentino-Alto%20Adige.md);
 
 Sentita la Commissione paritetica prevista dall'articolo 65 dello statuto speciale;
 
@@ -28,7 +28,7 @@ E M A N A il seguente decreto legislativo:
 
 1.
 
-Il presente decreto detta le norme di attuazione della [legge costituzionale 23 settembre 1993, n. 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1993-09-23;2), che modifica gli articoli 4 e 5 dello statuto speciale della regione autonoma Friuli-Venezia Giulia in materia di ordinamento degli enti locali e delle relative circoscrizioni.
+Il presente decreto detta le norme di attuazione della [legge costituzionale 23 settembre 1993, n. 2](../Leggi%20costituzionali/Modifiche%20ed%20integrazioni%20agli%20statuti%20speciali%20per%20la%20Valle%20dAosta%20per%20la%20Sardegna%20per%20il%20Friuli-Venezia%20Giulia%20e%20per%20il%20Trentino-Alto%20Adige.md), che modifica gli articoli 4 e 5 dello statuto speciale della regione autonoma Friuli-Venezia Giulia in materia di ordinamento degli enti locali e delle relative circoscrizioni.
 
 2.
 
@@ -39,12 +39,12 @@ AVVERTENZA:
  
  Note alle premesse: 
  - L'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5) conferisce al Presidente della Repubblica il potere di promulgare leggi e di emanare i decreti aventi valore di legge e i regolamenti. 
- - La [legge costituzionale 31 gennaio 1963, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1963-01-31;1), che ha approvato lo statuto speciale della regione Friuli-Venezia Giulia, e' stata pubblicata nella Gazzetta Ufficiale 1 febbraio 1963, n. 29. 
- - La [legge costituzionale 23 settembre 1993, n. 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1993-09-23;2), e' stata pubblicata nella Gazzetta Ufficiale 25 settembre 1993, n. 226. 
+ - La [legge costituzionale 31 gennaio 1963, n. 1](../Leggi%20costituzionali/Statuto%20speciale%20della%20Regione%20Friuli-Venezia%20Giulia.md), che ha approvato lo statuto speciale della regione Friuli-Venezia Giulia, e' stata pubblicata nella Gazzetta Ufficiale 1 febbraio 1963, n. 29. 
+ - La [legge costituzionale 23 settembre 1993, n. 2](../Leggi%20costituzionali/Modifiche%20ed%20integrazioni%20agli%20statuti%20speciali%20per%20la%20Valle%20dAosta%20per%20la%20Sardegna%20per%20il%20Friuli-Venezia%20Giulia%20e%20per%20il%20Trentino-Alto%20Adige.md), e' stata pubblicata nella Gazzetta Ufficiale 25 settembre 1993, n. 226. 
  - L'art. 65 dello statuto speciale della regione Friuli-Venezia Giulia, approvato con [legge costituzionale n. 1/1963](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1963;1) prevede che: "Con decreti legislativi, sentita una commissione paritetica di sei membri, nominati tre dal Governo della Repubblica e tre dal consiglio regionale, saranno stabilite le norme di attuazione del presente statuto e quelle relative al trasferimento all'amministrazione regionale degli uffici statali che nel Friuli-Venezia Giulia adempiono a funzioni attribuite alla regione". 
  
  Note all'art. 1: 
- - L'art. 4 dello statuto speciale della regione Friuli-Venezia Giulia, approvato con [legge costituzionale n. 1/1963](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1963;1), modificato dalla [legge costituzionale 23 settembre 1993, n. 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1993-09-23;2), e' il seguente: 
+ - L'art. 4 dello statuto speciale della regione Friuli-Venezia Giulia, approvato con [legge costituzionale n. 1/1963](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1963;1), modificato dalla [legge costituzionale 23 settembre 1993, n. 2](../Leggi%20costituzionali/Modifiche%20ed%20integrazioni%20agli%20statuti%20speciali%20per%20la%20Valle%20dAosta%20per%20la%20Sardegna%20per%20il%20Friuli-Venezia%20Giulia%20e%20per%20il%20Trentino-Alto%20Adige.md), e' il seguente: 
  "Art. 4. - In armonia con la Costituzione, con i principi generali dell'ordinamento giuridico dello Stato, con le norme fondamentali delle riforme economico-sociali e con gli obblighi internazionali dello Stato, nonche' nel rispetto degli interessi nazionali e di quelli delle altre regioni, la regione ha podesta' legislativa nelle seguenti materie: 
  1) ordinamento degli uffici e degli enti dipendenti dalla regione e stato giuridico ed economico del personale ad essi addetto: 
  1-bis) ordinamento degli enti locali e delle relative circoscrizioni; 
@@ -61,7 +61,7 @@ AVVERTENZA:
  12) urbanistica; 
  13) acque minerali e termali; 
  14) istituzioni culturali, ricreative e sportive; musei e biblioteca di interesse locale e regionale". 
- - L'art. 5 dello statuto speciale della regione autonoma Friuli-Venezia Giulia, modificato dalla [legge costituzionale 23 settembre 1993, n. 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1993-09-23;2), e' il seguente: 
+ - L'art. 5 dello statuto speciale della regione autonoma Friuli-Venezia Giulia, modificato dalla [legge costituzionale 23 settembre 1993, n. 2](../Leggi%20costituzionali/Modifiche%20ed%20integrazioni%20agli%20statuti%20speciali%20per%20la%20Valle%20dAosta%20per%20la%20Sardegna%20per%20il%20Friuli-Venezia%20Giulia%20e%20per%20il%20Trentino-Alto%20Adige.md), e' il seguente: 
  "Art. 5. - Con l'osservanza dei limiti generali indicati nell'art. 4 ed in armonia con i principi fondamentali stabiliti dalle leggi dello Stato nelle singole materie, la regione ha potesta' legislativa nelle seguenti materie: 
  1) elezioni del consiglio regionale, in base ai principi contenuti nel capo secondo del titolo terzo; 
  2) disciplina del referendum previsto negli articoli 7 e 33; 
@@ -240,7 +240,7 @@ Per l'esercizio delle funzioni trasferite con il presente decreto e in particola
 
 1.
 
-Le disposizioni dell'articolo 9 hanno effetto dal 1 gennaio 1997 ovvero dalla diversa data, se posteriore, coincidente con il primo giorno del mese successivo alla data di entrata in vigore della legge statale che, ai sensi dell'[articolo 63, comma 2, della legge costituzionale 31 gennaio 1963, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1963-01-31;1#art_63-com2) (statuto speciale della regione autonoma Friuli-Venezia Giulia), modifica l'articolo 49 dello statuto al fine di garantire il finanziamento delle funzioni trasferite con il presente decreto.
+Le disposizioni dell'articolo 9 hanno effetto dal 1 gennaio 1997 ovvero dalla diversa data, se posteriore, coincidente con il primo giorno del mese successivo alla data di entrata in vigore della legge statale che, ai sensi dell'[articolo 63, comma 2, della legge costituzionale 31 gennaio 1963, n. 1](../Leggi%20costituzionali/Statuto%20speciale%20della%20Regione%20Friuli-Venezia%20Giulia.md) (statuto speciale della regione autonoma Friuli-Venezia Giulia), modifica l'articolo 49 dello statuto al fine di garantire il finanziamento delle funzioni trasferite con il presente decreto.
 
 Note all'[art. 17](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1963;1#art_17):
  - Il [comma 2 dell'art. 63 della legge costituzionale n. 1/1963](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1963;1#art_63-com2) prevede che: "Le disposizioni contenute nel titolo IV possono essere modificate con leggi ordinarie, su proposta di ciascun membro delle Camere, del Governo e della regione, e, in ogni caso, sentita la regione".

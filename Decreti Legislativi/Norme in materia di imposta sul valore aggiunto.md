@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87, quinto comma, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Visto l'[articolo 3, comma 66, della legge 23 dicembre 1996, n. 662](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;662#art_3-com66), recante delega al Governo per l'emanazione di uno o piu' decreti legislativi in materia di imposta sul valore aggiunto;
+Visto l'[articolo 3, comma 66, della legge 23 dicembre 1996, n. 662](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_3.md), recante delega al Governo per l'emanazione di uno o piu' decreti legislativi in materia di imposta sul valore aggiunto;
 
 Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella riunione dell'11 luglio 1997;
 
@@ -675,7 +675,7 @@ Visto, il Guardasigilli: Flick
 
 AGGIORNAMENTO (4)
 
-La [L. 23 dicembre 1999, n. 488](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-12-23;488) ha disposto (con l'art. 60, comma 1) che " I termini temporali indicati nell'[articolo 11, comma 5, del decreto legislativo 2 settembre 1997, n. 313](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-09-02;313#art_11-com5), sono riferiti alla data di stipulazione dei contratti ad esecuzione continuata o differita."
+La [L. 23 dicembre 1999, n. 488](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202000.md) ha disposto (con l'art. 60, comma 1) che " I termini temporali indicati nell'[articolo 11, comma 5, del decreto legislativo 2 settembre 1997, n. 313](Norme%20in%20materia%20di%20imposta%20sul%20valore%20aggiunto.md), sono riferiti alla data di stipulazione dei contratti ad esecuzione continuata o differita."
 
 -----------------
 

@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[articolo 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge costituzionale 31 gennaio 1963, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1963-01-31;1), che ha approvato lo Statuto speciale della regione Friuli-Venezia Giulia;
+Vista la [legge costituzionale 31 gennaio 1963, n. 1](../Leggi%20costituzionali/Statuto%20speciale%20della%20Regione%20Friuli-Venezia%20Giulia.md), che ha approvato lo Statuto speciale della regione Friuli-Venezia Giulia;
 
 Sentita la Commissione paritetica prevista dall'articolo 65 dello Statuto speciale;
 
@@ -35,11 +35,11 @@ Avvertenza:
  Il testo delle note qui pubblicato e' redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
  Note alle premesse:
  - L'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5), conferisce al Presidente della Repubblica il potere di promulgare leggi e di emanare i decreti aventi valore di leggi e regolamenti.
- - La [legge costituzionale 31 gennaio 1963, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1963-01-31;1), e' stata pubblicata nella Gazzetta Ufficiale n. 29 del 1 febbraio 1963.
+ - La [legge costituzionale 31 gennaio 1963, n. 1](../Leggi%20costituzionali/Statuto%20speciale%20della%20Regione%20Friuli-Venezia%20Giulia.md), e' stata pubblicata nella Gazzetta Ufficiale n. 29 del 1 febbraio 1963.
  - L'art. 65 dello statuto speciale per la regione Friuli-Venezia Giulia, approvato con legge costituzionale 31 gennaio 1963, n. 1 (pubblicata nella Gazzetta Ufficiale n. 29 del 1 febbraio1963), e' cosi' formulato:
  "Art. 65. - Con decreti legislativi, sentita una commissione paritetica di sei membri, nominati tre dal Governo della Repubblica e tre dal consiglio regionale, saranno stabilite le norme di attuazione del presente statuto e quelle relative al trasferimento all'amministrazione regionale degli uffici statali che nel Friuli-Venezia Giulia adempiono a funzioni attribuite alla regione.".
  Nota all'art. 1:
- - Si riporta il testo dell'[art. 130, comma 1, del decreto legislativo 31 marzo 1998, n. 112](Conferimento%20di%20funzioni%20e%20compiti%20amministrativi%20dello%20Stato%20alle%20regioni%20ed%20agli%20enti%20locali%20in%20attuazione%20del%20capo%20I%20della%20legge%2015%20marzo%201997%20n.%2059.md) (Conferimento di funzioni e compiti amministrativi dello Stato alle regioni ed agli enti locali, in attuazione del capo I della [legge 15 marzo1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59)), pubblicato nel Supplemento ordinario alla Gazzetta Ufficiale n. 92 del 21 aprile 1998:
+ - Si riporta il testo dell'[art. 130, comma 1, del decreto legislativo 31 marzo 1998, n. 112](Conferimento%20di%20funzioni%20e%20compiti%20amministrativi%20dello%20Stato%20alle%20regioni%20ed%20agli%20enti%20locali%20in%20attuazione%20del%20capo%20I%20della%20legge%2015%20marzo%201997%20n.%2059.md) (Conferimento di funzioni e compiti amministrativi dello Stato alle regioni ed agli enti locali, in attuazione del capo I della [legge 15 marzo1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md)), pubblicato nel Supplemento ordinario alla Gazzetta Ufficiale n. 92 del 21 aprile 1998:
  "1. A decorrere dal centoventesimo giorno dalla data di entrata in vigore del presente decreto legislativo, la funzione di erogazione di pensioni, assegni e indennita' spettanti, ai sensi della vigente disciplina, agli invalidi civili e' trasferita ad un apposito fondo di gestione istituito presso l'Istituto nazionale della previdenza sociale."
 
 ## Art. 2. — Decorrenza del trasferimento
@@ -51,10 +51,10 @@ Il trasferimento ha effetto decorso un anno dalla data di entrata in vigore del 
 2.
 
 Entro il termine di cui al comma 1, la Regione disciplina con legge l'esercizio delle funzioni trasferite.
- La legge regionale puo' stabilire che la potesta' concessiva dei trattamenti di invalidita' civile sia esercitata dall'INPS, secondo quanto previsto dall'[articolo 80, comma 8, della legge 23 dicembre 2000, n. 388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-23;388#art_80-com8).
+ La legge regionale puo' stabilire che la potesta' concessiva dei trattamenti di invalidita' civile sia esercitata dall'INPS, secondo quanto previsto dall'[articolo 80, comma 8, della legge 23 dicembre 2000, n. 388](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202001.md).
 
 Nota all'art. 2:
- - Si riporta il testo, dell'[art. 80, comma 8, della legge 23 dicembre 2000, n. 388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-23;388#art_80-com8):
+ - Si riporta il testo, dell'[art. 80, comma 8, della legge 23 dicembre 2000, n. 388](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202001.md):
  "8. Le regioni possono prevedere che la potesta' concessiva dei trattamenti di invalidita' civile di cui all'art. 130 del decreto legislativo 31 marzo l998, n. 112, e successive modificazioni, puo' essere esercitata dall'INPS a seguito della stipula di specifici accordi tra le regioni medesime ed il predetto Istituto. Negli accordi possono essere definiti, tra l'altro, i rapporti conseguenti all'eventuale estensione della potesta' concessiva ai benefici aggiuntivi disposti dalle regioni con risorse proprie, nonche' la destinazione all'INPS, per il periodo dell'esercizio della potesta' concessiva da parte dell'Istituto, di risorse derivanti dai provvedimenti attuativi dell'art. 7 del predetto [decreto legislativo n. 112 del 1998](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998;112).".
 
 ## Art. 3. — Forme di collaborazione
@@ -106,13 +106,13 @@ Fermo restando quanto previsto dall'[articolo 130, comma 1, del decreto legislat
 
 2.
 
-Con la legge statale che, ai sensi dell'[articolo 63, comma quinto, della legge costituzionale 31 gennaio 1963, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1963-01-31;1#art_63-com5), Statuto speciale della Regione autonoma Friuli-Venezia Giulia, modifichera' il titolo IV dello Statuto, si provvedera', entro tre anni dalla data di entrata in vigore del presente decreto, a garantire, in via definitiva, il finanziamento delle spese necessarie per l'esercizio delle funzioni trasferite, previa valutazione, d'intesa tra lo Stato e la Regione, delle spese aggiuntive documentate.
+Con la legge statale che, ai sensi dell'[articolo 63, comma quinto, della legge costituzionale 31 gennaio 1963, n. 1](../Leggi%20costituzionali/Statuto%20speciale%20della%20Regione%20Friuli-Venezia%20Giulia.md), Statuto speciale della Regione autonoma Friuli-Venezia Giulia, modifichera' il titolo IV dello Statuto, si provvedera', entro tre anni dalla data di entrata in vigore del presente decreto, a garantire, in via definitiva, il finanziamento delle spese necessarie per l'esercizio delle funzioni trasferite, previa valutazione, d'intesa tra lo Stato e la Regione, delle spese aggiuntive documentate.
 
 Note all'art. 6:
  - Il testo del [comma 1, dell'art. 130, del decreto legislativo 31 marzo 1998, n. 112](Conferimento%20di%20funzioni%20e%20compiti%20amministrativi%20dello%20Stato%20alle%20regioni%20ed%20agli%20enti%20locali%20in%20attuazione%20del%20capo%20I%20della%20legge%2015%20marzo%201997%20n.%2059.md), e' riportato nella nota all'art. 1.
  - Il decreto del Presidente del Consiglio dei Ministri 26 maggio 2000 e' citato nelle note all'art. 4.
  - Il decreto del Presidente del Consiglio dei Ministri 13 novembre 2000 e' citato nelle note all'art. 4.
- - L'[art. 63, della legge costituzionale 31 gennaio 1963, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1963-01-31;1#art_63) (Statuto speciale della regione Friuli-Venezia Giulia), e' stato integrato dall'art. 5 della legge costituzionale 31 gennaio 2001, n. 2 (pubblicata nella Gazzetta Ufficiale n. 26 del 1 febbraio 2001, si riporta il testo del quinto comma:
+ - L'[art. 63, della legge costituzionale 31 gennaio 1963, n. 1](../Leggi%20costituzionali/Statuto%20speciale%20della%20Regione%20Friuli-Venezia%20Giulia.md) (Statuto speciale della regione Friuli-Venezia Giulia), e' stato integrato dall'art. 5 della legge costituzionale 31 gennaio 2001, n. 2 (pubblicata nella Gazzetta Ufficiale n. 26 del 1 febbraio 2001, si riporta il testo del quinto comma:
  "Le disposizioni contenute nel titolo IV possono essere modificate con leggi ordinarie, su proposta di ciascun membro delle Camere, del Governo e della regione, e, in ogni caso, sentita la regione.".
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.

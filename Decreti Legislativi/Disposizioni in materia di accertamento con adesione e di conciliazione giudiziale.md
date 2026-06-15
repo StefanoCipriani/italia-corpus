@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto l'[articolo 3, comma 120, della legge 23 dicembre 1996, n. 662](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;662#art_3-com120), recante delega al Governo per l'emanazione di uno o piu' decreti legislativi per la revisione organica della disciplina dell'accertamento con adesione e della conciliazione giudiziale;
+Visto l'[articolo 3, comma 120, della legge 23 dicembre 1996, n. 662](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_3.md), recante delega al Governo per l'emanazione di uno o piu' decreti legislativi per la revisione organica della disciplina dell'accertamento con adesione e della conciliazione giudiziale;
 
 Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella riunione del 21 marzo 1997;
 
@@ -44,7 +44,7 @@ Lo schema di atto, comunicato al contribuente ai fini del contraddittorio preven
 
 AGGIORNAMENTO (23)
 
-Il [D.Lgs. 12 febbraio 2024, n. 13](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-02-12;13) ha disposto (con l'art. 41, comma 2) che "L'articolo 1 si applica con riferimento agli atti emessi dal 30 aprile 2024, mentre le disposizioni di cui al titolo II si applicano a decorrere dal periodo di imposta successivo a quello in corso al 31 dicembre 2023".
+Il [D.Lgs. 12 febbraio 2024, n. 13](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20in%20materia%20di%20accertamento%20tributario%20e%20di%20concordato%20preventivo%20biennale.%2024G00026.md) ha disposto (con l'art. 41, comma 2) che "L'articolo 1 si applica con riferimento agli atti emessi dal 30 aprile 2024, mentre le disposizioni di cui al titolo II si applicano a decorrere dal periodo di imposta successivo a quello in corso al 31 dicembre 2023".
 
 ### Art. 2. — Definizione degli accertamenti nelle imposte sui redditi e nell'imposta sul valore aggiunto
 
@@ -78,7 +78,7 @@ A seguito della definizione, le sanzioni per le violazioni concernenti i tributi
 
 6.
 
-Le disposizioni dei commi da 1 a 5 si applicano anche in relazione ai periodi d'imposta per i quali era applicabile la definizione ai sensi dell'[articolo 3 del decreto-legge 30 settembre 1994, n. 564](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1994-09-30;564#art_3), convertito, con modificazioni, dalla [legge 30 novembre 1994, n. 656, e dell'articolo 2, comma 137](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20settembre%201994%20n.%20564%20recante%20disposizioni%20urgenti%20in%20materia%20fiscale.md), della [legge 23 dicembre 1996, n. 662](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;662).
+Le disposizioni dei commi da 1 a 5 si applicano anche in relazione ai periodi d'imposta per i quali era applicabile la definizione ai sensi dell'[articolo 3 del decreto-legge 30 settembre 1994, n. 564](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1994-09-30;564#art_3), convertito, con modificazioni, dalla [legge 30 novembre 1994, n. 656, e dell'articolo 2, comma 137](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20settembre%201994%20n.%20564%20recante%20disposizioni%20urgenti%20in%20materia%20fiscale.md), della [legge 23 dicembre 1996, n. 662](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_3.md).
 
 7.
 
@@ -88,13 +88,13 @@ Le disposizioni del presente articolo si applicano, in quanto compatibili, anche
 
 AGGIORNAMENTO (12)
 
-La [L. 13 dicembre 2010, n. 220](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2010-12-13;220) ha disposto (con l'art. 1, comma 21) che "Le disposizioni di cui al comma 18 si applicano con riferimento agli atti definibili emessi dagli uffici dell'Agenzia delle entrate a decorrere dal 1° febbraio 2011".
+La [L. 13 dicembre 2010, n. 220](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202011.%2010G0238.md) ha disposto (con l'art. 1, comma 21) che "Le disposizioni di cui al comma 18 si applicano con riferimento agli atti definibili emessi dagli uffici dell'Agenzia delle entrate a decorrere dal 1° febbraio 2011".
 
 -------------
 
 AGGIORNAMENTO (20)
 
-Il [D.L. 24 aprile 2017, n. 50](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2017-04-24;50), convertito con modificazioni dalla [L. 21 giugno 2017, n. 96](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2024%20aprile%202017%20n.%2050%20recante%20disposizioni%20urgenti%20in%20materia%20finanziaria%20iniziative%20a%20favore%20degli%20enti%20territoriali%20ulteriori%20int_61cabed4daef.md), ha disposto (con l'art. 1-bis, comma 6) che "Nei confronti dei soggetti di cui al comma 1 che estinguono i debiti tributari della stabile organizzazione, relativi ai periodi d'imposta per i quali sono scaduti i termini di presentazione delle dichiarazioni, versando le somme dovute in base all'accertamento con adesione ai sensi dell'[articolo 8, comma 1, del decreto legislativo 19 giugno 1997, n. 218](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-06-19;218#art_8-com1), le sanzioni amministrative applicabili ai sensi dell'articolo 2, comma 5, del medesimo [decreto legislativo n. 218 del 1997](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997;218) sono ridotte alla meta'".
+Il [D.L. 24 aprile 2017, n. 50](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2017-04-24;50), convertito con modificazioni dalla [L. 21 giugno 2017, n. 96](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2024%20aprile%202017%20n.%2050%20recante%20disposizioni%20urgenti%20in%20materia%20finanziaria%20iniziative%20a%20favore%20degli%20enti%20territoriali%20ulteriori%20int_61cabed4daef.md), ha disposto (con l'art. 1-bis, comma 6) che "Nei confronti dei soggetti di cui al comma 1 che estinguono i debiti tributari della stabile organizzazione, relativi ai periodi d'imposta per i quali sono scaduti i termini di presentazione delle dichiarazioni, versando le somme dovute in base all'accertamento con adesione ai sensi dell'[articolo 8, comma 1, del decreto legislativo 19 giugno 1997, n. 218](Disposizioni%20in%20materia%20di%20accertamento%20con%20adesione%20e%20di%20conciliazione%20giudiziale.md), le sanzioni amministrative applicabili ai sensi dell'articolo 2, comma 5, del medesimo [decreto legislativo n. 218 del 1997](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997;218) sono ridotte alla meta'".
 
 ### Art. 3. — Definizione degli accertamenti
  nelle altre imposte indirette
@@ -119,7 +119,7 @@ L'accertamento definito con adesione non e' soggetto ad impugnazione e non e' in
 
 AGGIORNAMENTO (12)
 
-La [L. 13 dicembre 2010, n. 220](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2010-12-13;220) ha disposto (con l'art. 1, comma 21) che "Le disposizioni di cui al comma 18 si applicano con riferimento agli atti definibili emessi dagli uffici dell'Agenzia delle entrate a decorrere dal 1° febbraio 2011".
+La [L. 13 dicembre 2010, n. 220](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202011.%2010G0238.md) ha disposto (con l'art. 1, comma 21) che "Le disposizioni di cui al comma 18 si applicano con riferimento agli atti definibili emessi dagli uffici dell'Agenzia delle entrate a decorrere dal 1° febbraio 2011".
 
 ## ACCERTAMENTO CON ADESIONE E CONCILIAZIONE GIUDIZIALE Capo II Procedimento per la definizione degli accertamenti nelle imposte sui redditi e nell'imposta sul valore aggiunto.
 
@@ -158,19 +158,19 @@ Non si applicano le disposizioni dell'[articolo 44 del decreto del Presidente de
 
 1-bis.
 
-COMMA ABROGATO DALLA [L. 23 DICEMBRE 2014, N. 190](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-12-23;190). (15) (16)
+COMMA ABROGATO DALLA [L. 23 DICEMBRE 2014, N. 190](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202015.%2014G00203.md). (15) (16)
 
 1-ter.
 
-COMMA ABROGATO DALLA [L. 23 DICEMBRE 2014, N. 190](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-12-23;190). (15) (16)
+COMMA ABROGATO DALLA [L. 23 DICEMBRE 2014, N. 190](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202015.%2014G00203.md). (15) (16)
 
 1-quater.
 
-COMMA ABROGATO DALLA [L. 23 DICEMBRE 2014, N. 190](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-12-23;190). (15) (16)
+COMMA ABROGATO DALLA [L. 23 DICEMBRE 2014, N. 190](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202015.%2014G00203.md). (15) (16)
 
 1-quinquies.
 
-COMMA ABROGATO DALLA [L. 23 DICEMBRE 2014, N. 190](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-12-23;190). (15) (16)
+COMMA ABROGATO DALLA [L. 23 DICEMBRE 2014, N. 190](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202015.%2014G00203.md). (15) (16)
 
 2.
 
@@ -188,13 +188,13 @@ Qualora tra la data di comparizione, di cui al comma 1, lettera b), e quella di 
 
 AGGIORNAMENTO (15)
 
-La [L. 23 dicembre 2014, n. 190](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-12-23;190) ha disposto (con l'art. 1, comma 638) che "Le disposizioni di cui agli [articoli 5, commi da 1-bis](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-06-19;218#art_5-com1bis) [a 1-quinquies](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-06-19;218#art_5-com1quinquies), e [11, comma 1-bis, del decreto legislativo 19 giugno 1997, n. 218](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-06-19;218#art_11-com1bis), nel testo vigente alla data di entrata in vigore della presente legge, continuano ad applicarsi agli inviti al contraddittorio in materia di imposte sui redditi, di imposta sul valore aggiunto e di altre imposte indirette, notificati entro il 31 dicembre 2015, e le disposizioni di cui all'articolo 5-bis dello stesso [decreto legislativo n. 218 del 1997](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997;218) continuano ad applicarsi ai processi verbali di constatazione in materia di imposte sui redditi e di imposta sul valore aggiunto consegnati entro la stessa data".
+La [L. 23 dicembre 2014, n. 190](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202015.%2014G00203.md) ha disposto (con l'art. 1, comma 638) che "Le disposizioni di cui agli [articoli 5, commi da 1-bis](Disposizioni%20in%20materia%20di%20accertamento%20con%20adesione%20e%20di%20conciliazione%20giudiziale.md) [a 1-quinquies](Disposizioni%20in%20materia%20di%20accertamento%20con%20adesione%20e%20di%20conciliazione%20giudiziale.md), e [11, comma 1-bis, del decreto legislativo 19 giugno 1997, n. 218](Disposizioni%20in%20materia%20di%20accertamento%20con%20adesione%20e%20di%20conciliazione%20giudiziale.md), nel testo vigente alla data di entrata in vigore della presente legge, continuano ad applicarsi agli inviti al contraddittorio in materia di imposte sui redditi, di imposta sul valore aggiunto e di altre imposte indirette, notificati entro il 31 dicembre 2015, e le disposizioni di cui all'articolo 5-bis dello stesso [decreto legislativo n. 218 del 1997](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997;218) continuano ad applicarsi ai processi verbali di constatazione in materia di imposte sui redditi e di imposta sul valore aggiunto consegnati entro la stessa data".
 
 ---------------
 
 AGGIORNAMENTO (16)
 
-Il [D.L. 30 settembre 2015, n. 153](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2015-09-30;153), convertito con modificazioni dalla [L. 20 novembre 2015, n. 187](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20settembre%202015%20n.%20153%20recante%20misure%20urgenti%20per%20la%20finanza%20pubblica.%2015G00199.md) come modificato dall'avviso di rettifica (in G.U. 01/10/2015, n. 228) ha disposto (con l'art. 2, comma 2, lettera a)) che, ai soli fini della collaborazione volontaria di cui alla [legge 15 dicembre 2014, n. 186](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-12-15;186), "le disposizioni di cui all'[articolo 5, commi da 1-bis](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-06-19;218#art_5-com1bis) [a 1-quinquies del decreto legislativo 19 giugno 1997, n. 218](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-06-19;218#art_5-com1quinquies), nel testo vigente alla data del 30 dicembre 2014, continuano ad applicarsi fino al 31 dicembre 2016".
+Il [D.L. 30 settembre 2015, n. 153](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2015-09-30;153), convertito con modificazioni dalla [L. 20 novembre 2015, n. 187](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20settembre%202015%20n.%20153%20recante%20misure%20urgenti%20per%20la%20finanza%20pubblica.%2015G00199.md) come modificato dall'avviso di rettifica (in G.U. 01/10/2015, n. 228) ha disposto (con l'art. 2, comma 2, lettera a)) che, ai soli fini della collaborazione volontaria di cui alla [legge 15 dicembre 2014, n. 186](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-12-15;186), "le disposizioni di cui all'[articolo 5, commi da 1-bis](Disposizioni%20in%20materia%20di%20accertamento%20con%20adesione%20e%20di%20conciliazione%20giudiziale.md) [a 1-quinquies del decreto legislativo 19 giugno 1997, n. 218](Disposizioni%20in%20materia%20di%20accertamento%20con%20adesione%20e%20di%20conciliazione%20giudiziale.md), nel testo vigente alla data del 30 dicembre 2014, continuano ad applicarsi fino al 31 dicembre 2016".
 
 ---------------
 
@@ -206,7 +206,7 @@ Il [D.L. 30 aprile 2019, n. 34](https://www.normattiva.it/uri-res/N2Ls?urn:nir:s
 
 AGGIORNAMENTO (23)
 
-Il [D.Lgs. 12 febbraio 2024, n. 13](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-02-12;13) ha disposto (con l'art. 41, comma 2) che "L'articolo 1 si applica con riferimento agli atti emessi dal 30 aprile 2024, mentre le disposizioni di cui al titolo II si applicano a decorrere dal periodo di imposta successivo a quello in corso al 31 dicembre 2023".
+Il [D.Lgs. 12 febbraio 2024, n. 13](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20in%20materia%20di%20accertamento%20tributario%20e%20di%20concordato%20preventivo%20biennale.%2024G00026.md) ha disposto (con l'art. 41, comma 2) che "L'articolo 1 si applica con riferimento agli atti emessi dal 30 aprile 2024, mentre le disposizioni di cui al titolo II si applicano a decorrere dal periodo di imposta successivo a quello in corso al 31 dicembre 2023".
 
 ### Art. 5-bis.
 
@@ -217,7 +217,7 @@ Il [D.Lgs. 12 febbraio 2024, n. 13](https://www.normattiva.it/uri-res/N2Ls?urn:n
 
 AGGIORNAMENTO (15)
 
-La [L. 23 dicembre 2014, n. 190](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-12-23;190) ha disposto (con l'art. 1, comma 638) che "Le disposizioni di cui agli [articoli 5, commi da 1-bis](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-06-19;218#art_5-com1bis) [a 1-quinquies](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-06-19;218#art_5-com1quinquies), e [11, comma 1-bis, del decreto legislativo 19 giugno 1997, n. 218](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-06-19;218#art_11-com1bis), nel testo vigente alla data di entrata in vigore della presente legge, continuano ad applicarsi agli inviti al contraddittorio in materia di imposte sui redditi, di imposta sul valore aggiunto e di altre imposte indirette, notificati entro il 31 dicembre 2015, e le disposizioni di cui all'articolo 5-bis dello stesso [decreto legislativo n. 218 del 1997](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997;218) continuano ad applicarsi ai processi verbali di constatazione in materia di imposte sui redditi e di imposta sul valore aggiunto consegnati entro la stessa data".
+La [L. 23 dicembre 2014, n. 190](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202015.%2014G00203.md) ha disposto (con l'art. 1, comma 638) che "Le disposizioni di cui agli [articoli 5, commi da 1-bis](Disposizioni%20in%20materia%20di%20accertamento%20con%20adesione%20e%20di%20conciliazione%20giudiziale.md) [a 1-quinquies](Disposizioni%20in%20materia%20di%20accertamento%20con%20adesione%20e%20di%20conciliazione%20giudiziale.md), e [11, comma 1-bis, del decreto legislativo 19 giugno 1997, n. 218](Disposizioni%20in%20materia%20di%20accertamento%20con%20adesione%20e%20di%20conciliazione%20giudiziale.md), nel testo vigente alla data di entrata in vigore della presente legge, continuano ad applicarsi agli inviti al contraddittorio in materia di imposte sui redditi, di imposta sul valore aggiunto e di altre imposte indirette, notificati entro il 31 dicembre 2015, e le disposizioni di cui all'articolo 5-bis dello stesso [decreto legislativo n. 218 del 1997](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997;218) continuano ad applicarsi ai processi verbali di constatazione in materia di imposte sui redditi e di imposta sul valore aggiunto consegnati entro la stessa data".
 
 ### Art. 5-ter.
 
@@ -227,7 +227,7 @@ La [L. 23 dicembre 2014, n. 190](https://www.normattiva.it/uri-res/N2Ls?urn:nir:
 
 AGGIORNAMENTO (23)
 
-Il [D.Lgs. 12 febbraio 2024, n. 13](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-02-12;13) ha disposto (con l'art. 41, comma 2) che "L'articolo 1 si applica con riferimento agli atti emessi dal 30 aprile 2024, mentre le disposizioni di cui al titolo II si applicano a decorrere dal periodo di imposta successivo a quello in corso al 31 dicembre 2023".
+Il [D.Lgs. 12 febbraio 2024, n. 13](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20in%20materia%20di%20accertamento%20tributario%20e%20di%20concordato%20preventivo%20biennale.%2024G00026.md) ha disposto (con l'art. 41, comma 2) che "L'articolo 1 si applica con riferimento agli atti emessi dal 30 aprile 2024, mentre le disposizioni di cui al titolo II si applicano a decorrere dal periodo di imposta successivo a quello in corso al 31 dicembre 2023".
 
 ### Art. 5-quater. — (( (Adesione ai verbali di constatazione). ))
 
@@ -270,7 +270,7 @@ Sull'importo delle rate successive alla prima sono dovuti gli interessi al saggi
 
 AGGIORNAMENTO (23)
 
-Il [D.Lgs. 12 febbraio 2024, n. 13](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-02-12;13) ha disposto (con l'art. 41, comma 2) che "L'articolo 1 si applica con riferimento agli atti emessi dal 30 aprile 2024, mentre le disposizioni di cui al titolo II si applicano a decorrere dal periodo di imposta successivo a quello in corso al 31 dicembre 2023".
+Il [D.Lgs. 12 febbraio 2024, n. 13](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20in%20materia%20di%20accertamento%20tributario%20e%20di%20concordato%20preventivo%20biennale.%2024G00026.md) ha disposto (con l'art. 41, comma 2) che "L'articolo 1 si applica con riferimento agli atti emessi dal 30 aprile 2024, mentre le disposizioni di cui al titolo II si applicano a decorrere dal periodo di imposta successivo a quello in corso al 31 dicembre 2023".
 
 ### Art. 6. — Istanza del contribuente
 
@@ -312,7 +312,7 @@ Il [D.L. 30 aprile 2019, n. 34](https://www.normattiva.it/uri-res/N2Ls?urn:nir:s
 
 AGGIORNAMENTO (23)
 
-Il [D.Lgs. 12 febbraio 2024, n. 13](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-02-12;13) ha disposto (con l'art. 41, comma 2) che "L'articolo 1 si applica con riferimento agli atti emessi dal 30 aprile 2024, mentre le disposizioni di cui al titolo II si applicano a decorrere dal periodo di imposta successivo a quello in corso al 31 dicembre 2023".
+Il [D.Lgs. 12 febbraio 2024, n. 13](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20in%20materia%20di%20accertamento%20tributario%20e%20di%20concordato%20preventivo%20biennale.%2024G00026.md) ha disposto (con l'art. 41, comma 2) che "L'articolo 1 si applica con riferimento agli atti emessi dal 30 aprile 2024, mentre le disposizioni di cui al titolo II si applicano a decorrere dal periodo di imposta successivo a quello in corso al 31 dicembre 2023".
 
 ### Art. 7. — Atto di accertamento con adesione
 
@@ -336,20 +336,20 @@ Nel caso in cui il contribuente abbia presentato istanza di accertamento con ade
 
 AGGIORNAMENTO (18)
 
-Il [D.Lgs. 24 settembre 2015, n. 158](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-09-24;158), ha disposto (con l'art. 25, comma 5) che "Le disposizioni di cui ai commi precedenti entrano in vigore il 1° gennaio 2016, con riferimento ai periodi di imposta per i quali, alla predetta data, sono ancora pendenti i termini di cui all'[articolo 43 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600](../DPR/Disposizioni%20comuni%20in%20materia%20di%20accertamento%20delle%20imposte%20sui%20redditi.md)". 
+Il [D.Lgs. 24 settembre 2015, n. 158](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20sistema%20sanzionatorio%20in%20attuazione%20dellarticolo%208%20comma%201%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00169.md), ha disposto (con l'art. 25, comma 5) che "Le disposizioni di cui ai commi precedenti entrano in vigore il 1° gennaio 2016, con riferimento ai periodi di imposta per i quali, alla predetta data, sono ancora pendenti i termini di cui all'[articolo 43 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600](../DPR/Disposizioni%20comuni%20in%20materia%20di%20accertamento%20delle%20imposte%20sui%20redditi.md)". 
  Ha inoltre disposto (con l'art. 32, comma 1) che la presente modifica si applica a decorrere dal 1 gennaio 2017.
 
 -------------
 
 AGGIORNAMENTO (19)
 
-Il [D.Lgs. 24 settembre 2015, n. 158](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-09-24;158) come modificato dalla [L. 28 dicembre 2015, n. 208](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-12-28;208) ha disposto (con l'art. 32, comma 1) che la presente modifica si applica a decorrere dal 1 gennaio 2016.
+Il [D.Lgs. 24 settembre 2015, n. 158](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20sistema%20sanzionatorio%20in%20attuazione%20dellarticolo%208%20comma%201%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00169.md) come modificato dalla [L. 28 dicembre 2015, n. 208](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202016.%2015G00222.md) ha disposto (con l'art. 32, comma 1) che la presente modifica si applica a decorrere dal 1 gennaio 2016.
 
 ---------------
 
 AGGIORNAMENTO (23)
 
-Il [D.Lgs. 12 febbraio 2024, n. 13](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-02-12;13) ha disposto (con l'art. 41, comma 2) che "L'articolo 1 si applica con riferimento agli atti emessi dal 30 aprile 2024, mentre le disposizioni di cui al titolo II si applicano a decorrere dal periodo di imposta successivo a quello in corso al 31 dicembre 2023".
+Il [D.Lgs. 12 febbraio 2024, n. 13](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20in%20materia%20di%20accertamento%20tributario%20e%20di%20concordato%20preventivo%20biennale.%2024G00026.md) ha disposto (con l'art. 41, comma 2) che "L'articolo 1 si applica con riferimento agli atti emessi dal 30 aprile 2024, mentre le disposizioni di cui al titolo II si applicano a decorrere dal periodo di imposta successivo a quello in corso al 31 dicembre 2023".
 
 ### Art. 8. — (Adempimenti successivi).
 
@@ -361,7 +361,7 @@ Il versamento delle somme dovute per effetto dell'accertamento con adesione e' e
 
 Le somme dovute possono essere versate anche ratealmente in un massimo di otto rate trimestrali di pari importo o in un massimo di sedici rate trimestrali se le somme dovute superano i cinquantamila euro. L'importo della prima rata e' versato entro il termine indicato nel comma 1. Le rate successive alla prima devono essere versate entro l'ultimo giorno di ciascun trimestre. Sull'importo delle rate successive alla prima sono dovuti gli interessi calcolati dal giorno successivo al termine di versamento della prima rata.
 
-((2-bis. Per il versamento delle somme dovute a seguito di un accertamento con adesione conseguente alla definizione di atti di recupero non e' possibile avvalersi della rateazione e della compensazione prevista dall'[articolo 17 del decreto legislativo 9 luglio 1997, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-07-09;241#art_17).))
+((2-bis. Per il versamento delle somme dovute a seguito di un accertamento con adesione conseguente alla definizione di atti di recupero non e' possibile avvalersi della rateazione e della compensazione prevista dall'[articolo 17 del decreto legislativo 9 luglio 1997, n. 241](Norme%20di%20semplificazione%20degli%20adempimenti%20dei%20contribuenti%20in%20sede%20di%20dichiarazione%20dei%20redditi%20e%20dellimposta%20sul%20valore%20aggiunto%20nonche%20di%20modernizzazione%20del%20sistema%20di%20gestione%20delle%20dichiarazioni.md).))
 
 ((23))
 
@@ -378,25 +378,25 @@ Per le modalita' di versamento delle somme dovute si applicano le disposizioni d
 
 AGGIORNAMENTO (10)
 
-Il [D.L. 31 maggio 2010, n. 78](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2010-05-31;78), convertito con modificazioni dalla [L. 30 luglio 2010, n. 122](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20maggio%202010%20n.%2078%20recante%20misure%20urgenti%20in%20materia%20di%20stabilizzazione%20finanziaria%20e%20di%20competitivita%20economica.%2010G0146.md), ha disposto (con l'art. 52-bis, comma 1) che "A decorrere dalla data di entrata in vigore della legge di conversione del presente decreto e fino al 31 dicembre 2011, la garanzia di cui al [comma 2 dell'articolo 8 del decreto legislativo 19 giugno 1997, n. 218](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-06-19;218#art_8-com2), puo' essere prestata anche mediante ipoteca volontaria di primo grado per un valore, accettato dall'amministrazione finanziaria, pari al doppio del debito erariale ovvero della somma oggetto di rateizzazione".
+Il [D.L. 31 maggio 2010, n. 78](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2010-05-31;78), convertito con modificazioni dalla [L. 30 luglio 2010, n. 122](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20maggio%202010%20n.%2078%20recante%20misure%20urgenti%20in%20materia%20di%20stabilizzazione%20finanziaria%20e%20di%20competitivita%20economica.%2010G0146.md), ha disposto (con l'art. 52-bis, comma 1) che "A decorrere dalla data di entrata in vigore della legge di conversione del presente decreto e fino al 31 dicembre 2011, la garanzia di cui al [comma 2 dell'articolo 8 del decreto legislativo 19 giugno 1997, n. 218](Disposizioni%20in%20materia%20di%20accertamento%20con%20adesione%20e%20di%20conciliazione%20giudiziale.md), puo' essere prestata anche mediante ipoteca volontaria di primo grado per un valore, accettato dall'amministrazione finanziaria, pari al doppio del debito erariale ovvero della somma oggetto di rateizzazione".
 
 -------------
 
 AGGIORNAMENTO (14)
 
-Il [D.L. 6 luglio 2011, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-07-06;98), convertito con modificazioni dalla [L. 15 luglio 2011, n. 111](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20luglio%202011%20n.%2098%20recante%20disposizioni%20urgenti%20per%20la%20stabilizzazione%20finanziaria.%2011G0153.md), ha disposto (con l'art. 23, comma 20) che "Le disposizioni di cui ai commi da 17 a 19 non si applicano agli atti di adesione, alle definizioni ai sensi dell'[articolo 15 del decreto legislativo 19 giugno 1997, n. 218](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-06-19;218#art_15), ed alle conciliazioni giudiziali gia' perfezionate, anche con la prestazione della garanzia, alla data di entrata in vigore del presente decreto".
+Il [D.L. 6 luglio 2011, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-07-06;98), convertito con modificazioni dalla [L. 15 luglio 2011, n. 111](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20luglio%202011%20n.%2098%20recante%20disposizioni%20urgenti%20per%20la%20stabilizzazione%20finanziaria.%2011G0153.md), ha disposto (con l'art. 23, comma 20) che "Le disposizioni di cui ai commi da 17 a 19 non si applicano agli atti di adesione, alle definizioni ai sensi dell'[articolo 15 del decreto legislativo 19 giugno 1997, n. 218](Disposizioni%20in%20materia%20di%20accertamento%20con%20adesione%20e%20di%20conciliazione%20giudiziale.md), ed alle conciliazioni giudiziali gia' perfezionate, anche con la prestazione della garanzia, alla data di entrata in vigore del presente decreto".
 
 -------------
 
 AGGIORNAMENTO (19)
 
-Il [D.Lgs. 24 dicembre 2015, n. 159](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-12-24;159) ha disposto (con l'art. 15, comma 3) che "Le disposizioni di cui all'articolo 2, commi da 2 a 4, non si applicano agli atti di adesione, agli atti definiti ai sensi dell'[articolo 15 del decreto legislativo 19 giugno 1997, n. 218](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-06-19;218#art_15), alle conciliazioni giudiziali e alle mediazioni tributarie gia' perfezionati alla data di entrata in vigore del presente decreto".
+Il [D.Lgs. 24 dicembre 2015, n. 159](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-12-24;159) ha disposto (con l'art. 15, comma 3) che "Le disposizioni di cui all'articolo 2, commi da 2 a 4, non si applicano agli atti di adesione, agli atti definiti ai sensi dell'[articolo 15 del decreto legislativo 19 giugno 1997, n. 218](Disposizioni%20in%20materia%20di%20accertamento%20con%20adesione%20e%20di%20conciliazione%20giudiziale.md), alle conciliazioni giudiziali e alle mediazioni tributarie gia' perfezionati alla data di entrata in vigore del presente decreto".
 
 ---------------
 
 AGGIORNAMENTO (23)
 
-Il [D.Lgs. 12 febbraio 2024, n. 13](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-02-12;13) ha disposto (con l'art. 41, comma 2) che "L'articolo 1 si applica con riferimento agli atti emessi dal 30 aprile 2024, mentre le disposizioni di cui al titolo II si applicano a decorrere dal periodo di imposta successivo a quello in corso al 31 dicembre 2023".
+Il [D.Lgs. 12 febbraio 2024, n. 13](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20in%20materia%20di%20accertamento%20tributario%20e%20di%20concordato%20preventivo%20biennale.%2024G00026.md) ha disposto (con l'art. 41, comma 2) che "L'articolo 1 si applica con riferimento agli atti emessi dal 30 aprile 2024, mentre le disposizioni di cui al titolo II si applicano a decorrere dal periodo di imposta successivo a quello in corso al 31 dicembre 2023".
 
 ### Art. 9. — Perfezionamento della definizione
 
@@ -408,7 +408,7 @@ La definizione si perfeziona con il versamento di cui all'articolo 8, comma 1, o
 
 AGGIORNAMENTO (14)
 
-Il [D.L. 6 luglio 2011, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-07-06;98), convertito con modificazioni dalla [L. 15 luglio 2011, n. 111](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20luglio%202011%20n.%2098%20recante%20disposizioni%20urgenti%20per%20la%20stabilizzazione%20finanziaria.%2011G0153.md), ha disposto (con l'art. 23, comma 20) che "Le disposizioni di cui ai commi da 17 a 19 non si applicano agli atti di adesione, alle definizioni ai sensi dell'[articolo 15 del decreto legislativo 19 giugno 1997, n. 218](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-06-19;218#art_15), ed alle conciliazioni giudiziali gia' perfezionate, anche con la prestazione della garanzia, alla data di entrata in vigore del presente decreto".
+Il [D.L. 6 luglio 2011, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-07-06;98), convertito con modificazioni dalla [L. 15 luglio 2011, n. 111](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20luglio%202011%20n.%2098%20recante%20disposizioni%20urgenti%20per%20la%20stabilizzazione%20finanziaria.%2011G0153.md), ha disposto (con l'art. 23, comma 20) che "Le disposizioni di cui ai commi da 17 a 19 non si applicano agli atti di adesione, alle definizioni ai sensi dell'[articolo 15 del decreto legislativo 19 giugno 1997, n. 218](Disposizioni%20in%20materia%20di%20accertamento%20con%20adesione%20e%20di%20conciliazione%20giudiziale.md), ed alle conciliazioni giudiziali gia' perfezionate, anche con la prestazione della garanzia, alla data di entrata in vigore del presente decreto".
 
 ### Art. 9-bis. — Soggetti aderenti al consolidato nazionale
 
@@ -458,7 +458,7 @@ Fino all'entrata in funzione dell'ufficio indicato nel comma 1, e' competente l'
 
 1-bis.
 
-COMMA ABROGATO DALLA [L. 23 DICEMBRE 2014, N. 190](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-12-23;190). (15)
+COMMA ABROGATO DALLA [L. 23 DICEMBRE 2014, N. 190](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202015.%2014G00203.md). (15)
 
 ((1-ter. Qualora tra la data di comparizione, di cui al comma 1, lettera b), e quella di decadenza dell'amministrazione dal potere di notificazione dell'atto impositivo intercorrono meno di novanta giorni, il termine di decadenza per la notificazione dell'atto impositivo e' automaticamente prorogato di centoventi giorni, in deroga al termine ordinario.))
 
@@ -468,13 +468,13 @@ COMMA ABROGATO DALLA [L. 23 DICEMBRE 2014, N. 190](https://www.normattiva.it/uri
 
 AGGIORNAMENTO (15)
 
-La [L. 23 dicembre 2014, n. 190](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-12-23;190) ha disposto (con l'art. 1, comma 638) che "Le disposizioni di cui agli [articoli 5, commi da 1-bis](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-06-19;218#art_5-com1bis) [a 1-quinquies](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-06-19;218#art_5-com1quinquies), e [11, comma 1-bis, del decreto legislativo 19 giugno 1997, n. 218](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-06-19;218#art_11-com1bis), nel testo vigente alla data di entrata in vigore della presente legge, continuano ad applicarsi agli inviti al contraddittorio in materia di imposte sui redditi, di imposta sul valore aggiunto e di altre imposte indirette, notificati entro il 31 dicembre 2015, e le disposizioni di cui all'articolo 5-bis dello stesso [decreto legislativo n. 218 del 1997](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997;218) continuano ad applicarsi ai processi verbali di constatazione in materia di imposte sui redditi e di imposta sul valore aggiunto consegnati entro la stessa data".
+La [L. 23 dicembre 2014, n. 190](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202015.%2014G00203.md) ha disposto (con l'art. 1, comma 638) che "Le disposizioni di cui agli [articoli 5, commi da 1-bis](Disposizioni%20in%20materia%20di%20accertamento%20con%20adesione%20e%20di%20conciliazione%20giudiziale.md) [a 1-quinquies](Disposizioni%20in%20materia%20di%20accertamento%20con%20adesione%20e%20di%20conciliazione%20giudiziale.md), e [11, comma 1-bis, del decreto legislativo 19 giugno 1997, n. 218](Disposizioni%20in%20materia%20di%20accertamento%20con%20adesione%20e%20di%20conciliazione%20giudiziale.md), nel testo vigente alla data di entrata in vigore della presente legge, continuano ad applicarsi agli inviti al contraddittorio in materia di imposte sui redditi, di imposta sul valore aggiunto e di altre imposte indirette, notificati entro il 31 dicembre 2015, e le disposizioni di cui all'articolo 5-bis dello stesso [decreto legislativo n. 218 del 1997](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997;218) continuano ad applicarsi ai processi verbali di constatazione in materia di imposte sui redditi e di imposta sul valore aggiunto consegnati entro la stessa data".
 
 ---------------
 
 AGGIORNAMENTO (23)
 
-Il [D.Lgs. 12 febbraio 2024, n. 13](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-02-12;13) ha disposto (con l'art. 41, comma 2) che "L'articolo 1 si applica con riferimento agli atti emessi dal 30 aprile 2024, mentre le disposizioni di cui al titolo II si applicano a decorrere dal periodo di imposta successivo a quello in corso al 31 dicembre 2023".
+Il [D.Lgs. 12 febbraio 2024, n. 13](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20in%20materia%20di%20accertamento%20tributario%20e%20di%20concordato%20preventivo%20biennale.%2024G00026.md) ha disposto (con l'art. 41, comma 2) che "L'articolo 1 si applica con riferimento agli atti emessi dal 30 aprile 2024, mentre le disposizioni di cui al titolo II si applicano a decorrere dal periodo di imposta successivo a quello in corso al 31 dicembre 2023".
 
 ### Art. 12. — Istanza del contribuente
 
@@ -511,7 +511,7 @@ Si applica il comma 1-quater dell'articolo 7. (23)
 
 AGGIORNAMENTO (23)
 
-Il [D.Lgs. 12 febbraio 2024, n. 13](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-02-12;13) ha disposto (con l'art. 41, comma 2) che "L'articolo 1 si applica con riferimento agli atti emessi dal 30 aprile 2024, mentre le disposizioni di cui al titolo II si applicano a decorrere dal periodo di imposta successivo a quello in corso al 31 dicembre 2023".
+Il [D.Lgs. 12 febbraio 2024, n. 13](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20in%20materia%20di%20accertamento%20tributario%20e%20di%20concordato%20preventivo%20biennale.%2024G00026.md) ha disposto (con l'art. 41, comma 2) che "L'articolo 1 si applica con riferimento agli atti emessi dal 30 aprile 2024, mentre le disposizioni di cui al titolo II si applicano a decorrere dal periodo di imposta successivo a quello in corso al 31 dicembre 2023".
 
 ### Art. 13. — Atto di accertamento con adesione, adempimenti
  successivi e definizione
@@ -544,7 +544,7 @@ All'[articolo 37 del decreto legislativo 31 dicembre 1992, n. 545](Ordinamento%2
  "4 -bis. Il dirigente dell'ufficio del Ministero delle finanze di cui all'[articolo 11, comma 2, del decreto legislativo 31 dicembre 1992, n. 546](Disposizioni%20sul%20processo%20tributario%20in%20attuazione%20della%20delega%20al%20Governo%20contenuta%20nellart.%2030%20della%20legge%2030%20dicembre%201991%20n.%20413.md), riguardante la capacita' di stare in giudizio, stabilisce le condizioni necessarie per la formulazione o l'accettazione della proposta di conciliazione di cui all'articolo 48 del citato [decreto legislativo n. 546 del 1992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992;546).".
 
 Note all'art. 14:
- - Si riporta il testo vigente degli [articoli 11](Disposizioni%20sul%20processo%20tributario%20in%20attuazione%20della%20delega%20al%20Governo%20contenuta%20nellart.%2030%20della%20legge%2030%20dicembre%201991%20n.%20413.md) e [33 del D.Lgs. 31 dicembre 1992, n. 546](Disposizioni%20sul%20processo%20tributario%20in%20attuazione%20della%20delega%20al%20Governo%20contenuta%20nellart.%2030%20della%20legge%2030%20dicembre%201991%20n.%20413.md) (Disposizioni sul processo tributario in attuazione della delega al Governo contenuta nell'[art. 30 della legge 30 dicembre 1991, n. 413](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-12-30;413#art_30)).
+ - Si riporta il testo vigente degli [articoli 11](Disposizioni%20sul%20processo%20tributario%20in%20attuazione%20della%20delega%20al%20Governo%20contenuta%20nellart.%2030%20della%20legge%2030%20dicembre%201991%20n.%20413.md) e [33 del D.Lgs. 31 dicembre 1992, n. 546](Disposizioni%20sul%20processo%20tributario%20in%20attuazione%20della%20delega%20al%20Governo%20contenuta%20nellart.%2030%20della%20legge%2030%20dicembre%201991%20n.%20413.md) (Disposizioni sul processo tributario in attuazione della delega al Governo contenuta nell'[art. 30 della legge 30 dicembre 1991, n. 413](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20ampliare%20le%20basi%20imponibili%20per%20razionalizzare%20facilitare%20e%20potenziare%20lattivita%20di%20accertamento%20disposizioni%20per%20la%20rivalutazione%20obbligatoria%20dei%20beni%20immobili%20delle%20im_715eda796591.md)).
  "Art. 11 (Capacita' di stare in giudizio). - 1. Le parti diverse da quelle indicate nei commi 2 e 3 possono stare in giudizio anche mediante procuratore generale o speciale. La procura speciale, se conferita al coniuge e ai parenti o affini entro il quarto grado ai soli fini della partecipazione all'udienza pubblica, puo' risultare anche da scrittura privata non autenticata.
  2. L'uffcio del Ministero delle finanze nei cui confronti e' proposto il ricorso sta in giudizio direttamente o mediante l'ufficio del contenzioso della direzione regionale o compartimentale ad esso sovraordinata.
  3. L'ente locale nei cui confronti e' proposto il ricorso sta in giudizio mediante l'organo di rappresentanza previsto dal proprio ordinamento.".
@@ -581,7 +581,7 @@ Note all'art. 14:
  b) direttamente alla competente sezione di tesoreria provinciale dello Stato per la quota dell'87,40 per cento dell'Ilor - codice 45, utilizzando l'ordinaria distinta di versamento prevista dalle vigenti istruzioni generali sui servizi del Tesoro, mod. 124T.
  8. Per i tributi diversi dalle imposte sui redditi i versamenti delle somme dovute in base alla conciliazione sono effettuati secondo le disposioni previste da ciascuna legge di imposta.
  9. I versamenti di cui al presente articolo sono effettuati entro sette giorni dalla data di sottoscrizione del processo verbale di conciliazione".
- - Si riporta il testo vigente dell'[art. 37 del D.Lgs. 31 dicembre 1992, n. 545](Ordinamento%20degli%20organi%20speciali%20di%20giurisdizione%20tributaria%20ed%20organizzazione%20degli%20uffici%20di%20collaborazione%20in%20attuazione%20della%20delega%20al%20Governo%20contenuta%20nellart.%2030%20della%20legge%2030%20d_f1692b541111.md) (Ordinamento degli organi speciali di giurisdizione tributaria ed organizzazione degli uffici di collaborazione in attuazione della delega al Governo contenuta nell'[art. 30 della legge 30 dicembre 1991, n. 413](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-12-30;413#art_30)), come modificato dal presente articolo:
+ - Si riporta il testo vigente dell'[art. 37 del D.Lgs. 31 dicembre 1992, n. 545](Ordinamento%20degli%20organi%20speciali%20di%20giurisdizione%20tributaria%20ed%20organizzazione%20degli%20uffici%20di%20collaborazione%20in%20attuazione%20della%20delega%20al%20Governo%20contenuta%20nellart.%2030%20della%20legge%2030%20d_f1692b541111.md) (Ordinamento degli organi speciali di giurisdizione tributaria ed organizzazione degli uffici di collaborazione in attuazione della delega al Governo contenuta nell'[art. 30 della legge 30 dicembre 1991, n. 413](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20ampliare%20le%20basi%20imponibili%20per%20razionalizzare%20facilitare%20e%20potenziare%20lattivita%20di%20accertamento%20disposizioni%20per%20la%20rivalutazione%20obbligatoria%20dei%20beni%20immobili%20delle%20im_715eda796591.md)), come modificato dal presente articolo:
  "Art. 37 (Attivita' di indirizzo agli uffici periferici).
  - 1. La direzione centrale per gli affari giuridici e per il contenzioso tributario presso il dipartimento delle entrate del Ministero delle finanze cura la rilevazione e l'esame delle questioni di rilevante interesse o di ricorrente frequenza nelle controversie pendenti dinanzi alle commissioni tributarie sulla base di segnalazioni periodiche dei presidenti delle stesse.
  2. La direzione centrale di cui al comma 1, sentita quando occorre l'Avvocatura generale dello Stato, in particolare quando si tratti di questioni sulle quali noti vi sia un univoco orientamento giurisprudenziale, formula e propone al Ministro indirizzi per gli uffici periferici ai fini della difesa dell'amministrazione finanziaria, in ordine alle questioni rilevate ed esaminate, secondo criteri di uniforme e corretta interpretazione della legge.
@@ -609,31 +609,31 @@ Le sanzioni irrogate per le violazioni indicate nell'articolo 2, comma 5, del pr
 
 2-bis.
 
-COMMA ABROGATO DALLA [L. 23 DICEMBRE 2014, N. 190](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-12-23;190). (15)
+COMMA ABROGATO DALLA [L. 23 DICEMBRE 2014, N. 190](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202015.%2014G00203.md). (15)
 
 --------------
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 5 giugno 1998, n. 203](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-06-05;203) ha disposto (con l'art. 5, comma 1) che la presente modifica ha effetto a decorrere dal 1 aprile 1998.
+Il [D.Lgs. 5 giugno 1998, n. 203](Disposizioni%20integrative%20e%20correttive%20dei%20decreti%20legislativi%2018%20dicembre%201997%20numeri%20471%20472%20e%20473%20in%20materia%20di%20sanzioni%20amministrative%20tributarie.md) ha disposto (con l'art. 5, comma 1) che la presente modifica ha effetto a decorrere dal 1 aprile 1998.
 
 -------------
 
 AGGIORNAMENTO (12)
 
-La [L. 13 dicembre 2010, n. 220](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2010-12-13;220) ha disposto (con l'art. 1, comma 21) che "Le disposizioni di cui al comma 18 si applicano con riferimento agli atti definibili emessi dagli uffici dell'Agenzia delle entrate a decorrere dal 1° febbraio 2011".
+La [L. 13 dicembre 2010, n. 220](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202011.%2010G0238.md) ha disposto (con l'art. 1, comma 21) che "Le disposizioni di cui al comma 18 si applicano con riferimento agli atti definibili emessi dagli uffici dell'Agenzia delle entrate a decorrere dal 1° febbraio 2011".
 
 ---------------
 
 AGGIORNAMENTO (15)
 
-La [L. 23 dicembre 2014, n. 190](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-12-23;190) ha disposto (con l'art. 1, comma 639) che "L'abrogazione delle disposizioni di cui al comma 637, lettera c), numero 4), opera con riferimento agli atti definibili notificati dagli uffici dell'Agenzia delle entrate a decorrere dal 1º gennaio 2016".
+La [L. 23 dicembre 2014, n. 190](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202015.%2014G00203.md) ha disposto (con l'art. 1, comma 639) che "L'abrogazione delle disposizioni di cui al comma 637, lettera c), numero 4), opera con riferimento agli atti definibili notificati dagli uffici dell'Agenzia delle entrate a decorrere dal 1º gennaio 2016".
 
 --------------
 
 AGGIORNAMENTO (18)
 
-Il [D.Lgs. 24 dicembre 2015, n. 159](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-12-24;159) ha disposto (con l'art. 15, comma 3) che "Le disposizioni di cui all'articolo 2, commi da 2 a 4, non si applicano agli atti di adesione, agli atti definiti ai sensi dell'[articolo 15 del decreto legislativo 19 giugno 1997, n. 218](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-06-19;218#art_15), alle conciliazioni giudiziali e alle mediazioni tributarie gia' perfezionati alla data di entrata in vigore del presente decreto".
+Il [D.Lgs. 24 dicembre 2015, n. 159](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-12-24;159) ha disposto (con l'art. 15, comma 3) che "Le disposizioni di cui all'articolo 2, commi da 2 a 4, non si applicano agli atti di adesione, agli atti definiti ai sensi dell'[articolo 15 del decreto legislativo 19 giugno 1997, n. 218](Disposizioni%20in%20materia%20di%20accertamento%20con%20adesione%20e%20di%20conciliazione%20giudiziale.md), alle conciliazioni giudiziali e alle mediazioni tributarie gia' perfezionati alla data di entrata in vigore del presente decreto".
 
 ### Art. 15-bis. — (( (Modalita' di pagamento). ))
 
@@ -641,7 +641,7 @@ Il [D.Lgs. 24 dicembre 2015, n. 159](https://www.normattiva.it/uri-res/N2Ls?urn:
 
 1.
 
-Il pagamento delle somme dovute ai sensi degli articoli 8 e 15 si esegue mediante versamento unitario di cui all'[articolo 17 del decreto legislativo 9 luglio 1997, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-07-09;241#art_17), secondo le modalita' stabilite dall'articolo 19 del medesimo decreto, fatte salve le ipotesi in cui siano previste altre modalita' di pagamento in ragione della tipologia di tributo.
+Il pagamento delle somme dovute ai sensi degli articoli 8 e 15 si esegue mediante versamento unitario di cui all'[articolo 17 del decreto legislativo 9 luglio 1997, n. 241](Norme%20di%20semplificazione%20degli%20adempimenti%20dei%20contribuenti%20in%20sede%20di%20dichiarazione%20dei%20redditi%20e%20dellimposta%20sul%20valore%20aggiunto%20nonche%20di%20modernizzazione%20del%20sistema%20di%20gestione%20delle%20dichiarazioni.md), secondo le modalita' stabilite dall'articolo 19 del medesimo decreto, fatte salve le ipotesi in cui siano previste altre modalita' di pagamento in ragione della tipologia di tributo.
 
 2. Con decreto del Ministro dell'economia e delle finanze possono essere stabilite ulteriori modalita' di versamento.))
 
@@ -651,7 +651,7 @@ Il pagamento delle somme dovute ai sensi degli articoli 8 e 15 si esegue mediant
 
 AGGIORNAMENTO (19)
 
-Il [D.Lgs. 24 dicembre 2015, n. 159](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-12-24;159) ha disposto (con l'art. 15, comma 3) che "Le disposizioni di cui all'articolo 2, commi da 2 a 4, non si applicano agli atti di adesione, agli atti definiti ai sensi dell'[articolo 15 del decreto legislativo 19 giugno 1997, n. 218](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-06-19;218#art_15), alle conciliazioni giudiziali e alle mediazioni tributarie gia' perfezionati alla data di entrata in vigore del presente decreto".
+Il [D.Lgs. 24 dicembre 2015, n. 159](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-12-24;159) ha disposto (con l'art. 15, comma 3) che "Le disposizioni di cui all'articolo 2, commi da 2 a 4, non si applicano agli atti di adesione, agli atti definiti ai sensi dell'[articolo 15 del decreto legislativo 19 giugno 1997, n. 218](Disposizioni%20in%20materia%20di%20accertamento%20con%20adesione%20e%20di%20conciliazione%20giudiziale.md), alle conciliazioni giudiziali e alle mediazioni tributarie gia' perfezionati alla data di entrata in vigore del presente decreto".
 
 ### Art. 16. — Controlli sulla base della copia delle dichiarazioni
 

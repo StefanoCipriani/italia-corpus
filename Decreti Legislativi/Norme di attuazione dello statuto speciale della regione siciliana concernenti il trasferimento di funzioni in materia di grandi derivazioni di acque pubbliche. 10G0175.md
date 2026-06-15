@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[articolo 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Visto lo Statuto della Regione siciliana, approvato con il [regio decreto legislativo 15 maggio 1946, n. 455](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legislativo:1946-05-15;455), convertito dalla [legge costituzionale 26 febbraio 1948, n. 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1948-02-26;2);
+Visto lo Statuto della Regione siciliana, approvato con il [regio decreto legislativo 15 maggio 1946, n. 455](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legislativo:1946-05-15;455), convertito dalla [legge costituzionale 26 febbraio 1948, n. 2](../Leggi%20costituzionali/Conversione%20in%20legge%20costituzionale%20dello%20Statuto%20della%20Regione%20siciliana%20approvato%20col%20decreto%20legislativo%2015%20maggio%201946%20n.%20455.md);
 
 Visto il [decreto del Presidente della Repubblica 30 luglio 1950, n. 878](../DPR/Norme%20di%20attuazione%20dello%20Statuto%20della%20Regione%20siciliana%20in%20materia%20di%20opere%20pubbliche.md), e successive modificazioni;
 
@@ -39,7 +39,7 @@ Avvertenza:
  Note alle premesse: 
  - L'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5), conferisce al Presidente della Repubblica il potere di promulgare leggi e di emanare i decreti aventi valore di leggi e regolamenti. 
  - Il [regio decreto legislativo 15 maggio 1946, n. 455](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legislativo:1946-05-15;455), e' pubblicato nella Gazzetta Ufficiale 10 giugno 1946, n. 133 (edizione speciale). 
- - La [legge costituzionale 26 febbraio 1948, n. 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1948-02-26;2), e' pubblicata nella Gazzetta Ufficiale 9 marzo 1948, n. 58. 
+ - La [legge costituzionale 26 febbraio 1948, n. 2](../Leggi%20costituzionali/Conversione%20in%20legge%20costituzionale%20dello%20Statuto%20della%20Regione%20siciliana%20approvato%20col%20decreto%20legislativo%2015%20maggio%201946%20n.%20455.md), e' pubblicata nella Gazzetta Ufficiale 9 marzo 1948, n. 58. 
  - Il [decreto del Presidente della Repubblica 30 luglio 1950, n. 878](../DPR/Norme%20di%20attuazione%20dello%20Statuto%20della%20Regione%20siciliana%20in%20materia%20di%20opere%20pubbliche.md), e' pubblicato nella Gazzetta Ufficiale 13 novembre 1950, n. 260. 
  - L'art. 43 dello Statuto della Regione siciliana prevede che una commissione paritetica di quattro membri nominati dall'Alto commissario della Sicilia e dal Governo dello Stato, determinera' le norme transitorie relative al passaggio degli uffici e del personale dello Stato alla regione, nonche' le norme per l'attuazione del presente statuto. 
  Note all'art. 1: 

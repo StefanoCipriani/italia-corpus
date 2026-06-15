@@ -12,11 +12,11 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visti gli [articoli 11, comma 1, lettera b)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_11-com1-letb), l'[articolo 12, comma 1, lettera g)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_12-com1-letg), e l'[articolo 14 della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_14), e successive modifiche ed integrazioni;
+Visti gli [articoli 11, comma 1, lettera b)](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), l'[articolo 12, comma 1, lettera g)](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), e l'[articolo 14 della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), e successive modifiche ed integrazioni;
 
 Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella riunione del 14 maggio 1999;
 
-Acquisito il parere della Commissione parlamentare di cui all'[articolo 5 della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_5);
+Acquisito il parere della Commissione parlamentare di cui all'[articolo 5 della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md);
 
 Vista la deliberazione del Consiglio dei Ministri adottata nella riunione del 9 luglio 1999;
 
@@ -51,7 +51,7 @@ Ai fini della realizzazione di iniziative che comportino attivita' di valutazion
 
  
 AGGIORNAMENTO (1) 
-Il [D.Lgs. 19 novembre 2004, n. 286](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004-11-19;286), ha disposto (con l'art. 16, comma 5) che "Alla data di insediamento dei nuovi organi e' abrogato l'[articolo 1 del decreto legislativo 20 luglio 1999, n. 258](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-07-20;258#art_1) e cessano di applicarsi nei confronti dell'Istituto le restanti disposizioni del predetto decreto".
+Il [D.Lgs. 19 novembre 2004, n. 286](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Istituzione%20del%20Servizio%20nazionale%20di%20valutazione%20del%20sistema%20educativo%20di%20istruzione%20e%20di%20formazione%20nonche%20riordino%20dellomonimo%20istituto%20a%20norma%20degli%20articoli%201%20e%203%20della%20legge%2028%20marzo%202003%20n.%2053.md), ha disposto (con l'art. 16, comma 5) che "Alla data di insediamento dei nuovi organi e' abrogato l'[articolo 1 del decreto legislativo 20 luglio 1999, n. 258](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20del%20Centro%20europeo%20delleducazione%20della%20biblioteca%20di%20documentazione%20pedagogica%20e%20trasformazione%20in%20Fondazione%20del%20museo%20nazionale%20della%20scienza%20e%20della%20tecnica%20Leonardo%20da%20Vinci_fe0b1c9a11a2.md) e cessano di applicarsi nei confronti dell'Istituto le restanti disposizioni del predetto decreto".
 
 ## Art. 2. — Trasformazione della biblioteca di documentazione pedagogica in Istituto nazionale di documentazione per l'innovazione e la ricerca educativa.
 
@@ -139,7 +139,7 @@ I rapporti di lavoro del personale attualmente dipendente dal Museo della scienz
 
 AGGIORNAMENTO (3)
 
-La [L. 2 dicembre 2025, n. 182](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-12-02;182), ha disposto (con l'art. 52, comma 1) che "L'[articolo 4, comma 10, del decreto legislativo 20 luglio 1999, n. 258](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-07-20;258#art_4-com10), si interpreta nel senso che i rapporti di lavoro subordinato con la Fondazione Museo nazionale della scienza e della tecnologia Leonardo da Vinci sono rapporti di diritto privato e sono disciplinati dal [codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262), dalla normativa in materia di rapporto di lavoro subordinato privato nonche' dalla contrattazione collettiva di diritto privato ove applicabile".
+La [L. 2 dicembre 2025, n. 182](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-12-02;182), ha disposto (con l'art. 52, comma 1) che "L'[articolo 4, comma 10, del decreto legislativo 20 luglio 1999, n. 258](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20del%20Centro%20europeo%20delleducazione%20della%20biblioteca%20di%20documentazione%20pedagogica%20e%20trasformazione%20in%20Fondazione%20del%20museo%20nazionale%20della%20scienza%20e%20della%20tecnica%20Leonardo%20da%20Vinci_fe0b1c9a11a2.md), si interpreta nel senso che i rapporti di lavoro subordinato con la Fondazione Museo nazionale della scienza e della tecnologia Leonardo da Vinci sono rapporti di diritto privato e sono disciplinati dal [codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262), dalla normativa in materia di rapporto di lavoro subordinato privato nonche' dalla contrattazione collettiva di diritto privato ove applicabile".
 
 ## Art. 5. — Abrogazioni
 

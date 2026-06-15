@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto l'[art. 6 della legge 14 giugno 1990, n. 158](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-06-14;158#art_6), recante delega legislativa al Governo della Repubblica per l'istituzione di una addizionale regionale all'imposta erariale di trascrizione di cui alla [legge 23 dicembre 1977, n. 952](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-12-23;952), e successive modificazioni, di una addizionale regionale all'imposta di consumo sul gas metano e, per le utenze esenti dall'imposta di consumo, di una imposta regionale sostitutiva dell'addizionale, e per la previsione della facolta' delle regioni a statuto ordinario di istituire una imposta regionale sulla benzina per autotrazione;
+Visto l'[art. 6 della legge 14 giugno 1990, n. 158](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20di%20delega%20in%20materia%20di%20autonomia%20impositiva%20delle%20regioni%20e%20altre%20disposizioni%20concernenti%20i%20rapporti%20finanziari%20tra%20lo%20Stato%20e%20le%20regioni.md), recante delega legislativa al Governo della Repubblica per l'istituzione di una addizionale regionale all'imposta erariale di trascrizione di cui alla [legge 23 dicembre 1977, n. 952](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-12-23;952), e successive modificazioni, di una addizionale regionale all'imposta di consumo sul gas metano e, per le utenze esenti dall'imposta di consumo, di una imposta regionale sostitutiva dell'addizionale, e per la previsione della facolta' delle regioni a statuto ordinario di istituire una imposta regionale sulla benzina per autotrazione;
 
 Visto il parere reso in data 15 novembre 1990 dalla Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano;
 
@@ -119,14 +119,14 @@ Le aliquote applicabili a seguito dell'entrata in vigore del presente decreto e 
 
  
 AGGIORNAMENTO (1) 
- La [L. 30 dicembre 1991, n. 413](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-12-30;413) ha disposto (con l'art. 75, comma 7) che " Le disposizioni di cui all'[articolo 6, comma 1, lettera b), della legge 14 giugno 1990, n. 158](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-06-14;158#art_6-com1-letb), concernente delega al Governo in materia di autonomia impositiva delle regioni, e quelle di cui all'[articolo 9 del decreto legislativo 21 dicembre 1990, n. 398](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1990-12-21;398#art_9), emanato in attuazione della delega anzidetta, devono intendersi rivolte ad escludere le imprese industriali ed artigiane che impiegano gas metano come combustibile sia dall'addizionale regionale all'imposta erariale di consumo sia dalla imposta regionale sostitutiva." 
+ La [L. 30 dicembre 1991, n. 413](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20ampliare%20le%20basi%20imponibili%20per%20razionalizzare%20facilitare%20e%20potenziare%20lattivita%20di%20accertamento%20disposizioni%20per%20la%20rivalutazione%20obbligatoria%20dei%20beni%20immobili%20delle%20im_715eda796591.md) ha disposto (con l'art. 75, comma 7) che " Le disposizioni di cui all'[articolo 6, comma 1, lettera b), della legge 14 giugno 1990, n. 158](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20di%20delega%20in%20materia%20di%20autonomia%20impositiva%20delle%20regioni%20e%20altre%20disposizioni%20concernenti%20i%20rapporti%20finanziari%20tra%20lo%20Stato%20e%20le%20regioni.md), concernente delega al Governo in materia di autonomia impositiva delle regioni, e quelle di cui all'[articolo 9 del decreto legislativo 21 dicembre 1990, n. 398](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Istituzione%20e%20disciplina%20delladdizionale%20regionale%20allimposta%20erariale%20di%20trascrizione%20di%20cui%20alla%20legge%2023%20dicembre%201977%20n.%20952%20e%20successive%20modificazioni%20delladdizionale%20regionale%20allac_b924575bbfa7.md), emanato in attuazione della delega anzidetta, devono intendersi rivolte ad escludere le imprese industriali ed artigiane che impiegano gas metano come combustibile sia dall'addizionale regionale all'imposta erariale di consumo sia dalla imposta regionale sostitutiva." 
  
 ----------------
 
 
  
 AGGIORNAMENTO (3) 
- La [L. 23 dicembre 1996, n. 662](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;662) ha disposto (con l'art. 1, comma 153) che "La misura massima dell'addizionale regionale all'imposta di consumo sul gas metano e dell'imposta regionale sostitutiva per le utenze esenti di cui all'[articolo 9 del decreto legislativo 21 dicembre 1990, n. 398](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1990-12-21;398#art_9), e successive modificazioni e integrazioni, e' determinata in lire 60 al metro cubo di gas erogato."
+ La [L. 23 dicembre 1996, n. 662](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_3.md) ha disposto (con l'art. 1, comma 153) che "La misura massima dell'addizionale regionale all'imposta di consumo sul gas metano e dell'imposta regionale sostitutiva per le utenze esenti di cui all'[articolo 9 del decreto legislativo 21 dicembre 1990, n. 398](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Istituzione%20e%20disciplina%20delladdizionale%20regionale%20allimposta%20erariale%20di%20trascrizione%20di%20cui%20alla%20legge%2023%20dicembre%201977%20n.%20952%20e%20successive%20modificazioni%20delladdizionale%20regionale%20allac_b924575bbfa7.md), e successive modificazioni e integrazioni, e' determinata in lire 60 al metro cubo di gas erogato."
 
 ### Art. 10.
 
@@ -134,7 +134,7 @@ AGGIORNAMENTO (3)
 
 1.
 
-I tributi di cui ai commi 1 e 2 dell'articolo 9 sono dovuti dai soggetti indicati dall'[articolo 26, commi 7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-10-26;504#art_26-com7) e [8, del decreto legislativo 26 ottobre 1995, n. 504](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-10-26;504#art_26-com8).
+I tributi di cui ai commi 1 e 2 dell'articolo 9 sono dovuti dai soggetti indicati dall'[articolo 26, commi 7](Testo%20unico%20delle%20disposizioni%20legislative%20concernenti%20le%20imposte%20sulla%20produzione%20e%20sui%20consumi%20e%20relative%20sanzioni%20penali%20e%20amministrative.md) e [8, del decreto legislativo 26 ottobre 1995, n. 504](Testo%20unico%20delle%20disposizioni%20legislative%20concernenti%20le%20imposte%20sulla%20produzione%20e%20sui%20consumi%20e%20relative%20sanzioni%20penali%20e%20amministrative.md).
 
 2.
 
@@ -146,7 +146,7 @@ La dichiarazione di cui all'[articolo 26, comma 13, del decreto legislativo n. 5
 
 4.
 
-Per i termini e le modalita' di versamento dei tributi regionali a ciascuna regione, si applica quanto stabilito nell'[articolo 26 del decreto legislativo 26 ottobre 1995, n. 504](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-10-26;504#art_26).
+Per i termini e le modalita' di versamento dei tributi regionali a ciascuna regione, si applica quanto stabilito nell'[articolo 26 del decreto legislativo 26 ottobre 1995, n. 504](Testo%20unico%20delle%20disposizioni%20legislative%20concernenti%20le%20imposte%20sulla%20produzione%20e%20sui%20consumi%20e%20relative%20sanzioni%20penali%20e%20amministrative.md).
 
 ))
 
@@ -214,7 +214,7 @@ Capo III
 
 AGGIORNAMENTO (5)
 
-La [L. 30 dicembre 2020, n. 178](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2020-12-30;178) ha disposto (con l'art. 1, comma 628) che "Sono fatti salvi gli effetti delle obbligazioni tributarie gia' insorte".
+La [L. 30 dicembre 2020, n. 178](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202021%20e%20bilancio%20pluriennale%20per%20il%20triennio%202021-2023.%2020G00202.md) ha disposto (con l'art. 1, comma 628) che "Sono fatti salvi gli effetti delle obbligazioni tributarie gia' insorte".
 
 ### Art. 18.
 

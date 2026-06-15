@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4), con le modificazioni ad esso apportate dall'[art. 3, comma primo, del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98#art_3-com1);
+Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4), con le modificazioni ad esso apportate dall'[art. 3, comma primo, del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Viste le disposizioni transitorie I e XV della Costituzione;
 
@@ -48,7 +48,7 @@ La [L. 18 dicembre 1952, n. 2990](../DL%20e%20leggi%20di%20conversione/Ratifica%
 
 AGGIORNAMENTO (2)
 
-La [L. 14 febbraio 1964, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1964-02-14;39) ha disposto (con l'articolo unico) che " L'[articolo 2 del decreto legislativo 7 maggio 1948, n. 1472](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-05-07;1472#art_2), convertito, con modificazioni, nella [legge 18 dicembre 1952, n. 2990](../DL%20e%20leggi%20di%20conversione/Ratifica%20con%20modificazioni%20del%20decreto%20legislativo%207%20maggio%201948%20n.%201472%20concernente%20provvedimenti%20per%20gli%20ufficiali%20gia%20in%20servizio%20permanente%20effettivo%20ed%20i%20sottufficiali%20gia%20in%20carrier_7e729303cfc8.md), deve intendersi nel senso che il trattamento ivi previsto compete anche ai sergenti maniscalchi, ai sergenti masicanti ed ai vice brigadieri dell'Arma dei carabinieri.
+La [L. 14 febbraio 1964, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1964-02-14;39) ha disposto (con l'articolo unico) che " L'[articolo 2 del decreto legislativo 7 maggio 1948, n. 1472](Provvedimenti%20per%20gli%20ufficiali%20gia%20in%20servizio%20permanente%20effettivo%20ed%20i%20sottufficiali%20gia%20in%20carriera%20continuativa%20mutilati%20ed%20invalidi%20della%20guerra%201940-45.md), convertito, con modificazioni, nella [legge 18 dicembre 1952, n. 2990](../DL%20e%20leggi%20di%20conversione/Ratifica%20con%20modificazioni%20del%20decreto%20legislativo%207%20maggio%201948%20n.%201472%20concernente%20provvedimenti%20per%20gli%20ufficiali%20gia%20in%20servizio%20permanente%20effettivo%20ed%20i%20sottufficiali%20gia%20in%20carrier_7e729303cfc8.md), deve intendersi nel senso che il trattamento ivi previsto compete anche ai sergenti maniscalchi, ai sergenti masicanti ed ai vice brigadieri dell'Arma dei carabinieri.
  Analogamente a quanto sancito per i sergenti maggiori nel predetto articolo 2, l'emolumento mensile spettante ai sergenti maniscalchi, ai sergenti musicanti ed ai vice brigadieri dell'Arma dei carabinieri non puo' avere, in alcun caso, durata superiore ai quattordici anni.
 
 ## Art. 3.

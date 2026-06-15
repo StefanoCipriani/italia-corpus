@@ -14,13 +14,13 @@ Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cos
 
 Vista la [legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400), recante «Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei ministri» e, in particolare, l'articolo 14;
 
-Vista la [legge 9 agosto 2023, n. 111](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2023-08-09;111), recante «Delega al Governo per la riforma fiscale» e, in particolare, l'articolo 5 relativo alla revisione del sistema di imposizione sui redditi delle persone fisiche, l'articolo 6, relativo alla revisione del sistema di imposizione delle societa' e degli enti e l'articolo 9 recante ulteriori principi e criteri direttivi;
+Vista la [legge 9 agosto 2023, n. 111](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20riforma%20fiscale.%2023G00122.md), recante «Delega al Governo per la riforma fiscale» e, in particolare, l'articolo 5 relativo alla revisione del sistema di imposizione sui redditi delle persone fisiche, l'articolo 6, relativo alla revisione del sistema di imposizione delle societa' e degli enti e l'articolo 9 recante ulteriori principi e criteri direttivi;
 
 Visto il testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md);
 
 Visto il [decreto legislativo 5 dicembre 2005, n. 252](Disciplina%20delle%20forme%20pensionistiche%20complementari.md), recante «Disciplina delle forme pensionistiche complementari»;
 
-Vista la [legge 28 dicembre 2015, n. 208](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-12-28;208), recante «Disposizioni per la formazione del bilancio annuale e pluriennale dello Stato»;
+Vista la [legge 28 dicembre 2015, n. 208](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202016.%2015G00222.md), recante «Disposizioni per la formazione del bilancio annuale e pluriennale dello Stato»;
 
 Vista la preliminare deliberazione del Consiglio dei ministri, adottata nella riunione del 30 aprile 2024;
 
@@ -70,7 +70,7 @@ Al testo unico delle imposte sui redditi, di cui al [decreto del Presidente dell
  2) dopo il comma 3-bis e' inserito il seguente: 
  «3-ter. Il reddito derivante dalla produzione e cessioni di beni di cui all'articolo 32, comma 2, lettera b-ter), oltre il limite ivi indicato, e' determinato applicando all'ammontare dei corrispettivi delle operazioni registrate o soggette a registrazione agli effetti dell'imposta sul valore aggiunto il coefficiente di redditivita' del 25 per cento.»; 
  3) il comma 4 e' sostituito dal seguente: 
- «4. Le disposizioni del presente articolo si applicano anche ai soggetti che hanno esercitato l'opzione di cui all'[articolo 1, comma 1093, della legge 27 dicembre 2006, n. 296](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-12-27;296#art_1-com1093).»;
+ «4. Le disposizioni del presente articolo si applicano anche ai soggetti che hanno esercitato l'opzione di cui all'[articolo 1, comma 1093, della legge 27 dicembre 2006, n. 296](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202007.md).»;
                             f)
                                 all'articolo 81, comma 1, sono aggiunte, in fine, le seguenti parole: «fatto salvo quanto stabilito all'articolo 56-bis, comma 4».
 
@@ -189,7 +189,7 @@ Il reddito derivante dall'esercizio di arti e professioni e' costituito dalla di
  2) alla lettera c-bis), primo periodo, le parole «, escluse le associazioni di cui al comma 3, lettera c),» sono soppresse;
                             d)
                                 dopo l'articolo 177 e' inserito il seguente: 
- «Art. 177-bis (Operazioni straordinarie e attivita' professionali). - 1. I conferimenti di un complesso unitario di attivita' materiali e immateriali, inclusa la clientela e ogni altro elemento immateriale, nonche' di passivita', organizzato per l'esercizio dell'attivita' artistica o professionale, in una societa' per l'esercizio di attivita' professionali regolamentate nel sistema ordinistico, di cui all'[articolo 10 della legge 12 novembre 2011, n. 183](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2011-11-12;183#art_10), non costituiscono realizzo di plusvalenze o minusvalenze; il soggetto conferente assume, quale valore delle partecipazioni ricevute, la somma algebrica dei valori fiscalmente riconosciuti di attivita' e passivita' conferite e il soggetto conferitario subentra nella posizione di quello conferente in ordine a quanto ricevuto, facendo risultare da apposito prospetto di riconciliazione della dichiarazione dei redditi i dati esposti nelle scritture contabili e i valori fiscalmente riconosciuti. 
+ «Art. 177-bis (Operazioni straordinarie e attivita' professionali). - 1. I conferimenti di un complesso unitario di attivita' materiali e immateriali, inclusa la clientela e ogni altro elemento immateriale, nonche' di passivita', organizzato per l'esercizio dell'attivita' artistica o professionale, in una societa' per l'esercizio di attivita' professionali regolamentate nel sistema ordinistico, di cui all'[articolo 10 della legge 12 novembre 2011, n. 183](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20Legge%20di%20stabilita%202012.%2011G0234.md), non costituiscono realizzo di plusvalenze o minusvalenze; il soggetto conferente assume, quale valore delle partecipazioni ricevute, la somma algebrica dei valori fiscalmente riconosciuti di attivita' e passivita' conferite e il soggetto conferitario subentra nella posizione di quello conferente in ordine a quanto ricevuto, facendo risultare da apposito prospetto di riconciliazione della dichiarazione dei redditi i dati esposti nelle scritture contabili e i valori fiscalmente riconosciuti. 
  2. Le disposizioni di cui al comma 1 si applicano anche: 
  a) ai conferimenti in societa' per l'esercizio di attivita' professionali regolamentate nel sistema ordinistico diverse da quelle di cui al comma 1; 
  b) agli apporti in associazioni o societa' semplici di cui all'articolo 5, costituite per l'esercizio in forma associata di arti e professioni; 
@@ -252,7 +252,7 @@ Titolo II
 
 1.
 
-In attesa della piena attuazione dei criteri direttivi degli [articoli 6, comma 1, lettere a)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2023-08-09;111#art_6-com1-leta) e [c)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2023-08-09;111#art_6-com1-letc), e [9, comma 1, lettera c), della legge 9 agosto 2023, n. 111](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2023-08-09;111#art_9-com1-letc), concernenti, rispettivamente, la riduzione dell'aliquota dell'imposta sui redditi delle societa' a determinate condizioni, la razionalizzazione e semplificazione dei regimi di riallineamento dei valori fiscali a quelli contabili nonche' dei criteri di determinazione del reddito d'impresa al fine di ridurre gli adempimenti amministrativi attraverso il rafforzamento del processo di avvicinamento dei valori fiscali a quelli civilistici, sono introdotte le disposizioni degli articoli da 9 a 14.
+In attesa della piena attuazione dei criteri direttivi degli [articoli 6, comma 1, lettere a)](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20riforma%20fiscale.%2023G00122.md) e [c)](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20riforma%20fiscale.%2023G00122.md), e [9, comma 1, lettera c), della legge 9 agosto 2023, n. 111](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20riforma%20fiscale.%2023G00122.md), concernenti, rispettivamente, la riduzione dell'aliquota dell'imposta sui redditi delle societa' a determinate condizioni, la razionalizzazione e semplificazione dei regimi di riallineamento dei valori fiscali a quelli contabili nonche' dei criteri di determinazione del reddito d'impresa al fine di ridurre gli adempimenti amministrativi attraverso il rafforzamento del processo di avvicinamento dei valori fiscali a quelli civilistici, sono introdotte le disposizioni degli articoli da 9 a 14.
 
 ### Art. 9. — Riduzione del doppio binario tra valori contabili e fiscali
 
@@ -326,7 +326,7 @@ Le divergenze tra i valori contabili e fiscali sono assunte distintamente ai fin
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 18 dicembre 2025, n. 192](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2025-12-18;192) ha disposto (con l'art. 7, comma 1) che "Le disposizioni di cui all'articolo 3 si applicano a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2024".
+Il [D.Lgs. 18 dicembre 2025, n. 192](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20integrative%20e%20correttive%20in%20materia%20di%20IRPEF%20e%20IRES%20di%20fiscalita%20internazionale%20di%20imposta%20sulle%20successioni%20e%20donazioni%20e%20di%20imposta%20di%20registro%20nonche%20di%20modifica%20allo%20stat_94c3ccef6a56.md) ha disposto (con l'art. 7, comma 1) che "Le disposizioni di cui all'articolo 3 si applicano a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2024".
 
 ### Art. 11. — Regimi di riallineamento
 
@@ -366,7 +366,7 @@ Le disposizioni di cui agli articoli 9, 10 e 11, commi 1 e 2, si applicano dal p
                             c)
                                 l'[articolo 13-bis, commi da 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2016-12-30;244#art_13bis-com5) [a 8, del decreto-legge 30 dicembre 2016, n. 244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2016-12-30;244#art_13bis-com8), convertito, con modificazioni, dalla [legge 27 febbraio 2017, n. 19](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%202016%20n.%20244%20recante%20proroga%20e%20definizione%20di%20termini.%20Proroga%20del%20termine%20per%20lesercizio%20di%20deleghe%20legislative.%2017G00033.md); per la valutazione degli strumenti finanziari derivati operata ai sensi dell'articolo 13-bis, comma 5, terzo periodo, del citato [decreto-legge n. 244 del 2016](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2016;244), nel testo vigente anteriormente alle modifiche di cui al presente decreto, resta ferma la disciplina previgente fino all'estinzione degli strumenti finanziari derivati stessi;
                             d)
-                                l'[articolo 1, comma 48, della legge 24 dicembre 2007, n. 244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-12-24;244#art_1-com48).
+                                l'[articolo 1, comma 48, della legge 24 dicembre 2007, n. 244](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202008.md).
 
 2.
 
@@ -567,7 +567,7 @@ Modifiche al regime delle societa' di comodo
 
 1.
 
-Nelle more della revisione della disciplina di contrasto al mero godimento dei beni messi a disposizione dei soci e dei loro familiari gratuitamente o a fronte di un corrispettivo inferiore al valore normale, nell'ambito della disciplina delle societa' di comodo, a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2023, all'[articolo 30 della legge 23 dicembre 1994, n. 724](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-12-23;724#art_30), sono apportate le seguenti modificazioni:
+Nelle more della revisione della disciplina di contrasto al mero godimento dei beni messi a disposizione dei soci e dei loro familiari gratuitamente o a fronte di un corrispettivo inferiore al valore normale, nell'ambito della disciplina delle societa' di comodo, a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2023, all'[articolo 30 della legge 23 dicembre 1994, n. 724](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica.md), sono apportate le seguenti modificazioni:
                             a)
                                 al comma 1: 
  1) la lettera a) e' sostituita dalla seguente: 
@@ -607,7 +607,7 @@ Agli oneri derivanti dal comma 1 del presente articolo pari a 160.889.446 euro p
 
 3.
 
-In sede di attuazione degli [articoli 13, comma 1, lettera b)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2023-08-09;111#art_13-com1-letb), e [14, comma 1, della legge 9 agosto 2023, n. 111](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2023-08-09;111#art_14-com1), e' valutata l'opportunita' di considerare eventuali perdite di gettito, previa intesa in sede di Conferenza Unificata, ai sensi dell'[articolo 2, comma 1, lettera g), numero 6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2023;111#art_2-com1-letg-num6)), e dell'[articolo 23, comma 2, della legge n. 111 del 2023](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2023;111#art_23-com2).
+In sede di attuazione degli [articoli 13, comma 1, lettera b)](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20riforma%20fiscale.%2023G00122.md), e [14, comma 1, della legge 9 agosto 2023, n. 111](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20riforma%20fiscale.%2023G00122.md), e' valutata l'opportunita' di considerare eventuali perdite di gettito, previa intesa in sede di Conferenza Unificata, ai sensi dell'[articolo 2, comma 1, lettera g), numero 6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2023;111#art_2-com1-letg-num6)), e dell'[articolo 23, comma 2, della legge n. 111 del 2023](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2023;111#art_23-com2).
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

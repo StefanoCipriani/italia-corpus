@@ -18,7 +18,7 @@ Vista la decisione quadro 2009/315/GAI del Consiglio, del 26 febbraio 2009, rela
 
 Vista la decisione 2009/316/GAI del Consiglio, del 6 aprile 2009, che istituisce il sistema europeo di informazione sui casellari giudiziari (ECRIS) in applicazione dell'articolo 11 della decisione quadro 2009/315/GAI;
 
-Vista la [legge 9 luglio 2015, n. 114](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-07-09;114), recante delega al Governo per il recepimento delle direttive e l'attuazione di altri atti dell'Unione europea - Legge di delegazione europea 2014 e, in particolare, gli articoli 1 e 19;
+Vista la [legge 9 luglio 2015, n. 114](../Leggi%20di%20delegazione%20europea/Delega%20al%20Governo%20per%20il%20recepimento%20delle%20direttive%20europee%20e%20lattuazione%20di%20altri%20atti%20dellUnione%20europea%20-%20Legge%20di%20delegazione%20europea%202014.%2015G00127.md), recante delega al Governo per il recepimento delle direttive e l'attuazione di altri atti dell'Unione europea - Legge di delegazione europea 2014 e, in particolare, gli articoli 1 e 19;
 
 Visto il [decreto legislativo 28 luglio 1989, n. 271](Norme%20di%20attuazione%20di%20coordinamento%20e%20transitorie%20del%20codice%20di%20procedura%20penale.md), recante norme di attuazione, di coordinamento e transitorie del [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447);
 

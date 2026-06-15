@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[articolo 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge costituzionale 31 gennaio 1963, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1963-01-31;1), che ha approvato lo Statuto speciale della regione Friuli-Venezia Giulia;
+Vista la [legge costituzionale 31 gennaio 1963, n. 1](../Leggi%20costituzionali/Statuto%20speciale%20della%20Regione%20Friuli-Venezia%20Giulia.md), che ha approvato lo Statuto speciale della regione Friuli-Venezia Giulia;
 
 Visto il [decreto legislativo 24 aprile 2001, n. 237](Norme%20di%20attuazione%20dello%20Statuto%20speciale%20della%20regione%20Friuli-Venezia%20Giulia%20recanti%20il%20trasferimento%20alla%20regione%20di%20beni%20immobili%20dello%20Stato.md);
 

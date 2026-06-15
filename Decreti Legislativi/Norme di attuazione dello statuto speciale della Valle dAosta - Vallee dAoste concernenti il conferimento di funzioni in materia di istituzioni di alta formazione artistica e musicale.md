@@ -12,9 +12,9 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[articolo 87, quinto comma, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge costituzionale 26 febbraio 1948, n. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1948-02-26;4), che approva lo statuto speciale della regione Valle d'Aosta;
+Vista la [legge costituzionale 26 febbraio 1948, n. 4](../Leggi%20costituzionali/Statuto%20speciale%20per%20la%20Valle%20dAosta.md), che approva lo statuto speciale della regione Valle d'Aosta;
 
-Vista la proposta della Commissione paritetica prevista dall'articolo 48-bis dello statuto speciale, introdotto dall'[articolo 3 della legge costituzionale 23 settembre 1993, n. 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1993-09-23;2#art_3);
+Vista la proposta della Commissione paritetica prevista dall'articolo 48-bis dello statuto speciale, introdotto dall'[articolo 3 della legge costituzionale 23 settembre 1993, n. 2](../Leggi%20costituzionali/Modifiche%20ed%20integrazioni%20agli%20statuti%20speciali%20per%20la%20Valle%20dAosta%20per%20la%20Sardegna%20per%20il%20Friuli-Venezia%20Giulia%20e%20per%20il%20Trentino-Alto%20Adige.md);
 
 Acquisito il parere del Consiglio regionale della Valle d'Aosta/Vallee d'Aoste, espresso nella seduta del 5 aprile 2007;
 

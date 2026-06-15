@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[articolo 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge costituzionale 31 gennaio 1963, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1963-01-31;1), recante: «Statuto speciale della Regione Friuli-Venezia Giulia»;
+Vista la [legge costituzionale 31 gennaio 1963, n. 1](../Leggi%20costituzionali/Statuto%20speciale%20della%20Regione%20Friuli-Venezia%20Giulia.md), recante: «Statuto speciale della Regione Friuli-Venezia Giulia»;
 
 Visto il [decreto legislativo 24 aprile 2001, n. 237](Norme%20di%20attuazione%20dello%20Statuto%20speciale%20della%20regione%20Friuli-Venezia%20Giulia%20recanti%20il%20trasferimento%20alla%20regione%20di%20beni%20immobili%20dello%20Stato.md), recante: «Norme di attuazione dello Statuto speciale della Regione Friuli-Venezia Giulia, recanti il trasferimento alla Regione di beni immobili dello Stato»;
 
@@ -38,7 +38,7 @@ Sono trasferiti alla Regione autonoma Friuli Venezia Giulia, di seguito Regione,
 
 2.
 
-La Regione e' autorizzata a trasferire ai comuni o ad altri enti pubblici i beni di cui al comma 1, fatto salvo quanto stabilito dagli [articoli 53](Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md), [54](Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md) e [55 del decreto legislativo 22 gennaio 2004, n. 42](Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md) ([Codice dei beni culturali e del paesaggio](Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md), ai sensi dell'[articolo 10 della legge 6 luglio 2002, n. 137](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-07-06;137#art_10)).
+La Regione e' autorizzata a trasferire ai comuni o ad altri enti pubblici i beni di cui al comma 1, fatto salvo quanto stabilito dagli [articoli 53](Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md), [54](Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md) e [55 del decreto legislativo 22 gennaio 2004, n. 42](Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md) ([Codice dei beni culturali e del paesaggio](Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md), ai sensi dell'[articolo 10 della legge 6 luglio 2002, n. 137](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20per%20la%20riforma%20dellorganizzazione%20del%20Governo%20e%20della%20Presidenza%20del%20Consiglio%20dei%20Ministri%20nonche%20di%20enti%20pubblici.md)).
 
 3.
 
@@ -55,7 +55,7 @@ N O T E
  
  Note alle premesse: 
  - L'[art. 87, quinto comma, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5), conferisce al Presidente della Repubblica il potere di promulgare le leggi e di emanare i decreti aventi valore di legge ed i regolamenti. 
- - La [legge costituzionale 31 gennaio 1963, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1963-01-31;1) (Statuto speciale per il Friuli Venezia Giulia), e' pubblicata nella Gazzetta Ufficiale 1° febbraio 1963, n. 29. 
+ - La [legge costituzionale 31 gennaio 1963, n. 1](../Leggi%20costituzionali/Statuto%20speciale%20della%20Regione%20Friuli-Venezia%20Giulia.md) (Statuto speciale per il Friuli Venezia Giulia), e' pubblicata nella Gazzetta Ufficiale 1° febbraio 1963, n. 29. 
  - Il [decreto legislativo 24 aprile 2001, n. 237](Norme%20di%20attuazione%20dello%20Statuto%20speciale%20della%20regione%20Friuli-Venezia%20Giulia%20recanti%20il%20trasferimento%20alla%20regione%20di%20beni%20immobili%20dello%20Stato.md), recante «Norme di attuazione dello Statuto speciale della Regione Friuli Venezia Giulia, recanti il trasferimento alla Regione di beni immobili dello Stato» e' pubblicato nella Gazzetta Ufficiale 21 giugno 2001 n. 142. 
  - Il [decreto legislativo 2 marzo 2007, n. 35](Norme%20di%20attuazione%20dello%20Statuto%20speciale%20della%20regione%20autonoma%20Friuli-Venezia%20Giulia%20concernenti%20integrazioni%20al%20decreto%20legislativo%2024%20aprile%202001%20n.%20237%20in%20materia%20di%20trasferimento%20a_a0bd4897435f.md), recante «Norme di attuazione dello Statuto speciale della Regione autonoma Friuli-Venezia Giulia, concernenti integrazioni al [D.lgs. 24 aprile 2001, n. 237](Norme%20di%20attuazione%20dello%20Statuto%20speciale%20della%20regione%20Friuli-Venezia%20Giulia%20recanti%20il%20trasferimento%20alla%20regione%20di%20beni%20immobili%20dello%20Stato.md), in materia di trasferimento alla Regione di beni immobili dello Stato» e' pubblicato nella Gazzetta Ufficiale 29 marzo 2007 n.74. 
  - Il [decreto legislativo 30 luglio 2020, n. 109](Norme%20di%20attuazione%20dello%20Statuto%20speciale%20della%20Regione%20autonoma%20Friuli-Venezia%20Giulia%20recanti%20il%20trasferimento%20alla%20Regione%20di%20beni%20immobili%20dello%20Stato.%2020G00128.md), recante: «Norme di attuazione dello Statuto speciale della Regione autonoma Friuli-Venezia Giulia recanti il trasferimento alla Regione di beni immobili dello Stato» e' pubblicato nella Gazzetta Ufficiale 5 settembre 2020 n. 221. 
@@ -105,7 +105,7 @@ N O T E
  d) l'indicazione della natura e delle condizioni dell'atto di trasferimento; 
  e) l'indicazione del domicilio in Italia delle parti ai fini delle eventuali comunicazioni previste dal presente Titolo. 
  5. Si considera non avvenuta la denuncia priva delle indicazioni previste dal comma 4 o con indicazioni incomplete o imprecise.». 
- - Il testo dell'[articolo 65 della legge costituzionale 31 gennaio 1963, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1963-01-31;1#art_65) (Statuto speciale per il Friuli Venezia Giulia), e' il seguente: 
+ - Il testo dell'[articolo 65 della legge costituzionale 31 gennaio 1963, n. 1](../Leggi%20costituzionali/Statuto%20speciale%20della%20Regione%20Friuli-Venezia%20Giulia.md) (Statuto speciale per il Friuli Venezia Giulia), e' il seguente: 
  «Art. 65. - Con decreti legislativi, sentita una Commissione paritetica di sei membri, nominati tre dal Governo della Repubblica e tre dal Consiglio regionale, saranno stabilite le norme di attuazione del presente Statuto e quelle relative al trasferimento all'Amministrazione regionale degli uffici statali che nel Friuli-Venezia Giulia adempiono a funzioni attribuite alla Regione.». 
  
  Note all'art. 1: 

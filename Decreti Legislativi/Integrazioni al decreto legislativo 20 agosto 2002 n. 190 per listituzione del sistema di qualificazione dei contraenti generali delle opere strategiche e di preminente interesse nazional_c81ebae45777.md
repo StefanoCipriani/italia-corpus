@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto l'[articolo 1, commi 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001-12-21;443#art_1-com2) e [3, della legge 21 dicembre 2001, n. 443](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001-12-21;443#art_1-com3);
+Visto l'[articolo 1, commi 2](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20in%20materia%20di%20infrastrutture%20ed%20insediamenti%20produttivi%20strategici%20ed%20altri%20interventi%20per%20il%20rilancio%20delle%20attivita%20produttive.md) e [3, della legge 21 dicembre 2001, n. 443](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20in%20materia%20di%20infrastrutture%20ed%20insediamenti%20produttivi%20strategici%20ed%20altri%20interventi%20per%20il%20rilancio%20delle%20attivita%20produttive.md);
 
 Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella riunione del 23 gennaio 2004;
 

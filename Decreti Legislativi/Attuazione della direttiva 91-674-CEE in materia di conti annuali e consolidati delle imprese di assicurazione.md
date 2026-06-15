@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto l'[articolo 20 della legge 22 febbraio 1994, n. 146](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-22;146#art_20), legge comunitaria per il 1993, recante delega al Governo per l'attuazione della [direttiva 91/674/CEE, del Consiglio del 19 dicembre 1991](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1991;674);
+Visto l'[articolo 20 della legge 22 febbraio 1994, n. 146](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%201993.md), legge comunitaria per il 1993, recante delega al Governo per l'attuazione della [direttiva 91/674/CEE, del Consiglio del 19 dicembre 1991](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1991;674);
 
 Vista la [legge 6 febbraio 1996, n. 52](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20legge%20comunitaria%201994.md), legge comunitaria per il 1994, ed in particolare l'articolo 6, comma 1;
 
@@ -24,7 +24,7 @@ Visto il [decreto del Presidente della Repubblica 24 novembre 1970, n. 973](../D
 
 Vista la [legge 26 febbraio 1977, n. 39](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2023%20dicembre%201976%20n.%20857%20concernente%20modifica%20della%20disciplina%20dellassicurazione%20obbligatoria%20della%20responsabilita%20civile%20derivante_44c8f65dc800.md), recante modifica della disciplina dell'assicurazione obbligatoria della responsabilita' civile derivante dalla circolazione dei veicoli a motore e dei natanti;
 
-Visto il [decreto legislativo 9 aprile 1991, n. 127](Attuazione%20delle%20direttive%20n.%2078-660-CEE%20e%20n.%2083-349-CEE%20in%20materia%20societaria%20relative%20ai%20conti%20annuali%20e%20consolidati%20ai%20sensi%20dellart.%201%20comma%201%20della%20legge%2026%20marzo%201990%20n.%2069.md), di attuazione delle [direttive 78/660/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1978;660) e [83/349/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1983;349) in materia societaria, relative ai conti annuali e consolidati, ai sensi dell'[articolo 1, comma 1, della legge 26 marzo 1990, n. 69](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-03-26;69#art_1-com1);
+Visto il [decreto legislativo 9 aprile 1991, n. 127](Attuazione%20delle%20direttive%20n.%2078-660-CEE%20e%20n.%2083-349-CEE%20in%20materia%20societaria%20relative%20ai%20conti%20annuali%20e%20consolidati%20ai%20sensi%20dellart.%201%20comma%201%20della%20legge%2026%20marzo%201990%20n.%2069.md), di attuazione delle [direttive 78/660/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1978;660) e [83/349/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1983;349) in materia societaria, relative ai conti annuali e consolidati, ai sensi dell'[articolo 1, comma 1, della legge 26 marzo 1990, n. 69](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20lattuazione%20di%20direttive%20comunitarie%20in%20materia%20societaria.md);
 
 Visto il [decreto legislativo 17 marzo 1995, n. 174](Attuazione%20della%20direttiva%2092-96-CEE%20in%20materia%20di%20assicurazione%20diretta%20sulla%20vita.md), di attuazione della [direttiva 92/96/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1992;96) in materia di assicurazione diretta sulla vita;
 
@@ -81,7 +81,7 @@ Le attivita' e le passivita' relative ai fondi pensione gestiti dall'impresa di 
 
 AGGIORNAMENTO (7)
 
-Il [D.Lgs. 18 agosto 2015, n. 139](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;139), ha disposto (con l'art. 12, comma 1) che le presenti modifiche si applicano ai bilanci relativi agli esercizi finanziari aventi inizio a partire dal 1 gennaio 2016.
+Il [D.Lgs. 18 agosto 2015, n. 139](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202013-34-UE%20relativa%20ai%20bilanci%20desercizio%20ai%20bilanci%20consolidati%20e%20alle%20relative%20relazioni%20di%20talune%20tipologie%20di%20imprese%20recante%20modifica%20della%20direttiva%202006-_0a7464acec94.md), ha disposto (con l'art. 12, comma 1) che le presenti modifiche si applicano ai bilanci relativi agli esercizi finanziari aventi inizio a partire dal 1 gennaio 2016.
 
 ### Art. 3.
 
@@ -128,7 +128,7 @@ Ai fini del comma 1 la nozione di controllo e' quella definita dall'[articolo 23
 
 AGGIORNAMENTO (7)
 
-Il [D.Lgs. 18 agosto 2015, n. 139](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;139), ha disposto (con l'art. 12, comma 1) che la presente modifica si applica ai bilanci relativi agli esercizi finanziari aventi inizio a partire dal 1 gennaio 2016.
+Il [D.Lgs. 18 agosto 2015, n. 139](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202013-34-UE%20relativa%20ai%20bilanci%20desercizio%20ai%20bilanci%20consolidati%20e%20alle%20relative%20relazioni%20di%20talune%20tipologie%20di%20imprese%20recante%20modifica%20della%20direttiva%202006-_0a7464acec94.md), ha disposto (con l'art. 12, comma 1) che la presente modifica si applica ai bilanci relativi agli esercizi finanziari aventi inizio a partire dal 1 gennaio 2016.
 
 ### Art. 6.
 
@@ -179,7 +179,7 @@ TITOLO II
 
 AGGIORNAMENTO (7)
 
-Il [D.Lgs. 18 agosto 2015, n. 139](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;139), ha disposto (con l'art. 12, comma 1) che la presente modifica si applica ai bilanci relativi agli esercizi finanziari aventi inizio a partire dal 1 gennaio 2016.
+Il [D.Lgs. 18 agosto 2015, n. 139](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202013-34-UE%20relativa%20ai%20bilanci%20desercizio%20ai%20bilanci%20consolidati%20e%20alle%20relative%20relazioni%20di%20talune%20tipologie%20di%20imprese%20recante%20modifica%20della%20direttiva%202006-_0a7464acec94.md), ha disposto (con l'art. 12, comma 1) che la presente modifica si applica ai bilanci relativi agli esercizi finanziari aventi inizio a partire dal 1 gennaio 2016.
 
 ### Art. 15. — Attivi patrimoniali ad utilizzo durevole
 
@@ -247,7 +247,7 @@ Il [D.Lgs. 2 febbraio 2007, n. 32](../Atti%20di%20recepimento%20direttive%20UE/A
 
 AGGIORNAMENTO (7)
 
-Il [D.Lgs. 18 agosto 2015, n. 139](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;139) ha disposto (con l'art. 12, comma 1) che le presenti modifiche si applicano ai bilanci relativi agli esercizi finanziari aventi inizio a partire dal 1 gennaio 2016.
+Il [D.Lgs. 18 agosto 2015, n. 139](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202013-34-UE%20relativa%20ai%20bilanci%20desercizio%20ai%20bilanci%20consolidati%20e%20alle%20relative%20relazioni%20di%20talune%20tipologie%20di%20imprese%20recante%20modifica%20della%20direttiva%202006-_0a7464acec94.md) ha disposto (con l'art. 12, comma 1) che le presenti modifiche si applicano ai bilanci relativi agli esercizi finanziari aventi inizio a partire dal 1 gennaio 2016.
 
 ### Art. 17. — Valore corrente
  degli investimenti trattati in mercati regolamentati
@@ -380,7 +380,7 @@ I titoli costituiti in deposito presso un'impresa cedente o terzi e che restano 
 
 AGGIORNAMENTO (7)
 
-Il [D.Lgs. 18 agosto 2015, n. 139](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;139) ha disposto (con l'art. 12, comma 1) che la presente modifica si applica ai bilanci relativi agli esercizi finanziari aventi inizio a partire dal 1 gennaio 2016.
+Il [D.Lgs. 18 agosto 2015, n. 139](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202013-34-UE%20relativa%20ai%20bilanci%20desercizio%20ai%20bilanci%20consolidati%20e%20alle%20relative%20relazioni%20di%20talune%20tipologie%20di%20imprese%20recante%20modifica%20della%20direttiva%202006-_0a7464acec94.md) ha disposto (con l'art. 12, comma 1) che la presente modifica si applica ai bilanci relativi agli esercizi finanziari aventi inizio a partire dal 1 gennaio 2016.
 
 ### Art. 24. — Investimenti a beneficio di assicurati dei rami vita i quali ne
  sopportano il rischio

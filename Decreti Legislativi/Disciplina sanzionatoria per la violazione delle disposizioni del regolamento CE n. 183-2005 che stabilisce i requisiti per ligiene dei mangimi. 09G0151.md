@@ -18,7 +18,7 @@ Vista la [legge del 15 febbraio 1963, n. 281](https://www.normattiva.it/uri-res/
 
 Vista la [legge 24 novembre 1981, n. 689](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689), recante modifiche al sistema penale;
 
-Visto il [decreto legislativo 30 dicembre 1999, n. 507](Depenalizzazione%20dei%20reati%20minori%20e%20riforma%20del%20sistema%20sanzionatorio%20ai%20sensi%20dellarticolo%201%20della%20legge%2025%20giugno%201999%20n.%20205.md), recante depenalizzazione dei reati minori e riforma del sistema sanzionatorio, ai sensi dell'[articolo 1 della legge 25 giugno 1999, n. 205](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-06-25;205#art_1);
+Visto il [decreto legislativo 30 dicembre 1999, n. 507](Depenalizzazione%20dei%20reati%20minori%20e%20riforma%20del%20sistema%20sanzionatorio%20ai%20sensi%20dellarticolo%201%20della%20legge%2025%20giugno%201999%20n.%20205.md), recante depenalizzazione dei reati minori e riforma del sistema sanzionatorio, ai sensi dell'[articolo 1 della legge 25 giugno 1999, n. 205](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20depenalizzazione%20dei%20reati%20minori%20e%20modifiche%20al%20sistema%20penale%20e%20tributario.md);
 
 Visto il regolamento (CE) n. 183/2005 del Parlamento europeo e del Consiglio, del 12 gennaio 2005, che stabilisce requisiti per l'igiene dei mangimi, ed in particolare l'articolo 30;
 

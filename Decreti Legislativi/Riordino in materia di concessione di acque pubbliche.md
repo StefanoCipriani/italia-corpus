@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto l'[art. 2, comma 1, lettera a), della legge 23 dicembre 1992, n. 498](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-12-23;498#art_2-com1-leta);
+Visto l'[art. 2, comma 1, lettera a), della legge 23 dicembre 1992, n. 498](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20urgenti%20in%20materia%20di%20finanza%20pubblica.md);
 
 Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella riunione del 18 giugno 1993;
 
@@ -62,7 +62,7 @@ AVVERTENZA:
  leggi e di emanare i decreti aventi valore di legge e i
  regolamenti.
  - Il testo dell'[art. 2, comma 1, lettera a), della legge
- 23 dicembre 1992, n. 498](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-12-23;498#art_2-com1-leta) (Interventi urgenti in materia di finanza pubblica) e' il seguente:
+ 23 dicembre 1992, n. 498](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20urgenti%20in%20materia%20di%20finanza%20pubblica.md) (Interventi urgenti in materia di finanza pubblica) e' il seguente:
  "1. Ai fini della ottimale e razionale utilizzazione
  delle risorse naturali, anche per conseguire obiettivi di
  risparmio e di uso qualificato dei beni naturali da parte
@@ -269,20 +269,20 @@ All'art. 106 del testo unico approvato con [regio decreto 11 dicembre 1933, n. 1
  
 AGGIORNAMENTO (2)
 Il [D.L. 8 agosto 1994, n. 507](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1994-08-08;507) convertito con modificazioni dalla [L.
-21 ottobre 1994, n. 584](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%208%20agosto%201994%20n.%20507%20recante%20misure%20urgenti%20in%20materia%20di%20dighe.md) ha disposto (con l'art. 14, comma 1) che "Il termine per le denunce dei pozzi di cui all'[articolo 10 del decreto legislativo 12 luglio 1993, n. 275](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-07-12;275#art_10), e' differito al 30 giugno 1995."
+21 ottobre 1994, n. 584](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%208%20agosto%201994%20n.%20507%20recante%20misure%20urgenti%20in%20materia%20di%20dighe.md) ha disposto (con l'art. 14, comma 1) che "Il termine per le denunce dei pozzi di cui all'[articolo 10 del decreto legislativo 12 luglio 1993, n. 275](Riordino%20in%20materia%20di%20concessione%20di%20acque%20pubbliche.md), e' differito al 30 giugno 1995."
  
 -----------------
 
  
 AGGIORNAMENTO (3)
-La [L. 30 aprile 1999, n. 136](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-04-30;136) ha disposto (con l'art. 28, comma 1) che "Il termine per le denunce dei pozzi di cui all'[articolo 10 del decreto legislativo 12 luglio 1993, n. 275](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-07-12;275#art_10), come modificato dall'[articolo 14 del decreto-legge 8 agosto 1994, n. 507](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1994-08-08;507#art_14), convertito, con modificazioni, dalla [legge 21 ottobre 1994, n. 584](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%208%20agosto%201994%20n.%20507%20recante%20misure%20urgenti%20in%20materia%20di%20dighe.md), e' riaperto e fissato in otto mesi dalla data di entrata in vigore della presente legge."
+La [L. 30 aprile 1999, n. 136](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-04-30;136) ha disposto (con l'art. 28, comma 1) che "Il termine per le denunce dei pozzi di cui all'[articolo 10 del decreto legislativo 12 luglio 1993, n. 275](Riordino%20in%20materia%20di%20concessione%20di%20acque%20pubbliche.md), come modificato dall'[articolo 14 del decreto-legge 8 agosto 1994, n. 507](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1994-08-08;507#art_14), convertito, con modificazioni, dalla [legge 21 ottobre 1994, n. 584](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%208%20agosto%201994%20n.%20507%20recante%20misure%20urgenti%20in%20materia%20di%20dighe.md), e' riaperto e fissato in otto mesi dalla data di entrata in vigore della presente legge."
  
 -----------------
 
 
  
 AGGIORNAMENTO (4) 
- La [L. 17 agosto 1999, n. 290](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-08-17;290) ha disposto (con l'art. 2, comma 1) che "Il termine per le denunce dei pozzi di cui all'[articolo 10 del decreto legislativo 12 luglio 1993, n. 275](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-07-12;275#art_10), come modificato dall'[articolo 14 del decreto-legge 8 agosto 1994, n. 507](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1994-08-08;507#art_14), convertito, con modificazioni, dalla [legge 21 ottobre 1994, n. 584](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%208%20agosto%201994%20n.%20507%20recante%20misure%20urgenti%20in%20materia%20di%20dighe.md), e' riaperto e fissato in dodici mesi dalla data di entrata in vigore della presente legge; in caso di richiesta di riconoscimento o concessione, i canoni di derivazione irrigua sono dovuti dalla data di accoglimento della relativa domanda."
+ La [L. 17 agosto 1999, n. 290](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-08-17;290) ha disposto (con l'art. 2, comma 1) che "Il termine per le denunce dei pozzi di cui all'[articolo 10 del decreto legislativo 12 luglio 1993, n. 275](Riordino%20in%20materia%20di%20concessione%20di%20acque%20pubbliche.md), come modificato dall'[articolo 14 del decreto-legge 8 agosto 1994, n. 507](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1994-08-08;507#art_14), convertito, con modificazioni, dalla [legge 21 ottobre 1994, n. 584](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%208%20agosto%201994%20n.%20507%20recante%20misure%20urgenti%20in%20materia%20di%20dighe.md), e' riaperto e fissato in dodici mesi dalla data di entrata in vigore della presente legge; in caso di richiesta di riconoscimento o concessione, i canoni di derivazione irrigua sono dovuti dalla data di accoglimento della relativa domanda."
 
 ## Art. 11. — Monitoraggio delle acque di fognatura
 

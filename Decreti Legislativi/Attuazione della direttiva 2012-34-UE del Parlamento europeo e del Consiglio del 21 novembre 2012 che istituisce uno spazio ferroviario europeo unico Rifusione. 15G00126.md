@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge 24 dicembre 2012, n. 234](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-24;234), recante norme generali sulla partecipazione dell'Italia alla formazione e all'attuazione della normativa e delle politiche dell'Unione europea;
+Vista la [legge 24 dicembre 2012, n. 234](../Leggi%20di%20delegazione%20europea/Norme%20generali%20sulla%20partecipazione%20dellItalia%20alla%20formazione%20e%20allattuazione%20della%20normativa%20e%20delle%20politiche%20dellUnione%20europea.%2013G00003.md), recante norme generali sulla partecipazione dell'Italia alla formazione e all'attuazione della normativa e delle politiche dell'Unione europea;
 
 Vista la legge di delegazione europea 6 agosto 2013, n. 96;
 
@@ -30,7 +30,7 @@ Visto il [decreto legislativo 8 luglio 2003, n. 188](Attuazione%20delle%20dirett
 
 Visto il decreto del Ministro delle infrastrutture e dei trasporti 5 agosto 2005, pubblicato nella Gazzetta Ufficiale della Repubblica italiana del 3 novembre 2005, n. 256;
 
-Visto l'[articolo 131, comma 1, della legge 23 dicembre 2000, n. 388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-23;388#art_131-com1);
+Visto l'[articolo 131, comma 1, della legge 23 dicembre 2000, n. 388](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202001.md);
 
 Visto il [decreto legislativo 19 novembre 1997, n. 422](Conferimento%20alle%20regioni%20ed%20agli%20enti%20locali%20di%20funzioni%20e%20compiti%20in%20materia%20di%20trasporto%20pubblico%20locale%20a%20norma%20dellarticolo%204%20comma%204%20della%20legge%2015%20marzo%201997%20n.%2059.md), e successive modificazioni;
 
@@ -1715,7 +1715,7 @@ Ai fini del monitoraggio del mercato da parte della Commissione di cui all'[arti
 
 2.
 
-Ai fini di tale adempimento, il Ministro delle infrastrutture e dei trasporti si avvale dell'Istituto nazionale di statistica e dell'Osservatorio nazionale sulle politiche del trasporto pubblico locale, istituito con l'[articolo 1, comma 300, della legge 24 dicembre 2007, n. 244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-12-24;244#art_1-com300), per quanto di competenza, sulla base di un protocollo di intesa da formalizzare entro sei mesi dall'entrata in vigore del presente decreto.
+Ai fini di tale adempimento, il Ministro delle infrastrutture e dei trasporti si avvale dell'Istituto nazionale di statistica e dell'Osservatorio nazionale sulle politiche del trasporto pubblico locale, istituito con l'[articolo 1, comma 300, della legge 24 dicembre 2007, n. 244](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202008.md), per quanto di competenza, sulla base di un protocollo di intesa da formalizzare entro sei mesi dall'entrata in vigore del presente decreto.
 
 3.
 
@@ -1727,7 +1727,7 @@ Per assicurare la coerenza degli obblighi di comunicazione, il Ministro delle in
 
 Note all'[art. 40: 
  Per la direttiva 2012/34/UE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2012;34), si veda nelle note alle premesse. 
- Il [comma 300 dell'art. 1 della legge 24 dicembre 2007, n. 244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-12-24;244#art_1-com300) (Disposizioni per la formazione del bilancio annuale e pluriennale dello Stato - legge finanziaria 2008),pubblicata nella Gazzetta Ufficiale 28 dicembre 2007, n. 300, S.O., cosi' recita: 
+ Il [comma 300 dell'art. 1 della legge 24 dicembre 2007, n. 244](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202008.md) (Disposizioni per la formazione del bilancio annuale e pluriennale dello Stato - legge finanziaria 2008),pubblicata nella Gazzetta Ufficiale 28 dicembre 2007, n. 300, S.O., cosi' recita: 
  "Art. 1. Disposizioni in materia di entrata, nonche' disposizioni concernenti le seguenti Missioni: Organi costituzionali, a rilevanza costituzionale e Presidenza del Consiglio dei ministri; Relazioni finanziarie con le autonomie territoriali. 
  (Omissis). 
  300. E' istituito presso il Ministero dei trasporti l'Osservatorio nazionale sulle politiche del trasporto pubblico locale, cui partecipano i rappresentanti dei Ministeri competenti, delle regioni e degli enti locali, al fine di creare una banca dati e un sistema informativo pubblico correlati a quelli regionali e di assicurare la verifica dell'andamento del settore e del completamento del processo di riforma. Per il funzionamento dell'Osservatorio e' autorizzata la spesa di 2 milioni di euro annui a decorrere dall'anno 2008. Con decreto del Ministro dei trasporti, di concerto con il Ministro dell'economia e delle finanze e con il Ministro per gli affari regionali e le autonomie locali, sentita la Conferenza unificata di cui all'[art. 8 del decreto legislativo 28 agosto 1997, n. 281](Definizione%20ed%20ampliamento%20delle%20attribuzioni%20della%20Conferenza%20permanente%20per%20i%20rapporti%20tra%20lo%20Stato%20le%20regioni%20e%20le%20province%20autonome%20di%20Trento%20e%20Bolzano%20ed%20unificazione%20per%20le%20materie%20_0f948c71aa72.md), e successive modificazioni, sono definiti i criteri e le modalita' di monitoraggio delle risorse destinate al settore e dei relativi servizi, ivi comprese quelle relative agli enti locali, nonche' le modalita' di funzionamento dell'Osservatorio. L'Osservatorio presenta annualmente alle Camere un rapporto sullo stato del trasporto pubblico locale. 

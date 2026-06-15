@@ -10,9 +10,9 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto il [decreto legislativo luogotenenziale 7 settembre 1945, n. 545](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-09-07;545);
+Visto il [decreto legislativo luogotenenziale 7 settembre 1945, n. 545](../Decreti%20legislativi%20luogotenenziali/Ordinamento%20amministrativo%20della%20Valle%20dAosta.%20045U0545.md);
 
-Visto l'[art. 12 della legge costituzionale 26 febbraio 1948, n. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1948-02-26;4#art_12);
+Visto l'[art. 12 della legge costituzionale 26 febbraio 1948, n. 4](../Leggi%20costituzionali/Statuto%20speciale%20per%20la%20Valle%20dAosta.md);
 
 Viste le disposizioni transitorie I e XV della Costituzione;
 

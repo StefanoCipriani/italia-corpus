@@ -16,7 +16,7 @@ Visto il [decreto legislativo luogotenenziale 17 maggio 1945, n. 331](../Atti%20
 
 Visto il decreto del Ministro del tesoro in data 25 febbraio 1946, pubblicato nella Gazzetta Ufficiale n. 117 del 21 maggio 1946, con il quale e' stato approvato lo statuto dell'Ufficio italiano dei cambi;
 
-Visto l'[articolo 1 della legge 17 dicembre 1997, n. 433](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-12-17;433#art_1), recante delega al Governo per assicurare la compatibilita' dell'ordinamento nazionale con quanto disposto dall'articolo 108 del Trattato che istituisce la Comunita' europea;
+Visto l'[articolo 1 della legge 17 dicembre 1997, n. 433](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20lintroduzione%20dellEURO.md), recante delega al Governo per assicurare la compatibilita' dell'ordinamento nazionale con quanto disposto dall'articolo 108 del Trattato che istituisce la Comunita' europea;
 
 Visto l'articolo 109 F, paragrafo 6, del Trattato che istituisce la Comunita' europea;
 
@@ -53,7 +53,7 @@ Avvertenza:
  - L'[art. 87, quinto comma, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5) conferisce al Presidente della Repubblica il potere di promulgare le leggi e di emanare i decreti aventi valore di legge ed i regolamenti.
  - Il [decreto legislativo luogotenenziale 17 maggio 1945, n. 331](../Atti%20normativi%20abrogati%20%28in%20originale%29/Costituzione%20dellUfficio%20italiano%20dei%20cambi%20e%20passaggio%20a%20questultimo%20delle%20funzioni%20dellistituto%20nazionale%20per%20i%20cambi%20con%20lestero.%20045U0331.md), reca: "Costituzione dell'Ufficio italiano dei cambi e passaggio a quest'ultimo delle funzioni dell'Istituto nazionale per i cambi con l'estero".
  - Il D.M. 25 febbraio 1946 con il quale e' stato approvato lo statuto dell'Ufficio italiano dei cambi, e' pubblicato nella Gazzetta Ufficiale n. 117 del 21 maggio 1946.
- - L'[art. 1 della legge 17 dicembre 1997, n. 433](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-12-17;433#art_1), prevede il conferimento al Governo della delega per l'emanazione di uno o piu' decreti legislativi recanti le norme necessarie ai fini della attuazione delle disposizioni comunitarie sul passaggio della lira all'euro, nonche' per assicurare la compatibilita' dell'ordinamento nazionale con quanto disposto dall'art. 108 del Trattato che istituisce la Comunita' europea; Trattato che impone a ciascuno Stato membro di provvedere ad assicurare la compatibilita' della propria legislazione nazionale con il Trattato medesimo e con lo statuto del Sistema europeo delle banche centrali.
+ - L'[art. 1 della legge 17 dicembre 1997, n. 433](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20lintroduzione%20dellEURO.md), prevede il conferimento al Governo della delega per l'emanazione di uno o piu' decreti legislativi recanti le norme necessarie ai fini della attuazione delle disposizioni comunitarie sul passaggio della lira all'euro, nonche' per assicurare la compatibilita' dell'ordinamento nazionale con quanto disposto dall'art. 108 del Trattato che istituisce la Comunita' europea; Trattato che impone a ciascuno Stato membro di provvedere ad assicurare la compatibilita' della propria legislazione nazionale con il Trattato medesimo e con lo statuto del Sistema europeo delle banche centrali.
  - L'art. 109 F, paragrafo 6, del Trattato prevede che l'Istituto monetario europeo (IME), nei limiti ed alle condizioni stabile dal Consiglio, venga consultato dalle autorita' degli Stati membri su ogni proposta di provvedimento legislativo che rientri nella sua competenza.
  - La decisione del Consiglio dell'Unione europea 93/717/CE del 22 novembre 1993 (pubblicata nella Gazzetta Ufficiale CEE del 31 dicembre 1993) e' relativa alla consultazione dell'Istituto monetario europeo da parte delle autorita' sulle proposte di provvedimenti legislativi.
  Nota all'art. 1:
@@ -115,7 +115,7 @@ Alla fine di ogni esercizio gli utili netti sono assegnati alla Banca. Le eventu
 
 AGGIORNAMENTO (1)
 
-La [L. 21 novembre 2000, n. 342](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-11-21;342) ha disposto (con l'art. 98, comma 2) che la suddetta modifica ha effetto a decorrere dal periodo di imposta in corso alla data del 31 dicembre 1999.
+La [L. 21 novembre 2000, n. 342](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20in%20materia%20fiscale.md) ha disposto (con l'art. 98, comma 2) che la suddetta modifica ha effetto a decorrere dal periodo di imposta in corso alla data del 31 dicembre 1999.
 
 ## Art. 5. — Abrogazioni e norme interpretative, transitorie e finali
 

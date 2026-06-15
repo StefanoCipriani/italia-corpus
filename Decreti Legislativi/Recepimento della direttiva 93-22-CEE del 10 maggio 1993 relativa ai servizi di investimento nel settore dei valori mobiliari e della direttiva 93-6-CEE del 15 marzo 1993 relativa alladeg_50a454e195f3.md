@@ -41,7 +41,7 @@ TITOLO I
 
 AGGIORNAMENTO (2)
 
-Il [D. Lgs. 24 febbraio 1998, n. 58](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-02-24;58) ha disposto (con l'art. 214, comma 2, lettera m)) che il comma 4 del presente articolo e' abrogato, ma continua a essere applicato fino alla data di entrata in vigore dei provvedimenti emanati ai sensi dello stesso [D.Lgs. 58/1998](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998;58).
+Il [D. Lgs. 24 febbraio 1998, n. 58](Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md) ha disposto (con l'art. 214, comma 2, lettera m)) che il comma 4 del presente articolo e' abrogato, ma continua a essere applicato fino alla data di entrata in vigore dei provvedimenti emanati ai sensi dello stesso [D.Lgs. 58/1998](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998;58).
 
 ### Art. 3.
 
@@ -68,7 +68,7 @@ TITOLO I
 
 AGGIORNAMENTO (2)
 
-Il [D. Lgs. 24 febbraio 1998, n. 58](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-02-24;58) ha disposto (con l'art. 214, comma 2, lettera m)) che i commi 3 e 4 del presente articolo sono abrogati, ma continuano a essere applicati fino alla data di entrata in vigore dei provvedimenti emanati ai sensi dello stesso [D.Lgs. 58/1998](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998;58).
+Il [D. Lgs. 24 febbraio 1998, n. 58](Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md) ha disposto (con l'art. 214, comma 2, lettera m)) che i commi 3 e 4 del presente articolo sono abrogati, ma continuano a essere applicati fino alla data di entrata in vigore dei provvedimenti emanati ai sensi dello stesso [D.Lgs. 58/1998](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998;58).
 
 ### Art. 7.
 
@@ -79,7 +79,7 @@ Il [D. Lgs. 24 febbraio 1998, n. 58](https://www.normattiva.it/uri-res/N2Ls?urn:
 
 AGGIORNAMENTO (2)
 
-Il [D. Lgs. 24 febbraio 1998, n. 58](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-02-24;58) ha disposto (con l'art. 214, comma 2, lettera m)) che il presente articolo e' abrogato, ma continua a essere applicato fino alla data di entrata in vigore dei provvedimenti emanati ai sensi dello stesso [D.Lgs. 58/1998](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998;58).
+Il [D. Lgs. 24 febbraio 1998, n. 58](Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md) ha disposto (con l'art. 214, comma 2, lettera m)) che il presente articolo e' abrogato, ma continua a essere applicato fino alla data di entrata in vigore dei provvedimenti emanati ai sensi dello stesso [D.Lgs. 58/1998](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998;58).
 
 ### Art. 8.
 
@@ -90,7 +90,7 @@ Il [D. Lgs. 24 febbraio 1998, n. 58](https://www.normattiva.it/uri-res/N2Ls?urn:
 
 AGGIORNAMENTO (2)
 
-Il [D. Lgs. 24 febbraio 1998, n. 58](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-02-24;58) ha disposto (con l'art. 214, comma 2, lettera m)) che il presente articolo e' abrogato, ma continua a essere applicato fino alla data di entrata in vigore dei provvedimenti emanati ai sensi dello stesso [D.Lgs. 58/1998](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998;58).
+Il [D. Lgs. 24 febbraio 1998, n. 58](Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md) ha disposto (con l'art. 214, comma 2, lettera m)) che il presente articolo e' abrogato, ma continua a essere applicato fino alla data di entrata in vigore dei provvedimenti emanati ai sensi dello stesso [D.Lgs. 58/1998](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998;58).
 
 ### Art. 9.
 
@@ -105,7 +105,7 @@ Il [D. Lgs. 24 febbraio 1998, n. 58](https://www.normattiva.it/uri-res/N2Ls?urn:
 
 AGGIORNAMENTO (2)
 
-Il [D. Lgs. 24 febbraio 1998, n. 58](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-02-24;58) ha disposto (con l'art. 214, comma 2, lettera m)) che il presente articolo e' abrogato, ma continua a essere applicato fino alla data di entrata in vigore dei provvedimenti emanati ai sensi dello stesso [D.Lgs. 58/1998](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998;58).
+Il [D. Lgs. 24 febbraio 1998, n. 58](Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md) ha disposto (con l'art. 214, comma 2, lettera m)) che il presente articolo e' abrogato, ma continua a essere applicato fino alla data di entrata in vigore dei provvedimenti emanati ai sensi dello stesso [D.Lgs. 58/1998](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998;58).
 
 ### Art. 11.
 
@@ -124,7 +124,7 @@ Il [D. Lgs. 24 febbraio 1998, n. 58](https://www.normattiva.it/uri-res/N2Ls?urn:
 
 AGGIORNAMENTO (2)
 
-Il [D. Lgs. 24 febbraio 1998, n. 58](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-02-24;58) ha disposto (con l'art. 214, comma 2, lettera m)) che il presente articolo e' abrogato, ma continua a essere applicato fino alla data di entrata in vigore dei provvedimenti emanati ai sensi dello stesso [D.Lgs. 58/1998](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998;58).
+Il [D. Lgs. 24 febbraio 1998, n. 58](Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md) ha disposto (con l'art. 214, comma 2, lettera m)) che il presente articolo e' abrogato, ma continua a essere applicato fino alla data di entrata in vigore dei provvedimenti emanati ai sensi dello stesso [D.Lgs. 58/1998](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998;58).
 
 ### Art. 14.
 
@@ -135,7 +135,7 @@ Il [D. Lgs. 24 febbraio 1998, n. 58](https://www.normattiva.it/uri-res/N2Ls?urn:
 
 AGGIORNAMENTO (2)
 
-Il [D. Lgs. 24 febbraio 1998, n. 58](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-02-24;58) ha disposto (con l'art. 214, comma 2, lettera m)) che il presente articolo e' abrogato, ma continua a essere applicato fino alla data di entrata in vigore dei provvedimenti emanati ai sensi dello stesso [D.Lgs. 58/1998](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998;58).
+Il [D. Lgs. 24 febbraio 1998, n. 58](Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md) ha disposto (con l'art. 214, comma 2, lettera m)) che il presente articolo e' abrogato, ma continua a essere applicato fino alla data di entrata in vigore dei provvedimenti emanati ai sensi dello stesso [D.Lgs. 58/1998](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998;58).
 
 ### Art. 15.
 
@@ -146,7 +146,7 @@ Il [D. Lgs. 24 febbraio 1998, n. 58](https://www.normattiva.it/uri-res/N2Ls?urn:
 
 AGGIORNAMENTO (2)
 
-Il [D. Lgs. 24 febbraio 1998, n. 58](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-02-24;58) ha disposto (con l'art. 214, comma 2, lettera m)) che il presente articolo e' abrogato, ma continua a essere applicato fino alla data di entrata in vigore dei provvedimenti emanati ai sensi dello stesso [D.Lgs. 58/1998](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998;58).
+Il [D. Lgs. 24 febbraio 1998, n. 58](Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md) ha disposto (con l'art. 214, comma 2, lettera m)) che il presente articolo e' abrogato, ma continua a essere applicato fino alla data di entrata in vigore dei provvedimenti emanati ai sensi dello stesso [D.Lgs. 58/1998](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998;58).
 
 ### Art. 16.
 
@@ -169,7 +169,7 @@ TITOLO I
 
 AGGIORNAMENTO (2)
 
-Il [D. Lgs. 24 febbraio 1998, n. 58](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-02-24;58) ha disposto (con l'art. 214, comma 2, lettera m)) che il presente articolo e' abrogato, ma i commi 1 3 continuano a essere applicati fino alla data di entrata in vigore dei provvedimenti emanati ai sensi dello stesso [D.Lgs. 58/1998](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998;58).
+Il [D. Lgs. 24 febbraio 1998, n. 58](Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md) ha disposto (con l'art. 214, comma 2, lettera m)) che il presente articolo e' abrogato, ma i commi 1 3 continuano a essere applicati fino alla data di entrata in vigore dei provvedimenti emanati ai sensi dello stesso [D.Lgs. 58/1998](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998;58).
 
 ### Art. 19.
 
@@ -184,7 +184,7 @@ Il [D. Lgs. 24 febbraio 1998, n. 58](https://www.normattiva.it/uri-res/N2Ls?urn:
 
 AGGIORNAMENTO (2)
 
-Il [D. Lgs. 24 febbraio 1998, n. 58](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-02-24;58) ha disposto (con l'art. 214, comma 2, lettera m)) che il presente articolo e' abrogato, ma il comma 1, lettera e) continua a essere applicato fino alla data di entrata in vigore dei provvedimenti emanati ai sensi dello stesso [D.Lgs. 58/1998](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998;58).
+Il [D. Lgs. 24 febbraio 1998, n. 58](Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md) ha disposto (con l'art. 214, comma 2, lettera m)) che il presente articolo e' abrogato, ma il comma 1, lettera e) continua a essere applicato fino alla data di entrata in vigore dei provvedimenti emanati ai sensi dello stesso [D.Lgs. 58/1998](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998;58).
 
 ### Art. 21.
 
@@ -195,7 +195,7 @@ Il [D. Lgs. 24 febbraio 1998, n. 58](https://www.normattiva.it/uri-res/N2Ls?urn:
 
 AGGIORNAMENTO (2)
 
-Il [D. Lgs. 24 febbraio 1998, n. 58](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-02-24;58) ha disposto (con l'art. 214, comma 2, lettera m)) che il presente articolo e' abrogato, ma i commi 2 e 3 continuano a essere applicati fino alla data di entrata in vigore dei provvedimenti emanati ai sensi dello stesso [D.Lgs. 58/1998](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998;58).
+Il [D. Lgs. 24 febbraio 1998, n. 58](Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md) ha disposto (con l'art. 214, comma 2, lettera m)) che il presente articolo e' abrogato, ma i commi 2 e 3 continuano a essere applicati fino alla data di entrata in vigore dei provvedimenti emanati ai sensi dello stesso [D.Lgs. 58/1998](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998;58).
 
 ### Art. 22.
 
@@ -206,7 +206,7 @@ Il [D. Lgs. 24 febbraio 1998, n. 58](https://www.normattiva.it/uri-res/N2Ls?urn:
 
 AGGIORNAMENTO (2)
 
-Il [D. Lgs. 24 febbraio 1998, n. 58](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-02-24;58) ha disposto (con l'art. 214, comma 2, lettera m)) che il presente articolo e' abrogato, ma il comma 2 continua a essere applicato fino alla data di entrata in vigore dei provvedimenti emanati ai sensi dello stesso [D.Lgs. 58/1998](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998;58).
+Il [D. Lgs. 24 febbraio 1998, n. 58](Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md) ha disposto (con l'art. 214, comma 2, lettera m)) che il presente articolo e' abrogato, ma il comma 2 continua a essere applicato fino alla data di entrata in vigore dei provvedimenti emanati ai sensi dello stesso [D.Lgs. 58/1998](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998;58).
 
 ### Art. 23.
 
@@ -217,7 +217,7 @@ Il [D. Lgs. 24 febbraio 1998, n. 58](https://www.normattiva.it/uri-res/N2Ls?urn:
 
 AGGIORNAMENTO (2)
 
-Il [D. Lgs. 24 febbraio 1998, n. 58](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-02-24;58) ha disposto (con l'art. 214, comma 2, lettera m)) che il presente articolo e' abrogato, ma i commi 5 e 6 continuano a essere applicati fino alla data di entrata in vigore dei provvedimenti emanati ai sensi dello stesso [D.Lgs. 58/1998](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998;58).
+Il [D. Lgs. 24 febbraio 1998, n. 58](Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md) ha disposto (con l'art. 214, comma 2, lettera m)) che il presente articolo e' abrogato, ma i commi 5 e 6 continuano a essere applicati fino alla data di entrata in vigore dei provvedimenti emanati ai sensi dello stesso [D.Lgs. 58/1998](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998;58).
 
 ### Art. 24.
 
@@ -228,7 +228,7 @@ Il [D. Lgs. 24 febbraio 1998, n. 58](https://www.normattiva.it/uri-res/N2Ls?urn:
 
 AGGIORNAMENTO (2)
 
-Il [D. Lgs. 24 febbraio 1998, n. 58](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-02-24;58) ha disposto (con l'art. 214, comma 2, lettera m)) che il presente articolo e' abrogato, ma continua a essere applicato fino alla data di entrata in vigore dei provvedimenti emanati ai sensi dello stesso [D.Lgs. 58/1998](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998;58).
+Il [D. Lgs. 24 febbraio 1998, n. 58](Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md) ha disposto (con l'art. 214, comma 2, lettera m)) che il presente articolo e' abrogato, ma continua a essere applicato fino alla data di entrata in vigore dei provvedimenti emanati ai sensi dello stesso [D.Lgs. 58/1998](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998;58).
 
 ## DISCIPLINA DELLE ATTIVITA' E DELLE IMPRESE DI INVESTIMENTO CAPO IV Vigilanza
 
@@ -243,7 +243,7 @@ TITOLO I
 
 AGGIORNAMENTO (2)
 
-Il [D. Lgs. 24 febbraio 1998, n. 58](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-02-24;58) ha disposto (con l'art. 214, comma 2, lettera m)) che il presente articolo e' abrogato, ma continua a essere applicato fino alla data di entrata in vigore dei provvedimenti emanati ai sensi dello stesso [D.Lgs. 58/1998](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998;58).
+Il [D. Lgs. 24 febbraio 1998, n. 58](Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md) ha disposto (con l'art. 214, comma 2, lettera m)) che il presente articolo e' abrogato, ma continua a essere applicato fino alla data di entrata in vigore dei provvedimenti emanati ai sensi dello stesso [D.Lgs. 58/1998](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998;58).
 
 ### Art. 26.
 
@@ -294,7 +294,7 @@ TITOLO II
 
 AGGIORNAMENTO (2)
 
-Il [D. Lgs. 24 febbraio 1998, n. 58](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-02-24;58) ha disposto (con l'art. 214, comma 2, lettera m)) che il presente articolo e' abrogato, ma i commi 2 e 3 continuano a essere applicati fino alla data di entrata in vigore dei provvedimenti emanati ai sensi dello stesso [D.Lgs. 58/1998](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998;58).
+Il [D. Lgs. 24 febbraio 1998, n. 58](Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md) ha disposto (con l'art. 214, comma 2, lettera m)) che il presente articolo e' abrogato, ma i commi 2 e 3 continuano a essere applicati fino alla data di entrata in vigore dei provvedimenti emanati ai sensi dello stesso [D.Lgs. 58/1998](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998;58).
 
 ### Art. 36.
 
@@ -1477,7 +1477,7 @@ Nota all'articolo 64:
  il [regio decreto 25 novembre 1940, n. 1955; 
  gli articoli 2766](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20di%20attuazione%20della%20legge%2021%20maggio%201940-XVIII%20n.%20657%20circa%20il%20conferimento%20al%20Governatore%20della%20Banca%20dItalia%20della%20carica%20di%20presidente%20di%20alcuni%20Enti%20di%20credito%20di%20diritto%20pubbli_9839ec8c461a.md) e [2778, numeri 3](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20di%20attuazione%20della%20legge%2021%20maggio%201940-XVIII%20n.%20657%20circa%20il%20conferimento%20al%20Governatore%20della%20Banca%20dItalia%20della%20carica%20di%20presidente%20di%20alcuni%20Enti%20di%20credito%20di%20diritto%20pubbli_9839ec8c461a.md) e [9](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20di%20attuazione%20della%20legge%2021%20maggio%201940-XVIII%20n.%20657%20circa%20il%20conferimento%20al%20Governatore%20della%20Banca%20dItalia%20della%20carica%20di%20presidente%20di%20alcuni%20Enti%20di%20credito%20di%20diritto%20pubbli_9839ec8c461a.md), del [codice 
  civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262), approvato con [regio decreto 16 marzo 1942, n. 262](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;262)  il [decreto legislativo luogotenenziale 14 settembre 1944, n. 226](../Atti%20normativi%20abrogati%20%28in%20originale%29/Soppressione%20dellIspettorato%20per%20la%20difesa%20del%20risparmio%20e%20per%20lesercizio%20del%20credito%20e%20passaggio%20delle%20sue%20attribuzioni%20e%20facolta%20al%20Ministero%20del%20tesoro.%20044U0226.md); 
- il capo III del [decreto legislativo luogotenenziale 28 dicembre 1944, n. 416](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-12-28;416); 
+ il capo III del [decreto legislativo luogotenenziale 28 dicembre 1944, n. 416](../Decreti%20legislativi%20luogotenenziali/Provvedimenti%20regionali%20per%20la%20Sicilia.%20044U0416.md); 
  i capi III e IV del [decreto legislativo luogotenenziale 28 dicembre 1944, n. 417](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo.luogotenenziale:1944-12-28;417); 
  il [decreto legislativo del Capo provvisorio dello Stato 12 agosto 1946, n. 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1946-08-12;76); 
  il [decreto legislativo del Capo provvisorio dello Stato 13 ottobre 1946, n. 244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1946-10-13;244); 
@@ -1589,7 +1589,7 @@ Nota all'articolo 64:
 
 1.
 
-All'[articolo 40 della legge 23 dicembre 1994, n. 724](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-12-23;724#art_40) e' aggiunto, in fine, il seguente comma:
+All'[articolo 40 della legge 23 dicembre 1994, n. 724](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica.md) e' aggiunto, in fine, il seguente comma:
 "6. La riscossione coattiva delle contribuzioni previste dal comma 3 avviene tramite ruolo e secondo le modalita' di cui all'[articolo 67, comma 2, del D.P.R. 28 gennaio 1988, n. 43](../DPR/Istituzione%20del%20Servizio%20di%20riscossione%20dei%20tributi%20e%20di%20altre%20entrate%20dello%20Stato%20e%20di%20altri%20enti%20pubblici%20ai%20sensi%20dellart.%201%20comma%201%20della%20legge%204%20ottobre%201986%20n.%20657.md)."
 
 Nota all'articolo 65:
@@ -1610,7 +1610,7 @@ Nota all'articolo 65:
 
 AGGIORNAMENTO (2)
 
-Il [D. Lgs. 24 febbraio 1998, n. 58](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-02-24;58) ha disposto (con l'art. 214, comma 2, lettera m)) che il presente articolo e' abrogato, ma le lettere b), c) ed e) del comma 1 continuano a essere applicate fino alla data di entrata in vigore dei provvedimenti emanati ai sensi dello stesso [D.Lgs. 58/1998](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998;58).
+Il [D. Lgs. 24 febbraio 1998, n. 58](Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md) ha disposto (con l'art. 214, comma 2, lettera m)) che il presente articolo e' abrogato, ma le lettere b), c) ed e) del comma 1 continuano a essere applicate fino alla data di entrata in vigore dei provvedimenti emanati ai sensi dello stesso [D.Lgs. 58/1998](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998;58).
 
 ### Art. 67.
 

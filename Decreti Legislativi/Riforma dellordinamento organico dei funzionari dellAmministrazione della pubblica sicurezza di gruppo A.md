@@ -64,7 +64,7 @@ Le promozioni a questore sono conferite per merito comparativo, su designazione 
 
 AGGIORNAMENTO (2)
 
-Il [D.P.R. 30 novembre 1955, n. 1299](../DPR/Temporanea%20riduzione%20dellanzianita%20di%20grado%20per%20la%20promozione%20a%20questore.md) ha disposto (con l'articolo unico) che "Fino all'entrata in vigore delle norme da emanarsi per il personale dell'Amministrazione della pubblica sicurezza, in virtu' della [legge 20 dicembre 1954, n. 1181](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-12-20;1181), e, in ogni caso, fino a non oltre due anni dall'entrata in vigore del presente decreto, il termine di tre anni previsto dall'[art. 5 del decreto legislativo 5 gennaio 1948, n. 16](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-01-05;16#art_5), e' ridotto di un anno e mezzo."
+Il [D.P.R. 30 novembre 1955, n. 1299](../DPR/Temporanea%20riduzione%20dellanzianita%20di%20grado%20per%20la%20promozione%20a%20questore.md) ha disposto (con l'articolo unico) che "Fino all'entrata in vigore delle norme da emanarsi per il personale dell'Amministrazione della pubblica sicurezza, in virtu' della [legge 20 dicembre 1954, n. 1181](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20lemanazione%20delle%20norme%20relative%20al%20nuovo%20statuto%20degli%20impiegati%20civili%20e%20degli%20altri%20dipendenti%20dello%20Stato.md), e, in ogni caso, fino a non oltre due anni dall'entrata in vigore del presente decreto, il termine di tre anni previsto dall'[art. 5 del decreto legislativo 5 gennaio 1948, n. 16](Riforma%20dellordinamento%20organico%20dei%20funzionari%20dellAmministrazione%20della%20pubblica%20sicurezza%20di%20gruppo%20A.md), e' ridotto di un anno e mezzo."
 
 ## Art. 6.
 

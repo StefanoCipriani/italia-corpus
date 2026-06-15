@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto l'[articolo 3 della legge 23 ottobre 1992, n. 421](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-10-23;421#art_3);
+Visto l'[articolo 3 della legge 23 ottobre 1992, n. 421](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20razionalizzazione%20e%20la%20revisione%20delle%20discipline%20in%20materia%20di%20sanita%20di%20pubblico%20impiego%20di%20previdenza%20e%20di%20finanza%20territoriale.md);
 
 Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella riunione del 17 novembre 1992;
 
@@ -36,13 +36,13 @@ Il diritto alla pensione di vecchiaia a carico dell'assicurazione generale obbli
 
 2.
 
-Il limite di eta' previsto per l'applicazione delle disposizioni contenute nell'[articolo 6 della legge 29 dicembre 1990, n. 407](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-12-29;407#art_6), e' elevato fino al compimento del 65 anno; gli assicurati che alla data di entrata in vigore del presente decreto prestano ancora attivita' lavorativa, pur avendo maturato i requisiti per aver diritto alla pensione di vecchiaia, sono esonerati dall'obbligo della comunicazione di cui al richiamato articolo 6, comma 2; sono altresi' esonerati dall'anzidetto obbligo gli assicurati che maturino i requisiti previsti entro sei mesi successivi alla data di entrata in vigore del presente decreto, fermo restando l'obbligo per gli assicurati stessi di effettuare la comunicazione sopra considerata non oltre la data in cui i predetti requisiti sono maturati. ((10))
+Il limite di eta' previsto per l'applicazione delle disposizioni contenute nell'[articolo 6 della legge 29 dicembre 1990, n. 407](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20diverse%20per%20lattuazione%20della%20manovra%20di%20finanza%20pubblica%201991-1993.md), e' elevato fino al compimento del 65 anno; gli assicurati che alla data di entrata in vigore del presente decreto prestano ancora attivita' lavorativa, pur avendo maturato i requisiti per aver diritto alla pensione di vecchiaia, sono esonerati dall'obbligo della comunicazione di cui al richiamato articolo 6, comma 2; sono altresi' esonerati dall'anzidetto obbligo gli assicurati che maturino i requisiti previsti entro sei mesi successivi alla data di entrata in vigore del presente decreto, fermo restando l'obbligo per gli assicurati stessi di effettuare la comunicazione sopra considerata non oltre la data in cui i predetti requisiti sono maturati. ((10))
 
 3.
 
 La percentuale annua di commisurazione della pensione per ogni anno di anzianita' contributiva acquisita per effetto di opzione esercitata ai sensi dell'[articolo 4 della legge 9 dicembre 1977, n. 903](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-12-09;903#art_4), e dell'[articolo 6 del decreto-legge 22 dicembre 1981, n. 791](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1981-12-22;791#art_6), convertito con modificazioni dalla [legge 26 febbraio 1982, n. 54](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2022%20dicembre%201981%20n.%20791%20recante%20disposizioni%20in%20materia%20previdenziale.md), ai fini della permanenza in servizio oltre le eta' di cui al comma 1, e' 
 incrementata di un punto percentuale fino al compimento del 60 anno di eta' per le donne e 65 per gli uomini e di mezzo punto 
-percentuale negli altri casi, anche in deroga all'[articolo 11, comma 2, della legge 30 aprile 1969, n. 153](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-04-30;153#art_11-com2). Gli incentivi indicati sono attribuiti, comunque, fino al raggiungimento dell'anzianita' contributiva massima utile. Per gli anni successivi viene riconosciuta la maggiorazione della pensione di cui al [comma 6 dell'articolo 6 della legge 29 dicembre 1990, n. 407](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-12-29;407#art_6-com6).
+percentuale negli altri casi, anche in deroga all'[articolo 11, comma 2, della legge 30 aprile 1969, n. 153](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-04-30;153#art_11-com2). Gli incentivi indicati sono attribuiti, comunque, fino al raggiungimento dell'anzianita' contributiva massima utile. Per gli anni successivi viene riconosciuta la maggiorazione della pensione di cui al [comma 6 dell'articolo 6 della legge 29 dicembre 1990, n. 407](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20diverse%20per%20lattuazione%20della%20manovra%20di%20finanza%20pubblica%201991-1993.md).
 
 4.
 
@@ -68,7 +68,7 @@ L'elevazione dei limiti di eta' di cui al comma 1 non si applica agli invalidi i
 
  
 AGGIORNAMENTO (10) 
- La Corte costituzionale, con sentenza 5-6 maggio 1997, n. 117 (in G.U. 1a s.s. 14.05.1997, n. 20) ha dichiarato "l'illegittimita' costituzionale dell'art. 1, comma 2, ultima proposizione, del [d.lgs. 30 dicembre 1992, n. 503](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;503) (Norme per il riordinamento del sistema previdenziale dei lavoratori privati e pubblici, a norma dell'[art. 3 della legge 23 ottobre 1992, n. 421](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-10-23;421#art_3)), nella parte in cui non prevede che il termine per l'esercizio della facolta' di opzione non possa comunque scadere prima che siano trascorsi sei mesi dalla data di entrata in vigore del decreto legislativo medesimo".
+ La Corte costituzionale, con sentenza 5-6 maggio 1997, n. 117 (in G.U. 1a s.s. 14.05.1997, n. 20) ha dichiarato "l'illegittimita' costituzionale dell'art. 1, comma 2, ultima proposizione, del [d.lgs. 30 dicembre 1992, n. 503](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20per%20il%20riordinamento%20del%20sistema%20previdenziale%20dei%20lavoratori%20privati%20e%20pubblici%20a%20norma%20dellarticolo%203%20della%20legge%2023%20ottobre%201992%20n.%20421.md) (Norme per il riordinamento del sistema previdenziale dei lavoratori privati e pubblici, a norma dell'[art. 3 della legge 23 ottobre 1992, n. 421](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20razionalizzazione%20e%20la%20revisione%20delle%20discipline%20in%20materia%20di%20sanita%20di%20pubblico%20impiego%20di%20previdenza%20e%20di%20finanza%20territoriale.md)), nella parte in cui non prevede che il termine per l'esercizio della facolta' di opzione non possa comunque scadere prima che siano trascorsi sei mesi dalla data di entrata in vigore del decreto legislativo medesimo".
 
 ### Art. 2. — Requisiti assicurativi e contributivi per il pensionamento di vecchiaia
 
@@ -119,8 +119,8 @@ Per i periodi relativi ai trattamenti di mobilita' di durata continuativa superi
 ------------
 
 AGGIORNAMENTO (4)
-Il [D. Lgs. 11 agosto 1993, n. 373](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-08-11;373) ha disposto (con l'art. 2, comma
-1) che " Per i lavoratori di cui all'[art. 3, commi 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;503#art_3-com1) e [4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;503#art_3-com4), e all'[art. 7, comma 1, del decreto legislativo 30 dicembre 1992, n. 503](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;503#art_7-com1), la retribuzione pensionabile relativa alle anzianita' contributive acquisite a decorrere dal 1 gennaio 1993 e' determinata, per la quota di pensione corrispondente a tali anzianita', secondo le disposizioni di cui all'art. 1".
+Il [D. Lgs. 11 agosto 1993, n. 373](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20dellart.%203%20comma%201%20lettera%20o%20della%20legge%2023%20ottobre%201992%20n.%20421%20recante%20calcolo%20delle%20pensioni%20per%20i%20nuovi%20assunti.md) ha disposto (con l'art. 2, comma
+1) che " Per i lavoratori di cui all'[art. 3, commi 1](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20per%20il%20riordinamento%20del%20sistema%20previdenziale%20dei%20lavoratori%20privati%20e%20pubblici%20a%20norma%20dellarticolo%203%20della%20legge%2023%20ottobre%201992%20n.%20421.md) e [4](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20per%20il%20riordinamento%20del%20sistema%20previdenziale%20dei%20lavoratori%20privati%20e%20pubblici%20a%20norma%20dellarticolo%203%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e all'[art. 7, comma 1, del decreto legislativo 30 dicembre 1992, n. 503](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20per%20il%20riordinamento%20del%20sistema%20previdenziale%20dei%20lavoratori%20privati%20e%20pubblici%20a%20norma%20dellarticolo%203%20della%20legge%2023%20ottobre%201992%20n.%20421.md), la retribuzione pensionabile relativa alle anzianita' contributive acquisite a decorrere dal 1 gennaio 1993 e' determinata, per la quota di pensione corrispondente a tali anzianita', secondo le disposizioni di cui all'art. 1".
 
 ------------
 
@@ -176,33 +176,33 @@ In fase di prima applicazione, per le forme di previdenza sostitutive ed esclusi
 AGGIORNAMENTO (5)
 
 Il [D.Lgs. 3 febbraio 1993, n. 29](../Atti%20normativi%20abrogati%20%28in%20originale%29/Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), come modificato dal [D.Lgs. 23
-dicembre 1993, n. 546](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-12-23;546), ha disposto (con l'art. 6, comma 5) che "L'[articolo 5, comma 3, del decreto legislativo 30 dicembre 1992, n. 503](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;503#art_5-com3), relativamente al personale appartenente alle Forze di polizia ad ordinamento civile, va interpretato nel senso che al predetto personale non si applica l'articolo 16 dello stesso decreto".
+dicembre 1993, n. 546](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ulteriori%20modifiche%20al%20decreto%20legislativo%203%20febbraio%201993%20n.%2029%20sul%20pubblico%20impiego.md), ha disposto (con l'art. 6, comma 5) che "L'[articolo 5, comma 3, del decreto legislativo 30 dicembre 1992, n. 503](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20per%20il%20riordinamento%20del%20sistema%20previdenziale%20dei%20lavoratori%20privati%20e%20pubblici%20a%20norma%20dellarticolo%203%20della%20legge%2023%20ottobre%201992%20n.%20421.md), relativamente al personale appartenente alle Forze di polizia ad ordinamento civile, va interpretato nel senso che al predetto personale non si applica l'articolo 16 dello stesso decreto".
 
 ---------------
 
 AGGIORNAMENTO (11)
 
-Il [D.Lgs. 30 aprile 1997, n. 182](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-04-30;182) ha disposto (con l'art. 4, comma
-1) che "A partire dal 1 gennaio 1997 per i lavoratori dello spettacolo di cui all'[articolo 5, comma 2, del decreto legislativo 30 dicembre 1992, n. 503](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;503#art_5-com2), gia' iscritti alla data del 31 dicembre 1995, l'eta' pensionabile e' gradualmente elevata in ragione di un anno anagrafico ogni 18 mesi fino al raggiungimento dell'eta' prevista dall'assicurazione generale obbligatoria, salvo quanto disposto dal comma 2".
+Il [D.Lgs. 30 aprile 1997, n. 182](Attuazione%20della%20delega%20conferita%20dallarticolo%202%20commi%2022%20e%2023%20lettera%20a%20della%20legge%208%20agosto%201995%20n.%20335%20in%20materia%20di%20regime%20pensionistico%20per%20i%20lavoratori%20dello%20spettacolo%20iscritti%20allENPALS.md) ha disposto (con l'art. 4, comma
+1) che "A partire dal 1 gennaio 1997 per i lavoratori dello spettacolo di cui all'[articolo 5, comma 2, del decreto legislativo 30 dicembre 1992, n. 503](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20per%20il%20riordinamento%20del%20sistema%20previdenziale%20dei%20lavoratori%20privati%20e%20pubblici%20a%20norma%20dellarticolo%203%20della%20legge%2023%20ottobre%201992%20n.%20421.md), gia' iscritti alla data del 31 dicembre 1995, l'eta' pensionabile e' gradualmente elevata in ragione di un anno anagrafico ogni 18 mesi fino al raggiungimento dell'eta' prevista dall'assicurazione generale obbligatoria, salvo quanto disposto dal comma 2".
 
 ---------------
 
 AGGIORNAMENTO (13)
 
-Il [D.Lgs. 31 marzo 1998, n. 80](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-03-31;80) ha disposto (con l'art. 5, comma 5)
-che "L'[articolo 5, comma 3, del decreto legislativo 30 dicembre 1992, n. 503](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;503#art_5-com3), relativamente al personale appartenente alle Forze di polizia ad ordinamento civile, si interpreta nel senso che al predetto personale non si applica l'articolo 16 dello stesso decreto".
+Il [D.Lgs. 31 marzo 1998, n. 80](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuove%20disposizioni%20in%20materia%20di%20organizzazione%20e%20di%20rapporti%20di%20lavoro%20nelle%20amministrazioni%20pubbliche%20di%20giurisdizione%20nelle%20controversie%20di%20lavoro%20e%20di%20giurisdizione%20amministrativa%20ema_9cf1dd317dff.md) ha disposto (con l'art. 5, comma 5)
+che "L'[articolo 5, comma 3, del decreto legislativo 30 dicembre 1992, n. 503](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20per%20il%20riordinamento%20del%20sistema%20previdenziale%20dei%20lavoratori%20privati%20e%20pubblici%20a%20norma%20dellarticolo%203%20della%20legge%2023%20ottobre%201992%20n.%20421.md), relativamente al personale appartenente alle Forze di polizia ad ordinamento civile, si interpreta nel senso che al predetto personale non si applica l'articolo 16 dello stesso decreto".
 
 ---------------
 
 AGGIORNAMENTO (15)
 
-Il [D.Lgs. 30 marzo 2001, n. 165](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165) ha disposto (con l'art. 6, comma
-5) che "L'[articolo 5, comma 3, del decreto legislativo 30 dicembre 1992, n. 503](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;503#art_5-com3), relativamente al personale appartenente alle Forze di polizia ad ordinamento civile, si interpreta nel senso che al predetto personale non si applica l'articolo 16 dello stesso decreto".
+Il [D.Lgs. 30 marzo 2001, n. 165](Norme%20generali%20sullordinamento%20del%20lavoro%20alle%20dipendenze%20delle%20amministrazioni%20pubbliche.md) ha disposto (con l'art. 6, comma
+5) che "L'[articolo 5, comma 3, del decreto legislativo 30 dicembre 1992, n. 503](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20per%20il%20riordinamento%20del%20sistema%20previdenziale%20dei%20lavoratori%20privati%20e%20pubblici%20a%20norma%20dellarticolo%203%20della%20legge%2023%20ottobre%201992%20n.%20421.md), relativamente al personale appartenente alle Forze di polizia ad ordinamento civile, si interpreta nel senso che al predetto personale non si applica l'articolo 16 dello stesso decreto".
 ---------------
 
  
 AGGIORNAMENTO (19) 
- La [L. 30 settembre 2004, n. 252](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-09-30;252) ha disposto (con l'art. 5, comma 1) che "L'[articolo 5, comma 3, del decreto legislativo 30 dicembre 1992, n. 503](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;503#art_5-com3), relativamente al personale del Corpo nazionale dei vigili del fuoco si interpreta nel senso che al predetto personale non si applica l'articolo 16 del medesimo decreto legislativo".
+ La [L. 30 settembre 2004, n. 252](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20disciplina%20in%20materia%20di%20rapporto%20di%20impiego%20del%20personale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco.md) ha disposto (con l'art. 5, comma 1) che "L'[articolo 5, comma 3, del decreto legislativo 30 dicembre 1992, n. 503](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20per%20il%20riordinamento%20del%20sistema%20previdenziale%20dei%20lavoratori%20privati%20e%20pubblici%20a%20norma%20dellarticolo%203%20della%20legge%2023%20ottobre%201992%20n.%20421.md), relativamente al personale del Corpo nazionale dei vigili del fuoco si interpreta nel senso che al predetto personale non si applica l'articolo 16 del medesimo decreto legislativo".
 
 ### Art. 6. — Requisiti assicurativi e contributivi del pensionamento di vecchiaia
 
@@ -244,8 +244,8 @@ Per gli iscritti all'INPGI continua ad operare la disposizione di cui all'artico
 ------------
 
 AGGIORNAMENTO (4)
-Il [D. Lgs. 11 agosto 1993, n. 373](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-08-11;373) ha disposto (con l'art. 2, comma
-1) che " Per i lavoratori di cui all'[art. 3, commi 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;503#art_3-com1) e [4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;503#art_3-com4), e all'[art. 7, comma 1, del decreto legislativo 30 dicembre 1992, n. 503](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;503#art_7-com1), la retribuzione pensionabile relativa alle anzianita' contributive acquisite a decorrere dal 1 gennaio 1993 e' determinata, per la quota di pensione corrispondente a tali anzianita', secondo le disposizioni di cui all'art. 1".
+Il [D. Lgs. 11 agosto 1993, n. 373](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20dellart.%203%20comma%201%20lettera%20o%20della%20legge%2023%20ottobre%201992%20n.%20421%20recante%20calcolo%20delle%20pensioni%20per%20i%20nuovi%20assunti.md) ha disposto (con l'art. 2, comma
+1) che " Per i lavoratori di cui all'[art. 3, commi 1](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20per%20il%20riordinamento%20del%20sistema%20previdenziale%20dei%20lavoratori%20privati%20e%20pubblici%20a%20norma%20dellarticolo%203%20della%20legge%2023%20ottobre%201992%20n.%20421.md) e [4](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20per%20il%20riordinamento%20del%20sistema%20previdenziale%20dei%20lavoratori%20privati%20e%20pubblici%20a%20norma%20dellarticolo%203%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e all'[art. 7, comma 1, del decreto legislativo 30 dicembre 1992, n. 503](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20per%20il%20riordinamento%20del%20sistema%20previdenziale%20dei%20lavoratori%20privati%20e%20pubblici%20a%20norma%20dellarticolo%203%20della%20legge%2023%20ottobre%201992%20n.%20421.md), la retribuzione pensionabile relativa alle anzianita' contributive acquisite a decorrere dal 1 gennaio 1993 e' determinata, per la quota di pensione corrispondente a tali anzianita', secondo le disposizioni di cui all'art. 1".
 
 ------------
 
@@ -285,7 +285,7 @@ Le variazioni derivanti ai trattamenti pensionistici per effetto di quanto dispo
 
  
 AGGIORNAMENTO (18) 
- La [L. 23 agosto 2004, n. 243](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-08-23;243) ha disposto (con l'art. 1, comma 55) che al fine di estinguere il contenzioso giudiziario relativo ai trattamenti corrisposti a talune categorie di pensionati gia' iscritti a regimi previdenziali sostitutivi, attraverso il pieno riconoscimento di un equo e omogeneo trattamento a tutti i pensionati iscritti ai vigenti regimi integrativi, l'[articolo 9, comma 2, del decreto legislativo 30 dicembre 1992, n. 503](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;503#art_9-com2), deve intendersi nel senso che la perequazione automatica delle pensioni prevista dall'[articolo 11 del decreto legislativo 30 dicembre 1992, n. 503](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;503#art_11), si applica al complessivo trattamento percepito dai pensionati di cui all'[articolo 3 del decreto legislativo 20 novembre 1990, n. 357](Disposizioni%20sulla%20previdenza%20degli%20enti%20pubblici%20creditizi.md).
+ La [L. 23 agosto 2004, n. 243](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-08-23;243) ha disposto (con l'art. 1, comma 55) che al fine di estinguere il contenzioso giudiziario relativo ai trattamenti corrisposti a talune categorie di pensionati gia' iscritti a regimi previdenziali sostitutivi, attraverso il pieno riconoscimento di un equo e omogeneo trattamento a tutti i pensionati iscritti ai vigenti regimi integrativi, l'[articolo 9, comma 2, del decreto legislativo 30 dicembre 1992, n. 503](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20per%20il%20riordinamento%20del%20sistema%20previdenziale%20dei%20lavoratori%20privati%20e%20pubblici%20a%20norma%20dellarticolo%203%20della%20legge%2023%20ottobre%201992%20n.%20421.md), deve intendersi nel senso che la perequazione automatica delle pensioni prevista dall'[articolo 11 del decreto legislativo 30 dicembre 1992, n. 503](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20per%20il%20riordinamento%20del%20sistema%20previdenziale%20dei%20lavoratori%20privati%20e%20pubblici%20a%20norma%20dellarticolo%203%20della%20legge%2023%20ottobre%201992%20n.%20421.md), si applica al complessivo trattamento percepito dai pensionati di cui all'[articolo 3 del decreto legislativo 20 novembre 1990, n. 357](Disposizioni%20sulla%20previdenza%20degli%20enti%20pubblici%20creditizi.md).
 All'assicurazione generale obbligatoria fa esclusivamente carico la perequazione sul trattamento pensionistico di propria pertinenza.
 
 ## DISPOSIZIONI A CARATTERE GENERALE
@@ -340,23 +340,23 @@ Ai lavoratori, che alla data del 31 dicembre 1994 sono titolari di pensione, ovv
 
 1.
 
-Gli aumenti a titolo di perequazione automatica delle pensioni previdenziali ed assistenziali si applicano, con decorrenza dal 1994, sulla base del solo adeguamento al costo vita con cadenza annuale ed effetto dal primo novembre di ogni anno, Tali aumenti sono calcolati applicando all'importo della pensione spettante alla fine di ciascun periodo la percentuale di variazione che si determina rapportando il valore medio dell'indice ISTAT dei prezzi al consumo per famiglie di operai ed impiegati, relativo all'anno precedente il mese di decorrenza dell'aumento, all'analogo valore medio relativo all'anno precedente . Si applicano i criteri e le modalita' di cui ai [commi 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-02-28;41#art_24-com4) e [5 dell'articolo 24 della legge 28 febbraio 1986, n. 41](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-02-28;41#art_24-com5). ((7))
+Gli aumenti a titolo di perequazione automatica delle pensioni previdenziali ed assistenziali si applicano, con decorrenza dal 1994, sulla base del solo adeguamento al costo vita con cadenza annuale ed effetto dal primo novembre di ogni anno, Tali aumenti sono calcolati applicando all'importo della pensione spettante alla fine di ciascun periodo la percentuale di variazione che si determina rapportando il valore medio dell'indice ISTAT dei prezzi al consumo per famiglie di operai ed impiegati, relativo all'anno precedente il mese di decorrenza dell'aumento, all'analogo valore medio relativo all'anno precedente . Si applicano i criteri e le modalita' di cui ai [commi 4](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201986.md) e [5 dell'articolo 24 della legge 28 febbraio 1986, n. 41](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201986.md). ((7))
 
 2.
 
-Ulteriori aumenti possono essere stabiliti con legge finanziaria in relazione all'andamento dell'economia e tenuto conto degli obiettivi rispetto al PIL indicati nell'[articolo 3, comma 1, della legge 23 ottobre 1992, n. 421](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-10-23;421#art_3-com1), sentite le organizzazioni sindacali maggiormente rappresentative sul piano nazionale.(( Con effetto dal 1 gennaio 2009 i predetti aumenti saranno stabiliti nel limite di un punto percentuale della base imponibile a valere sulle fasce di pensione fino a lire dieci milioni annui )). 
+Ulteriori aumenti possono essere stabiliti con legge finanziaria in relazione all'andamento dell'economia e tenuto conto degli obiettivi rispetto al PIL indicati nell'[articolo 3, comma 1, della legge 23 ottobre 1992, n. 421](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20razionalizzazione%20e%20la%20revisione%20delle%20discipline%20in%20materia%20di%20sanita%20di%20pubblico%20impiego%20di%20previdenza%20e%20di%20finanza%20territoriale.md), sentite le organizzazioni sindacali maggiormente rappresentative sul piano nazionale.(( Con effetto dal 1 gennaio 2009 i predetti aumenti saranno stabiliti nel limite di un punto percentuale della base imponibile a valere sulle fasce di pensione fino a lire dieci milioni annui )). 
  
 -------------
 
  
 AGGIORNAMENTO (7) 
- La [L. 23 dicembre 1994, n. 724](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-12-23;724) ha disposto (con l'art. 14, comma 1) che "Con effetto dal 1995 il termine stabilito, ai fini della perequazione automatica delle pensioni, dall'[articolo 11, comma 1, del decreto legislativo 30 dicembre 1992, n. 503](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;503#art_11-com1), e successive modificazioni ed integrazioni, e' differito al 1 gennaio successivo di ogni anno.
+ La [L. 23 dicembre 1994, n. 724](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica.md) ha disposto (con l'art. 14, comma 1) che "Con effetto dal 1995 il termine stabilito, ai fini della perequazione automatica delle pensioni, dall'[articolo 11, comma 1, del decreto legislativo 30 dicembre 1992, n. 503](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20per%20il%20riordinamento%20del%20sistema%20previdenziale%20dei%20lavoratori%20privati%20e%20pubblici%20a%20norma%20dellarticolo%203%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni ed integrazioni, e' differito al 1 gennaio successivo di ogni anno.
 
 ### Art. 12. — Aliquote di rendimento
 
 1.
 
-La tabella di cui all'[articolo 21, comma 6, della legge 11 marzo 1988, n. 67](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-03-11;67#art_21-com6), e' cosi' modificata: 
+La tabella di cui all'[articolo 21, comma 6, della legge 11 marzo 1988, n. 67](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201988.md), e' cosi' modificata: 
  
 
  Quote di pensione
@@ -389,7 +389,7 @@ Per i lavoratori dipendenti iscritti all'assicurazione generale obbligatoria per
 
 1.
 
-COMMA ABROGATO DAL [D.LGS. 26 MARZO 2001, N. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-26;151) .
+COMMA ABROGATO DAL [D.LGS. 26 MARZO 2001, N. 151](Testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20di%20tutela%20e%20sostegno%20della%20maternita%20e%20della%20paternita%20a%20norma%20dellarticolo%2015%20della%20legge%208%20marzo%202000%20n.%2053.md) .
 
 2.
 
@@ -397,13 +397,13 @@ COMMA ABROGATO DAL [D.LGS. 26 MARZO 2001, N. 151](https://www.normattiva.it/uri-
 
 3.
 
-COMMA ABROGATO DAL [D.LGS. 26 MARZO 2001, N. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-26;151) .
+COMMA ABROGATO DAL [D.LGS. 26 MARZO 2001, N. 151](Testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20di%20tutela%20e%20sostegno%20della%20maternita%20e%20della%20paternita%20a%20norma%20dellarticolo%2015%20della%20legge%208%20marzo%202000%20n.%2053.md) .
 
 -----------
 
 AGGIORNAMENTO (26)
 
-La [L. 28 dicembre 2015, n. 208](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-12-28;208), ha disposto (con l'art. 1, comma 298) che "La conseguente cumulabilita' opera anche con riferimento a periodi antecedenti alla data di entrata in vigore della presente legge".
+La [L. 28 dicembre 2015, n. 208](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202016.%2015G00222.md), ha disposto (con l'art. 1, comma 298) che "La conseguente cumulabilita' opera anche con riferimento a periodi antecedenti alla data di entrata in vigore della presente legge".
 
 ### Art. 15. — Accredito dei contributi figurativi
 

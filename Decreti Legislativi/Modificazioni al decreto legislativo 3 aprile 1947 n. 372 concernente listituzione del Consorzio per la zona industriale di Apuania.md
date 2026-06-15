@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4), con le modificazioni ad esso apportate dall'[art. 3, comma primo del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98#art_3-com1);
+Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4), con le modificazioni ad esso apportate dall'[art. 3, comma primo del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Viste le disposizioni transitorie I e XV della Costituzione;
 
@@ -39,7 +39,7 @@ L'[articolo 1 del decreto legislativo luogotenenziale 3 aprile 1947, n. 372](htt
 
 AGGIORNAMENTO (1)
 
-La [L. 21 luglio 1950, n. 818](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-07-21;818) ha disposto (con l'art. 2) che "Il termine di tre mesi previsto nel [primo comma dell'art. 2 del decreto legislativo 31 marzo 1948, n. 242](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-03-31;242#art_2-com1), decorre dall'entrata in vigore della presente legge."
+La [L. 21 luglio 1950, n. 818](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-07-21;818) ha disposto (con l'art. 2) che "Il termine di tre mesi previsto nel [primo comma dell'art. 2 del decreto legislativo 31 marzo 1948, n. 242](Modificazioni%20al%20decreto%20legislativo%203%20aprile%201947%20n.%20372%20concernente%20listituzione%20del%20Consorzio%20per%20la%20zona%20industriale%20di%20Apuania.md), decorre dall'entrata in vigore della presente legge."
 
 ## Art. 3.
 
@@ -81,7 +81,7 @@ Le imposte di registro e di trascrizione sugli atti previsti dall'[art. 8 del re
 
 AGGIORNAMENTO (1)
 
-La [L. 21 luglio 1950, n. 818](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-07-21;818) ha disposto (con l'art. 4) che "Il termine di due anni previsto dall'[art. 7, secondo comma, n. 1 del decreto legislativo 31 marzo 1948, n. 242](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-03-31;242#art_7-com2-num1), e' determinato in mesi sei anteriori all'entrata in vigore della presente legge."
+La [L. 21 luglio 1950, n. 818](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-07-21;818) ha disposto (con l'art. 4) che "Il termine di due anni previsto dall'[art. 7, secondo comma, n. 1 del decreto legislativo 31 marzo 1948, n. 242](Modificazioni%20al%20decreto%20legislativo%203%20aprile%201947%20n.%20372%20concernente%20listituzione%20del%20Consorzio%20per%20la%20zona%20industriale%20di%20Apuania.md), e' determinato in mesi sei anteriori all'entrata in vigore della presente legge."
 
 ## Art. 8.
 
@@ -120,7 +120,7 @@ L'agevolazione ferroviaria prevista dall'[art. 11 del regio decreto-legge 24 lug
 
 ## Art. 13.
 
-Le disposizioni degli articoli 2 a 4 del [decreto legislativo luogotenenziale 12 marzo 1946, n. 211](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-12;211), non si applicano alla costruzione e all'attuazione di nuovi stabilimenti industriali nella zona apuana, alla costruzione, alla riattivazione, alla trasformazione e all'ampliamento degli stabilimenti nella zona stessa.
+Le disposizioni degli articoli 2 a 4 del [decreto legislativo luogotenenziale 12 marzo 1946, n. 211](../Decreti%20legislativi%20luogotenenziali/Disciplina%20delle%20iniziative%20industriali%20e%20istituzione%20di%20una%20Commissione%20centrale%20dellindustria.md), non si applicano alla costruzione e all'attuazione di nuovi stabilimenti industriali nella zona apuana, alla costruzione, alla riattivazione, alla trasformazione e all'ampliamento degli stabilimenti nella zona stessa.
 
 ## Art. 14.
 

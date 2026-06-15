@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4), con le modificazioni ad esso apportate dall'[art. 3, comma primo, del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98#art_3-com1);
+Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4), con le modificazioni ad esso apportate dall'[art. 3, comma primo, del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Viste le disposizioni transitorie I e XV della Costituzione;
 
@@ -28,7 +28,7 @@ Per la concessione di mutui ad interesse a breve termine alle societa' per azion
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 21 aprile 1948, n. 1073](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-04-21;1073) ha disposto (con l'art. 2) che "Il fondo di L. 135.000.000 di cui al [decreto legislativo 18 gennaio 1948, n. 31](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-01-18;31), viene elevato a L. 620.000.000."
+Il [D.Lgs. 21 aprile 1948, n. 1073](Autorizzazione%20alla%20vendita%20di%20un%20complesso%20immobiliare%20dello%20Stato%20e%20aumento%20del%20fondo%20di%20cui%20al%20decreto%20legislativo%2018%20gennaio%201948%20n.%2031.md) ha disposto (con l'art. 2) che "Il fondo di L. 135.000.000 di cui al [decreto legislativo 18 gennaio 1948, n. 31](Costituzione%20di%20un%20fondo%20per%20la%20concessione%20di%20mutui%20ad%20interesse%20a%20breve%20termine%20alle%20societa%20per%20azioni%20con%20partecipazione%20dello%20Stato%20ed%20a%20talune%20aziende%20patrimoniali%20dello%20Stato.md), viene elevato a L. 620.000.000."
 
 ## Art. 2.
 

@@ -87,7 +87,7 @@ Alla [legge 21 novembre 1991, n. 374](https://www.normattiva.it/uri-res/N2Ls?urn
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 19 febbraio 2014, n. 14](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014-02-19;14) ha disposto (con l'art. 14, comma 3) che la modifica al presente articolo acquista efficacia "decorsi trenta giorni dalla data di entrata in vigore del presente decreto".
+Il [D.Lgs. 19 febbraio 2014, n. 14](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20integrative%20correttive%20e%20di%20coordinamento%20delle%20disposizioni%20di%20cui%20ai%20decreti%20legislativi%207%20settembre%202012%20n.%20155%20e%207%20settembre%202012%20n.%20156%20tese%20ad%20assicurare%20la%20funzionalit_3de534f809c4.md) ha disposto (con l'art. 14, comma 3) che la modifica al presente articolo acquista efficacia "decorsi trenta giorni dalla data di entrata in vigore del presente decreto".
 
 ## Art. 3. — Pubblicazione degli elenchi e richieste degli enti locali interessati
 
@@ -115,7 +115,7 @@ Qualora l'ente locale richiedente non rispetti gli impegni relativi al personale
 
 AGGIORNAMENTO (3)
 
-Il [D.L. 31 dicembre 2014, n. 192](../DL%20proroghe/Proroga%20di%20termini%20previsti%20da%20disposizioni%20legislative.%2014G00205.md) convertito con modificazioni dalla [L. 27 febbraio 2015, n. 11](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20dicembre%202014%20n.%20192%20recante%20proroga%20di%20termini%20previsti%20da%20disposizioni%20legislative.%2015G00031.md) ha disposto (con l'art. 2, comma 1-bis) che "Il termine di cui all'[articolo 3, comma 2, del decreto legislativo 7 settembre 2012, n. 156](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2012-09-07;156#art_3-com2), e' differito al 30 luglio 2015.
+Il [D.L. 31 dicembre 2014, n. 192](../DL%20proroghe/Proroga%20di%20termini%20previsti%20da%20disposizioni%20legislative.%2014G00205.md) convertito con modificazioni dalla [L. 27 febbraio 2015, n. 11](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20dicembre%202014%20n.%20192%20recante%20proroga%20di%20termini%20previsti%20da%20disposizioni%20legislative.%2015G00031.md) ha disposto (con l'art. 2, comma 1-bis) che "Il termine di cui all'[articolo 3, comma 2, del decreto legislativo 7 settembre 2012, n. 156](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20delle%20circoscrizioni%20giudiziarie%20-%20Uffici%20dei%20giudici%20di%20pace%20a%20norma%20dellarticolo%201%20comma%202%20della%20legge%2014%20settembre%202011%20n.%20148.%2012G0176.md), e' differito al 30 luglio 2015.
 Entro tale termine, gli enti locali interessati, anche consorziati tra loro, le unioni di comuni nonche' le comunita' montane possono richiedere il ripristino degli uffici del giudice di pace soppressi, indicati nella vigente tabella A allegata al citato [decreto legislativo n. 156 del 2012](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2012;156), con competenza sui rispettivi territori, anche tramite eventuale accorpamento, facendosi integralmente carico delle spese di funzionamento e di erogazione del servizio della giustizia nelle relative sedi, ivi compreso il fabbisogno di personale amministrativo che sara' messo a disposizione dagli enti medesimi".
 
 ## Art. 4. — Riassegnazione dei magistrati onorari e del personale amministrativo

@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[articolo 87, quinto comma, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Visto lo Statuto della Regione siciliana, approvato con [regio decreto legislativo 15 maggio 1946, n. 455](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legislativo:1946-05-15;455), convertito dalla [legge costituzionale 26 febbraio 1948, n. 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1948-02-26;2), ed in particolare l'articolo 23;
+Visto lo Statuto della Regione siciliana, approvato con [regio decreto legislativo 15 maggio 1946, n. 455](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legislativo:1946-05-15;455), convertito dalla [legge costituzionale 26 febbraio 1948, n. 2](../Leggi%20costituzionali/Conversione%20in%20legge%20costituzionale%20dello%20Statuto%20della%20Regione%20siciliana%20approvato%20col%20decreto%20legislativo%2015%20maggio%201946%20n.%20455.md), ed in particolare l'articolo 23;
 
 Visto il [decreto legislativo 24 dicembre 2003, n. 373](Norme%20di%20attuazione%20dello%20Statuto%20speciale%20della%20Regione%20siciliana%20concernenti%20lesercizio%20nella%20regione%20delle%20funzioni%20spettanti%20al%20Consiglio%20di%20Stato.md);
 
@@ -46,7 +46,7 @@ NOTE
  Note alle premesse: 
  
  - L'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5) conferisce al Presidente della Repubblica il potere di promulgare le leggi e di emanare i decreti aventi valore di legge ed i regolamenti. 
- - Il [regio decreto legislativo 15 maggio 1946, n. 455](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legislativo:1946-05-15;455) (Approvazione dello statuto della Regione siciliana), e' pubblicato nella Gazzetta Ufficiale 10 giugno 1946, n. 133 (Edizione speciale) e convertito in legge costituzionale dalla [legge costituzionale 26 febbraio 1948, n. 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1948-02-26;2), pubblicata nella Gazzetta Ufficiale 9 marzo 1948, n. 58. Si riporta, di seguito, il testo degli articoli 23 e 43: 
+ - Il [regio decreto legislativo 15 maggio 1946, n. 455](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legislativo:1946-05-15;455) (Approvazione dello statuto della Regione siciliana), e' pubblicato nella Gazzetta Ufficiale 10 giugno 1946, n. 133 (Edizione speciale) e convertito in legge costituzionale dalla [legge costituzionale 26 febbraio 1948, n. 2](../Leggi%20costituzionali/Conversione%20in%20legge%20costituzionale%20dello%20Statuto%20della%20Regione%20siciliana%20approvato%20col%20decreto%20legislativo%2015%20maggio%201946%20n.%20455.md), pubblicata nella Gazzetta Ufficiale 9 marzo 1948, n. 58. Si riporta, di seguito, il testo degli articoli 23 e 43: 
  «Art. 23. - Gli organi giurisdizionali centrali avranno in Sicilia le rispettive sezioni per gli affari concernenti la Regione. 
  Le Sezioni del Consiglio di Stato e della Corte dei conti svolgeranno altresi' le funzioni, rispettivamente, consultive e di controllo amministrativo e contabile. 
  I magistrati della Corte dei conti sono nominati, di accordo, dai Governi dello Stato e della Regione. 

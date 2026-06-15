@@ -18,13 +18,13 @@ Vista la [legge 14 agosto 1967, n. 800](https://www.normattiva.it/uri-res/N2Ls?u
 
 Visto il [decreto legislativo 29 giugno 1996, n. 387](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1996-06-29;387);
 
-Vista la [legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59), recante delega al Governo per il conferimento di funzioni e compiti alle regioni ed enti locali, per la riforma della pubblica amministrazione e per la semplificazione amministrativa, ed in particolare gli articoli 11, comma 1, lettera b), e 14;
+Vista la [legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), recante delega al Governo per il conferimento di funzioni e compiti alle regioni ed enti locali, per la riforma della pubblica amministrazione e per la semplificazione amministrativa, ed in particolare gli articoli 11, comma 1, lettera b), e 14;
 
 Ravvisata l'esigenza di trasformare gli enti lirici e le istituzioni concertistiche assimilate, disciplinati dal titolo II della [legge 14 agosto 1967, n. 800](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1967-08-14;800), in fondazioni, non essendo necessaria, per l'espletamento dei loro compiti, la personalita' giuridica di diritto pubblico e consentendo anzi la veste giuridica privata la possibilita' di un migliore e piu' razionale svolgimento delle funzioni di tali enti;
 
 Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella riunione del 23 gennaio 1998;
 
-Udito il prescritto parere della Commissione parlamentare bicamerale, istituita ai sensi dell'[articolo 5 della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_5);
+Udito il prescritto parere della Commissione parlamentare bicamerale, istituita ai sensi dell'[articolo 5 della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md);
 
 Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 3 aprile 1998;
 
@@ -46,7 +46,7 @@ La fondazione subentra nei diritti, negli obblighi e nei rapporti attivi e passi
 
 AGGIORNAMENTO (2)
 
-La Corte Costituzionale con sentenza 13 - 18 novembre 2000 n. 503 (in G.U. 1a s.s. 22/11/2000 n. 48) ha dichiarato "l'illegittimita' costituzionale del [decreto legislativo 23 aprile 1998, n. 134](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-04-23;134) (Trasformazione in fondazione degli enti lirici e delle istituzioni concertistiche assimilate, a norma dell'[art. 11, comma 1, lettera b), della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_11-com1-letb))."
+La Corte Costituzionale con sentenza 13 - 18 novembre 2000 n. 503 (in G.U. 1a s.s. 22/11/2000 n. 48) ha dichiarato "l'illegittimita' costituzionale del [decreto legislativo 23 aprile 1998, n. 134](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Trasformazione%20in%20fondazione%20degli%20enti%20lirici%20e%20delle%20istituzioni%20concertistiche%20assimilate%20a%20norma%20dellarticolo%2011%20comma%201%20lettera%20b%20della%20legge%2015%20marzo%201997%20n.%2059.md) (Trasformazione in fondazione degli enti lirici e delle istituzioni concertistiche assimilate, a norma dell'[art. 11, comma 1, lettera b), della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md))."
 
 ## Art. 2. — Statuto e stima del patrimonio
 
@@ -74,7 +74,7 @@ Le disposizioni dell'[articolo 16 del decreto legislativo 29 giugno 1996, n. 367
 
 AGGIORNAMENTO (2)
 
-La Corte Costituzionale con sentenza 13 - 18 novembre 2000 n. 503 (in G.U. 1a s.s. 22/11/2000 n. 48) ha dichiarato "l'illegittimita' costituzionale del [decreto legislativo 23 aprile 1998, n. 134](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-04-23;134) (Trasformazione in fondazione degli enti lirici e delle istituzioni concertistiche assimilate, a norma dell'[art. 11, comma 1, lettera b), della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_11-com1-letb))."
+La Corte Costituzionale con sentenza 13 - 18 novembre 2000 n. 503 (in G.U. 1a s.s. 22/11/2000 n. 48) ha dichiarato "l'illegittimita' costituzionale del [decreto legislativo 23 aprile 1998, n. 134](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Trasformazione%20in%20fondazione%20degli%20enti%20lirici%20e%20delle%20istituzioni%20concertistiche%20assimilate%20a%20norma%20dellarticolo%2011%20comma%201%20lettera%20b%20della%20legge%2015%20marzo%201997%20n.%2059.md) (Trasformazione in fondazione degli enti lirici e delle istituzioni concertistiche assimilate, a norma dell'[art. 11, comma 1, lettera b), della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md))."
 
 ## Art. 3. — O r g a n i
 
@@ -96,7 +96,7 @@ Fino al conseguimento della partecipazione di soggetti privati, il consiglio di 
 
 AGGIORNAMENTO (2)
 
-La Corte Costituzionale con sentenza 13 - 18 novembre 2000 n. 503 (in G.U. 1a s.s. 22/11/2000 n. 48) ha dichiarato "l'illegittimita' costituzionale del [decreto legislativo 23 aprile 1998, n. 134](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-04-23;134) (Trasformazione in fondazione degli enti lirici e delle istituzioni concertistiche assimilate, a norma dell'[art. 11, comma 1, lettera b), della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_11-com1-letb))."
+La Corte Costituzionale con sentenza 13 - 18 novembre 2000 n. 503 (in G.U. 1a s.s. 22/11/2000 n. 48) ha dichiarato "l'illegittimita' costituzionale del [decreto legislativo 23 aprile 1998, n. 134](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Trasformazione%20in%20fondazione%20degli%20enti%20lirici%20e%20delle%20istituzioni%20concertistiche%20assimilate%20a%20norma%20dellarticolo%2011%20comma%201%20lettera%20b%20della%20legge%2015%20marzo%201997%20n.%2059.md) (Trasformazione in fondazione degli enti lirici e delle istituzioni concertistiche assimilate, a norma dell'[art. 11, comma 1, lettera b), della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md))."
 
 ## Art. 4. — Partecipazione dei privati
 
@@ -120,7 +120,7 @@ Nell'[articolo 10, comma 3, del decreto legislativo 29 giugno 1996, n. 367](Disp
 
 AGGIORNAMENTO (2)
 
-La Corte Costituzionale con sentenza 13 - 18 novembre 2000 n. 503 (in G.U. 1a s.s. 22/11/2000 n. 48) ha dichiarato "l'illegittimita' costituzionale del [decreto legislativo 23 aprile 1998, n. 134](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-04-23;134) (Trasformazione in fondazione degli enti lirici e delle istituzioni concertistiche assimilate, a norma dell'[art. 11, comma 1, lettera b), della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_11-com1-letb))."
+La Corte Costituzionale con sentenza 13 - 18 novembre 2000 n. 503 (in G.U. 1a s.s. 22/11/2000 n. 48) ha dichiarato "l'illegittimita' costituzionale del [decreto legislativo 23 aprile 1998, n. 134](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Trasformazione%20in%20fondazione%20degli%20enti%20lirici%20e%20delle%20istituzioni%20concertistiche%20assimilate%20a%20norma%20dellarticolo%2011%20comma%201%20lettera%20b%20della%20legge%2015%20marzo%201997%20n.%2059.md) (Trasformazione in fondazione degli enti lirici e delle istituzioni concertistiche assimilate, a norma dell'[art. 11, comma 1, lettera b), della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md))."
 
 ## Art. 5. — Disposizioni in tema di personale
 
@@ -130,7 +130,7 @@ Il contratto collettivo nazionale unico di lavoro del personale dipendente dalle
 
 2.
 
-Al personale artistico dipendente dagli enti gia' disciplinati dal titolo II della [legge 14 agosto 1967, n. 800](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1967-08-14;800), non si applicano le disposizioni di cui all'[articolo 6 della legge 29 dicembre 1990, n. 407](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-12-29;407#art_6), come modificato dall'[articolo 1 del decreto legislativo 30 dicembre 1992, n. 503](Norme%20per%20il%20riordinamento%20del%20sistema%20previdenziale%20dei%20lavoratori%20privati%20e%20pubblici%20a%20norma%20dellarticolo%203%20della%20legge%2023%20ottobre%201992%20n.%20421.md).
+Al personale artistico dipendente dagli enti gia' disciplinati dal titolo II della [legge 14 agosto 1967, n. 800](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1967-08-14;800), non si applicano le disposizioni di cui all'[articolo 6 della legge 29 dicembre 1990, n. 407](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20diverse%20per%20lattuazione%20della%20manovra%20di%20finanza%20pubblica%201991-1993.md), come modificato dall'[articolo 1 del decreto legislativo 30 dicembre 1992, n. 503](Norme%20per%20il%20riordinamento%20del%20sistema%20previdenziale%20dei%20lavoratori%20privati%20e%20pubblici%20a%20norma%20dellarticolo%203%20della%20legge%2023%20ottobre%201992%20n.%20421.md).
 
 3.
 
@@ -139,13 +139,13 @@ I premi versati anteriormente alla data di entrata in vigore del presente decret
 
 4.
 
-Le disposizioni del comma 211, terzo periodo, dell'[articolo 3 della legge 23 dicembre 1996, n. 662](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;662#art_3), come sostituito dall'[articolo 2 del decreto-legge 28 marzo 1997, n. 79](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1997-03-28;79#art_2), convertito, con modificazioni, dalla [legge 28 maggio 1997, n. 140](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2028%20marzo%201997%20n.%2079%20recante%20misure%20urgenti%20per%20il%20riequilibrio%20della%20finanza%20pubblica.md), continuano ad applicarsi anche in favore delle fondazioni di cui al presente decreto, con riferimento al personale delle medesime in servizio alla data della trasformazione.((2))
+Le disposizioni del comma 211, terzo periodo, dell'[articolo 3 della legge 23 dicembre 1996, n. 662](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_3.md), come sostituito dall'[articolo 2 del decreto-legge 28 marzo 1997, n. 79](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1997-03-28;79#art_2), convertito, con modificazioni, dalla [legge 28 maggio 1997, n. 140](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2028%20marzo%201997%20n.%2079%20recante%20misure%20urgenti%20per%20il%20riequilibrio%20della%20finanza%20pubblica.md), continuano ad applicarsi anche in favore delle fondazioni di cui al presente decreto, con riferimento al personale delle medesime in servizio alla data della trasformazione.((2))
 
 ----------------
 
 AGGIORNAMENTO (2)
 
-La Corte Costituzionale con sentenza 13 - 18 novembre 2000 n. 503 (in G.U. 1a s.s. 22/11/2000 n. 48) ha dichiarato "l'illegittimita' costituzionale del [decreto legislativo 23 aprile 1998, n. 134](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-04-23;134) (Trasformazione in fondazione degli enti lirici e delle istituzioni concertistiche assimilate, a norma dell'[art. 11, comma 1, lettera b), della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_11-com1-letb))."
+La Corte Costituzionale con sentenza 13 - 18 novembre 2000 n. 503 (in G.U. 1a s.s. 22/11/2000 n. 48) ha dichiarato "l'illegittimita' costituzionale del [decreto legislativo 23 aprile 1998, n. 134](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Trasformazione%20in%20fondazione%20degli%20enti%20lirici%20e%20delle%20istituzioni%20concertistiche%20assimilate%20a%20norma%20dellarticolo%2011%20comma%201%20lettera%20b%20della%20legge%2015%20marzo%201997%20n.%2059.md) (Trasformazione in fondazione degli enti lirici e delle istituzioni concertistiche assimilate, a norma dell'[art. 11, comma 1, lettera b), della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md))."
 
 ## Art. 6. — Modificazioni al decreto legislativo 29 giugno 1996, n. 367
 
@@ -181,7 +181,7 @@ Al fine di agevolare la costituzione del proprio patrimonio, gli enti di cui al 
 
 AGGIORNAMENTO (2)
 
-La Corte Costituzionale con sentenza 13 - 18 novembre 2000 n. 503 (in G.U. 1a s.s. 22/11/2000 n. 48) ha dichiarato "l'illegittimita' costituzionale del [decreto legislativo 23 aprile 1998, n. 134](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-04-23;134) (Trasformazione in fondazione degli enti lirici e delle istituzioni concertistiche assimilate, a norma dell'[art. 11, comma 1, lettera b), della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_11-com1-letb))."
+La Corte Costituzionale con sentenza 13 - 18 novembre 2000 n. 503 (in G.U. 1a s.s. 22/11/2000 n. 48) ha dichiarato "l'illegittimita' costituzionale del [decreto legislativo 23 aprile 1998, n. 134](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Trasformazione%20in%20fondazione%20degli%20enti%20lirici%20e%20delle%20istituzioni%20concertistiche%20assimilate%20a%20norma%20dellarticolo%2011%20comma%201%20lettera%20b%20della%20legge%2015%20marzo%201997%20n.%2059.md) (Trasformazione in fondazione degli enti lirici e delle istituzioni concertistiche assimilate, a norma dell'[art. 11, comma 1, lettera b), della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md))."
 
 ## Art. 7. — Conservazione di diritti
 
@@ -201,7 +201,7 @@ Le fondazioni mettono a disposizione di volta in volta un palco, ove ne ricevano
 
 AGGIORNAMENTO (2)
 
-La Corte Costituzionale con sentenza 13 - 18 novembre 2000 n. 503 (in G.U. 1a s.s. 22/11/2000 n. 48) ha dichiarato "l'illegittimita' costituzionale del [decreto legislativo 23 aprile 1998, n. 134](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-04-23;134) (Trasformazione in fondazione degli enti lirici e delle istituzioni concertistiche assimilate, a norma dell'[art. 11, comma 1, lettera b), della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_11-com1-letb))."
+La Corte Costituzionale con sentenza 13 - 18 novembre 2000 n. 503 (in G.U. 1a s.s. 22/11/2000 n. 48) ha dichiarato "l'illegittimita' costituzionale del [decreto legislativo 23 aprile 1998, n. 134](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Trasformazione%20in%20fondazione%20degli%20enti%20lirici%20e%20delle%20istituzioni%20concertistiche%20assimilate%20a%20norma%20dellarticolo%2011%20comma%201%20lettera%20b%20della%20legge%2015%20marzo%201997%20n.%2059.md) (Trasformazione in fondazione degli enti lirici e delle istituzioni concertistiche assimilate, a norma dell'[art. 11, comma 1, lettera b), della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md))."
 
 ## Art. 8. — Disposizioni transitorie e finali
 
@@ -237,7 +237,7 @@ Le disposizioni del presente decreto si applicano, in quanto compatibili, anche 
 
 AGGIORNAMENTO (2)
 
-La Corte Costituzionale con sentenza 13 - 18 novembre 2000 n. 503 (in G.U. 1a s.s. 22/11/2000 n. 48) ha dichiarato "l'illegittimita' costituzionale del [decreto legislativo 23 aprile 1998, n. 134](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-04-23;134) (Trasformazione in fondazione degli enti lirici e delle istituzioni concertistiche assimilate, a norma dell'[art. 11, comma 1, lettera b), della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_11-com1-letb))."
+La Corte Costituzionale con sentenza 13 - 18 novembre 2000 n. 503 (in G.U. 1a s.s. 22/11/2000 n. 48) ha dichiarato "l'illegittimita' costituzionale del [decreto legislativo 23 aprile 1998, n. 134](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Trasformazione%20in%20fondazione%20degli%20enti%20lirici%20e%20delle%20istituzioni%20concertistiche%20assimilate%20a%20norma%20dellarticolo%2011%20comma%201%20lettera%20b%20della%20legge%2015%20marzo%201997%20n.%2059.md) (Trasformazione in fondazione degli enti lirici e delle istituzioni concertistiche assimilate, a norma dell'[art. 11, comma 1, lettera b), della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md))."
 
 ## Art. 9. — Abrogazioni
 
@@ -261,7 +261,7 @@ Sono abrogati:
 
 AGGIORNAMENTO (2)
 
-La Corte Costituzionale con sentenza 13 - 18 novembre 2000 n. 503 (in G.U. 1a s.s. 22/11/2000 n. 48) ha dichiarato "l'illegittimita' costituzionale del [decreto legislativo 23 aprile 1998, n. 134](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-04-23;134) (Trasformazione in fondazione degli enti lirici e delle istituzioni concertistiche assimilate, a norma dell'[art. 11, comma 1, lettera b), della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_11-com1-letb))."
+La Corte Costituzionale con sentenza 13 - 18 novembre 2000 n. 503 (in G.U. 1a s.s. 22/11/2000 n. 48) ha dichiarato "l'illegittimita' costituzionale del [decreto legislativo 23 aprile 1998, n. 134](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Trasformazione%20in%20fondazione%20degli%20enti%20lirici%20e%20delle%20istituzioni%20concertistiche%20assimilate%20a%20norma%20dellarticolo%2011%20comma%201%20lettera%20b%20della%20legge%2015%20marzo%201997%20n.%2059.md) (Trasformazione in fondazione degli enti lirici e delle istituzioni concertistiche assimilate, a norma dell'[art. 11, comma 1, lettera b), della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md))."
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

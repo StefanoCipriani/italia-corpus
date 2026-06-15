@@ -18,7 +18,7 @@ Vista la [legge 23 giugno 2017, n. 103](https://www.normattiva.it/uri-res/N2Ls?u
 
 Visto il [decreto del Presidente della Repubblica 22 settembre 1988, n. 447](../DPR/Approvazione%20del%20codice%20di%20procedura%20penale.md), recante approvazione del [Codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447);
 
-Visto il [decreto legislativo 28 agosto 2000, n. 274](Disposizioni%20sulla%20competenza%20penale%20del%20giudice%20di%20pace%20a%20norma%20dellarticolo%2014%20della%20legge%2024%20novembre%201999%20n.%20468.md), recante disposizioni sulla competenza penale del giudice di pace, a norma dell'[articolo 14 della legge 24 novembre 1999, n. 468](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-11-24;468#art_14);
+Visto il [decreto legislativo 28 agosto 2000, n. 274](Disposizioni%20sulla%20competenza%20penale%20del%20giudice%20di%20pace%20a%20norma%20dellarticolo%2014%20della%20legge%2024%20novembre%201999%20n.%20468.md), recante disposizioni sulla competenza penale del giudice di pace, a norma dell'[articolo 14 della legge 24 novembre 1999, n. 468](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Modifiche%20alla%20legge%2021%20novembre%201991%20n.%20374%20recante%20istituzione%20del%20giudice%20di%20pace.%20Delega%20al%20Governo%20in%20materia%20di%20competenza%20penale%20del%20giudice%20di%20pace%20e%20modifica%20dellarticolo%20593%20del_ab2519664973.md);
 
 Vista la preliminare deliberazione del Consiglio dei ministri, adottata nella riunione del 2 ottobre 2017;
 

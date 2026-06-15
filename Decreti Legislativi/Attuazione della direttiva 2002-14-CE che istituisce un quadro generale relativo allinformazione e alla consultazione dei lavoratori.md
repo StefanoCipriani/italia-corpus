@@ -22,7 +22,7 @@ Visto il [decreto legislativo 10 settembre 2003, n. 276](Attuazione%20delle%20de
 
 Vista la [direttiva 2002/14/CE del Parlamento europeo e del Consiglio, dell'11 marzo 2002](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2002;14), che istituisce un quadro generale relativo all'informazione e alla consultazione dei lavoratori;
 
-Vista la [legge 18 aprile 2005, n. 62](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-04-18;62), recante disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee. Legge comunitaria 2004, che delega il Governo ad adottare uno o piu' decreti legislativi recanti le norme occorrenti per dare attuazione alla citata [direttiva 2002/14/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2002;14) compresa nell'elenco di cui all'allegato B alla medesima legge;
+Vista la [legge 18 aprile 2005, n. 62](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%202004.md), recante disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee. Legge comunitaria 2004, che delega il Governo ad adottare uno o piu' decreti legislativi recanti le norme occorrenti per dare attuazione alla citata [direttiva 2002/14/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2002;14) compresa nell'elenco di cui all'allegato B alla medesima legge;
 
 Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella riunione del 10 novembre 2006;
 
@@ -60,7 +60,7 @@ Avvertenza:
  - Il [decreto legislativo 30 giugno 2003, n. 196](Codice%20in%20materia%20di%20protezione%20dei%20dati%20personali%20%20recante%20disposizioni%20per%20ladeguamento%20dellordinamento%20nazionale%20al%20regolamento%20UE%20n.%202016-679%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20de_1077588393e9.md), e' pubblicato nella Gazzetta Ufficiale 29 luglio 2003, n. 174, supplemento ordinario.
  - Il [decreto legislativo 10 settembre 2003, n. 276](Attuazione%20delle%20deleghe%20in%20materia%20di%20occupazione%20e%20mercato%20del%20lavoro%20di%20cui%20alla%20legge%2014%20febbraio%202003%20n.%2030.md), e' pubblicato nella Gazzetta Ufficiale 9 ottobre 2003, n. 235, supplemento ordinario.
  - La [direttiva 2002/14/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2002;14) e' pubblicata nella Gazzetta Ufficiale delle Comunita' europee 23 marzo 2002, n. L 80.
- La [legge 18 aprile 2005, n. 62](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-04-18;62), e' pubblicata nella Gazzetta Ufficiale 27 aprile 2005, n. 96, supplemento ordinario.
+ La [legge 18 aprile 2005, n. 62](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%202004.md), e' pubblicata nella Gazzetta Ufficiale 27 aprile 2005, n. 96, supplemento ordinario.
 
 ## Art. 2. — Definizioni
 
@@ -183,7 +183,7 @@ L'organo competente a ricevere le segnalazioni e irrogare le sanzioni di cui al 
 
 Note all'[art. 7:
  - La legge 24 novembre 1981, n. 689](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689#art_7), reca: «Modifiche al sistema penale».
- Il [decreto legislativo 23 aprile 2004, n. 124](Razionalizzazione%20delle%20funzioni%20ispettive%20in%20materia%20di%20previdenza%20sociale%20e%20di%20lavoro%20a%20norma%20dellarticolo%208%20della%20legge%2014%20febbraio%202003%20n.%2030.md), reca: «Razionalizzazione delle funzioni ispettive in materia di previdenza sociale e di lavoro, a norma dell'[art. 8 della legge 14 febbraio 2003, n. 30](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-02-14;30#art_8)».
+ Il [decreto legislativo 23 aprile 2004, n. 124](Razionalizzazione%20delle%20funzioni%20ispettive%20in%20materia%20di%20previdenza%20sociale%20e%20di%20lavoro%20a%20norma%20dellarticolo%208%20della%20legge%2014%20febbraio%202003%20n.%2030.md), reca: «Razionalizzazione delle funzioni ispettive in materia di previdenza sociale e di lavoro, a norma dell'[art. 8 della legge 14 febbraio 2003, n. 30](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20in%20materia%20di%20occupazione%20e%20mercato%20del%20lavoro.md)».
 
 ## Art. 8. — Relazione con le disposizioni nazionali in materia di informazione e consultazione dei lavoratori
 

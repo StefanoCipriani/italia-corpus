@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4), con le modificazioni ad esso apportate dall'[art. 3, comma primo, del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98#art_3-com1);
+Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4), con le modificazioni ad esso apportate dall'[art. 3, comma primo, del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Viste le disposizioni transitorie I e XV della Costituzione;
 
@@ -44,7 +44,7 @@ Le domande di sussidio di cui al precedente art. 2 debbono essere presentate al 
 
 AGGIORNAMENTO (1)
 
-La [L. 29 luglio 1949, n. 506](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1949-07-29;506) ha disposto (con l'art. 6) che "Il termine di cui al [primo comma dell'art. 3 del decreto legislativo 17 aprile 1948, n. 846](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-04-17;846#art_3-com1), per la presentazione delle domande di sussidio per la riparazione dei danni causati dalle alluvioni degli anni 1946 e 1947 e' prorogato al 30 giugno 1949."
+La [L. 29 luglio 1949, n. 506](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1949-07-29;506) ha disposto (con l'art. 6) che "Il termine di cui al [primo comma dell'art. 3 del decreto legislativo 17 aprile 1948, n. 846](Autorizzazione%20della%20spesa%20di%20L.%20500.000.000%20per%20la%20concessione%20di%20sussidi%20per%20riparazione%20e%20ricostruzione%20di%20opere%20danneggiate%20o%20distrutte%20dalle%20alluvioni%20e%20frane%20negli%20anni%201946%20e%201947.md), per la presentazione delle domande di sussidio per la riparazione dei danni causati dalle alluvioni degli anni 1946 e 1947 e' prorogato al 30 giugno 1949."
 
 ## Art. 4.
 

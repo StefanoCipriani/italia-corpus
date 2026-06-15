@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4), con le modificazioni ad esso apportate dall'[art. 3, comma primo, del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98#art_3-com1);
+Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4), con le modificazioni ad esso apportate dall'[art. 3, comma primo, del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Viste le disposizioni transitorie I e XV della Costituzione;
 
@@ -34,7 +34,7 @@ Fino al 30 giugno 1949 le Amministrazioni militari possono dimostrare nei conti 
 
 AGGIORNAMENTO (1)
 
-La [L. 24 dicembre 1957, n. 1301](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1957-12-24;1301) ha disposto (con l'articolo unico, comma 1) che "Le disposizioni di cui all'[art. 1 del decreto legislativo 18 febbraio 1948, n. 366](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-02-18;366#art_1) prorogate con [legge 4 novembre 1950, n. 916](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-11-04;916), hanno efficacia, per le Amministrazioni dell'esercito e dell'aeronautica, fino al 30 giugno 1951".
+La [L. 24 dicembre 1957, n. 1301](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1957-12-24;1301) ha disposto (con l'articolo unico, comma 1) che "Le disposizioni di cui all'[art. 1 del decreto legislativo 18 febbraio 1948, n. 366](Proroga%20della%20temporanea%20facolta%20delle%20Amministrazioni%20militari%20di%20poter%20dimostrare%20nei%20conti%20materiali%20in%20carico%20agli%20enti%20dipendenti%20soltanto%20a%20quantita%20e%20non%20a%20valore.md) prorogate con [legge 4 novembre 1950, n. 916](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-11-04;916), hanno efficacia, per le Amministrazioni dell'esercito e dell'aeronautica, fino al 30 giugno 1951".
 
 ## Art. 2.
 

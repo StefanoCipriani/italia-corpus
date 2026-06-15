@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto l'[art. 1, lettera b), della legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537#art_1-letb);
+Visto l'[art. 1, lettera b), della legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md);
 
 Visto il [decreto legislativo 3 febbraio 1993, n. 29](Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni;
 
@@ -57,7 +57,7 @@ Note alle premesse:
  "1. Il Governo e' delegato a emanare, entro nove mesi dalla data di entrata in vigore della presente legge, uno o piu' decreti legislativi diretti a:
  a) (omissis);
  b) istituire organismi indipendenti per la regolazione dei servizi di rilevante interesse pubblico e prevedere la possibilita' di attribuire funzioni omogenee a nuove persone giuridiche".
- - Il [D.Lgs. n. 29/1993](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993;29) reca: "Razionalizzazione dell'organizzazione delle amministrazioni pubbliche e revisione della disciplina in materia di pubblico impiego, a norma dell'[art. 2 della legge 23 ottobre 1992, n. 421](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-10-23;421#art_2)".
+ - Il [D.Lgs. n. 29/1993](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993;29) reca: "Razionalizzazione dell'organizzazione delle amministrazioni pubbliche e revisione della disciplina in materia di pubblico impiego, a norma dell'[art. 2 della legge 23 ottobre 1992, n. 421](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20razionalizzazione%20e%20la%20revisione%20delle%20discipline%20in%20materia%20di%20sanita%20di%20pubblico%20impiego%20di%20previdenza%20e%20di%20finanza%20territoriale.md)".
  - La [legge n. 400/1988](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988;400) reca: "Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri".
 
 ## Art. 2. — Compiti dell'Ente
@@ -118,7 +118,7 @@ Note all'art. 2:
 
 1.
 
-Le entrate dell'Ente sono costituite dai trasferimenti da parte dello Stato per l'espletamento dei compiti di cui all'art. 2, nonche' dai canoni di concessioni autostradali, salvo quanto previsto dall'[art. 10, comma 3, della legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537#art_10-com3), e da altre entrate proprie indicate dallo statuto. I trasferimenti sono stabiliti, ai sensi dell'[art. 11, comma 3, lettera d), della legge 5 agosto 1978, n. 468](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riforma%20di%20alcune%20norme%20di%20contabilita%20generale%20dello%20Stato%20in%20materia%20di%20bilancio.md), come modificata dalla [legge 23 agosto 1988, n. 362](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;362), tenendo conto delle entrate dell'Ente. I trasferimenti sono iscritti su apposito capitolo dello stato di previsione della spesa del Ministero dei lavori pubblici e sono erogati all'Ente con le modalita' stabilite negli accordi di cui al comma 3. L'Ente non puo' impegnare ne' erogare somme eccedenti le entrate.
+Le entrate dell'Ente sono costituite dai trasferimenti da parte dello Stato per l'espletamento dei compiti di cui all'art. 2, nonche' dai canoni di concessioni autostradali, salvo quanto previsto dall'[art. 10, comma 3, della legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md), e da altre entrate proprie indicate dallo statuto. I trasferimenti sono stabiliti, ai sensi dell'[art. 11, comma 3, lettera d), della legge 5 agosto 1978, n. 468](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riforma%20di%20alcune%20norme%20di%20contabilita%20generale%20dello%20Stato%20in%20materia%20di%20bilancio.md), come modificata dalla [legge 23 agosto 1988, n. 362](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;362), tenendo conto delle entrate dell'Ente. I trasferimenti sono iscritti su apposito capitolo dello stato di previsione della spesa del Ministero dei lavori pubblici e sono erogati all'Ente con le modalita' stabilite negli accordi di cui al comma 3. L'Ente non puo' impegnare ne' erogare somme eccedenti le entrate.
 
 2.
 

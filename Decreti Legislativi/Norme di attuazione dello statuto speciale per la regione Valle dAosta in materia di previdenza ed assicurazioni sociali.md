@@ -12,9 +12,9 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge costituzionale 26 febbraio 1948, n. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1948-02-26;4), e successive modificazioni;
+Vista la [legge costituzionale 26 febbraio 1948, n. 4](../Leggi%20costituzionali/Statuto%20speciale%20per%20la%20Valle%20dAosta.md), e successive modificazioni;
 
-Vista la [legge 5 agosto 1981, n. 453](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-08-05;453), e successive modificazioni;
+Vista la [legge 5 agosto 1981, n. 453](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Rinnovo%20della%20delega%20prevista%20dallarticolo%2072%20della%20legge%2016%20maggio%201978%20n.%20196%20gia%20rinnovata%20con%20legge%206%20dicembre%201978%20n.%20827%20per%20lestensione%20alla%20regione%20Valle%20dAosta%20delle%20disposizioni_95073b35df97.md), e successive modificazioni;
 
 Sentita la commissione parlamentare per le questioni regionali;
 
@@ -28,7 +28,7 @@ E M A N A il seguente decreto legislativo:
 
 1.
 
-In attuazione dell'[articolo 4, primo comma, della legge costituzionale 26 febbraio 1948, n. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1948-02-26;4#art_4-com1), in relazione all'articolo 3, primo comma, lettera h), della legge costituzionale medesima, la regione Valle d'Aosta esercita le funzioni amministrative in materia di previdenza ed assicurazioni sociali idonee ad integrare gli interventi generali dello Stato per adattarli alle specifiche esigenze della popolazione e delle attivita' produttive della Valle d'Aosta.
+In attuazione dell'[articolo 4, primo comma, della legge costituzionale 26 febbraio 1948, n. 4](../Leggi%20costituzionali/Statuto%20speciale%20per%20la%20Valle%20dAosta.md), in relazione all'articolo 3, primo comma, lettera h), della legge costituzionale medesima, la regione Valle d'Aosta esercita le funzioni amministrative in materia di previdenza ed assicurazioni sociali idonee ad integrare gli interventi generali dello Stato per adattarli alle specifiche esigenze della popolazione e delle attivita' produttive della Valle d'Aosta.
 
 2.
 
@@ -41,7 +41,7 @@ AVVERTENZA:
  - L'[art. 76 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) regola la delega al Governo dell'esercizio della funzione legislativa e stabilisce che essa non puo' avvenire se non con determinazione di principi e criteri direttivi e soltanto per tempo limitato e per oggetti definiti.
  - L'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5) conferisce al Presidente della Repubblica il potere di promulgare le leggi e di emanare i decreti aventi valore di legge e i regolamenti.
  - La [legge costituzionale n. 4/1948](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1948;4) approva lo statuto speciale della Valle d'Aosta.
- - La [legge n. 453/1981](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981;453) ha delegato il Governo ad emanare uno o piu' decreti aventi forza di legge ordinaria per completare il trasferimento delle funzioni attribuite alla regione Valle d'Aosta dalla [legge costituzionale 26 febbraio 1948, n. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1948-02-26;4) (statuto speciale).
+ - La [legge n. 453/1981](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981;453) ha delegato il Governo ad emanare uno o piu' decreti aventi forza di legge ordinaria per completare il trasferimento delle funzioni attribuite alla regione Valle d'Aosta dalla [legge costituzionale 26 febbraio 1948, n. 4](../Leggi%20costituzionali/Statuto%20speciale%20per%20la%20Valle%20dAosta.md) (statuto speciale).
  Note all'art. 1:
  - Il testo dell'[art. 4, primo comma, della legge costituzionale n. 4/1948](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1948;4#art_4-com1) e' il seguente: "La regione esercita le funzioni amministrative sulle materie nelle quali ha potesta' legislativa a norma degli articoli 2 e 3, salve quelle attribuite ai comuni e agli altri enti locali dalle leggi della Repubblica".
  - Il testo dell'[art. 3, primo comma, lettera h), della legge costituzionale n. 4/1948](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1948;4#art_3-com1-leth) e' il seguente:
@@ -90,7 +90,7 @@ Gli interventi disposti con legge regionale sono attuati, secondo criteri di eff
 
 1.
 
-Salvo specifiche normative che dispongano una piu' ampia rappresentanza regionale, la regione ha un proprio rappresentante negli organi collegiali di amministrazione degli enti e degli istituti pubblici, che esplicano le attivita' previste dall'[art. 3, primo comma, lettera h), della legge costituzionale 26 febbraio 1948, n. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1948-02-26;4#art_3-com1-leth).
+Salvo specifiche normative che dispongano una piu' ampia rappresentanza regionale, la regione ha un proprio rappresentante negli organi collegiali di amministrazione degli enti e degli istituti pubblici, che esplicano le attivita' previste dall'[art. 3, primo comma, lettera h), della legge costituzionale 26 febbraio 1948, n. 4](../Leggi%20costituzionali/Statuto%20speciale%20per%20la%20Valle%20dAosta.md).
 
 Nota all'art. 4:
  Il testo dell'[art. 3, primo comma, lettera h), della legge costituzionale n. 4/1948](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1948;4#art_3-com1-leth) e' riportato nelle note all'art. 1.
@@ -116,7 +116,7 @@ Nota all'[art. 5:
 
 1.
 
-Nella regione Valle d'Aosta, alle associazioni sindacali costituite tra lavoratori appartenenti alla minoranza linguistica, appositamente tutelata dall'[art. 6 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_6) italiana, nonche' dal [decreto luogotenenziale 7 settembre 1945, n. 545](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-09-07;545), aderenti alla confederazione locale maggiormente rappresentativa dei lavoratori stessi, sono estesi, in ordine alla costituzione di rappresentanze sindacali aziendali, e comunque all'esercizio delle attivita' sindacali in genere, i diritti riconosciuti da norme di legge alle associazioni aderenti alle confederazioni sindacali maggiormente rappresentative sul piano nazionale.
+Nella regione Valle d'Aosta, alle associazioni sindacali costituite tra lavoratori appartenenti alla minoranza linguistica, appositamente tutelata dall'[art. 6 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_6) italiana, nonche' dal [decreto luogotenenziale 7 settembre 1945, n. 545](../Decreti%20legislativi%20luogotenenziali/Ordinamento%20amministrativo%20della%20Valle%20dAosta.%20045U0545.md), aderenti alla confederazione locale maggiormente rappresentativa dei lavoratori stessi, sono estesi, in ordine alla costituzione di rappresentanze sindacali aziendali, e comunque all'esercizio delle attivita' sindacali in genere, i diritti riconosciuti da norme di legge alle associazioni aderenti alle confederazioni sindacali maggiormente rappresentative sul piano nazionale.
 
 Note all'[art. 6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_6):
  - L'[art. 6 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_6) prevede la tutela delle minoranze linguistiche, da attuarsi con apposite norme.

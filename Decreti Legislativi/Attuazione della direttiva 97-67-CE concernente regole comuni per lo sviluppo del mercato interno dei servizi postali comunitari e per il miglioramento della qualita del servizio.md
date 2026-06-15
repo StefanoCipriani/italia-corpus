@@ -14,7 +14,7 @@ Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cos
 
 Vista la [direttiva 97/67/CE del Parlamento europeo e del Consiglio del 15 dicembre 1997](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1997;67), concernente regole comuni per lo sviluppo del mercato interno dei servizi postali comunitari e il miglioramento della qualita' del servizio;
 
-Visto l'[articolo 1, commi 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-02-05;25#art_1-com1) e [3, della legge 5 febbraio 1999, n. 25](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-02-05;25#art_1-com3), che ha delegato il Governo a recepire la predetta [direttiva 97/67/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1997;67);
+Visto l'[articolo 1, commi 1](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20legge%20comunitaria%201998.md) e [3, della legge 5 febbraio 1999, n. 25](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20legge%20comunitaria%201998.md), che ha delegato il Governo a recepire la predetta [direttiva 97/67/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1997;67);
 
 Visto il codice postale e delle telecomunicazioni, approvato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md);
 
@@ -113,7 +113,7 @@ L'Agenzia e' soggetto giuridicamente distinto e funzionalmente indipendente risp
 
 3.
 
-L'Agenzia opera sulla base di principi di autonomia organizzativa, tecnico-operativa, gestionale, di trasparenza e di economicita'. Per quanto non previsto dal presente articolo, all'Agenzia si applicano gli [articoli 8](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-07-30;300#art_8) e [9 del decreto legislativo 30 luglio 1999, n. 300](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-07-30;300#art_9).
+L'Agenzia opera sulla base di principi di autonomia organizzativa, tecnico-operativa, gestionale, di trasparenza e di economicita'. Per quanto non previsto dal presente articolo, all'Agenzia si applicano gli [articoli 8](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellorganizzazione%20del%20Governo%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md) e [9 del decreto legislativo 30 luglio 1999, n. 300](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellorganizzazione%20del%20Governo%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md).
 
 4.
 
@@ -520,7 +520,7 @@ Qualora il reclamo non abbia avuto esito ritenuto soddisfacente, l'interessato p
 
 4.
 
-E' fatta salva la facolta' di adire l'Autorita' giurisdizionale indipendentemente dalla presentazione dei reclami di cui ai commi 1 e 2 ovvero, in alternativa, di attivare meccanismi di risoluzione extragiudiziale delle controversie, ai sensi del [decreto legislativo 4 marzo 2010, n. 28](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-04;28).
+E' fatta salva la facolta' di adire l'Autorita' giurisdizionale indipendentemente dalla presentazione dei reclami di cui ai commi 1 e 2 ovvero, in alternativa, di attivare meccanismi di risoluzione extragiudiziale delle controversie, ai sensi del [decreto legislativo 4 marzo 2010, n. 28](Attuazione%20dellarticolo%2060%20della%20legge%2018%20giugno%202009%20n.%2069%20in%20materia%20di%20mediazione%20finalizzata%20alla%20conciliazione%20delle%20controversie%20civili%20e%20commerciali.%2010G0050.md).
 
 5.
 
@@ -605,7 +605,7 @@ Le persone addette ai servizi postali, da chiunque gestiti, sono considerate inc
 
 AGGIORNAMENTO (10)
 
-La [L. 23 dicembre 2014, n. 190](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-12-23;190), come modificata dalla [L. 27 dicembre 2017, n. 205](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-12-27;205), ha disposto (con l'art. 1, comma 97-quinquies) che "Le disposizioni di cui ai commi da 97-bis a 97-quater si applicano a decorrere dalla data di entrata in vigore del provvedimento del Ministero dello sviluppo economico che disciplina le procedure per il rilascio delle licenze di cui all'articolo 5, comma 2, secondo periodo, del [decreto legislativo 22 luglio 1999, n. 261](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2097-67-CE%20concernente%20regole%20comuni%20per%20lo%20sviluppo%20del%20mercato%20interno%20dei%20servizi%20postali%20comunitari%20e%20per%20il%20miglioramento%20della%20qualita%20del%20servizio.md)".
+La [L. 23 dicembre 2014, n. 190](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202015.%2014G00203.md), come modificata dalla [L. 27 dicembre 2017, n. 205](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202018%20e%20bilancio%20pluriennale%20per%20il%20triennio%202018-2020.%2017G00222.md), ha disposto (con l'art. 1, comma 97-quinquies) che "Le disposizioni di cui ai commi da 97-bis a 97-quater si applicano a decorrere dalla data di entrata in vigore del provvedimento del Ministero dello sviluppo economico che disciplina le procedure per il rilascio delle licenze di cui all'articolo 5, comma 2, secondo periodo, del [decreto legislativo 22 luglio 1999, n. 261](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2097-67-CE%20concernente%20regole%20comuni%20per%20lo%20sviluppo%20del%20mercato%20interno%20dei%20servizi%20postali%20comunitari%20e%20per%20il%20miglioramento%20della%20qualita%20del%20servizio.md)".
 
 ## Art. 18-bis.
 

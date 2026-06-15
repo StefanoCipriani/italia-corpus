@@ -12,9 +12,9 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[articolo 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge costituzionale 26 febbraio 1948, n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1948-02-26;3), che ha approvato lo statuto speciale della regione autonoma della Sardegna;
+Vista la [legge costituzionale 26 febbraio 1948, n. 3](../Leggi%20costituzionali/Statuto%20speciale%20per%20la%20Sardegna.md), che ha approvato lo statuto speciale della regione autonoma della Sardegna;
 
-Vista la proposta della Commissione paritetica prevista dall'[articolo 56, primo comma, della legge costituzionale 26 febbraio 1948, n. 3, nonche' il parere del consiglio regionale della Sardegna](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1948-02-26;3#art_56-com1);
+Vista la proposta della Commissione paritetica prevista dall'[articolo 56, primo comma, della legge costituzionale 26 febbraio 1948, n. 3, nonche' il parere del consiglio regionale della Sardegna](../Leggi%20costituzionali/Statuto%20speciale%20per%20la%20Sardegna.md);
 
 Vista la delibera del Consiglio dei Ministri, adottata nella riunione del 18 aprile 2003;
 
@@ -33,7 +33,7 @@ Avvertenza:
  Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
  Note alle premesse:
  - L'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5) conferisce al Presidente della Repubblica il potere di promulgare leggi e di emanare i decreti aventi valore di leggi e regolamenti.
- - L'art. 56, primo comma, della citata [legge costituzionale 26 febbraio 1948, n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1948-02-26;3), e' il seguente:
+ - L'art. 56, primo comma, della citata [legge costituzionale 26 febbraio 1948, n. 3](../Leggi%20costituzionali/Statuto%20speciale%20per%20la%20Sardegna.md), e' il seguente:
  «Una commissione paritetica di quattro membri, nominati dal Governo della Repubblica e dall'Alto commissario per la Sardegna sentita la consulta regionale, proporra' le norme relative al passaggio degli uffici e del personale dallo Stato alla regione, nonche' le norme di attuazione del presente statuto.».
  Note all'[art. 1:
  - Il regio decreto 23 agosto 1890, n. 7088](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1890-08-23;7088#art_1) (Approvazione del testo unico delle leggi sui pesi e sulle misure nel Regno d'Italia del 20 luglio 1890, n. 6991), e' stato pubblicato nella Gazzetta Ufficiale 15 settembre 1890, n. 216.
@@ -114,10 +114,10 @@ Note all'art. 3:
 
 1.
 
-Sono trasferiti alle Camere di commercio, industria, artigianato e agricoltura delle corrispondenti province le funzioni amministrative ed i compiti esercitati dagli Uffici provinciali dell'industria, del commercio e dell'artigianato di cui all'[articolo 3 del decreto legislativo luogotenenziale 21 settembre 1944, n. 315](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-09-21;315#art_3), che hanno sede nella regione autonoma della Sardegna.
+Sono trasferiti alle Camere di commercio, industria, artigianato e agricoltura delle corrispondenti province le funzioni amministrative ed i compiti esercitati dagli Uffici provinciali dell'industria, del commercio e dell'artigianato di cui all'[articolo 3 del decreto legislativo luogotenenziale 21 settembre 1944, n. 315](../Decreti%20legislativi%20luogotenenziali/Soppressione%20dei%20Consigli%20e%20degli%20Uffici%20provinciali%20delleconomia%20e%20istituzione%20delle%20Camere%20di%20commercio%20industria%20e%20agricoltura%20nonche%20degli%20Uffici%20provinciali%20del%20commercio%20e%20dellindus_d702b8b2a697.md), che hanno sede nella regione autonoma della Sardegna.
 
 Nota all'art. 4:
- - Il testo dell'[art. 3, del decreto legislativo luogotenenziale 21 settembre 1944, n. 315](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-09-21;315#art_3) (Soppressione dei consigli e degli uffici provinciali dell'economia e istituzione delle Camere di commercio, industria e agricoltura, nonche' degli Uffici provinciali del commercio e dell'industria), pubblicato nella Gazzetta Ufficiale - serie speciale - 23 novembre 1944, n. 85, e' il seguente:
+ - Il testo dell'[art. 3, del decreto legislativo luogotenenziale 21 settembre 1944, n. 315](../Decreti%20legislativi%20luogotenenziali/Soppressione%20dei%20Consigli%20e%20degli%20Uffici%20provinciali%20delleconomia%20e%20istituzione%20delle%20Camere%20di%20commercio%20industria%20e%20agricoltura%20nonche%20degli%20Uffici%20provinciali%20del%20commercio%20e%20dellindus_d702b8b2a697.md) (Soppressione dei consigli e degli uffici provinciali dell'economia e istituzione delle Camere di commercio, industria e agricoltura, nonche' degli Uffici provinciali del commercio e dell'industria), pubblicato nella Gazzetta Ufficiale - serie speciale - 23 novembre 1944, n. 85, e' il seguente:
  «Art. 3. - In ogni capoluogo di provincia e' ricostituito, alla diretta dipendenza del Ministero dell'industria e commercio, un Ufficio provinciale del commercio e dell'industria il quale cura l'esecuzione degli atti e provvedimenti del Ministero, rileva e segnala il movimento economico della provincia e compie le altre funzioni che gli sono demandate dalle leggi.
  Il direttore dell'ufficio e' nominato dal Ministro per l'industria e commercio fra il personale dell'apposito ruolo.».
 

@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4), con le modificazioni ad esso apportate dall'[art. 3, comma primo, del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98#art_3-com1);
+Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4), con le modificazioni ad esso apportate dall'[art. 3, comma primo, del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Viste le disposizioni transitorie I e XV della Costituzione;
 
@@ -34,7 +34,7 @@ Qualora il deposito previsto dall'articolo precedente debba effettuarsi prima ch
 
 AGGIORNAMENTO (1)
 
-La [L. 21 agosto 1949, n. 730](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1949-08-21;730) ha disposto (con l'art. 6) che "A parziale modifica dell'ultimo comma dell'[art. 2 del decreto legislativo 7 maggio 1948, n. 781](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-05-07;781#art_2), le anticipazioni effettuate dalla Banca d'Italia in esecuzione del decreto stesso per quanto riguarda gli aiuti previsti dall'Accordo di cooperazione economica, approvato con [legge 4 agosto 1948, n. 1108](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecutorieta%20dellAccordo%20di%20cooperazione%20economica%20tra%20lItalia%20e%20gli%20Stati%20Uniti%20dAmerica%20concluso%20a%20Roma%20il%2028%20giugno%201948.md), dovranno essere estinte entro l'esercizio finanziario successivo a quello in cui le anticipazioni sono state effettuate".
+La [L. 21 agosto 1949, n. 730](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1949-08-21;730) ha disposto (con l'art. 6) che "A parziale modifica dell'ultimo comma dell'[art. 2 del decreto legislativo 7 maggio 1948, n. 781](Norme%20di%20attuazione%20del%20decreto%20legislativo%2014%20febbraio%201948%20n.%20153%20concernente%20lapprovazione%20dellAccordo%20fra%20il%20Governo%20italiano%20e%20il%20Governo%20degli%20Stati%20Uniti%20dAmerica%20per%20il%20programma%20_1fd1a7adddfa.md), le anticipazioni effettuate dalla Banca d'Italia in esecuzione del decreto stesso per quanto riguarda gli aiuti previsti dall'Accordo di cooperazione economica, approvato con [legge 4 agosto 1948, n. 1108](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecutorieta%20dellAccordo%20di%20cooperazione%20economica%20tra%20lItalia%20e%20gli%20Stati%20Uniti%20dAmerica%20concluso%20a%20Roma%20il%2028%20giugno%201948.md), dovranno essere estinte entro l'esercizio finanziario successivo a quello in cui le anticipazioni sono state effettuate".
 
 ## Art. 3.
 

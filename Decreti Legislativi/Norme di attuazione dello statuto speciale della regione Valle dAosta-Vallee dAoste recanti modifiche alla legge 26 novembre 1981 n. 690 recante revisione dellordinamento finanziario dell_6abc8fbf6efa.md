@@ -12,17 +12,17 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[articolo 87, quinto comma, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge costituzionale 26 febbraio 1948, n. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1948-02-26;4), che approva lo statuto speciale della regione Valle d'Aosta;
+Vista la [legge costituzionale 26 febbraio 1948, n. 4](../Leggi%20costituzionali/Statuto%20speciale%20per%20la%20Valle%20dAosta.md), che approva lo statuto speciale della regione Valle d'Aosta;
 
 Vista la [legge 26 novembre 1981, n. 690](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-26;690);
 
-Vista la [legge 13 dicembre 2010, n. 220](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2010-12-13;220), recante «Disposizioni per la formazione del bilancio annuale e pluriennale dello Stato (legge di stabilita' per il 2011)»;
+Vista la [legge 13 dicembre 2010, n. 220](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202011.%2010G0238.md), recante «Disposizioni per la formazione del bilancio annuale e pluriennale dello Stato (legge di stabilita' per il 2011)»;
 
 Visto l'accordo 11 novembre 2010 tra lo Stato e la regione autonoma Valle d'Aosta per il coordinamento della finanza pubblica nell'ambito del processo di attuazione del federalismo fiscale, in attuazione dell'[articolo 119 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_119);
 
 Acquisito il parere del Consiglio regionale della Valle d'Aosta/Vallee d'Aoste;
 
-Vista la proposta della commissione paritetica prevista dall'articolo 48-bis dello Statuto speciale, introdotto dall'[articolo 3 della legge costituzionale 23 settembre 1993, n. 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1993-09-23;2#art_3);
+Vista la proposta della commissione paritetica prevista dall'articolo 48-bis dello Statuto speciale, introdotto dall'[articolo 3 della legge costituzionale 23 settembre 1993, n. 2](../Leggi%20costituzionali/Modifiche%20ed%20integrazioni%20agli%20statuti%20speciali%20per%20la%20Valle%20dAosta%20per%20la%20Sardegna%20per%20il%20Friuli-Venezia%20Giulia%20e%20per%20il%20Trentino-Alto%20Adige.md);
 
 Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 17 dicembre 2010;
 
@@ -34,11 +34,11 @@ Emana il seguente decreto legislativo:
 
 1.
 
-A decorrere dal 1° gennaio 2017 il [comma 4 dell'articolo 8 della legge 23 dicembre 1992, n. 498](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-12-23;498#art_8-com4), e' abrogato.
+A decorrere dal 1° gennaio 2017 il [comma 4 dell'articolo 8 della legge 23 dicembre 1992, n. 498](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20urgenti%20in%20materia%20di%20finanza%20pubblica.md), e' abrogato.
 
 2.
 
-L'assegnazione statale prevista dal [comma 4 dell'articolo 8 della legge 23 dicembre 1992, n. 498](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-12-23;498#art_8-com4), e' ridotta per l'anno 2011 di euro 239 milioni, per l'anno 2012 di euro 244 milioni, per l'anno 2013 di euro 256 milioni, per l'anno 2014 di euro 259 milioni, per l'anno 2015 di euro 307 milioni, per l'anno 2016 di euro 316 milioni.
+L'assegnazione statale prevista dal [comma 4 dell'articolo 8 della legge 23 dicembre 1992, n. 498](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20urgenti%20in%20materia%20di%20finanza%20pubblica.md), e' ridotta per l'anno 2011 di euro 239 milioni, per l'anno 2012 di euro 244 milioni, per l'anno 2013 di euro 256 milioni, per l'anno 2014 di euro 259 milioni, per l'anno 2015 di euro 307 milioni, per l'anno 2016 di euro 316 milioni.
 
 Avvertenza: 
  Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, commi 2 e 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti. 
@@ -46,13 +46,13 @@ Avvertenza:
  - La [legge 26 novembre 1981, n. 690](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-26;690) (Revisione dell'ordinamento finanziario della regione Valle d'Aosta) e' pubblicata nella Gazzetta Ufficiale 2 dicembre 1981, n. 331. 
  Note alle premesse: 
  - L'[art. 87, quinto comma, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5) conferisce al Presidente della Repubblica il potere di promulgare le leggi e di emanare i decreti aventi valore di legge ed i regolamenti. 
- - La [legge costituzionale 26 febbraio 1948, n. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1948-02-26;4) (Statuto speciale per la Valle d'Aosta), e' pubblicata nella Gazzetta Ufficiale n. 59 del 10 marzo 1948; il testo dell'art. 48-bis della legge medesima, introdotto dall'art. 3 della legge costituzionale 23 settembre 1993, n. 2 (pubblicata nella Gazzetta Ufficiale n. 226 del 25 settembre 1993), e' il seguente: 
+ - La [legge costituzionale 26 febbraio 1948, n. 4](../Leggi%20costituzionali/Statuto%20speciale%20per%20la%20Valle%20dAosta.md) (Statuto speciale per la Valle d'Aosta), e' pubblicata nella Gazzetta Ufficiale n. 59 del 10 marzo 1948; il testo dell'art. 48-bis della legge medesima, introdotto dall'art. 3 della legge costituzionale 23 settembre 1993, n. 2 (pubblicata nella Gazzetta Ufficiale n. 226 del 25 settembre 1993), e' il seguente: 
  «Art. 48-bis. - Il Governo e' delegato ad emanare uno o piu' decreti legislativi recanti le disposizioni di attuazione del presente statuto e le disposizioni per armonizzare la legislazione nazionale con l'ordinamento della regione Valle d'Aosta, tenendo conto delle particolari condizioni di autonomia attribuita alla regione. 
  Gli schemi dei decreti legislativi sono elaborati da una commissione paritetica composta da sei membri nominati, rispettivamente, tre dal Governo e tre dal consiglio regionale della Valle d'Aosta e sono sottoposti al parere del consiglio stesso.». 
  - La [legge 26 novembre 1981, n. 690](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-26;690), e' citata nella nota al titolo. 
- - La [legge 13 dicembre 2010, n. 220](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2010-12-13;220) (legge di stabilita' 2011) e' pubblicata nella Gazzetta Ufficiale 21 dicembre 2010, n. 297, S.O. 
+ - La [legge 13 dicembre 2010, n. 220](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202011.%2010G0238.md) (legge di stabilita' 2011) e' pubblicata nella Gazzetta Ufficiale 21 dicembre 2010, n. 297, S.O. 
  Note all'[art. 1: 
- - La legge 23 dicembre 1992, n. 498](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-12-23;498#art_1) (Interventi urgenti in materia di finanza pubblica) e' pubblicata nella Gazzetta Ufficiale 29 dicembre 1992, n. 304.
+ - La legge 23 dicembre 1992, n. 498](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20urgenti%20in%20materia%20di%20finanza%20pubblica.md) (Interventi urgenti in materia di finanza pubblica) e' pubblicata nella Gazzetta Ufficiale 29 dicembre 1992, n. 304.
 
 ## Art. 2. — Modificazione dell'articolo 2 della legge 26 novembre 1981, n. 690
 
@@ -82,7 +82,7 @@ L'[articolo 3 della legge 26 novembre 1981, n. 690](https://www.normattiva.it/ur
  d) i nove decimi delle tasse sulle concessioni governative. 
  2. E' altresi' attribuito alla regione Valle d'Aosta l'intero gettito dell'imposta sul valore aggiunto, compresa quella relativa all'importazione, al netto dei rimborsi effettuati ai sensi dell'[articolo 38-bis del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](../DPR/Istituzione%20e%20disciplina%20dellimposta%20sul%20valore%20aggiunto.md), e successive modificazioni, determinato assumendo a riferimento i consumi finali rilevati nell'ultimo triennio disponibile. 
  3. Il gettito dell'imposta sul valore aggiunto e' attribuito sulla base dei dati rilevati nel bilancio dello Stato, nell'anno antecedente a quello cui la devoluzione si riferisce. 
- 4. Sono, altresi', attribuiti alla regione Valle d'Aosta i nove decimi dei canoni, qualora riscossi dallo Stato, per le concessioni di derivazione di acque pubbliche a scopo idroelettrico di cui all'ultimo comma dell'[articolo 12 della legge costituzionale 26 febbraio 1948, n. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1948-02-26;4#art_12), recante lo Statuto speciale.».
+ 4. Sono, altresi', attribuiti alla regione Valle d'Aosta i nove decimi dei canoni, qualora riscossi dallo Stato, per le concessioni di derivazione di acque pubbliche a scopo idroelettrico di cui all'ultimo comma dell'[articolo 12 della legge costituzionale 26 febbraio 1948, n. 4](../Leggi%20costituzionali/Statuto%20speciale%20per%20la%20Valle%20dAosta.md), recante lo Statuto speciale.».
 
 Note all'[art. 3: 
  - La legge 26 novembre 1981, n. 690](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-26;690#art_3), e' citata nella nota al titolo.

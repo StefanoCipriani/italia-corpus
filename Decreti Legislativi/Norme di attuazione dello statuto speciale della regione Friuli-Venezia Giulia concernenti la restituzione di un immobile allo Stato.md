@@ -12,11 +12,11 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[articolo 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge costituzionale 31 gennaio 1963, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1963-01-31;1), che approva lo statuto speciale per il Friuli-Venezia Giulia;
+Vista la [legge costituzionale 31 gennaio 1963, n. 1](../Leggi%20costituzionali/Statuto%20speciale%20della%20Regione%20Friuli-Venezia%20Giulia.md), che approva lo statuto speciale per il Friuli-Venezia Giulia;
 
 Visto il [decreto del Presidente della Repubblica 31 ottobre 1967, n. 1401](../DPR/Norme%20di%20attuazione%20dello%20statuto%20speciale%20della%20Regione%20Friuli-Venezia%20Giulia%20per%20il%20trasferimento%20alla%20Regione%20di%20beni%20immobili%20patrimoniali%20disponibili.md), recante le norme di attuazione dello statuto speciale per il Friuli-Venezia Giulia per il trasferimento alla regione dei beni patrimoniali disponibili di cui all'elenco annesso al decreto medesimo;
 
-Sentita la commissione paritetica per le norme di attuazione prevista dall'[articolo 65 della legge costituzionale 31 gennaio 1963, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1963-01-31;1#art_65);
+Sentita la commissione paritetica per le norme di attuazione prevista dall'[articolo 65 della legge costituzionale 31 gennaio 1963, n. 1](../Leggi%20costituzionali/Statuto%20speciale%20della%20Regione%20Friuli-Venezia%20Giulia.md);
 
 Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 23 gennaio 1998;
 
@@ -34,9 +34,9 @@ Avvertenza:
  Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
  Note alle premesse:
  - L'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5) conferisce al Presidente della Repubblica il potere di promulgare leggi e di emanare i decreti aventi valore di leggi e regolamenti.
- - La [legge costituzionale 31 gennaio 1963, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1963-01-31;1), e' stata pubblicata nella Gazzetta Ufficiale n. 29 del 1 febbraio 1963.
+ - La [legge costituzionale 31 gennaio 1963, n. 1](../Leggi%20costituzionali/Statuto%20speciale%20della%20Regione%20Friuli-Venezia%20Giulia.md), e' stata pubblicata nella Gazzetta Ufficiale n. 29 del 1 febbraio 1963.
  - Il [D.P.R. 31 ottobre 1967, n. 1401](../DPR/Norme%20di%20attuazione%20dello%20statuto%20speciale%20della%20Regione%20Friuli-Venezia%20Giulia%20per%20il%20trasferimento%20alla%20Regione%20di%20beni%20immobili%20patrimoniali%20disponibili.md), e' stato pubblicato nella Gazzetta Ufficiale n. 40 del 15 febbraio 1968.
- - L'[art. 65 della legge costituzionale 31 gennaio 1963, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1963-01-31;1#art_65), e' il seguente:
+ - L'[art. 65 della legge costituzionale 31 gennaio 1963, n. 1](../Leggi%20costituzionali/Statuto%20speciale%20della%20Regione%20Friuli-Venezia%20Giulia.md), e' il seguente:
  "Art. 65. - Con decreti legislativi, sentita una commissione paritetica di sei membri, nominati tre dal Governo della Repubblica e tre dal consiglio regionale, saranno stabilite le norme di attuazione del presente statuto e quelle relative al trasferimento all'amministrazione regionale degli uffici statali che nel Friuli-Venezia Giulia adempiono a funzioni attribuite alla regione".
  Nota all'art. 1:
  - Per quanto concerne il [D.P.R. n. 1401/1967](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967;1401) v. nelle note alle premesse.

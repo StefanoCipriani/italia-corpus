@@ -48,7 +48,7 @@ Il presente decreto, nel rispetto dell'[articolo 117 della Costituzione](https:/
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. 9 gennaio 2012, n. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2012-01-09;4) ha disposto (con l'art. 27, comma 2) che "Le norme abrogate dal comma 1 sono sostituite dalle disposizioni del presente decreto".
+Il [D.Lgs. 9 gennaio 2012, n. 4](Misure%20per%20il%20riassetto%20della%20normativa%20in%20materia%20di%20pesca%20e%20acquacoltura%20a%20norma%20dellarticolo%2028%20della%20legge%204%20giugno%202010%20n.%2096.%2012G0012.md) ha disposto (con l'art. 27, comma 2) che "Le norme abrogate dal comma 1 sono sostituite dalle disposizioni del presente decreto".
 
 ## Art. 2. — Registro dei pescatori marittimi
 
@@ -115,7 +115,7 @@ Nota all'art. 5:
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. 9 gennaio 2012, n. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2012-01-09;4) ha disposto (con l'art. 27, comma 2) che "Le norme abrogate dal comma 1 sono sostituite dalle disposizioni del presente decreto".
+Il [D.Lgs. 9 gennaio 2012, n. 4](Misure%20per%20il%20riassetto%20della%20normativa%20in%20materia%20di%20pesca%20e%20acquacoltura%20a%20norma%20dellarticolo%2028%20della%20legge%204%20giugno%202010%20n.%2096.%2012G0012.md) ha disposto (con l'art. 27, comma 2) che "Le norme abrogate dal comma 1 sono sostituite dalle disposizioni del presente decreto".
 
 ## Art. 7.
 
@@ -126,7 +126,7 @@ Il [D.Lgs. 9 gennaio 2012, n. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. 9 gennaio 2012, n. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2012-01-09;4) ha disposto (con l'art. 27, comma 2) che "Le norme abrogate dal comma 1 sono sostituite dalle disposizioni del presente decreto".
+Il [D.Lgs. 9 gennaio 2012, n. 4](Misure%20per%20il%20riassetto%20della%20normativa%20in%20materia%20di%20pesca%20e%20acquacoltura%20a%20norma%20dellarticolo%2028%20della%20legge%204%20giugno%202010%20n.%2096.%2012G0012.md) ha disposto (con l'art. 27, comma 2) che "Le norme abrogate dal comma 1 sono sostituite dalle disposizioni del presente decreto".
 
 ## Art. 8.
 
@@ -137,7 +137,7 @@ Il [D.Lgs. 9 gennaio 2012, n. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. 9 gennaio 2012, n. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2012-01-09;4) ha disposto (con l'art. 27, comma 2) che "Le norme abrogate dal comma 1 sono sostituite dalle disposizioni del presente decreto".
+Il [D.Lgs. 9 gennaio 2012, n. 4](Misure%20per%20il%20riassetto%20della%20normativa%20in%20materia%20di%20pesca%20e%20acquacoltura%20a%20norma%20dellarticolo%2028%20della%20legge%204%20giugno%202010%20n.%2096.%2012G0012.md) ha disposto (con l'art. 27, comma 2) che "Le norme abrogate dal comma 1 sono sostituite dalle disposizioni del presente decreto".
 
 ## Art. 9.
 
@@ -148,7 +148,7 @@ Il [D.Lgs. 9 gennaio 2012, n. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. 9 gennaio 2012, n. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2012-01-09;4) ha disposto (con l'art. 27, comma 2) che "Le norme abrogate dal comma 1 sono sostituite dalle disposizioni del presente decreto".
+Il [D.Lgs. 9 gennaio 2012, n. 4](Misure%20per%20il%20riassetto%20della%20normativa%20in%20materia%20di%20pesca%20e%20acquacoltura%20a%20norma%20dellarticolo%2028%20della%20legge%204%20giugno%202010%20n.%2096.%2012G0012.md) ha disposto (con l'art. 27, comma 2) che "Le norme abrogate dal comma 1 sono sostituite dalle disposizioni del presente decreto".
 
 ## Art. 10. — Disposizioni transitorie e abrogative
 
@@ -168,7 +168,7 @@ Fino alla data di entrata in vigore del regolamento di cui al comma 1, restano i
 
 AGGIORNAMENTO (9)
 
-Il [D.L. 18 ottobre 2012, n. 179](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-10-18;179), convertito con modificazioni dalla [L. 17 dicembre 2012, n. 221](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2018%20ottobre%202012%20n.%20179%20recante%20ulteriori%20misure%20urgenti%20per%20la%20crescita%20del%20Paese.%2012G0244.md), ha disposto (con l'art. 34-septies, comma 2) che " In deroga a quanto previsto dall'[articolo 10, comma 1, del decreto legislativo 26 maggio 2004, n. 153](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004-05-26;153#art_10-com1), con decreto del Ministro delle politiche agricole alimentari e forestali, da emanare di concerto con il Ministro dello sviluppo economico entro il 31 dicembre 2012, sono adottate le opportune disposizioni attuative di quanto previsto al comma 1, anche al fine di integrare nel registro delle imprese di cui all'[articolo 2188 del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2188) le informazioni di cui agli [articoli 63 e seguenti del decreto del Presidente della Repubblica 2 ottobre 1968, n. 1639](../DPR/Regolamento%20per%20lesecuzione%20della%20legge%2014%20luglio%201965%20n.%20963%20concernente%20la%20disciplina%20della%20pesca%20marittima.md), tenuto conto altresi' del ruolo e delle funzioni svolte dalle Capitanerie di porto."
+Il [D.L. 18 ottobre 2012, n. 179](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-10-18;179), convertito con modificazioni dalla [L. 17 dicembre 2012, n. 221](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2018%20ottobre%202012%20n.%20179%20recante%20ulteriori%20misure%20urgenti%20per%20la%20crescita%20del%20Paese.%2012G0244.md), ha disposto (con l'art. 34-septies, comma 2) che " In deroga a quanto previsto dall'[articolo 10, comma 1, del decreto legislativo 26 maggio 2004, n. 153](Attuazione%20della%20legge%207%20marzo%202003%20n.%2038%20in%20materia%20di%20pesca%20marittima.md), con decreto del Ministro delle politiche agricole alimentari e forestali, da emanare di concerto con il Ministro dello sviluppo economico entro il 31 dicembre 2012, sono adottate le opportune disposizioni attuative di quanto previsto al comma 1, anche al fine di integrare nel registro delle imprese di cui all'[articolo 2188 del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2188) le informazioni di cui agli [articoli 63 e seguenti del decreto del Presidente della Repubblica 2 ottobre 1968, n. 1639](../DPR/Regolamento%20per%20lesecuzione%20della%20legge%2014%20luglio%201965%20n.%20963%20concernente%20la%20disciplina%20della%20pesca%20marittima.md), tenuto conto altresi' del ruolo e delle funzioni svolte dalle Capitanerie di porto."
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e farlo osservare.
 

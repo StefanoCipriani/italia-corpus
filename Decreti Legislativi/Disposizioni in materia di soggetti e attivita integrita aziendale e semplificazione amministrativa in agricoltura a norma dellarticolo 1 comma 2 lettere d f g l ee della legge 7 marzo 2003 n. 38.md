@@ -52,7 +52,7 @@ Le societa' di persone, cooperative e di capitali, anche a scopo consortile, son
                             a)
                                 nel caso di societa' di persone qualora almeno un socio sia in possesso della qualifica di imprenditore agricolo professionale. Per le societa' in accomandita la qualifica si riferisce ai soci accomandatari;
                             b)
-                                LETTERA SOPPRESSA DAL [D.LGS. 27 MAGGIO 2005, N. 101](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-05-27;101);
+                                LETTERA SOPPRESSA DAL [D.LGS. 27 MAGGIO 2005, N. 101](Ulteriori%20disposizioni%20per%20la%20modernizzazione%20dei%20settori%20dellagricoltura%20e%20delle%20foreste%20a%20norma%20dellarticolo%201%20comma%202%20della%20legge%207%20marzo%202003%20n.%2038.md);
                             c)
                                 nel caso di societa' di capitali o cooperative, quando almeno un amministratore che sia anche socio per le societa' cooperative, sia in possesso della qualifica di imprenditore agricolo professionale.
 
@@ -105,7 +105,7 @@ Alle societa' agricole di cui all'articolo 1, comma 3, qualificate imprenditori 
 
 4-bis.
 
-Le agevolazioni di cui al comma 4 sono riconosciute anche alle societa' agricole di persone con almeno un socio coltivatore diretto, alle societa' agricole di capitali con almeno un amministratore coltivatore diretto, nonche' alle societa' cooperative con almeno un amministratore socio coltivatore diretto, iscritti nella relativa gestione previdenziale e assistenziale. PERIODO SOPPRESSO DALLA [L. 27 DICEMBRE 2006, N. 296](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-12-27;296). La perdita dei requisiti di cui al presente comma nei cinque anni dalla data di applicazione delle agevolazioni determina la decadenza dalle agevolazioni medesime.
+Le agevolazioni di cui al comma 4 sono riconosciute anche alle societa' agricole di persone con almeno un socio coltivatore diretto, alle societa' agricole di capitali con almeno un amministratore coltivatore diretto, nonche' alle societa' cooperative con almeno un amministratore socio coltivatore diretto, iscritti nella relativa gestione previdenziale e assistenziale. PERIODO SOPPRESSO DALLA [L. 27 DICEMBRE 2006, N. 296](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202007.md). La perdita dei requisiti di cui al presente comma nei cinque anni dalla data di applicazione delle agevolazioni determina la decadenza dalle agevolazioni medesime.
 
 ### Art. 3. — Imprenditoria agricola giovanile
 
@@ -503,7 +503,7 @@ I rapporti di lavoro instaurati dai soggetti che svolgono le attivita', di cui a
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. 27 maggio 2005, n. 101](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-05-27;101) ha disposto (con l'art.4, comma 5) che "All'[articolo 14, comma 12, del decreto legislativo 29 marzo 2004, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004-03-29;99#art_14-com12), dopo le parole: "delle imprese agricole", sono inserite le seguenti: "e da quelle che svolgono l'attivita' agromeccanica, di cui all'articolo 5".".
+Il [D.Lgs. 27 maggio 2005, n. 101](Ulteriori%20disposizioni%20per%20la%20modernizzazione%20dei%20settori%20dellagricoltura%20e%20delle%20foreste%20a%20norma%20dellarticolo%201%20comma%202%20della%20legge%207%20marzo%202003%20n.%2038.md) ha disposto (con l'art.4, comma 5) che "All'[articolo 14, comma 12, del decreto legislativo 29 marzo 2004, n. 99](Disposizioni%20in%20materia%20di%20soggetti%20e%20attivita%20integrita%20aziendale%20e%20semplificazione%20amministrativa%20in%20agricoltura%20a%20norma%20dellarticolo%201%20comma%202%20lettere%20d%20f%20g%20l%20ee%20della%20legge%207%20marzo%202003%20n.%2038.md), dopo le parole: "delle imprese agricole", sono inserite le seguenti: "e da quelle che svolgono l'attivita' agromeccanica, di cui all'articolo 5".".
 
 ### Art. 15. — Scritture contabili per le altre attivita' agricole e coordinamento normativo in materia fiscale
 
@@ -515,7 +515,7 @@ Al [decreto del Presidente della Repubblica 29 settembre 1973, n. 600](../DPR/Di
 
 2.
 
-All'[articolo 2, comma 6, della legge 24 dicembre 2003, n. 350](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-12-24;350#art_2-com6), sono apportate le seguenti modificazioni:
+All'[articolo 2, comma 6, della legge 24 dicembre 2003, n. 350](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202004.md), sono apportate le seguenti modificazioni:
                             a)
                                 alla lettera a), l'alinea e' sostituito dal seguente: "all'articolo 32, comma 2, la lettera c) e' sostituita dalla seguente:";
                             b)
@@ -532,7 +532,7 @@ All'[articolo 2, comma 6, della legge 24 dicembre 2003, n. 350](https://www.norm
 Note all'art. 15:
  - Si riporta il testo dell'[art. 18-bis del decreto del Presidente della Repubblica 29 settembre 1973, n. 600](../DPR/Disposizioni%20comuni%20in%20materia%20di%20accertamento%20delle%20imposte%20sui%20redditi.md):
  «Art. 18-bis (Scritture contabili delle imprese di allevamento). - I soggetti i quali, fuori dell'ipotesi di cui all'[art. 28, lettera b), del decreto del Presidente della Repubblica 29 settembre 1973, n. 597](../DPR/Istituzione%20e%20disciplina%20dellimposta%20sul%20reddito%20delle%20persone%20fisiche.md), svolgono attivita' di allevamento di animali devono tenere un registro cronologico di carico e scarico degli animali allevati, distintamente per specie e ciclo di allevamento, con l'indicazione degli incrementi e decrementi verificatisi per qualsiasi causa nel periodo d'imposta».
- - Si riporta il testo dell'[art. 2, comma 6, della legge 24 dicembre 2003, n. 350](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-12-24;350#art_2-com6), come modificato dal decreto qui pubblicato:
+ - Si riporta il testo dell'[art. 2, comma 6, della legge 24 dicembre 2003, n. 350](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202004.md), come modificato dal decreto qui pubblicato:
  «6. Al testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), e successive modificazioni, sono apportate le seguenti modificazioni:
  a) all'articolo 32, comma 2, la lettera c) e' sostituita dalla seguente:
  "c) le attivita' di cui al [terzo comma dell'art. 2135 del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2135-com3), dirette alla manipolazione, conservazione, trasformazione, commercializzazione e valorizzazione, ancorche' non svolte sul terreno, di prodotti ottenuti prevalentemente dalla coltivazione del fondo o del bosco o dall'allevamento di animali, con riferimento ai beni individuati, ogni due anni e tenuto conto dei criteri di cui al comma 1, con decreto del Ministro dell'economia e delle finanze su proposta del Ministro delle politiche agricole e forestali";
@@ -543,7 +543,7 @@ Note all'art. 15:
  4. Le disposizioni di cui ai commi 1, 2 e 3 non si applicano ai soggetti di cui all'articolo 73, comma 1, lettere a), b) e d), nonche' alle societa' in nome collettivo ed in accomandita semplice.
  5. Il contribuente ha facolta' di non avvalersi delle disposizioni di cui al presente articolo. In tal caso l'opzione o la revoca per la determinazione del reddito nel modo normale si esercitano con le modalita' stabilite dal regolamento recante norme per il riordino della disciplina delle opzioni in materia di imposta sul valore aggiunto e di imposte dirette, di cui al [decreto del Presidente della Repubblica 10 novembre 1997, n. 442](../DPR/Regolamento%20recante%20norme%20per%20il%20riordino%20della%20disciplina%20delle%20opzioni%20in%20materia%20di%20imposta%20sul%20valore%20aggiunto%20e%20di%20imposte%20dirette.md), e successive modificazioni";
  c) all'articolo 71, e' aggiunto, in fine, il seguente comma:
- "2-bis. In deroga alla disposizione di cui al comma 2, per le operazioni di cui all'art. 67, comma 1, lettera i), poste in essere dai soggetti che svolgono le attivita' di cui all'art. 29, eccedenti i limiti di cui al comma 2, lettera c), del predetto articolo, si applicano le percentuali di redditivita' di cui ai commi 2 e 3 dell'articolo 56-bis. Le disposizioni del presente comma non incidono sull'esercizio della delega legislativa di cui alla [legge 7 aprile 2003, n. 80](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-04-07;80)".».
+ "2-bis. In deroga alla disposizione di cui al comma 2, per le operazioni di cui all'art. 67, comma 1, lettera i), poste in essere dai soggetti che svolgono le attivita' di cui all'art. 29, eccedenti i limiti di cui al comma 2, lettera c), del predetto articolo, si applicano le percentuali di redditivita' di cui ai commi 2 e 3 dell'articolo 56-bis. Le disposizioni del presente comma non incidono sull'esercizio della delega legislativa di cui alla [legge 7 aprile 2003, n. 80](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20riforma%20del%20sistema%20fiscale%20statale.md)".».
 
 ### Art. 16. — Crediti in discussione presso la Camera arbitrale
 
@@ -575,7 +575,7 @@ Capo IV
 
 AGGIORNAMENTO (10)
 
-Il [D.L. 6 luglio 2012, n. 95](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-07-06;95), convertito con modificazioni dalla [L. 7 agosto 2012, n. 135](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20luglio%202012%20n.%2095%20recante%20disposizioni%20urgenti%20per%20la%20revisione%20della%20spesa%20pubblica%20con%20invarianza%20dei%20servizi%20ai%20cittadini.%2012G0157.md), ha disposto (con l'art. 12, comma 18-bis) che "La societa' Buonitalia s.p.a. in liquidazione, di cui all'[articolo 17 del decreto legislativo 29 marzo 2004, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004-03-29;99#art_17), e' soppressa".
+Il [D.L. 6 luglio 2012, n. 95](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-07-06;95), convertito con modificazioni dalla [L. 7 agosto 2012, n. 135](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20luglio%202012%20n.%2095%20recante%20disposizioni%20urgenti%20per%20la%20revisione%20della%20spesa%20pubblica%20con%20invarianza%20dei%20servizi%20ai%20cittadini.%2012G0157.md), ha disposto (con l'art. 12, comma 18-bis) che "La societa' Buonitalia s.p.a. in liquidazione, di cui all'[articolo 17 del decreto legislativo 29 marzo 2004, n. 99](Disposizioni%20in%20materia%20di%20soggetti%20e%20attivita%20integrita%20aziendale%20e%20semplificazione%20amministrativa%20in%20agricoltura%20a%20norma%20dellarticolo%201%20comma%202%20lettere%20d%20f%20g%20l%20ee%20della%20legge%207%20marzo%202003%20n.%2038.md), e' soppressa".
 
 ### Art. 18. — Armonizzazione e razionalizzazione in materia di controlli e di frodi alimentari
 

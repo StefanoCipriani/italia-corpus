@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto l'[articolo 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4), con le modificazioni ad esso apportate dall'[art. 3, comma primo, del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98#art_3-com1);
+Visto l'[articolo 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4), con le modificazioni ad esso apportate dall'[art. 3, comma primo, del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Viste le disposizioni transitorie I e XV della Costituzione;
 
@@ -48,7 +48,7 @@ Un rappresentante della Direzione generale degli Istituti di previdenza partecip
 AGGIORNAMENTO (2)
 
 La [L. 10 febbraio 1981, n. 23](../Atti%20normativi%20abrogati%20%28in%20originale%29/Conferimenti%20al%20capitale%20e%20al%20fondo%20di%20dotazione%20di%20istituti%20ed%20enti%20di%20credito%20di%20diritto%20pubblico%20modificazioni%20alla%20legge%2011%20aprile%201953%20n.%20298%20concernente%20lo%20sviluppo%20dellattivita%20cre_4873cf88c006.md) ha disposto (con l'art. 13, comma 1) che entro due mesi dall'entrata in vigore della presente legge, con decreto del Ministro del tesoro, sentito il Comitato interministeriale per il credito e il risparmio sara' approvato lo statuto del Consorzio di credito per le opere pubbliche.
- Ha inoltre disposto (con l'art. 13, comma 2) che con decorrenza dalla data del predetto decreto e' abrogato "l'[articolo 3 del decreto legislativo 21 gennaio 1948, n. 20](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-01-21;20#art_3), limitatamente alla partecipazione al Consorzio di credito per le opere pubbliche e all'Istituto di credito per le imprese di pubblica utilita'."
+ Ha inoltre disposto (con l'art. 13, comma 2) che con decorrenza dalla data del predetto decreto e' abrogato "l'[articolo 3 del decreto legislativo 21 gennaio 1948, n. 20](Impiego%20del%20fondi%20patrimoniali%20degli%20Istituti%20di%20previdenza%20amministrati%20dal%20Ministero%20del%20tesoro.md), limitatamente alla partecipazione al Consorzio di credito per le opere pubbliche e all'Istituto di credito per le imprese di pubblica utilita'."
 
 ## Art. 4.
 

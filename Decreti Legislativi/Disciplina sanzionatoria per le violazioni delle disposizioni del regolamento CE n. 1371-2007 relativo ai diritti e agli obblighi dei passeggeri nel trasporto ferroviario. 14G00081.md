@@ -274,7 +274,7 @@ I destinatari di una richiesta formulata, ai sensi dell'articolo 32, paragrafo 2
 
 2.
 
-Le disposizioni di cui al comma 1 si applicano alle violazioni del regolamento (UE) 2021/782 del Parlamento europeo e del Consiglio, del 29 aprile 2021, a decorrere dalla data di entrata in vigore della legge di conversione del presente decreto. Per le violazioni delle disposizioni del regolamento (CE) n. 1371/2007 del Parlamento europeo e del Consiglio, del 23 ottobre 2007, precedenti alla data del 7 giugno 2023 continua a trovare applicazione il [decreto legislativo 17 aprile 2014, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014-04-17;70), nel testo vigente prima della data di entrata in vigore della legge di conversione del presente decreto.
+Le disposizioni di cui al comma 1 si applicano alle violazioni del regolamento (UE) 2021/782 del Parlamento europeo e del Consiglio, del 29 aprile 2021, a decorrere dalla data di entrata in vigore della legge di conversione del presente decreto. Per le violazioni delle disposizioni del regolamento (CE) n. 1371/2007 del Parlamento europeo e del Consiglio, del 23 ottobre 2007, precedenti alla data del 7 giugno 2023 continua a trovare applicazione il [decreto legislativo 17 aprile 2014, n. 70](Disciplina%20sanzionatoria%20per%20le%20violazioni%20delle%20disposizioni%20del%20regolamento%20CE%20n.%201371-2007%20relativo%20ai%20diritti%20e%20agli%20obblighi%20dei%20passeggeri%20nel%20trasporto%20ferroviario.%2014G00081.md), nel testo vigente prima della data di entrata in vigore della legge di conversione del presente decreto.
 
 3.
 

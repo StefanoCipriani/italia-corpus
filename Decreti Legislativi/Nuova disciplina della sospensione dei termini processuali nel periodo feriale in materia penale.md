@@ -16,7 +16,7 @@ Visto il [decreto legislativo 28 luglio 1989, n. 271](Norme%20di%20attuazione%20
 
 Vista la [legge 7 ottobre 1969, n. 742](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-10-07;742), recante sospensione dei termini processuali nel periodo feriale;
 
-Visto l'[articolo 7 della legge 16 febbraio 1987, n. 81](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-02-16;81#art_7), recante delega legislativa al Governo della Repubblica per l'emanazione del nuovo [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447);
+Visto l'[articolo 7 della legge 16 febbraio 1987, n. 81](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20legislativa%20al%20Governo%20della%20Repubblica%20per%20lemanazione%20del%20nuovo%20codice%20di%20procedura%20penale_2.md), recante delega legislativa al Governo della Repubblica per l'emanazione del nuovo [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447);
 
 Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella riunione del 1 giugno 1990;
 

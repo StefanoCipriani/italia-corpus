@@ -159,14 +159,14 @@ Ai fini del presente decreto, si intende per:
                         g)
                             «specifica europea»: una specifica tecnica comune, un'omologazione tecnica europea o una norma nazionale che recepisce una norma europea;
                         h)
-                            «amministrazione competente»: il Ministero delle infrastrutture e dei trasporti che esercita le competenze ai sensi dell'[articolo 1, comma 9, della legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537#art_1-com9), e del Capo IX del [decreto legislativo 30 luglio 1999, n. 300](Riforma%20dellorganizzazione%20del%20Governo%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md), o, per i rispettivi territori, le regioni a statuto speciale e le province autonome, secondo le attribuzioni dei loro statuti;
+                            «amministrazione competente»: il Ministero delle infrastrutture e dei trasporti che esercita le competenze ai sensi dell'[articolo 1, comma 9, della legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md), e del Capo IX del [decreto legislativo 30 luglio 1999, n. 300](Riforma%20dellorganizzazione%20del%20Governo%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md), o, per i rispettivi territori, le regioni a statuto speciale e le province autonome, secondo le attribuzioni dei loro statuti;
                         i)
                             «costruttore o suo rappresentante»: il costruttore di componenti di sicurezza o di sottosistemi per la realizzazione degli impianti a fune adibiti al trasporto di persone o il suo mandatario stabilito nel territorio dell'Unione europea.
 
 Note all'[art. 4:
- - La legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537#art_4), reca: «Interventi correttivi di finanza pubblica». L'art. 1, comma 9, cosi' recita:
+ - La legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md), reca: «Interventi correttivi di finanza pubblica». L'art. 1, comma 9, cosi' recita:
  «9. E' istituito il Ministero dei trasporti e della navigazione, al quale sono trasferiti funzioni, uffici, personale e risorse finanziarie dei soppressi Ministeri, fatto salvo quanto disposto dal comma 10».
- - Il [decreto legislativo 30 luglio 1999, n. 300](Riforma%20dellorganizzazione%20del%20Governo%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md), reca: «Riforma dell'organizzazione del Governo, a norma dell'[art. 11 della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_11)».
+ - Il [decreto legislativo 30 luglio 1999, n. 300](Riforma%20dellorganizzazione%20del%20Governo%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md), reca: «Riforma dell'organizzazione del Governo, a norma dell'[art. 11 della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md)».
 
 ## Art. 5. — Conformita' ai requisiti
 

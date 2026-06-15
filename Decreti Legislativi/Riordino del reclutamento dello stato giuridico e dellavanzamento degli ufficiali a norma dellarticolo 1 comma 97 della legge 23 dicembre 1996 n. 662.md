@@ -372,7 +372,7 @@ PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](../Codici/Codice%20dell
 
 AGGIORNAMENTO (12)
 
-La [L. 4 novembre 2010, n. 183](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2010-11-04;183) ha disposto (con l'art. 27, comma 2)che al presente articolo sono apportate le seguenti modifiche: 
+La [L. 4 novembre 2010, n. 183](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Deleghe%20al%20Governo%20in%20materia%20di%20lavori%20usuranti%20di%20riorganizzazione%20di%20enti%20di%20congedi%20aspettative%20e%20permessi%20di%20ammortizzatori%20sociali%20di%20servizi%20per%20limpiego%20di%20incentivi%20alloccupazion_2fbcb692cb82.md) ha disposto (con l'art. 27, comma 2)che al presente articolo sono apportate le seguenti modifiche: 
 "a) al comma 9, dopo la parola: "salvo" sono inserite le seguenti: "un contingente pari al numero delle posizioni ricoperte presso enti, comandi e unita' internazionali ai sensi delle [leggi 8 luglio 1961, n. 642, e 27 dicembre 1973, n. 838](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ordinamento%20degli%20uffici%20degli%20addetti%20dellEsercito%20della%20Marina%20e%20dellAeronautica%20in%20servizio%20allestero%20e%20trattamento%20economico%20del%20personale%20della%20Difesa%20ivi%20destinato.md), individuato con decreto annuale del Ministro della difesa e salvo"; 
 b) dopo il comma 9, e' inserito il seguente: "9-bis. Il collocamento in aspettativa per riduzione di quadri, di cui al comma 9, e' disposto al 31 dicembre dell'anno di riferimento"".
 

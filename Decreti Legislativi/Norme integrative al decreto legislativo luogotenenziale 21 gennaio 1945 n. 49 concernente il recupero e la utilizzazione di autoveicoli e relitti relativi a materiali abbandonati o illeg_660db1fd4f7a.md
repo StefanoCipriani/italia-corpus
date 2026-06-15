@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4), con le modificazioni ad esso apportate dall'[art. 3, comma primo, del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98#art_3-com1);
+Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4), con le modificazioni ad esso apportate dall'[art. 3, comma primo, del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Viste le disposizioni transitorie I e XV della Costituzione;
 
@@ -59,7 +59,7 @@ Le disposizioni dell'art. 2 non si applicano agli autoveicoli provenienti dall'A
 Gli autoveicoli assegnati in uso ai sensi del [decreto legislativo luogotenenziale 21 gennaio 1945, n. 49](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20il%20recupero%20e%20lutilizzazione%20di%20autoveicoli%20e%20relativi%20materiali%20abbandonati%20o%20illegittimamente%20detenuti.%20045U0049.md), sono immatricolati ed iscritti a nome dell'assegnatario in base al provvedimento emanato dal Ministero dei trasporti.
  I diritti dell'assegnatario possono formare oggetto di cessione previa autorizzazione del Ministero dei trasporti.
  L'assegnatario e' equiparato all'usufruttuario dell'autoveicolo agli effetti dell'[art. 2054 del Codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2054).
- L'atto di assegnazione in uso e' assoggettato alla tassa fissa di registro dell'importo di lire quaranta da corrispondersi nel modo stabilito dall'[art. 8 del decreto legislativo luogotenenziale 18 giugno 1945, n. 399](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-06-18;399#art_8).
+ L'atto di assegnazione in uso e' assoggettato alla tassa fissa di registro dell'importo di lire quaranta da corrispondersi nel modo stabilito dall'[art. 8 del decreto legislativo luogotenenziale 18 giugno 1945, n. 399](../Decreti%20legislativi%20luogotenenziali/Modificazioni%20del%20trattamento%20tributario%20e%20degli%20emolumenti%20dovuti%20agli%20atti%20da%20prodursi%20al%20Pubblico%20Registro%20Automobilistico.%20045U0399.md).
 
 ## Art. 7.
 
@@ -73,7 +73,7 @@ Il periodo da due a tre anni di cui all'art. 3 del decreto legislativo luogotene
 ## Art. 9.
 
 Decorso il periodo di un anno di cui al precedente articolo nonche' il periodo di sei mesi dalla data di pubblicazione prevista nell'art. 7 senza che alcuno abbia rivendicato la proprieta' degli autoveicoli o loro parti individuabili assegnati in uso, mediante atto notificato a mezzo di ufficiale giudiziario, il deposito cauzionale versato dall'assegnatario alla Cassa depositi e prestiti viene incamerato dallo Stato e l'assegnatario acquista, la proprieta' dell'autoveicolo o della sua parte individuabile in base all'atto di cessione emanato dal Ministero dei trasporti.
- Tale atto e' assoggettato alla tassa di registro prevista dalla tariffa allegato A al [decreto legislativo luogotenenziale 18 giugno 1945, n. 399](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-06-18;399), ridotta ad un terzo.
+ Tale atto e' assoggettato alla tassa di registro prevista dalla tariffa allegato A al [decreto legislativo luogotenenziale 18 giugno 1945, n. 399](../Decreti%20legislativi%20luogotenenziali/Modificazioni%20del%20trattamento%20tributario%20e%20degli%20emolumenti%20dovuti%20agli%20atti%20da%20prodursi%20al%20Pubblico%20Registro%20Automobilistico.%20045U0399.md), ridotta ad un terzo.
  In caso di rivendica, al Ministero dei trasporti compete soltanto, in relazione alla facolta' di cui all'[art. 4 del decreto legislativo luogotenenziale 21 gennaio 1945, n. 49](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20il%20recupero%20e%20lutilizzazione%20di%20autoveicoli%20e%20relativi%20materiali%20abbandonati%20o%20illegittimamente%20detenuti.%20045U0049.md), il provvedimento di restituzione al proprietario degli autoveicoli o loro parti individuabili e - dopo che sia stata data esecuzione a tale provvedimento da parte dell'assegnatario - quello di restituzione a costui del deposito cauzionale.
  Qualora, tra l'assegnatario e il proprietario rivendicante sorga controversia, il provvedimento di restituzione del deposito cauzionale non puo' essere emesso se la controversia non sia stata decisa con sentenza passata in giudicato.
 

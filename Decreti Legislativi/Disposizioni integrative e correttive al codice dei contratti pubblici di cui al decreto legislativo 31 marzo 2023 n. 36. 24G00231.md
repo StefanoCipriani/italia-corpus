@@ -14,7 +14,7 @@ Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cos
 
 Vista la [legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400), recante «Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei ministri» e, in particolare, l'articolo 14;
 
-Vista la [legge 21 giugno 2022, n. 78](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2022-06-21;78), recante «Delega al Governo in materia di contratti pubblici» e, in particolare, l'articolo 1, comma 4, il quale prevede che «Entro due anni dalla data di entrata in vigore di ciascuno dei decreti legislativi di cui al comma 1, il Governo puo' apportarvi le correzioni e integrazioni che l'applicazione pratica renda necessarie od opportune, con la stessa procedura e nel rispetto dei medesimi principi e criteri direttivi di cui al presente articolo»;
+Vista la [legge 21 giugno 2022, n. 78](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20in%20materia%20di%20contratti%20pubblici.%2022G00087.md), recante «Delega al Governo in materia di contratti pubblici» e, in particolare, l'articolo 1, comma 4, il quale prevede che «Entro due anni dalla data di entrata in vigore di ciascuno dei decreti legislativi di cui al comma 1, il Governo puo' apportarvi le correzioni e integrazioni che l'applicazione pratica renda necessarie od opportune, con la stessa procedura e nel rispetto dei medesimi principi e criteri direttivi di cui al presente articolo»;
 
 Vista la [direttiva 2014/23/UE del Parlamento europeo e del Consiglio, del 26 febbraio 2014](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2014;23), sull'aggiudicazione dei contratti di concessione;
 
@@ -22,9 +22,9 @@ Vista la [direttiva 2014/24/UE del Parlamento europeo e del Consiglio, del 26 fe
 
 Vista la [direttiva 2014/25/UE del Parlamento europeo e del Consiglio, del 26 febbraio 2014](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2014;25), sulle procedure d'appalto degli enti erogatori nei settori dell'acqua, dell'energia, dei trasporti e dei servizi postali e che abroga la [direttiva 2004/17/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2004;17);
 
-Visto il [decreto legislativo 31 marzo 2023, n. 36](Codice%20dei%20contratti%20pubblici%20in%20attuazione%20dellarticolo%201%20della%20legge%2021%20giugno%202022%20n.%2078%20recante%20delega%20al%20Governo%20in%20materia%20di%20contratti%20pubblici.%2023G00044.md), recante «[Codice dei contratti pubblici](Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20direttive%202004-17-CE%20e%202004-18-CE.md) in attuazione dell'[articolo 1 della legge 21 giugno 2022, n. 78](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2022-06-21;78#art_1), recante delega al Governo in materia di contratti pubblici»;
+Visto il [decreto legislativo 31 marzo 2023, n. 36](Codice%20dei%20contratti%20pubblici%20in%20attuazione%20dellarticolo%201%20della%20legge%2021%20giugno%202022%20n.%2078%20recante%20delega%20al%20Governo%20in%20materia%20di%20contratti%20pubblici.%2023G00044.md), recante «[Codice dei contratti pubblici](Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20direttive%202004-17-CE%20e%202004-18-CE.md) in attuazione dell'[articolo 1 della legge 21 giugno 2022, n. 78](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20in%20materia%20di%20contratti%20pubblici.%2022G00087.md), recante delega al Governo in materia di contratti pubblici»;
 
-Ritenuta la necessita' di avvalersi della facolta' prevista dal citato [articolo 1, comma 4, della legge21 giugno 2022, n. 78](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2022-06-21;78#art_1-com4);
+Ritenuta la necessita' di avvalersi della facolta' prevista dal citato [articolo 1, comma 4, della legge21 giugno 2022, n. 78](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20in%20materia%20di%20contratti%20pubblici.%2022G00087.md);
 
 Vista la preliminare deliberazione del Consiglio dei ministri, adottata nella riunione del 21 ottobre 2024;
 
@@ -2182,7 +2182,7 @@ Fermo restando il diritto dei componenti del collegio consultivo tecnico a ricev
 
 5.
 
-Il compenso complessivo spettante al Collegio non puo' superare il triplo della parte fissa. I componenti hanno inoltre diritto ad un rimborso delle spese a carattere non remunerativo. Il compenso e' corrisposto a tutti i componenti del CCT indipendentemente dal rapporto intercorrente tra ciascun componente e le parti contrattuali ed e' sottoposto esclusivamente ai limiti previsti dalla legge. I compensi di tutti i membri del Collegio sono dovuti senza vincolo di solidarieta'. Ai componenti del collegio consultivo tecnico non si applica l'[articolo 3 della legge 13 agosto 2010, n. 136](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2010-08-13;136#art_3).
+Il compenso complessivo spettante al Collegio non puo' superare il triplo della parte fissa. I componenti hanno inoltre diritto ad un rimborso delle spese a carattere non remunerativo. Il compenso e' corrisposto a tutti i componenti del CCT indipendentemente dal rapporto intercorrente tra ciascun componente e le parti contrattuali ed e' sottoposto esclusivamente ai limiti previsti dalla legge. I compensi di tutti i membri del Collegio sono dovuti senza vincolo di solidarieta'. Ai componenti del collegio consultivo tecnico non si applica l'[articolo 3 della legge 13 agosto 2010, n. 136](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Piano%20straordinario%20contro%20le%20mafie%20nonche%20delega%20al%20Governo%20in%20materia%20di%20normativa%20antimafia.%2010G0162.md).
 
 6.
 

@@ -191,7 +191,7 @@ Entro il 18 luglio 2018 e, successivamente, ((entro il 18 aprile 2024)) e ogni c
                         a)
                             l'autorita' individuata dalla regione o dalla provincia autonoma, tenuto conto dei risultati delle mappe acustiche strategiche di cui all'articolo 3, elabora e trasmette alla regione od alla provincia autonoma competente i piani di azione e le sintesi di cui all'allegato 6 per gli agglomerati;
                         b)
-                            le societa' e gli enti gestori dei servizi pubblici di trasporto o delle relative infrastrutture non di interesse nazionale ne' di interesse di piu' regioni, tenuto conto dei risultati della mappatura acustica di cui all'art. 3, elaborano e trasmettono alla regione od alla provincia autonoma competente i piani di azione e le sintesi di cui all'allegato 6, per gli assi stradali e ferroviari principali. PERIODO SOPPRESSO DAL [D.LGS. 17 FEBBRAIO 2017, N. 42](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-02-17;42).
+                            le societa' e gli enti gestori dei servizi pubblici di trasporto o delle relative infrastrutture non di interesse nazionale ne' di interesse di piu' regioni, tenuto conto dei risultati della mappatura acustica di cui all'art. 3, elaborano e trasmettono alla regione od alla provincia autonoma competente i piani di azione e le sintesi di cui all'allegato 6, per gli assi stradali e ferroviari principali. PERIODO SOPPRESSO DAL [D.LGS. 17 FEBBRAIO 2017, N. 42](Disposizioni%20in%20materia%20di%20armonizzazione%20della%20normativa%20nazionale%20in%20materia%20di%20inquinamento%20acustico%20a%20norma%20dellarticolo%2019%20comma%202%20lettere%20a%20b%20c%20d%20e%20f%20e%20h%20della%20legge%2030%20ottobre%202014_9ebead836136.md).
 
 3-bis.
 
@@ -273,7 +273,7 @@ Il Ministero dell'ambiente e della tutela del territorio comunica alla Commissio
                         a)
                             entro il 30 giugno 2020 e, successivamente ogni cinque anni, gli agglomerati, gli assi stradali e ferroviari principali, nonche' gli aeroporti principali;
                         b)
-                            LETTERA SOPPRESSA DAL [D.LGS. 17 FEBBRAIO 2017, N. 42](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-02-17;42);
+                            LETTERA SOPPRESSA DAL [D.LGS. 17 FEBBRAIO 2017, N. 42](Disposizioni%20in%20materia%20di%20armonizzazione%20della%20normativa%20nazionale%20in%20materia%20di%20inquinamento%20acustico%20a%20norma%20dellarticolo%2019%20comma%202%20lettere%20a%20b%20c%20d%20e%20f%20e%20h%20della%20legge%2030%20ottobre%202014_9ebead836136.md);
                         c)
                             entro il 31 dicembre 2017 e, successivamente, ogni cinque anni,)) i dati relativi alle mappe acustiche strategiche ed alle mappature acustiche previsti all'allegato 6;
                         d)

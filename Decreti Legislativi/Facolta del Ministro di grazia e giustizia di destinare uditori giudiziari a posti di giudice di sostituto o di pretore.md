@@ -33,7 +33,7 @@ L'applicabilita' dell'[art. 6 - primo](../Atti%20normativi%20abrogati%20%28in%20
 AGGIORNAMENTO (1)
 
 La [L. 3 febbraio 1949, n. 26](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1949-02-03;26) ha disposto (con l'art. 1, comma 1, lettera a)) che "Sono prorogate fino al 31 dicembre 1949 le seguenti disposizioni:
- a) l'[art. 1 del decreto legislativo 14 febbraio 1948, n. 113](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-02-14;113#art_1), fermo restando per gli uditori destinati in reggenza il trattamento economico stabilito dall'[art. 6, terzo comma, della legge 31 ottobre 1942, n. 1352](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20relative%20al%20personale%20della%20Magistratura%20e%20delle%20Cancellerie%20e%20Segreterie%20giudiziarie.%20042U1352.md);
+ a) l'[art. 1 del decreto legislativo 14 febbraio 1948, n. 113](Facolta%20del%20Ministro%20di%20grazia%20e%20giustizia%20di%20destinare%20uditori%20giudiziari%20a%20posti%20di%20giudice%20di%20sostituto%20o%20di%20pretore.md), fermo restando per gli uditori destinati in reggenza il trattamento economico stabilito dall'[art. 6, terzo comma, della legge 31 ottobre 1942, n. 1352](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20relative%20al%20personale%20della%20Magistratura%20e%20delle%20Cancellerie%20e%20Segreterie%20giudiziarie.%20042U1352.md);
  [. . .]."
  Ha inoltre disposto (con l'art. 4) che "La presente legge ha effetto dal 1 gennaio 1949 [. . .]."
 
@@ -43,7 +43,7 @@ AGGIORNAMENTO (2)
 
 La [L. 5 gennaio 1950, n. 8](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20il%20funzionamento%20degli%20uffici%20giudiziari.md) ha disposto (con l'art. 1, comma 1, lettera b)) che "Fino al 31 dicembre 1950 sono prorogati:
  [. . .]
- b) l'[art. 1 del decreto legislativo 14 febbraio 1948, n. 113](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-02-14;113#art_1), fermo restando per gli uditori destinati in reggenza il trattamento economico stabilito dall'[art. 6, terzo comma, della legge 31 ottobre 1942, n. 1352](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20relative%20al%20personale%20della%20Magistratura%20e%20delle%20Cancellerie%20e%20Segreterie%20giudiziarie.%20042U1352.md);
+ b) l'[art. 1 del decreto legislativo 14 febbraio 1948, n. 113](Facolta%20del%20Ministro%20di%20grazia%20e%20giustizia%20di%20destinare%20uditori%20giudiziari%20a%20posti%20di%20giudice%20di%20sostituto%20o%20di%20pretore.md), fermo restando per gli uditori destinati in reggenza il trattamento economico stabilito dall'[art. 6, terzo comma, della legge 31 ottobre 1942, n. 1352](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20relative%20al%20personale%20della%20Magistratura%20e%20delle%20Cancellerie%20e%20Segreterie%20giudiziarie.%20042U1352.md);
  [. . .]."
 
 ---------------
@@ -52,7 +52,7 @@ AGGIORNAMENTO (3)
 
 La [L. 5 marzo 1951, n. 190](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20il%20funzionamento%20degli%20uffici%20giudiziari_2.md) ha disposto (con l'art. 1, comma 1, lettera b)) che "Fino a nuova disposizione sono prorogati:
  [. . .];
- b) l'[art. 1 del decreto legislativo 14 febbraio 1948, n. 113](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-02-14;113#art_1), fermo restando, per gli uditori destinati in reggenza, il trattamento economico stabilito dalla [legge 10 gennaio 1950, n. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-01-10;4);
+ b) l'[art. 1 del decreto legislativo 14 febbraio 1948, n. 113](Facolta%20del%20Ministro%20di%20grazia%20e%20giustizia%20di%20destinare%20uditori%20giudiziari%20a%20posti%20di%20giudice%20di%20sostituto%20o%20di%20pretore.md), fermo restando, per gli uditori destinati in reggenza, il trattamento economico stabilito dalla [legge 10 gennaio 1950, n. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-01-10;4);
  [. . .]."
  Ha inoltre disposto (con l'art. 2) che "La presente legge ha effetto a decorrere dal 1 gennaio 1951."
 

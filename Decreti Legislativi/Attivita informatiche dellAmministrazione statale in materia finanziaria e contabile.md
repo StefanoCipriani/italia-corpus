@@ -20,15 +20,15 @@ Visto il [decreto legislativo 3 febbraio 1993, n. 29](Razionalizzazione%20della%
 
 Visto il [decreto legislativo 12 febbraio 1993, n. 39](Norme%20in%20materia%20di%20sistemi%20informativi%20automatizzati%20delle%20amministrazioni%20pubbliche%20a%20norma%20dellart.%202%20comma%201%20lettera%20mm%20della%20legge%2023%20ottobre%201992%20n.%20421.md);
 
-Vista la [legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59);
+Vista la [legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md);
 
-Visto l'[articolo 7 della legge 3 aprile 1997, n. 94](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-04-03;94#art_7);
+Visto l'[articolo 7 della legge 3 aprile 1997, n. 94](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Modifiche%20alla%20legge%205%20agosto%201978%20n.%20468%20e%20successive%20modificazioni%20e%20integrazioni%20recante%20norme%20di%20contabilita%20generale%20dello%20Stato%20in%20materia%20di%20bilancio.%20Delega%20al%20Governo%20per%20lindivi_b9445023eb1c.md);
 
 Vista la [legge 15 maggio 1997, n. 127](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-05-15;127);
 
 Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella riunione del 19 settembre 1997;
 
-Acquisito il parere della commissione parlamentare di cui all'[articolo 9 della legge 3 aprile 1997, n. 94](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-04-03;94#art_9);
+Acquisito il parere della commissione parlamentare di cui all'[articolo 9 della legge 3 aprile 1997, n. 94](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Modifiche%20alla%20legge%205%20agosto%201978%20n.%20468%20e%20successive%20modificazioni%20e%20integrazioni%20recante%20norme%20di%20contabilita%20generale%20dello%20Stato%20in%20materia%20di%20bilancio.%20Delega%20al%20Governo%20per%20lindivi_b9445023eb1c.md);
 
 Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 14 novembre 1997;
 
@@ -63,7 +63,7 @@ Le attivita' informatiche di cui al comma 1 sono strutturate secondo criteri di 
 Le Camere hanno accesso al sistema informativo unificato del Ministero del tesoro, del bilancio e della programmazione economica, sulla base di protocolli d'intesa da definirsi tra i rispettivi Presidenti e il Ministro del tesoro, del bilancio e della programmazione economica.
 
 Nota all'art. 1:
- - Il testo del [comma 1 dell'art. 1 del D.Lgs. 12 febbraio 1993, n. 39](Norme%20in%20materia%20di%20sistemi%20informativi%20automatizzati%20delle%20amministrazioni%20pubbliche%20a%20norma%20dellart.%202%20comma%201%20lettera%20mm%20della%20legge%2023%20ottobre%201992%20n.%20421.md) (Norme in materia di sistemi informativi automatizzati delle amministrazioni pubbliche, a norma dell'art. 2, comma 1, lettera mm), della [legge 23 ottobre 1992, n. 421](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-10-23;421)) e' il seguente: "1. Le disposizioni del presente decreto disciplinano la progettazione, lo sviluppo e la gestione dei sistemi informativi automatizzati delle amministrazioni dello Stato, anche ad ordinamento autonomo, e degli enti pubblici non economici nazionali, denominate amministrazioni ai fini del decreto medesimo".
+ - Il testo del [comma 1 dell'art. 1 del D.Lgs. 12 febbraio 1993, n. 39](Norme%20in%20materia%20di%20sistemi%20informativi%20automatizzati%20delle%20amministrazioni%20pubbliche%20a%20norma%20dellart.%202%20comma%201%20lettera%20mm%20della%20legge%2023%20ottobre%201992%20n.%20421.md) (Norme in materia di sistemi informativi automatizzati delle amministrazioni pubbliche, a norma dell'art. 2, comma 1, lettera mm), della [legge 23 ottobre 1992, n. 421](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20razionalizzazione%20e%20la%20revisione%20delle%20discipline%20in%20materia%20di%20sanita%20di%20pubblico%20impiego%20di%20previdenza%20e%20di%20finanza%20territoriale.md)) e' il seguente: "1. Le disposizioni del presente decreto disciplinano la progettazione, lo sviluppo e la gestione dei sistemi informativi automatizzati delle amministrazioni dello Stato, anche ad ordinamento autonomo, e degli enti pubblici non economici nazionali, denominate amministrazioni ai fini del decreto medesimo".
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

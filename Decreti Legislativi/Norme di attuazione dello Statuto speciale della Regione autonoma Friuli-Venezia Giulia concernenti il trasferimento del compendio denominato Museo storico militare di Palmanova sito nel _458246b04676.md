@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[articolo 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge costituzionale 31 gennaio 1963, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1963-01-31;1), recante: «Statuto speciale della Regione Friuli-Venezia Giulia»;
+Vista la [legge costituzionale 31 gennaio 1963, n. 1](../Leggi%20costituzionali/Statuto%20speciale%20della%20Regione%20Friuli-Venezia%20Giulia.md), recante: «Statuto speciale della Regione Friuli-Venezia Giulia»;
 
 Visto il [Codice dei beni culturali e del paesaggio](Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md) di cui al [decreto legislativo 22 gennaio 2004, n. 42](Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md) ed, in particolare, gli articoli 8, 53, 54, 55, 55-bis e 59;
 
@@ -34,7 +34,7 @@ Emana il seguente decreto legislativo:
 
 1.
 
-Il presente decreto disciplina, ai sensi della [legge costituzionale 31 gennaio 1963, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1963-01-31;1), recante lo Statuto speciale della Regione Friuli Venezia Giulia, le procedure, le modalita' e i termini per il trasferimento del bene denominato «Museo storico militare di Palmanova» sito nel Comune di Palmanova e della collezione museale attualmente conservata ed esposta nel compendio medesimo.
+Il presente decreto disciplina, ai sensi della [legge costituzionale 31 gennaio 1963, n. 1](../Leggi%20costituzionali/Statuto%20speciale%20della%20Regione%20Friuli-Venezia%20Giulia.md), recante lo Statuto speciale della Regione Friuli Venezia Giulia, le procedure, le modalita' e i termini per il trasferimento del bene denominato «Museo storico militare di Palmanova» sito nel Comune di Palmanova e della collezione museale attualmente conservata ed esposta nel compendio medesimo.
 
 NOTE 
  
@@ -42,7 +42,7 @@ NOTE
  Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti. 
  Note alle premesse: 
  - L'[art. 87, quinto comma, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5) conferisce al Presidente della Repubblica il potere di promulgare le leggi e di emanare i decreti aventi valore di legge ed i regolamenti. 
- - La [legge costituzionale 31 gennaio 1963, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1963-01-31;1) recante: «Statuto speciale per il Friuli-Venezia Giulia» e' pubblicata nella Gazzetta Ufficiale 1° febbraio 1963, n. 29. 
+ - La [legge costituzionale 31 gennaio 1963, n. 1](../Leggi%20costituzionali/Statuto%20speciale%20della%20Regione%20Friuli-Venezia%20Giulia.md) recante: «Statuto speciale per il Friuli-Venezia Giulia» e' pubblicata nella Gazzetta Ufficiale 1° febbraio 1963, n. 29. 
  - Si riportano gli [articoli 8](Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md), [53](Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md), [54](Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md), [55](Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md), [55-bis](Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md) e [59 del decreto legislativo 22 gennaio 2004, n. 42](Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md) ([Codice dei beni culturali e del paesaggio](Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md)) pubblicato nella Gazzetta Ufficiale del 24 febbraio 2004, n. 45, S.O.: 
  «Art. 8 (Regioni e province ad autonomia speciale). - 1. Nelle materie disciplinate dal presente codice restano ferme le potesta' attribuite alle regioni a statuto speciale ed alle province autonome di Trento e Bolzano dagli statuti e dalle relative norme di attuazione.» 
  «Art. 53. (Beni del demanio culturale). - 1. I beni culturali appartenenti allo Stato, alle regioni e agli altri enti pubblici territoriali che rientrino nelle tipologie indicate all'[articolo 822 del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_822) costituiscono il demanio culturale. 
@@ -93,11 +93,11 @@ NOTE
  - Il [decreto legislativo 2 marzo 2007, n. 34](Norme%20di%20attuazione%20dello%20Statuto%20speciale%20della%20regione%20autonoma%20Friuli-Venezia%20Giulia%20in%20materia%20di%20beni%20culturali%20e%20paesaggistici.md) recante: «Norme di attuazione dello Statuto speciale della Regione autonoma Friuli-Venezia Giulia, in materia di beni culturali e paesaggistici» e' pubblicato nella Gazzetta Ufficiale 29 marzo 2007, n. 74. 
  - Il [decreto del Presidente della Repubblica 21 luglio 1960, n. 972](../DPR/Dichiarazione%20di%20monumento%20nazionale%20della%20Fortezza%20di%20Palmanova.md), recante: «Dichiarazione di monumento nazionale della Fortezza di Palmanova» e' pubblicato nella Gazzetta Ufficiale 14 settembre 1960, n. 226. 
  - Il decreto del Ministro per la pubblica istruzione 13 maggio 1961, recante: «Dichiarazione di interesse storico-artistico di tutto il complesso monumentale e storico della citta' di Palmanova (Udine)» e' pubblicato nella Gazzetta Ufficiale 10 agosto 1961, n. 198. 
- - Si riporta l'[articolo 65 della legge costituzionale 31 gennaio 1963, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1963-01-31;1#art_65) (Statuto speciale per il Friuli-Venezia Giulia), pubblicata nella Gazzetta Ufficiale n. 29 del 1° febbraio 1963: 
+ - Si riporta l'[articolo 65 della legge costituzionale 31 gennaio 1963, n. 1](../Leggi%20costituzionali/Statuto%20speciale%20della%20Regione%20Friuli-Venezia%20Giulia.md) (Statuto speciale per il Friuli-Venezia Giulia), pubblicata nella Gazzetta Ufficiale n. 29 del 1° febbraio 1963: 
  «Art. 65 - Con decreti legislativi, sentita una Commissione paritetica di sei membri, nominati tre dal Governo della Repubblica e tre dal Consiglio regionale, saranno stabilite le norme di attuazione del presente Statuto e quelle relative al trasferimento all'Amministrazione regionale degli uffici statali che nel Friuli-Venezia Giulia adempiono a funzioni attribuite alla Regione». 
  
  Note all'art. 1: 
- - Per i riferimenti della [legge costituzionale 31 gennaio 1963, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1963-01-31;1), si veda nelle note alle premesse.
+ - Per i riferimenti della [legge costituzionale 31 gennaio 1963, n. 1](../Leggi%20costituzionali/Statuto%20speciale%20della%20Regione%20Friuli-Venezia%20Giulia.md), si veda nelle note alle premesse.
 
 ## Art. 2. — Trasferimento di beni
 

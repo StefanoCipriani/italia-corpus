@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4), con le modificazioni ad esso apportate dall'[art. 3, comma primo, del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98#art_3-com1);
+Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4), con le modificazioni ad esso apportate dall'[art. 3, comma primo, del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Viste le disposizioni transitorie I e XV della Costituzione;
 
@@ -80,7 +80,7 @@ I dipendenti civili di ruolo delle Amministrazioni dello Stato, anche con ordina
 
 AGGIORNAMENTO (1)
 
-La [L. 12 luglio 1949, n. 386](../Atti%20normativi%20abrogati%20%28in%20originale%29/Proroga%20del%20termine%20stabilito%20dagli%20articoli%2010%20e%2011%20del%20decreto%20legislativo%207%20aprile%201948%20n.%20262%20per%20favorire%20lesodo%20spontaneo%20dei%20dipendenti%20dalle%20Amministrazioni%20dello%20Stato.md) ha disposto (con l'art. 1) che "Le disposizioni contenute negli [articoli 10](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-04-07;262#art_10) e [11 del decreto legislativo 7 aprile 1948, n. 262](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-04-07;262#art_11), sono richiamate in vigore a partire dal 7 aprile 1949 e fino al 31 dicembre 1949".
+La [L. 12 luglio 1949, n. 386](../Atti%20normativi%20abrogati%20%28in%20originale%29/Proroga%20del%20termine%20stabilito%20dagli%20articoli%2010%20e%2011%20del%20decreto%20legislativo%207%20aprile%201948%20n.%20262%20per%20favorire%20lesodo%20spontaneo%20dei%20dipendenti%20dalle%20Amministrazioni%20dello%20Stato.md) ha disposto (con l'art. 1) che "Le disposizioni contenute negli [articoli 10](Istituzione%20di%20ruoli%20speciali%20transitori%20per%20la%20sistemazione%20del%20personale%20non%20di%20ruolo%20in%20servizio%20nelle%20Amministrazioni%20dello%20Stato.md) e [11 del decreto legislativo 7 aprile 1948, n. 262](Istituzione%20di%20ruoli%20speciali%20transitori%20per%20la%20sistemazione%20del%20personale%20non%20di%20ruolo%20in%20servizio%20nelle%20Amministrazioni%20dello%20Stato.md), sono richiamate in vigore a partire dal 7 aprile 1949 e fino al 31 dicembre 1949".
  Ha inoltre disposto (con l'art. 2) che "L'aumento di cinque anni, previsto dal secondo comma dell'art. 10 del predetto decreto, e' elevato di due anni per coloro che hanno la qualifica di combattente o partigiano combattente".
 
 ## Art. 11.
@@ -92,7 +92,7 @@ Ai dipendenti civili non di ruolo in servizio nelle Amministrazioni dello Stato,
 
 AGGIORNAMENTO (1)
 
-La [L. 12 luglio 1949, n. 386](../Atti%20normativi%20abrogati%20%28in%20originale%29/Proroga%20del%20termine%20stabilito%20dagli%20articoli%2010%20e%2011%20del%20decreto%20legislativo%207%20aprile%201948%20n.%20262%20per%20favorire%20lesodo%20spontaneo%20dei%20dipendenti%20dalle%20Amministrazioni%20dello%20Stato.md) ha disposto (con l'art. 1) che "Le disposizioni contenute negli [articoli 10](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-04-07;262#art_10) e [11 del decreto legislativo 7 aprile 1948, n. 262](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-04-07;262#art_11), sono richiamate in vigore a partire dal 7 aprile 1949 e fino al 31 dicembre 1949".
+La [L. 12 luglio 1949, n. 386](../Atti%20normativi%20abrogati%20%28in%20originale%29/Proroga%20del%20termine%20stabilito%20dagli%20articoli%2010%20e%2011%20del%20decreto%20legislativo%207%20aprile%201948%20n.%20262%20per%20favorire%20lesodo%20spontaneo%20dei%20dipendenti%20dalle%20Amministrazioni%20dello%20Stato.md) ha disposto (con l'art. 1) che "Le disposizioni contenute negli [articoli 10](Istituzione%20di%20ruoli%20speciali%20transitori%20per%20la%20sistemazione%20del%20personale%20non%20di%20ruolo%20in%20servizio%20nelle%20Amministrazioni%20dello%20Stato.md) e [11 del decreto legislativo 7 aprile 1948, n. 262](Istituzione%20di%20ruoli%20speciali%20transitori%20per%20la%20sistemazione%20del%20personale%20non%20di%20ruolo%20in%20servizio%20nelle%20Amministrazioni%20dello%20Stato.md), sono richiamate in vigore a partire dal 7 aprile 1949 e fino al 31 dicembre 1949".
 
 ## Art. 12.
 

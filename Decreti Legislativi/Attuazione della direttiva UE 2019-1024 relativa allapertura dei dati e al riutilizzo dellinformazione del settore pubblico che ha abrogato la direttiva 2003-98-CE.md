@@ -14,11 +14,11 @@ Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cos
 
 Visto l'[articolo 117 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_117);
 
-((Vista la [legge 22 aprile 2021, n. 53](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2021-04-22;53) e, in particolare, l'articolo 1 e l'allegato A;
+((Vista la [legge 22 aprile 2021, n. 53](../Leggi%20di%20delegazione%20europea/Delega%20al%20Governo%20per%20il%20recepimento%20delle%20direttive%20europee%20e%20lattuazione%20di%20altri%20atti%20dellUnione%20europea%20-%20Legge%20di%20delegazione%20europea%202019-2020.%2021G00063.md) e, in particolare, l'articolo 1 e l'allegato A;
 
 Vista la [direttiva (UE) 2019/1024 del Parlamento europeo e del Consiglio, del 20 giugno 2019](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2019;1024), relativa all'apertura dei dati e al riutilizzo dell'informazione del settore pubblico;))
 
-Vista la [legge 18 aprile 2005, n. 62](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-04-18;62), ed in particolare l'articolo 1 e l'allegato A;
+Vista la [legge 18 aprile 2005, n. 62](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%202004.md), ed in particolare l'articolo 1 e l'allegato A;
 
 Vista la [direttiva 2003/98/CE del Parlamento europeo e del Consiglio del 17 novembre 2003](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2003;98), relativa al riutilizzo dell'informazione del settore pubblico;
 
@@ -40,7 +40,7 @@ Visto il [decreto legislativo 30 giugno 2003, n. 196](Codice%20in%20materia%20di
 
 Visto il [decreto legislativo 11 novembre 2003, n. 333](Attuazione%20della%20direttiva%202000-52-CE%20che%20modifica%20la%20direttiva%2080-723-CEE%20relativa%20alla%20trasparenza%20delle%20relazioni%20finanziarie%20tra%20gli%20Stati%20membri%20e%20le%20loro%20imprese%20pubbliche%20nonche%20al_93ca34a40abf.md);
 
-Vista la [legge 30 dicembre 2004, n. 311](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-12-30;311);
+Vista la [legge 30 dicembre 2004, n. 311](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202005.md);
 
 Visto il [decreto legislativo 7 marzo 2005, n. 82](Codice%20dellamministrazione%20digitale.md);
 
@@ -48,7 +48,7 @@ Visto il [decreto legislativo 7 marzo 2005, n. 82](Codice%20dellamministrazione%
 
 Visto il [decreto legislativo 27 gennaio 2010, n. 32](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202007-2-CE%20che%20istituisce%20uninfrastruttura%20per%20linformazione%20territoriale%20nella%20Comunita%20europea%20INSPIRE.%2010G0043.md);
 
-Visto il [decreto legislativo 14 marzo 2013, n. 33](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2013-03-14;33);
+Visto il [decreto legislativo 14 marzo 2013, n. 33](Riordino%20della%20disciplina%20riguardante%20il%20diritto%20di%20accesso%20civico%20e%20gli%20obblighi%20di%20pubblicita%20trasparenza%20e%20diffusione%20di%20informazioni%20da%20parte%20delle%20pubbliche%20amministrazioni.%2013G00076.md);
 
 Visto il [decreto legislativo 18 maggio 2015, n. 102](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202013-37-UE%20che%20modifica%20la%20direttiva%202003-98-CE%20relativa%20al%20riutilizzo%20dellinformazione%20del%20settore%20pubblico.%2015G00116.md);
 

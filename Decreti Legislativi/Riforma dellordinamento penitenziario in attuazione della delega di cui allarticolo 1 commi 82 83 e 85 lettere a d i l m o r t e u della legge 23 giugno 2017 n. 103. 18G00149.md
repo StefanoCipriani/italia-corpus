@@ -26,7 +26,7 @@ Visto il [decreto legislativo 28 luglio 1989, n. 271](Norme%20di%20attuazione%20
 
 Vista la [legge 15 dicembre 1990, n. 395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-12-15;395), recante ordinamento del Corpo di polizia penitenziaria;
 
-Visto il [decreto legislativo 22 giugno 1999, n. 230](Riordino%20della%20medicina%20penitenziaria%20a%20norma%20dellarticolo%205%20della%20legge%2030%20novembre%201998%20n.%20419.md), recante riordino della medicina penitenziaria, a norma dell'[articolo 5 della legge 30 novembre 1998, n. 419](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1998-11-30;419#art_5);
+Visto il [decreto legislativo 22 giugno 1999, n. 230](Riordino%20della%20medicina%20penitenziaria%20a%20norma%20dellarticolo%205%20della%20legge%2030%20novembre%201998%20n.%20419.md), recante riordino della medicina penitenziaria, a norma dell'[articolo 5 della legge 30 novembre 1998, n. 419](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20razionalizzazione%20del%20Servizio%20sanitario%20nazionale%20e%20per%20ladozione%20di%20un%20testo%20unico%20in%20materia%20di%20organizzazione%20e%20funzionamento%20del%20Servizio%20sanitario%20nazionale_e43e1f3577a8.md);
 
 Visto il [decreto del Presidente della Repubblica 30 giugno 2000, n. 230](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2000-06-30;230), concernente regolamento recante norme sull'ordinamento penitenziario e sulle misure privative e limitative della liberta';
 
@@ -125,7 +125,7 @@ N O T E
  v) revisione delle attuali previsioni in materia di liberta' di culto e dei diritti ad essa connessi.». 
  
  Note all'art. 1: 
- - Si riporta il testo dell'[articolo 1, comma 1, del decreto legislativo 22 giugno 1999, n 230](Riordino%20della%20medicina%20penitenziaria%20a%20norma%20dellarticolo%205%20della%20legge%2030%20novembre%201998%20n.%20419.md) (Riordino della medicina penitenziaria, a norma dell'[articolo 5 della L. 30 novembre 1998, n. 419](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1998-11-30;419#art_5)), pubblicato nella Gazzetta Ufficiale 16 luglio 1999, n. 165, S.O.), come modificato dal presente decreto legislativo: 
+ - Si riporta il testo dell'[articolo 1, comma 1, del decreto legislativo 22 giugno 1999, n 230](Riordino%20della%20medicina%20penitenziaria%20a%20norma%20dellarticolo%205%20della%20legge%2030%20novembre%201998%20n.%20419.md) (Riordino della medicina penitenziaria, a norma dell'[articolo 5 della L. 30 novembre 1998, n. 419](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20razionalizzazione%20del%20Servizio%20sanitario%20nazionale%20e%20per%20ladozione%20di%20un%20testo%20unico%20in%20materia%20di%20organizzazione%20e%20funzionamento%20del%20Servizio%20sanitario%20nazionale_e43e1f3577a8.md)), pubblicato nella Gazzetta Ufficiale 16 luglio 1999, n. 165, S.O.), come modificato dal presente decreto legislativo: 
  «Art. 1 (Diritto alla salute dei detenuti e degli internati). - 1. I detenuti e gli internati hanno diritto, al pari dei cittadini in stato di liberta', alla erogazione delle prestazioni di prevenzione, diagnosi, cura e riabilitazione, efficaci, tempestive ed appropriate, sulla base degli obiettivi generali e speciali di salute e dei livelli essenziali e uniformi di assistenza individuati nel Piano sanitario nazionale, nei piani sanitari regionali e in quelli locali.». 
  - Si riporta il testo dell'articolo 17 del decreto del Presidente dalla Repubblica 30 giugno 2000, n 230 (Regolamento recante norme sull'ordinamento penitenziario e sulle misure privative e limitative della liberta'.
  Pubblicato nella Gazz. Uff. 22 agosto 2000, n. 195, S.O.), come modificato dal presente decreto legislativo: 
@@ -554,7 +554,7 @@ Per le finalita' di cui all'articolo 11, comma 1, lettere c) e s), e' autorizzat
 
 2.
 
-Agli oneri derivanti dal comma 1, pari a 2.490.000 euro per ciascuno degli anni 2018 e 2019 e a 1.440.000 euro annui a decorrere dall'anno 2020, si provvede mediante riduzione del Fondo di cui all'[articolo 1, comma 475, della legge 27 dicembre 2017, n. 205](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-12-27;205#art_1-com475).
+Agli oneri derivanti dal comma 1, pari a 2.490.000 euro per ciascuno degli anni 2018 e 2019 e a 1.440.000 euro annui a decorrere dall'anno 2020, si provvede mediante riduzione del Fondo di cui all'[articolo 1, comma 475, della legge 27 dicembre 2017, n. 205](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202018%20e%20bilancio%20pluriennale%20per%20il%20triennio%202018-2020.%2017G00222.md).
 
 3.
 
@@ -569,7 +569,7 @@ Dall'attuazione del presente decreto, ad eccezione delle disposizioni di cui all
 Fermo restando quanto previsto dal comma 1, le amministrazioni interessate provvedono agli adempimenti previsti del presente decreto nell'ambito delle risorse umane, finanziarie e strumentali disponibili a legislazione vigente.
 
 Note all'art. 12: 
- - Si riporta il testo dell'[articolo 1, comma 475, della legge 27 dicembre 2017, n 205](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-12-27;205#art_1-com475) (Bilancio di previsione dello Stato per l'anno finanziario 2018 e bilancio pluriennale per il triennio 2018-2020), pubblicata nella Gazzetta Ufficiale 29 dicembre 2017, n. 302, S.O.) 
+ - Si riporta il testo dell'[articolo 1, comma 475, della legge 27 dicembre 2017, n 205](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202018%20e%20bilancio%20pluriennale%20per%20il%20triennio%202018-2020.%2017G00222.md) (Bilancio di previsione dello Stato per l'anno finanziario 2018 e bilancio pluriennale per il triennio 2018-2020), pubblicata nella Gazzetta Ufficiale 29 dicembre 2017, n. 302, S.O.) 
  «475. E' istituito presso il Ministero della giustizia un fondo, con una dotazione di 10 milioni di euro per l'anno 2018, di 20 milioni di euro per l'anno 2019 e di 30 milioni di euro annui a decorrere dall'anno 2020, da destinare con decreti del Ministro dell'economia e delle finanze all'attuazione delle disposizioni di cui alla [legge 23 giugno 2017, n. 103](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-06-23;103), in materia di riforma del processo penale e dell'ordinamento penitenziario.».
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.

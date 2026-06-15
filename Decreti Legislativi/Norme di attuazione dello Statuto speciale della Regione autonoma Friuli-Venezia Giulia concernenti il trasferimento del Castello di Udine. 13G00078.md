@@ -12,13 +12,13 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[articolo 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge costituzionale 31 gennaio 1963, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1963-01-31;1), che ha approvato lo Statuto speciale della Regione Friuli-Venezia Giulia;
+Vista la [legge costituzionale 31 gennaio 1963, n. 1](../Leggi%20costituzionali/Statuto%20speciale%20della%20Regione%20Friuli-Venezia%20Giulia.md), che ha approvato lo Statuto speciale della Regione Friuli-Venezia Giulia;
 
 Visto il [decreto del Presidente della Repubblica 25 novembre 1975, n. 902](../DPR/Adeguamento%20ed%20integrazione%20delle%20norme%20di%20attuazione%20dello%20statuto%20speciale%20della%20regione%20Friuli-Venezia%20Giulia.md), di adeguamento ed integrazione delle norme di attuazione dello Statuto speciale della Regione Friuli-Venezia Giulia;
 
-Visto il [decreto legislativo 22 gennaio 2004, n. 42](Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md), recante il [Codice dei beni culturali e del paesaggio](Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md), ai sensi dell'[articolo 10 della legge 6 luglio 2002, n. 137](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-07-06;137#art_10).
+Visto il [decreto legislativo 22 gennaio 2004, n. 42](Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md), recante il [Codice dei beni culturali e del paesaggio](Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md), ai sensi dell'[articolo 10 della legge 6 luglio 2002, n. 137](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20per%20la%20riforma%20dellorganizzazione%20del%20Governo%20e%20della%20Presidenza%20del%20Consiglio%20dei%20Ministri%20nonche%20di%20enti%20pubblici.md).
 
-Visto l'[articolo 1, comma 298, della legge 24 dicembre 2012, n. 228](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-24;228#art_1-com298), recante disposizioni per la formazione del bilancio annuale e pluriennale dello Stato - Legge di stabilita' 2013, con il quale e' stato istituito un Fondo nello stato di previsione del Ministero dell'economia e delle finanze, con uno stanziamento di 130.000 euro annui a decorrere dall'anno 2013, finalizzato a consentire il trasferimento alla Regione autonoma Friuli-Venezia Giulia del bene denominato "Castello di Udine";
+Visto l'[articolo 1, comma 298, della legge 24 dicembre 2012, n. 228](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20Legge%20di%20stabilita%202013.%2012G0252.md), recante disposizioni per la formazione del bilancio annuale e pluriennale dello Stato - Legge di stabilita' 2013, con il quale e' stato istituito un Fondo nello stato di previsione del Ministero dell'economia e delle finanze, con uno stanziamento di 130.000 euro annui a decorrere dall'anno 2013, finalizzato a consentire il trasferimento alla Regione autonoma Friuli-Venezia Giulia del bene denominato "Castello di Udine";
 
 Sentita la Commissione paritetica prevista dall'articolo 65 dello Statuto speciale;
 
@@ -45,10 +45,10 @@ Il trasferimento di cui ai commi 1 e 2 decorre dalla data di sottoscrizione del 
 Avvertenza: 
  Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con D.P.R. 28 dicembre 1085, n. 1092, al solo fine di facilitare la lettura delle disposizioni alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti qui trascritti. 
  Note alle premesse: 
- L'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87), [comma quinto](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5), conferisce al Presidente della Repubblica il potere di promulgare le leggi e di emanare i decreti aventi valore di legge ed i regolamenti.La [legge costituzionale 31 gennaio 1963, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1963-01-31;1) e' pubblicata nella Gazzetta Ufficiale 1° febbraio 1963, n. 29. 
+ L'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87), [comma quinto](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5), conferisce al Presidente della Repubblica il potere di promulgare le leggi e di emanare i decreti aventi valore di legge ed i regolamenti.La [legge costituzionale 31 gennaio 1963, n. 1](../Leggi%20costituzionali/Statuto%20speciale%20della%20Regione%20Friuli-Venezia%20Giulia.md) e' pubblicata nella Gazzetta Ufficiale 1° febbraio 1963, n. 29. 
  Il [decreto del Presidente della Repubblica 25 novembre 1975, n. 902](../DPR/Adeguamento%20ed%20integrazione%20delle%20norme%20di%20attuazione%20dello%20statuto%20speciale%20della%20regione%20Friuli-Venezia%20Giulia.md) e' pubblicato nella Gazzetta Ufficiale 3 marzo 1976, n. 57. 
  Il [decreto legislativo 22 gennaio 2004, n. 42](Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md) e' pubblicato nella Gazzetta Ufficiale 24 febbraio 2004, n. 45. 
- Il testo dell'[art. 1, comma 298, della legge 24 dicembre 2012, n. 228](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-24;228#art_1-com298), pubblicata nella Gazzetta Ufficiale 29 dicembre 2012, n. 302, e' il seguente: 
+ Il testo dell'[art. 1, comma 298, della legge 24 dicembre 2012, n. 228](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20Legge%20di%20stabilita%202013.%2012G0252.md), pubblicata nella Gazzetta Ufficiale 29 dicembre 2012, n. 302, e' il seguente: 
  «298. Nello stato di previsione del Ministero dell'economia e delle finanze e' istituito un fondo, con uno stanziamento di 130.000 euro annui a decorrere dall'anno 2013, finalizzato a consentire il trasferimento alla Regione autonoma del Friuli-Venezia Giulia del bene denominato "Castello di Udine".». 
  L'articolo 65 dello statuto speciale della regione Friuli Venezia Giulia e' il seguente: 
  «Art. 65. - Con decreti legislativi, sentita una Commissione paritetica di sei membri, nominati tre dal Governo della Repubblica e tre dal Consiglio regionale, saranno stabilite le norme di attuazione del presente Statuto e quelle relative al trasferimento all'Amministrazione regionale degli uffici statali che nel Friuli-Venezia Giulia adempiono a funzioni attribuite alla Regione.».
@@ -97,14 +97,14 @@ Tutti gli atti, contratti, formalita' ed adempimenti necessari per l'attuazione 
 
 1.
 
-Alle minori entrate recate dal presente provvedimento, pari a 130.000 euro annui a decorrere dall'anno 2013, si provvede mediante utilizzo del fondo istituito, ai sensi dell'[articolo 1, comma 298, della legge 24 dicembre 2012, n. 228](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-24;228#art_1-com298), nello stato di previsione del Ministero dell'economia e delle finanze. Il Ministro dell'economia e delle finanze e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
+Alle minori entrate recate dal presente provvedimento, pari a 130.000 euro annui a decorrere dall'anno 2013, si provvede mediante utilizzo del fondo istituito, ai sensi dell'[articolo 1, comma 298, della legge 24 dicembre 2012, n. 228](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20Legge%20di%20stabilita%202013.%2012G0252.md), nello stato di previsione del Ministero dell'economia e delle finanze. Il Ministro dell'economia e delle finanze e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
 2.
 
 Dall'attuazione del presente decreto non devono derivare ulteriori oneri a carico della finanza pubblica.
 
 Note all'art. 6: 
- Il testo dell'[art. 1, comma 298, della legge 24 dicembre 2012, n. 228](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-24;228#art_1-com298), e' riportato nelle Note alle premesse.
+ Il testo dell'[art. 1, comma 298, della legge 24 dicembre 2012, n. 228](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20Legge%20di%20stabilita%202013.%2012G0252.md), e' riportato nelle Note alle premesse.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

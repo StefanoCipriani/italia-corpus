@@ -408,7 +408,7 @@ L'autorizzazione alla realizzazione delle linee dirette e' rilasciata dalle comp
 15.
 
 Il Ministro dell'industria, del commercio e dell'artigianato, per gli adempimenti relativi all'attuazione del presente decreto, puo' avvalersi, con opportune soluzioni organizzative, del supporto tecnico del gestore. PERIODO SOPPRESSO DALLA [L. 23 AGOSTO 2004, N.
-239](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-08-23;239).
+239](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20del%20settore%20energetico%20nonche%20delega%20al%20Governo%20per%20il%20riassetto%20delle%20disposizioni%20vigenti%20in%20materia%20di%20energia.md).
 
 ---------------
 
@@ -616,7 +616,7 @@ Le regioni, ove non ritengano sussistere un prevalente interesse pubblico ad un 
                             b)
                                 a societa' a capitale misto pubblico privato nelle quali il socio privato e' scelto attraverso l'espletamento di gare con procedure ad evidenza pubblica;
                             c)
-                                mediante forme di partenariato ai sensi degli articoli 179 e seguenti del codice di cui al [decreto legislativo 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md). L'affidamento a societa' partecipate deve comunque avvenire nel rispetto delle disposizioni del testo unico di cui al [decreto legislativo 19 agosto 2016, n. 175](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-08-19;175).
+                                mediante forme di partenariato ai sensi degli articoli 179 e seguenti del codice di cui al [decreto legislativo 18 aprile 2016, n. 50](../Codici/Codice%20dei%20contratti%20pubblici.%2016G00062.md). L'affidamento a societa' partecipate deve comunque avvenire nel rispetto delle disposizioni del testo unico di cui al [decreto legislativo 19 agosto 2016, n. 175](Testo%20unico%20in%20materia%20di%20societa%20a%20partecipazione%20pubblica.%2016G00188.md).
 
 1-ter.
 
@@ -679,7 +679,7 @@ COMMA ABROGATO DAL [D.L. 14 DICEMBRE 2018, N. 135](https://www.normattiva.it/uri
 
 3.
 
-COMMA ABROGATO DALLA [L. 23 DICEMBRE 2005, N. 266](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-12-23;266). (8a)
+COMMA ABROGATO DALLA [L. 23 DICEMBRE 2005, N. 266](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202006.md). (8a)
 
 4.
 
@@ -687,7 +687,7 @@ COMMA ABROGATO DAL [D.L. 14 DICEMBRE 2018, N. 135](https://www.normattiva.it/uri
 
 5.
 
-COMMA ABROGATO DALLA [L. 23 DICEMBRE 2005, N. 266](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-12-23;266).(8a)
+COMMA ABROGATO DALLA [L. 23 DICEMBRE 2005, N. 266](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202006.md).(8a)
 
 6.
 
@@ -699,7 +699,7 @@ Le concessioni scadute o in scadenza entro il 31 dicembre 2010 sono prorogate a 
 
 8.
 
-In attuazione di quanto previsto dall'[articolo 44, secondo comma, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_44-com2), e allo scopo di consentire la sperimentazione di forme di compartecipazione territoriale nella gestione, le concessioni di grande derivazione d'acqua per uso idroelettrico in vigore, anche per effetto del comma 7 del presente articolo, alla data del 31 dicembre 2010, ricadenti in tutto o in parte nei territori delle province individuate mediante i criteri di cui all'articolo l, [comma 153, della legge 27 dicembre 2006, n. 296](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-12-27;296#art_com153), le quali siano conferite dai titolari, anteriormente alla pubblicazione del relativo bando di indizione della gara di cui al comma 1 del presente articolo, a societa' per azioni a composizione mista pubblico-privata partecipate nella misura complessiva minima del 30 per cento e massima del 40 per cento del capitale sociale dalle province individuate nel presente comma e/o da societa' controllate dalle medesime, fermo in tal caso l'obbligo di individuare gli eventuali soci delle societa' a controllo provinciale mediante procedure competitive, sono prorogate a condizioni immutate per un periodo di anni sette, decorrenti dal termine della concessione quale risultante dall'applicazione delle proroghe di cui al comma l-bis. La partecipazione delle predette province nelle societa' a composizione mista previste dal presente comma non puo' comportare maggiori oneri per la finanza pubblica. (15)
+In attuazione di quanto previsto dall'[articolo 44, secondo comma, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_44-com2), e allo scopo di consentire la sperimentazione di forme di compartecipazione territoriale nella gestione, le concessioni di grande derivazione d'acqua per uso idroelettrico in vigore, anche per effetto del comma 7 del presente articolo, alla data del 31 dicembre 2010, ricadenti in tutto o in parte nei territori delle province individuate mediante i criteri di cui all'articolo l, [comma 153, della legge 27 dicembre 2006, n. 296](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202007.md), le quali siano conferite dai titolari, anteriormente alla pubblicazione del relativo bando di indizione della gara di cui al comma 1 del presente articolo, a societa' per azioni a composizione mista pubblico-privata partecipate nella misura complessiva minima del 30 per cento e massima del 40 per cento del capitale sociale dalle province individuate nel presente comma e/o da societa' controllate dalle medesime, fermo in tal caso l'obbligo di individuare gli eventuali soci delle societa' a controllo provinciale mediante procedure competitive, sono prorogate a condizioni immutate per un periodo di anni sette, decorrenti dal termine della concessione quale risultante dall'applicazione delle proroghe di cui al comma l-bis. La partecipazione delle predette province nelle societa' a composizione mista previste dal presente comma non puo' comportare maggiori oneri per la finanza pubblica. (15)
 
 8-bis.
 
@@ -729,7 +729,7 @@ I [commi 1](../DPR/Norme%20integrative%20della%20legge%206%20dicembre%201962%20n
 
 AGGIORNAMENTO (8a)
 
-Successivamente la Corte Costituzionale, con sentenza 14 - 18 gennaio 2008, n. 1 (in G.U. 1a s.s. 23/01/2008, n. 4) ha dichiarato l'illegittimita' costituzionale dell'[art. 1, comma 483, della legge 23 dicembre 2005, n. 266](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-12-23;266#art_1-com483) (che ha disposto la modifica dei commi 1 e 2 e l'abrogazione dei commi 4 e 5 del presente articolo) "nella parte in cui non prevede un adeguato coinvolgimento delle Regioni nel procedimento finalizzato all'adozione del provvedimento del Ministero delle attivita' produttive, di concerto con il Ministero dell'ambiente e della tutela del territorio, sentito il gestore della rete di trasmissione nazionale, che determina i requisiti organizzativi e finanziari minimi, i parametri di aumento dell'energia prodotta e della potenza installata concernenti la procedura di gara".
+Successivamente la Corte Costituzionale, con sentenza 14 - 18 gennaio 2008, n. 1 (in G.U. 1a s.s. 23/01/2008, n. 4) ha dichiarato l'illegittimita' costituzionale dell'[art. 1, comma 483, della legge 23 dicembre 2005, n. 266](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202006.md) (che ha disposto la modifica dei commi 1 e 2 e l'abrogazione dei commi 4 e 5 del presente articolo) "nella parte in cui non prevede un adeguato coinvolgimento delle Regioni nel procedimento finalizzato all'adozione del provvedimento del Ministero delle attivita' produttive, di concerto con il Ministero dell'ambiente e della tutela del territorio, sentito il gestore della rete di trasmissione nazionale, che determina i requisiti organizzativi e finanziari minimi, i parametri di aumento dell'energia prodotta e della potenza installata concernenti la procedura di gara".
 
 -------------
 
@@ -843,7 +843,7 @@ A decorrere dal novantesimo giorno dalla cessione, da parte dell'ENEL Spa, di no
 
 5-ter.
 
-A decorrere dalla data di entrata in vigore della presente disposizione, e' cliente idoneo ogni cliente finale, singolo o associato, il cui consumo, misurato in un unico punto del territorio nazionale, destinato alle attivita' esercitate da imprese individuali o costituite in forma societaria, nonche' ai soggetti di cui all'[articolo 1, comma 2, del decreto legislativo 30 marzo 2001, n. 165](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165#art_1-com2), e successive modificazioni, e' risultato, nell'anno precedente, uguale o superiore a 0,05 GWh.
+A decorrere dalla data di entrata in vigore della presente disposizione, e' cliente idoneo ogni cliente finale, singolo o associato, il cui consumo, misurato in un unico punto del territorio nazionale, destinato alle attivita' esercitate da imprese individuali o costituite in forma societaria, nonche' ai soggetti di cui all'[articolo 1, comma 2, del decreto legislativo 30 marzo 2001, n. 165](Norme%20generali%20sullordinamento%20del%20lavoro%20alle%20dipendenze%20delle%20amministrazioni%20pubbliche.md), e successive modificazioni, e' risultato, nell'anno precedente, uguale o superiore a 0,05 GWh.
 
 5-quater.
 

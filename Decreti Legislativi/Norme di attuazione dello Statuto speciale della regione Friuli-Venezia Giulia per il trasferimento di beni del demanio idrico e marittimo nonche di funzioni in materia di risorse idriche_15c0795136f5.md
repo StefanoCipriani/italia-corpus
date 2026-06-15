@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[articolo 87, quinto comma, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge costituzionale 31 gennaio 1963, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1963-01-31;1), che ha approvato lo statuto speciale della regione Friuli-Venezia Giulia;
+Vista la [legge costituzionale 31 gennaio 1963, n. 1](../Leggi%20costituzionali/Statuto%20speciale%20della%20Regione%20Friuli-Venezia%20Giulia.md), che ha approvato lo statuto speciale della regione Friuli-Venezia Giulia;
 
 Sentita la commissione paritetica prevista dall'articolo 65 dello statuto speciale;
 
@@ -40,7 +40,7 @@ La regione esercita tutte le attribuzioni inerenti alla titolarita' dei beni tra
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 26 marzo 2018, n. 46](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2018-03-26;46) ha disposto (con l'art. 3, comma 1) che la presente modifica ha "effetto dal giorno successivo alla data di entrata in vigore della legge o delle leggi statali che, ai sensi dell'[articolo 63, quinto comma, della legge costituzionale 31 gennaio 1963, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1963-01-31;1#art_63-com5) (Statuto speciale della Regione autonoma Friuli-Venezia Giulia), modificano il Titolo IV dello Statuto speciale".
+Il [D.Lgs. 26 marzo 2018, n. 46](Norme%20di%20attuazione%20dello%20Statuto%20speciale%20della%20Regione%20autonoma%20Friuli-Venezia%20Giulia%20recanti%20modifiche%20al%20decreto%20legislativo%2025%20maggio%202001%20n.%20265%20in%20materia%20di%20trasferimento%20di%20beni%20_d79c94feb697.md) ha disposto (con l'art. 3, comma 1) che la presente modifica ha "effetto dal giorno successivo alla data di entrata in vigore della legge o delle leggi statali che, ai sensi dell'[articolo 63, quinto comma, della legge costituzionale 31 gennaio 1963, n. 1](../Leggi%20costituzionali/Statuto%20speciale%20della%20Regione%20Friuli-Venezia%20Giulia.md) (Statuto speciale della Regione autonoma Friuli-Venezia Giulia), modificano il Titolo IV dello Statuto speciale".
 
 ## Art. 2. — Trasferimento di funzioni amministrative
 
@@ -68,7 +68,7 @@ Sono trasferite alla regione le funzioni amministrative relative alla laguna di 
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 26 marzo 2018, n. 46](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2018-03-26;46) ha disposto (con l'art. 3, comma 1) che le presenti modifiche "hanno effetto dal giorno successivo alla data di entrata in vigore della legge o delle leggi statali che, ai sensi dell'[articolo 63, quinto comma, della legge costituzionale 31 gennaio 1963, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1963-01-31;1#art_63-com5) (Statuto speciale della Regione autonoma Friuli-Venezia Giulia), modificano il Titolo IV dello Statuto speciale".
+Il [D.Lgs. 26 marzo 2018, n. 46](Norme%20di%20attuazione%20dello%20Statuto%20speciale%20della%20Regione%20autonoma%20Friuli-Venezia%20Giulia%20recanti%20modifiche%20al%20decreto%20legislativo%2025%20maggio%202001%20n.%20265%20in%20materia%20di%20trasferimento%20di%20beni%20_d79c94feb697.md) ha disposto (con l'art. 3, comma 1) che le presenti modifiche "hanno effetto dal giorno successivo alla data di entrata in vigore della legge o delle leggi statali che, ai sensi dell'[articolo 63, quinto comma, della legge costituzionale 31 gennaio 1963, n. 1](../Leggi%20costituzionali/Statuto%20speciale%20della%20Regione%20Friuli-Venezia%20Giulia.md) (Statuto speciale della Regione autonoma Friuli-Venezia Giulia), modificano il Titolo IV dello Statuto speciale".
 
 ## Art. 3. — Funzioni conferite alla regione
 
@@ -81,8 +81,8 @@ Sono trasferite alla regione tutte le funzioni non espressamente indicate nell'[
 Lo Stato emana, d'intesa con la regione, le direttive di cui all'[articolo 88, comma 1, lettera p), del decreto legislativo 31 marzo 1998, n. 112](Conferimento%20di%20funzioni%20e%20compiti%20amministrativi%20dello%20Stato%20alle%20regioni%20ed%20agli%20enti%20locali%20in%20attuazione%20del%20capo%20I%20della%20legge%2015%20marzo%201997%20n.%2059.md), per quanto riguarda le concessioni di derivazione d'acqua interessanti il territorio del Friuli-Venezia Giulia.
 
 Nota all'[art. 3:
- - Il decreto legislativo 31 marzo 1998, n. 112](Conferimento%20di%20funzioni%20e%20compiti%20amministrativi%20dello%20Stato%20alle%20regioni%20ed%20agli%20enti%20locali%20in%20attuazione%20del%20capo%20I%20della%20legge%2015%20marzo%201997%20n.%2059.md) (Conferimento di funzioni e compiti amministrativi dello Stato alle regioni ed agli enti locali, in attuazione del capo I della [legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59)) e' stato pubblicato nel supplemento ordinario n. 77 alla Gazzetta Ufficiale n. 92 del 21 aprile 1998. Si riporta il testo dell'art. 88 della legge medesima:
- "Art. 88 (Compiti di rilievo nazionale). - 1. Ai sensi dell'[art. 1, comma 4, lettera c), della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_1-com4-letc), hanno rilievo nazionale i compiti relativi:
+ - Il decreto legislativo 31 marzo 1998, n. 112](Conferimento%20di%20funzioni%20e%20compiti%20amministrativi%20dello%20Stato%20alle%20regioni%20ed%20agli%20enti%20locali%20in%20attuazione%20del%20capo%20I%20della%20legge%2015%20marzo%201997%20n.%2059.md) (Conferimento di funzioni e compiti amministrativi dello Stato alle regioni ed agli enti locali, in attuazione del capo I della [legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md)) e' stato pubblicato nel supplemento ordinario n. 77 alla Gazzetta Ufficiale n. 92 del 21 aprile 1998. Si riporta il testo dell'art. 88 della legge medesima:
+ "Art. 88 (Compiti di rilievo nazionale). - 1. Ai sensi dell'[art. 1, comma 4, lettera c), della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), hanno rilievo nazionale i compiti relativi:
  a) al censimento nazionale dei corpi idrici;
  b) alla programmazione ed al finanziamento degli interventi di difesa del suolo;
  c) alla determinazione di criteri, metodi e standard di raccolta elaborazione e consultazione dei dati, alla definizione di modalita' di coordinamento e di collaborazione tra i soggetti pubblici operanti nel settore, nonche' indirizzi volti all'accertamento, ricerca e studio degli elementi dell'ambiente fisico e delle condizioni generali di rischio; alla valutazione degli effetti conseguenti alla esecuzione dei piani, dei programmi e dei progetti su scala nazionale di opere del settore della difesa del suolo;
@@ -166,7 +166,7 @@ Fino a quando non sia diversamente disposto dalla rispettiva normativa regionale
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 26 marzo 2018, n. 46](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2018-03-26;46) ha disposto (con l'art. 3, comma 1) che le presenti modifiche "hanno effetto dal giorno successivo alla data di entrata in vigore della legge o delle leggi statali che, ai sensi dell'[articolo 63, quinto comma, della legge costituzionale 31 gennaio 1963, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1963-01-31;1#art_63-com5) (Statuto speciale della Regione autonoma Friuli-Venezia Giulia), modificano il Titolo IV dello Statuto speciale".
+Il [D.Lgs. 26 marzo 2018, n. 46](Norme%20di%20attuazione%20dello%20Statuto%20speciale%20della%20Regione%20autonoma%20Friuli-Venezia%20Giulia%20recanti%20modifiche%20al%20decreto%20legislativo%2025%20maggio%202001%20n.%20265%20in%20materia%20di%20trasferimento%20di%20beni%20_d79c94feb697.md) ha disposto (con l'art. 3, comma 1) che le presenti modifiche "hanno effetto dal giorno successivo alla data di entrata in vigore della legge o delle leggi statali che, ai sensi dell'[articolo 63, quinto comma, della legge costituzionale 31 gennaio 1963, n. 1](../Leggi%20costituzionali/Statuto%20speciale%20della%20Regione%20Friuli-Venezia%20Giulia.md) (Statuto speciale della Regione autonoma Friuli-Venezia Giulia), modificano il Titolo IV dello Statuto speciale".
 
 ## Art. 7. — Funzioni conferite agli enti locali
 

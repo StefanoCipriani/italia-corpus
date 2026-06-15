@@ -14,7 +14,7 @@ Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cos
 
 Vista la [legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400);
 
-Visto l'[articolo 7 della legge 12 agosto 2016, n. 170](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2016-08-12;170#art_7), recante delega al Governo per l'adeguamento della normativa nazionale alle disposizioni dell'Unione europea e agli accordi internazionali in materia di prodotti e di tecnologie a duplice uso, di sanzioni in materia di embarghi commerciali, di commercio di strumenti di tortura, nonche' per ogni tipologia di operazione di esportazione di materiali proliferanti;
+Visto l'[articolo 7 della legge 12 agosto 2016, n. 170](../Leggi%20di%20delegazione%20europea/Delega%20al%20Governo%20per%20il%20recepimento%20delle%20direttive%20europee%20e%20lattuazione%20di%20altri%20atti%20dellUnione%20europea%20-%20Legge%20di%20delegazione%20europea%202015.%2016G00181.md), recante delega al Governo per l'adeguamento della normativa nazionale alle disposizioni dell'Unione europea e agli accordi internazionali in materia di prodotti e di tecnologie a duplice uso, di sanzioni in materia di embarghi commerciali, di commercio di strumenti di tortura, nonche' per ogni tipologia di operazione di esportazione di materiali proliferanti;
 
 Visto il regolamento (CE) n. 428/2009 del Consiglio del 5 maggio 2009 che procede alla rifusione del regolamento (CE) n. 1334/2000 del Consiglio del 22 giugno 2000 ed istituisce un regime comunitario di controllo delle esportazioni, del trasferimento, dell'intermediazioni e del transito di prodotti a duplice uso;
 

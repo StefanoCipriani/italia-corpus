@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4), con le modificazioni ad esso apportate dall'[art. 3, comma primo, del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98#art_3-com1);
+Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4), con le modificazioni ad esso apportate dall'[art. 3, comma primo, del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Viste le disposizioni transitorie I e XV della Costituzione;
 
@@ -90,7 +90,7 @@ Al [regio decreto-legge 13 aprile 1939, n. 652](https://www.normattiva.it/uri-re
 
 AGGIORNAMENTO (1)
 
-Il [D.P.R. 26 ottobre 1972, n. 636](../DPR/Revisione%20della%20disciplina%20del%20contenzioso%20tributario.md) ha disposto (con l'art. 46, comma 1) che "A decorrere dalla data stabilita a norma del secondo comma dell'art. 42 sono abrogati: [...] l'[art. 5 del decreto legislativo 8 aprile 1948, n. 514](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-04-08;514#art_5)".
+Il [D.P.R. 26 ottobre 1972, n. 636](../DPR/Revisione%20della%20disciplina%20del%20contenzioso%20tributario.md) ha disposto (con l'art. 46, comma 1) che "A decorrere dalla data stabilita a norma del secondo comma dell'art. 42 sono abrogati: [...] l'[art. 5 del decreto legislativo 8 aprile 1948, n. 514](Modificazioni%20alla%20legge%20sul%20nuovo%20catasto%20edilizio%20urbano%20e%20alla%20legge%20sulla%20costituzione%20attribuzione%20e%20funzionamento%20delle%20Commissioni%20censuarie.md)".
 
 ## Art. 6.
 

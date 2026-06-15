@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto l'[articolo 3, comma 138, della legge 23 dicembre 1996, n. 662](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;662#art_3-com138), recante delega al Governo per l'emanazione di uno o piu' decreti legislativi per la modifica della disciplina in materia di servizi autonomi di cassa degli uffici finanziari;
+Visto l'[articolo 3, comma 138, della legge 23 dicembre 1996, n. 662](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_3.md), recante delega al Governo per l'emanazione di uno o piu' decreti legislativi per la modifica della disciplina in materia di servizi autonomi di cassa degli uffici finanziari;
 
 Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella riunione del 21 marzo 1997;
 
@@ -48,7 +48,7 @@ Dalla data di cui al comma 1, gli adempimenti in materia di riscossione, contabi
 
 AGGIORNAMENTO (1)
 
-Il [D. Lgs. 18 dicembre 1997, n. 463](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-12-18;463), come modificato dall'Errata Corrige in G.U. 22/01/1998, n.17 ha disposto (con l'art. 3, comma 1) che "In deroga all'[articolo 1 del decreto legislativo 9 luglio 1997, n. 237](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modifica%20della%20disciplina%20in%20materia%20di%20servizi%20autonomi%20di%20cassa%20degli%20uffici%20finanziari.md), i servizi di cassa degli uffici del dipartimento del territorio continuano ad operare fino alla predetta data."
+Il [D. Lgs. 18 dicembre 1997, n. 463](Semplificazione%20in%20materia%20di%20versamenti%20unitari%20per%20tributi%20determinati%20dagli%20enti%20impositori%20e%20di%20adempimenti%20connessi%20agli%20uffici%20del%20registro%20a%20norma%20dellarticolo%203%20comma%20134%20lettere%20_bf381b036b31.md), come modificato dall'Errata Corrige in G.U. 22/01/1998, n.17 ha disposto (con l'art. 3, comma 1) che "In deroga all'[articolo 1 del decreto legislativo 9 luglio 1997, n. 237](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modifica%20della%20disciplina%20in%20materia%20di%20servizi%20autonomi%20di%20cassa%20degli%20uffici%20finanziari.md), i servizi di cassa degli uffici del dipartimento del territorio continuano ad operare fino alla predetta data."
 
 ### Art. 2. — Definizione di entrate
 
@@ -168,7 +168,7 @@ Nel caso di pagamento contestuale di imposte ipotecarie o di bollo e di tasse ip
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 23 marzo 1998, n. 56](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-03-23;56) ha disposto (con l'art. 7, comma 1) che "Le disposizioni del presente decreto hanno effetto a decorrere dal 1 gennaio 1998."
+Il [D.Lgs. 23 marzo 1998, n. 56](Disposizioni%20integrative%20e%20correttive%20dei%20decreti%20legislativi%20emanati%20a%20norma%20dellarticolo%203%20commi%2019%2066%20134%20138%20da%20143%20a%20149%20e%20151%20e%20162%20lettere%20a%20b%20c%20d%20ed%20f%20della%20legge%2023%20dicembre%201996%20n.%20662.md) ha disposto (con l'art. 7, comma 1) che "Le disposizioni del presente decreto hanno effetto a decorrere dal 1 gennaio 1998."
 
 ### Art. 7. — Riscossione coattiva
 
@@ -215,19 +215,19 @@ Le somme riscosse dai concessionari, direttamente allo sportello o attraverso de
 
 AGGIORNAMENTO (4)
 
-La [L. 21 novembre 2000, n. 342](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-11-21;342) ha disposto (con l'art. 77, comma 1, lettera d)) che la modifica decorre dal 1 gennaio 2002.
+La [L. 21 novembre 2000, n. 342](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20in%20materia%20fiscale.md) ha disposto (con l'art. 77, comma 1, lettera d)) che la modifica decorre dal 1 gennaio 2002.
 
 ----------------
 
 AGGIORNAMENTO (5)
 
-La [L. 21 novembre 2000, n. 342](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-11-21;342), come modificata dal [D.L. 28 dicembre 2001, n. 452](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2001-12-28;452), convertito con modificazioni dalla [L. 27 febbraio 2002, n. 16](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2028%20dicembre%202001%20n.%20452%20recante%20disposizioni%20urgenti%20in%20tema%20di%20accise%20di%20gasolio%20per%20autotrazione%20di%20smaltimento%20di%20oli%20usati%20di%20_5283adbb5342.md) ha disposto (con l'art. 77, comma 1, lettera d)) che la modifica decorre dal 1 gennaio 2003.
+La [L. 21 novembre 2000, n. 342](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20in%20materia%20fiscale.md), come modificata dal [D.L. 28 dicembre 2001, n. 452](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2001-12-28;452), convertito con modificazioni dalla [L. 27 febbraio 2002, n. 16](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2028%20dicembre%202001%20n.%20452%20recante%20disposizioni%20urgenti%20in%20tema%20di%20accise%20di%20gasolio%20per%20autotrazione%20di%20smaltimento%20di%20oli%20usati%20di%20_5283adbb5342.md) ha disposto (con l'art. 77, comma 1, lettera d)) che la modifica decorre dal 1 gennaio 2003.
 
 ----------------
 
 AGGIORNAMENTO (6)
 
-La [L. 21 novembre 2000, n. 342](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-11-21;342) come modificata dal [D.L. 8 luglio 2002, n. 138](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2002-07-08;138) , convertito con modificazioni dalla [L. 8 agosto 2002, n. 178](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%208%20luglio%202002%20n.%20138%20recante%20interventi%20urgenti%20in%20materia%20tributaria%20di%20privatizzazioni%20di%20contenimento%20della%20spesa%20farmaceutica%20_1f927d95ed53.md) ha disposto (con l'art. 77, comma 1, lettera d)) che la modifica decorre dal 1 gennaio 2004.
+La [L. 21 novembre 2000, n. 342](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20in%20materia%20fiscale.md) come modificata dal [D.L. 8 luglio 2002, n. 138](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2002-07-08;138) , convertito con modificazioni dalla [L. 8 agosto 2002, n. 178](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%208%20luglio%202002%20n.%20138%20recante%20interventi%20urgenti%20in%20materia%20tributaria%20di%20privatizzazioni%20di%20contenimento%20della%20spesa%20farmaceutica%20_1f927d95ed53.md) ha disposto (con l'art. 77, comma 1, lettera d)) che la modifica decorre dal 1 gennaio 2004.
 
 ### Art. 9. — (( (Versamento agli enti diversi dallo Stato). ))
 

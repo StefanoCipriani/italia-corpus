@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4), con le modificazioni ad esso apportate dall'[art. 3, comma primo, del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98#art_3-com1);
+Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4), con le modificazioni ad esso apportate dall'[art. 3, comma primo, del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Viste le disposizioni transitorie I e XV della Costituzione;
 
@@ -34,7 +34,7 @@ E' data facolta' alle Camere predette di conferire due decimi dei posti disponib
 
 AGGIORNAMENTO (1)
 
-La [L. 18 luglio 1949, n. 556](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1949-07-18;556) ha disposto (con l'art. 3) che la presente modifica "ha effetto a datare dall'entrata in vigore del [decreto legislativo 24 aprile 1948, n. 588](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-04-24;588)".
+La [L. 18 luglio 1949, n. 556](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1949-07-18;556) ha disposto (con l'art. 3) che la presente modifica "ha effetto a datare dall'entrata in vigore del [decreto legislativo 24 aprile 1948, n. 588](Conferimento%20di%20posti%20disponibili%20nei%20ruoli%20delle%20Camere%20di%20commercio%20industria%20ed%20agricoltura.md)".
 
 ## Art. 3.
 
@@ -47,13 +47,13 @@ Il conferimento dei posti indicati negli articoli precedenti e' fatto mediante c
 
 AGGIORNAMENTO (1)
 
-La [L. 18 luglio 1949, n. 556](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1949-07-18;556) ha disposto (con l'art. 3) che la presente modifica "ha effetto a datare dall'entrata in vigore del [decreto legislativo 24 aprile 1948, n. 588](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-04-24;588)".
+La [L. 18 luglio 1949, n. 556](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1949-07-18;556) ha disposto (con l'art. 3) che la presente modifica "ha effetto a datare dall'entrata in vigore del [decreto legislativo 24 aprile 1948, n. 588](Conferimento%20di%20posti%20disponibili%20nei%20ruoli%20delle%20Camere%20di%20commercio%20industria%20ed%20agricoltura.md)".
 
 -----------------
 
 AGGIORNAMENTO (2)
 
-La [L. 5 gennaio 1953, n. 22](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20al%20decreto%20legislativo%2024%20aprile%201948%20n.%20588%20sul%20conferimento%20di%20posti%20disponibili%20nei%20ruoli%20delle%20Camere%20di%20commercio%20industria%20e%20agricoltura.md) ha disposto (con l'art. 2) che "E' data facolta' alle Camere di commercio, industria e agricoltura di bandire, alle condizioni stabilite dagli [articoli 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-04-24;588#art_2) e [3 del decreto legislativo 24 aprile 1948, n. 588](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-04-24;588#art_3), concorsi per titoli per la copertura dei posti risultanti disponibili dopo l'espletamento del concorso bandito ai sensi del citato art. 2, a favore del personale non di ruolo che, possedendo tutti gli altri requisiti, non ha potuto partecipare ai concorsi perche' sprovvisto del titolo di cui al [decreto legislativo 4 marzo 1948, n. 137](Norme%20per%20la%20concessione%20dei%20benefici%20ai%20combattenti%20della%20seconda%20guerra%20mondiale.md), ottenuto successivamente per effetto della [legge 23 febbraio 1952, n. 93](../DL%20e%20leggi%20di%20conversione/Ratifica%20con%20modificazioni%20del%20decreto%20legislativo%204%20marzo%201948%20n.%20137%20recante%20norme%20per%20la%20concessione%20dei%20benefici%20ai%20combattenti%20della%20seconda%20guerra%20mondiale.md), con la quale e' stato convertito il decreto n. 137 medesimo."
+La [L. 5 gennaio 1953, n. 22](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modificazioni%20al%20decreto%20legislativo%2024%20aprile%201948%20n.%20588%20sul%20conferimento%20di%20posti%20disponibili%20nei%20ruoli%20delle%20Camere%20di%20commercio%20industria%20e%20agricoltura.md) ha disposto (con l'art. 2) che "E' data facolta' alle Camere di commercio, industria e agricoltura di bandire, alle condizioni stabilite dagli [articoli 2](Conferimento%20di%20posti%20disponibili%20nei%20ruoli%20delle%20Camere%20di%20commercio%20industria%20ed%20agricoltura.md) e [3 del decreto legislativo 24 aprile 1948, n. 588](Conferimento%20di%20posti%20disponibili%20nei%20ruoli%20delle%20Camere%20di%20commercio%20industria%20ed%20agricoltura.md), concorsi per titoli per la copertura dei posti risultanti disponibili dopo l'espletamento del concorso bandito ai sensi del citato art. 2, a favore del personale non di ruolo che, possedendo tutti gli altri requisiti, non ha potuto partecipare ai concorsi perche' sprovvisto del titolo di cui al [decreto legislativo 4 marzo 1948, n. 137](Norme%20per%20la%20concessione%20dei%20benefici%20ai%20combattenti%20della%20seconda%20guerra%20mondiale.md), ottenuto successivamente per effetto della [legge 23 febbraio 1952, n. 93](../DL%20e%20leggi%20di%20conversione/Ratifica%20con%20modificazioni%20del%20decreto%20legislativo%204%20marzo%201948%20n.%20137%20recante%20norme%20per%20la%20concessione%20dei%20benefici%20ai%20combattenti%20della%20seconda%20guerra%20mondiale.md), con la quale e' stato convertito il decreto n. 137 medesimo."
 
 ## Art. 4.
 

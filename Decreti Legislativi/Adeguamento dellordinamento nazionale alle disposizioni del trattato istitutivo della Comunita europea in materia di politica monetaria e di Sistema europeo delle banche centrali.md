@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto l'[articolo 1 della legge 17 dicembre 1997, n. 433](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-12-17;433#art_1), recante delega al Governo per assicurare la compatibilita' dell'ordinamento nazionale con quanto disposto dall'articolo 108 del trattato che istituisce la Comunita' europea;
+Visto l'[articolo 1 della legge 17 dicembre 1997, n. 433](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20lintroduzione%20dellEURO.md), recante delega al Governo per assicurare la compatibilita' dell'ordinamento nazionale con quanto disposto dall'articolo 108 del trattato che istituisce la Comunita' europea;
 
 Visto l'articolo 109 F, paragrafo 6, del trattato che istituisce la Comunita' europea;
 
@@ -54,7 +54,7 @@ Avvertenza:
  Note alle premesse:
  - L'[art. 76 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) prevede che l'esercizio della funzione legislativa puo' essere delegato al Governo con determinazione di principii e criteri direttivi solo per un tempo limitato ed in relazione ad oggetti definiti.
  - L'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87) conferisce, tra l'altro, al Presidente della Repubblica il potere di promulgare le leggi e di emanare i decreti aventi valore di legge ed i regolamenti.
- - L'[art. 1 della legge 17 dicembre 1997, n. 433](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-12-17;433#art_1), prevede il conferimento al Governo della delega per l'emanazione di uno o piu' decreti legislativi recanti le norme necessarie ai fini della attuazione delle disposizioni comunitarie sul passaggio dalla lira all'Euro, nonche' per assicurare la compatibilita' dell'ordinamento nazionale con quanto disposto dall'art. 108 del trattato istitutivo della Comunita' europea.
+ - L'[art. 1 della legge 17 dicembre 1997, n. 433](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20lintroduzione%20dellEURO.md), prevede il conferimento al Governo della delega per l'emanazione di uno o piu' decreti legislativi recanti le norme necessarie ai fini della attuazione delle disposizioni comunitarie sul passaggio dalla lira all'Euro, nonche' per assicurare la compatibilita' dell'ordinamento nazionale con quanto disposto dall'art. 108 del trattato istitutivo della Comunita' europea.
  - Il predetto art. 108 del trattato impone a ciascuno Stato membro di provvedere ad assicurare la compatibilita' della propria legislazione nazionale con il trattato medesimo e con lo statuto del Sistema europeo delle banche centrali.
  - L'art. 109F, paragrafo 6, del trattato prevede che l'Istituto monetario europeo (IME), nei limiti ed alle condizioni stabilite dal Consiglio, venga consultato dalle autorita' degli Stati membri su ogni proposta di provvedimento legislativo che rientri nella sua competenza.
  - La decisione del Consiglio dell'Unione europea 93/717/CE del 22 novembre 1993 (pubblicata in Gazzetta Ufficiale CEE 31 dicembre 1993) e' relativa alla consultazione dell'Istituto monetario europeo da parte delle autorita' degli Stati membri sulle proposte di provvedimenti legislativi.
@@ -80,7 +80,7 @@ La Banca d'Italia assolve inoltre gli altri compiti e funzioni ad essa attribuit
 
 AGGIORNAMENTO (1)
 
-Il Decreto 28 settembre 1998 (in G.U. 1/10/1998, n. 229) ha disposto (con l'art. 1, comma 1) che "L'entrata in vigore dell'[art. 2 del decreto legislativo 10 marzo 1998, n. 43](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-03-10;43#art_2), e delle corrispondenti modifiche allo statuto della Banca d'Italia e' riferita alla data del 1 giugno 1998."
+Il Decreto 28 settembre 1998 (in G.U. 1/10/1998, n. 229) ha disposto (con l'art. 1, comma 1) che "L'entrata in vigore dell'[art. 2 del decreto legislativo 10 marzo 1998, n. 43](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Adeguamento%20dellordinamento%20nazionale%20alle%20disposizioni%20del%20trattato%20istitutivo%20della%20Comunita%20europea%20in%20materia%20di%20politica%20monetaria%20e%20di%20Sistema%20europeo%20delle%20banche%20centrali.md), e delle corrispondenti modifiche allo statuto della Banca d'Italia e' riferita alla data del 1 giugno 1998."
 
 ## Art. 3. — Requisiti d'indipendenza della Banca d'Italia
 
@@ -127,7 +127,7 @@ Le attribuzioni del Consiglio superiore della Banca d'Italia in materia di banco
 
 AGGIORNAMENTO (1)
 
-Il Decreto 28 settembre 1998 (in G.U. 1/10/1998, n. 229) ha disposto (con l'art. 1, comma 2) che "I seguenti articoli del [decreto legislativo 10 marzo 1998, n. 43](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-03-10;43), e le corrispondenti modifiche allo statuto della Banca d'Italia entrano in vigore alle date sotto indicate: 
+Il Decreto 28 settembre 1998 (in G.U. 1/10/1998, n. 229) ha disposto (con l'art. 1, comma 2) che "I seguenti articoli del [decreto legislativo 10 marzo 1998, n. 43](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Adeguamento%20dellordinamento%20nazionale%20alle%20disposizioni%20del%20trattato%20istitutivo%20della%20Comunita%20europea%20in%20materia%20di%20politica%20monetaria%20e%20di%20Sistema%20europeo%20delle%20banche%20centrali.md), e le corrispondenti modifiche allo statuto della Banca d'Italia entrano in vigore alle date sotto indicate: 
  a) l'art. 7, comma 2, dal 1 ottobre 1998; 
  b) gli articoli 4 e 5, commi 1 e 2, e gli articoli 6, 7, comma 1, e 8 del suddetto [decreto legislativo n. 43 del 1998, dal 1 gennaio 1999](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-01-01;43)."
 
@@ -149,7 +149,7 @@ Il decreto del Ministro del tesoro del 30 luglio 1983, pubblicato nella Gazzetta
 
 AGGIORNAMENTO (1)
 
-Il Decreto 28 settembre 1998 (in G.U. 1/10/1998, n. 229) ha disposto (con l'art. 1, comma 2) che "I seguenti articoli del [decreto legislativo 10 marzo 1998, n. 43](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-03-10;43), e le corrispondenti modifiche allo statuto della Banca d'Italia entrano in vigore alle date sotto indicate: 
+Il Decreto 28 settembre 1998 (in G.U. 1/10/1998, n. 229) ha disposto (con l'art. 1, comma 2) che "I seguenti articoli del [decreto legislativo 10 marzo 1998, n. 43](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Adeguamento%20dellordinamento%20nazionale%20alle%20disposizioni%20del%20trattato%20istitutivo%20della%20Comunita%20europea%20in%20materia%20di%20politica%20monetaria%20e%20di%20Sistema%20europeo%20delle%20banche%20centrali.md), e le corrispondenti modifiche allo statuto della Banca d'Italia entrano in vigore alle date sotto indicate: 
  a) l'art. 7, comma 2, dal 1 ottobre 1998; 
  b) gli articoli 4 e 5, commi 1 e 2, e gli articoli 6, 7, comma 1, e 8 del suddetto [decreto legislativo n. 43 del 1998, dal 1 gennaio 1999](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-01-01;43)."
 
@@ -180,7 +180,7 @@ Fermo restando quanto previsto nel presente articolo, la Banca d'Italia puo' com
 
 AGGIORNAMENTO (1)
 
-Il Decreto 28 settembre 1998 (in G.U. 1/10/1998, n. 229) ha disposto (con l'art. 1, comma 2) che "I seguenti articoli del [decreto legislativo 10 marzo 1998, n. 43](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-03-10;43), e le corrispondenti modifiche allo statuto della Banca d'Italia entrano in vigore alle date sotto indicate: 
+Il Decreto 28 settembre 1998 (in G.U. 1/10/1998, n. 229) ha disposto (con l'art. 1, comma 2) che "I seguenti articoli del [decreto legislativo 10 marzo 1998, n. 43](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Adeguamento%20dellordinamento%20nazionale%20alle%20disposizioni%20del%20trattato%20istitutivo%20della%20Comunita%20europea%20in%20materia%20di%20politica%20monetaria%20e%20di%20Sistema%20europeo%20delle%20banche%20centrali.md), e le corrispondenti modifiche allo statuto della Banca d'Italia entrano in vigore alle date sotto indicate: 
  a) l'art. 7, comma 2, dal 1 ottobre 1998; 
  b) gli articoli 4 e 5, commi 1 e 2, e gli articoli 6, 7, comma 1, e 8 del suddetto [decreto legislativo n. 43 del 1998, dal 1 gennaio 1999](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-01-01;43)."
 
@@ -199,7 +199,7 @@ L'articolo 4, comma 2, del testo unico delle norme di legge in materia valutaria
 
 AGGIORNAMENTO (1)
 
-Il Decreto 28 settembre 1998 (in G.U. 1/10/1998, n. 229) ha disposto (con l'art. 1, comma 2) che "I seguenti articoli del [decreto legislativo 10 marzo 1998, n. 43](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-03-10;43), e le corrispondenti modifiche allo statuto della Banca d'Italia entrano in vigore alle date sotto indicate: 
+Il Decreto 28 settembre 1998 (in G.U. 1/10/1998, n. 229) ha disposto (con l'art. 1, comma 2) che "I seguenti articoli del [decreto legislativo 10 marzo 1998, n. 43](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Adeguamento%20dellordinamento%20nazionale%20alle%20disposizioni%20del%20trattato%20istitutivo%20della%20Comunita%20europea%20in%20materia%20di%20politica%20monetaria%20e%20di%20Sistema%20europeo%20delle%20banche%20centrali.md), e le corrispondenti modifiche allo statuto della Banca d'Italia entrano in vigore alle date sotto indicate: 
  a) l'art. 7, comma 2, dal 1 ottobre 1998; 
  b) gli articoli 4 e 5, commi 1 e 2, e gli articoli 6, 7, comma 1, e 8 del suddetto [decreto legislativo n. 43 del 1998, dal 1 gennaio 1999](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-01-01;43)."
 
@@ -226,7 +226,7 @@ E' abrogato l'[articolo 11 della legge 26 novembre 1993, n. 483](https://www.nor
 
 AGGIORNAMENTO (1)
 
-Il Decreto 28 settembre 1998 (in G.U. 1/10/1998, n. 229) ha disposto (con l'art. 1, comma 2) che "I seguenti articoli del [decreto legislativo 10 marzo 1998, n. 43](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-03-10;43), e le corrispondenti modifiche allo statuto della Banca d'Italia entrano in vigore alle date sotto indicate: 
+Il Decreto 28 settembre 1998 (in G.U. 1/10/1998, n. 229) ha disposto (con l'art. 1, comma 2) che "I seguenti articoli del [decreto legislativo 10 marzo 1998, n. 43](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Adeguamento%20dellordinamento%20nazionale%20alle%20disposizioni%20del%20trattato%20istitutivo%20della%20Comunita%20europea%20in%20materia%20di%20politica%20monetaria%20e%20di%20Sistema%20europeo%20delle%20banche%20centrali.md), e le corrispondenti modifiche allo statuto della Banca d'Italia entrano in vigore alle date sotto indicate: 
  a) l'art. 7, comma 2, dal 1 ottobre 1998; 
  b) gli articoli 4 e 5, commi 1 e 2, e gli articoli 6, 7, comma 1, e 8 del suddetto [decreto legislativo n. 43 del 1998, dal 1 gennaio 1999](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-01-01;43)."
 

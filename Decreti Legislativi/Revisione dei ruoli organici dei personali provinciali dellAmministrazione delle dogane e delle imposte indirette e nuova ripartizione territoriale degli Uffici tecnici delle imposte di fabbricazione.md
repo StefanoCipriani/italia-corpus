@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4), con le modificazioni ad esso apportate dall'[art. 3, comma primo, del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98#art_3-com1);
+Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4), con le modificazioni ad esso apportate dall'[art. 3, comma primo, del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Viste le disposizioni transitorie I e XV della Costituzione;
 
@@ -80,7 +80,7 @@ L'organizzazione territoriale degli Uffici tecnici della imposte di fabbricazion
 
 AGGIORNAMENTO (2)
 
-La [L. 14 marzo 1961, n. 173](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-03-14;173) ha disposto (con l'art. 5) che "L'organizzazione territoriale degli Uffici tecnici delle imposte di fabbricazione, di cui al [decreto legislativo 1 aprile 1948, n. 349](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-04-01;349), ratificato con [legge 24 febbraio 1953, n. 110](../DL%20e%20leggi%20di%20conversione/Ratifica%20del%20decreto%20legislativo%201%20aprile%201948%20n.%20349%20concernente%20revisione%20dei%20ruoli%20organici%20dei%20personali%20della%20Amministrazione%20delle%20dogane%20e%20delle%20imposte%20indirette%20e%20nuova%20ripartizi_609c723f1b24.md), e' modificata come segue:
+La [L. 14 marzo 1961, n. 173](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-03-14;173) ha disposto (con l'art. 5) che "L'organizzazione territoriale degli Uffici tecnici delle imposte di fabbricazione, di cui al [decreto legislativo 1 aprile 1948, n. 349](Revisione%20dei%20ruoli%20organici%20dei%20personali%20provinciali%20dellAmministrazione%20delle%20dogane%20e%20delle%20imposte%20indirette%20e%20nuova%20ripartizione%20territoriale%20degli%20Uffici%20tecnici%20delle%20imposte%20di%20fabbricazione.md), ratificato con [legge 24 febbraio 1953, n. 110](../DL%20e%20leggi%20di%20conversione/Ratifica%20del%20decreto%20legislativo%201%20aprile%201948%20n.%20349%20concernente%20revisione%20dei%20ruoli%20organici%20dei%20personali%20della%20Amministrazione%20delle%20dogane%20e%20delle%20imposte%20indirette%20e%20nuova%20ripartizi_609c723f1b24.md), e' modificata come segue:
  Il numero degli Uffici tecnici delle imposte di fabbricazione viene elevato da 33 a 40. Essi hanno sede nei capoluoghi di provincia indicati nell'allegato n. 3 alla presente legge, con le circoscrizioni previste dallo stesso allegato.
  Il Magazzino centrale del materiale delle imposte di fabbricazione con l'annessa officina e' equiparato, agli effetti amministrativi e contabili, ad un Ufficio tecnico delle imposte di fabbricazione".
 
@@ -92,7 +92,7 @@ Gli impiegati del ruolo provinciale di gruppo B delle Dogane nominati in detto r
 
 ## Art. 12.
 
-Il Ministero delle finanze e' autorizzato a conferire tante promozioni in soprannumero nel grado di archivista del ruolo unico della carriera d'ordine dell'Amministrazione centrale e delle Intendenze di finanza, quanti saranno gli archivisti del ruolo della carriera d'ordine dell'Amministrazione centrale del tesoro che verranno trasferiti nel corrispondente grado del cennato ruolo unico, in applicazione dell'[art. 3, comma secondo, del decreto luogotenenziale 28 ottobre 1944, n. 356](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-10-28;356#art_3-com2).
+Il Ministero delle finanze e' autorizzato a conferire tante promozioni in soprannumero nel grado di archivista del ruolo unico della carriera d'ordine dell'Amministrazione centrale e delle Intendenze di finanza, quanti saranno gli archivisti del ruolo della carriera d'ordine dell'Amministrazione centrale del tesoro che verranno trasferiti nel corrispondente grado del cennato ruolo unico, in applicazione dell'[art. 3, comma secondo, del decreto luogotenenziale 28 ottobre 1944, n. 356](../Decreti%20legislativi%20luogotenenziali/Nuove%20tabelle%20organiche%20del%20personale%20dipendente%20dai%20Ministeri%20delle%20finanze%20e%20del%20tesoro.%20044U0356.md).
  In corrispondenza di tali soprannumeri saranno tenuti scoperti altrettanti posti nel grado iniziale del ruolo unico della carriera d'ordine dell'Amministrazione centrale e delle Intendenze di finanza fino a completo riassorbimento da effettuarsi in ragione della meta' delle vacanze che si verificheranno nel grado 11° a cominciare dal 1 gennaio 1950.
 
 ## Art. 13.

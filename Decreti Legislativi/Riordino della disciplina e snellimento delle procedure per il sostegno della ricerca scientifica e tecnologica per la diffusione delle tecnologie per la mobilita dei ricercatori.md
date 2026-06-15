@@ -14,7 +14,7 @@ Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cos
 
 Vista la [legge 9 maggio 1989, n. 168](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-05-09;168), e successive modificazioni e integrazioni;
 
-Vista la [legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59), ed in particolare l'articolo 11, comma 1, lettera d), e l'articolo 18, comma 1, lettere c), d) ed f);
+Vista la [legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), ed in particolare l'articolo 11, comma 1, lettera d), e l'articolo 18, comma 1, lettere c), d) ed f);
 
 Visto l'[articolo 1, comma 12, della legge 16 giugno 1998, n. 191](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1998-06-16;191#art_1-com12);
 
@@ -26,7 +26,7 @@ Visto il [decreto legislativo 5 giugno 1998, n. 204](Disposizioni%20per%20il%20c
 
 Vista la preliminare deliberazione del Consiglio dei Ministri, adottato nella riunione del 7 maggio 1999;
 
-Visto il parere espresso dalla commissione parlamentare di cui all'articolo 5 della citata [legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59);
+Visto il parere espresso dalla commissione parlamentare di cui all'articolo 5 della citata [legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md);
 
 Vista la deliberazione del Consiglio dei Ministri adottata nella riunione del 23 luglio 1999;
 
@@ -68,7 +68,7 @@ Ai sensi del presente titolo si intendono:
 AGGIORNAMENTO (4)
 
 Il [D.L. 22 giugno 2012, n. 83](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-06-22;83),convertito, con modificazioni, dalla [L. 7 agosto 2012, n. 134](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2022%20giugno%202012%20n.%2083%20recante%20misure%20urgenti%20per%20la%20crescita%20del%20Paese.%2012G0152.md) ha disposto (con l'art. 63, comma 1, lettera b)) che "A decorrere dalla data di entrata in vigore del decreto di cui all'articolo 62, comma 2, sono abrogati: [...] 
- b) il [decreto legislativo 27 luglio 1999, n. 297](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-07-27;297), e successive modificazioni".
+ b) il [decreto legislativo 27 luglio 1999, n. 297](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20disciplina%20e%20snellimento%20delle%20procedure%20per%20il%20sostegno%20della%20ricerca%20scientifica%20e%20tecnologica%20per%20la%20diffusione%20delle%20tecnologie%20per%20la%20mobilita%20dei%20ricercatori.md), e successive modificazioni".
 
 ### Art. 2. — Soggetti ammissibili
 
@@ -85,7 +85,7 @@ Sono soggetti ammissibili agli interventi di cui al presente titolo:
                                 societa', consorzi e societa' consortili comunque costituite, con partecipazione in ogni caso superiore al 50 per cento, ovvero al 30 per cento se hanno sede in aree depresse, da imprese e centri di ricerca di cui alle lettere a), b) e c), nonche' eventualmente da altri soggetti tra: universita', enti di ricerca, ENEA, ASI, societa' di assicurazione, banche iscritte all'albo di cui all'[articolo 13 del decreto legislativo 1 settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_13), intermediari finanziari iscritti nell'elenco generale di cui all'[articolo 106 del decreto legislativo 1 settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_106), fondi mobiliari chiusi istituiti con [legge 14 agosto 1993, n. 344](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20e%20disciplina%20dei%20fondi%20comuni%20di%20investimento%20mobiliare%20chiusi.md), societa' finanziarie per l'innovazione e lo sviluppo istituite con l'[articolo 2 della legge 31 luglio 1991, n. 317](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-07-31;317#art_2), fondi mobiliari chiusi di cui all'[articolo 37 del decreto legislativo 24 febbraio 1998, n. 58](Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), intermediari finanziari iscritti all'albo di cui all'[articolo 107 del decreto legislativo 1 settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_107);
                             e)
                                 societa' di recente costituzione ovvero da costituire, finalizzate all'utilizzazione industriale dei risultati della ricerca, per le attivita' di cui all'articolo 3, comma 1, lettera b), numero 1, con la partecipazione azionaria o il concorso, o comunque con il relativo impegno di tutti o alcuni tra i seguenti soggetti: 
- 1) professori e ricercatori universitari, personale di ricerca dipendente da enti di ricerca, ENEA e ASI, nonche' dottorandi di ricerca e titolari di assegni di ricerca di cui all'[articolo 51, comma 6, della legge 27 dicembre 1997, n. 449](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-12-27;449#art_51-com6), sulla base di regolamenti delle universita' e degli enti di appartenenza, che ne disciplinino la procedura autorizzativa e il collocamento in aspettativa ovvero il mantenimento in servizio o nel corso di studio, nonche' le questioni relative ai diritti di proprieta' intellettuale e che definiscano le limitazioni volte a prevenire i conflitti di interesse con le societa' costituite o da costituire; 
+ 1) professori e ricercatori universitari, personale di ricerca dipendente da enti di ricerca, ENEA e ASI, nonche' dottorandi di ricerca e titolari di assegni di ricerca di cui all'[articolo 51, comma 6, della legge 27 dicembre 1997, n. 449](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20per%20la%20stabilizzazione%20della%20finanza%20pubblica.md), sulla base di regolamenti delle universita' e degli enti di appartenenza, che ne disciplinino la procedura autorizzativa e il collocamento in aspettativa ovvero il mantenimento in servizio o nel corso di studio, nonche' le questioni relative ai diritti di proprieta' intellettuale e che definiscano le limitazioni volte a prevenire i conflitti di interesse con le societa' costituite o da costituire; 
  2) soggetti di cui alle lettere a), b), c), d) e f); 
  3) societa' di assicurazione, banche iscritte all'albo di cui all'[articolo 13 del decreto legislativo 1 settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_13), intermediari finanziari iscritti nell'elenco generale di cui all'[articolo 106 del decreto legislativo 1 settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_106), fondi mobiliari chiusi istituiti con [legge 14 agosto 1993, n. 344](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20e%20disciplina%20dei%20fondi%20comuni%20di%20investimento%20mobiliare%20chiusi.md), societa' finanziarie per l'innovazione e lo sviluppo istituite con l'[articolo 2 della legge n. 317 del 31 luglio 1991](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-07-31;317#art_2), fondi mobiliari chiusi di cui all'[articolo 37 del decreto legislativo 24 febbraio 1998, n. 58](Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), intermediari finanziari iscritti all'albo di cui all'[articolo 107 del decreto legislativo 1 settembre 1993, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-09-01;385#art_107);
                             f)
@@ -142,7 +142,7 @@ Le variazioni del progetto senza aumento di spesa approvate in ambito comunitari
 AGGIORNAMENTO (4)
 
 Il [D.L. 22 giugno 2012, n. 83](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-06-22;83),convertito, con modificazioni, dalla [L. 7 agosto 2012, n. 134](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2022%20giugno%202012%20n.%2083%20recante%20misure%20urgenti%20per%20la%20crescita%20del%20Paese.%2012G0152.md) ha disposto (con l'art. 63, comma 1, lettera b)) che "A decorrere dalla data di entrata in vigore del decreto di cui all'articolo 62, comma 2, sono abrogati: [...] 
- b) il [decreto legislativo 27 luglio 1999, n. 297](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-07-27;297), e successive modificazioni".
+ b) il [decreto legislativo 27 luglio 1999, n. 297](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20disciplina%20e%20snellimento%20delle%20procedure%20per%20il%20sostegno%20della%20ricerca%20scientifica%20e%20tecnologica%20per%20la%20diffusione%20delle%20tecnologie%20per%20la%20mobilita%20dei%20ricercatori.md), e successive modificazioni".
 
 ### Art. 3. — Attivita' finanziabili
 
@@ -164,7 +164,7 @@ Sono ammissibili per:
  1) le assunzioni di titolari di diploma universitario, di diploma di laurea, di specializzazione e di dottorato di ricerca per avviamento ad attivita' di ricerca, da parte di soggetti industriali e assimilati; 
  2) i distacchi temporanei di cui al comma 2; 
  3) l'alta formazione di ricercatori e tecnici di ricerca operanti nel settore industriale; 
- 4) l'assunzione, da parte di soggetti industriali e assimilati, di oneri relativi a borse di studio concesse per la frequenza a corsi di dottorato di ricerca, nonche' ad assegni di ricerca di cui all'[articolo 51, comma 6, della legge 27 dicembre 1997, n. 449](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-12-27;449#art_51-com6), nel caso il relativo programma di ricerca sia concordato con il medesimo soggetto industriale o assimilato;
+ 4) l'assunzione, da parte di soggetti industriali e assimilati, di oneri relativi a borse di studio concesse per la frequenza a corsi di dottorato di ricerca, nonche' ad assegni di ricerca di cui all'[articolo 51, comma 6, della legge 27 dicembre 1997, n. 449](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20per%20la%20stabilizzazione%20della%20finanza%20pubblica.md), nel caso il relativo programma di ricerca sia concordato con il medesimo soggetto industriale o assimilato;
                             d)
                                 interventi di sostegno ad infrastrutture, strutture e servizi per la ricerca industriale, come definita ai sensi dell'articolo 1, comma 2, e per la diffusione delle tecnologie: 
  1) l'affidamento da parte di soggetti industriali e assimilati a laboratori di ricerca esterni pubblici e privati, dei quali si sia accertata la qualificazione e l'idoneita', di studi e ricerche sui processi produttivi, di attivita' applicative dei risultati della ricerca, di formazione del personale tecnico per l'utilizzazione di nuove tecnologie, di prove e test sperimentali; 
@@ -180,7 +180,7 @@ Il distacco avviene sulla base di intese tra le parti che regolano le funzioni, 
 AGGIORNAMENTO (4)
 
 Il [D.L. 22 giugno 2012, n. 83](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-06-22;83),convertito, con modificazioni, dalla [L. 7 agosto 2012, n. 134](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2022%20giugno%202012%20n.%2083%20recante%20misure%20urgenti%20per%20la%20crescita%20del%20Paese.%2012G0152.md) ha disposto (con l'art. 63, comma 1, lettera b)) che "A decorrere dalla data di entrata in vigore del decreto di cui all'articolo 62, comma 2, sono abrogati: [...] 
- b) il [decreto legislativo 27 luglio 1999, n. 297](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-07-27;297), e successive modificazioni".
+ b) il [decreto legislativo 27 luglio 1999, n. 297](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20disciplina%20e%20snellimento%20delle%20procedure%20per%20il%20sostegno%20della%20ricerca%20scientifica%20e%20tecnologica%20per%20la%20diffusione%20delle%20tecnologie%20per%20la%20mobilita%20dei%20ricercatori.md), e successive modificazioni".
 
 ### Art. 4. — Strumenti
 
@@ -194,17 +194,17 @@ Sono strumenti di intervento:
                             c)
                                 i contributi in conto interessi;
                             d)
-                                i crediti di imposta ai sensi dell'[articolo 5 della legge 27 dicembre 1997, n. 449](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-12-27;449#art_5), con le integrazioni di cui al comma 2;
+                                i crediti di imposta ai sensi dell'[articolo 5 della legge 27 dicembre 1997, n. 449](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20per%20la%20stabilizzazione%20della%20finanza%20pubblica.md), con le integrazioni di cui al comma 2;
                             e)
                                 la prestazione di garanzie;
                             f)
-                                gli atti di cui all'[articolo 2, commi da 203](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;662#art_2-com203) [a 207, della legge 23 dicembre 1996, n. 662](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;662#art_2-com207), in conformita' alle delibere del Comitato interministeriale per la programmazione economica (CIPE);
+                                gli atti di cui all'[articolo 2, commi da 203](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_3.md) [a 207, della legge 23 dicembre 1996, n. 662](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_3.md), in conformita' alle delibere del Comitato interministeriale per la programmazione economica (CIPE);
                             g)
                                 il bonus fiscale, ai sensi dell'[articolo 7, commi 1](Disposizioni%20per%20la%20razionalizzazione%20degli%20interventi%20di%20sostegno%20pubblico%20alle%20imprese%20a%20norma%20dellarticolo%204%20comma%204%20lettera%20c%20della%20legge%2015%20marzo%201997%20n.%2059.md) e [4, del decreto legislativo 31 marzo 1998, n. 123](Disposizioni%20per%20la%20razionalizzazione%20degli%20interventi%20di%20sostegno%20pubblico%20alle%20imprese%20a%20norma%20dellarticolo%204%20comma%204%20lettera%20c%20della%20legge%2015%20marzo%201997%20n.%2059.md).
 
 2.
 
-I crediti di cui all'[articolo 5 della legge 27 dicembre 1997, n. 449](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-12-27;449#art_5), possono essere erogati anche per le attivita' di cui all'articolo 3, comma 1, lettera b), numero 1), anche con riferimento agli utili e alle plusvalenze derivanti dalle partecipazioni ivi previste e alle imposte sostitutive dovute dai fondi mobiliari chiusi, in conformita' ad apposite modifiche e integrazioni del [decreto interministeriale 22 luglio 1998, n. 275](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1998-07-22;275), nonche' nei limiti delle disponibilita' finanziarie di cui all'[articolo 5, comma 7, della legge 27 dicembre 1997, n. 449](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-12-27;449#art_5-com7).
+I crediti di cui all'[articolo 5 della legge 27 dicembre 1997, n. 449](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20per%20la%20stabilizzazione%20della%20finanza%20pubblica.md), possono essere erogati anche per le attivita' di cui all'articolo 3, comma 1, lettera b), numero 1), anche con riferimento agli utili e alle plusvalenze derivanti dalle partecipazioni ivi previste e alle imposte sostitutive dovute dai fondi mobiliari chiusi, in conformita' ad apposite modifiche e integrazioni del [decreto interministeriale 22 luglio 1998, n. 275](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1998-07-22;275), nonche' nei limiti delle disponibilita' finanziarie di cui all'[articolo 5, comma 7, della legge 27 dicembre 1997, n. 449](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20per%20la%20stabilizzazione%20della%20finanza%20pubblica.md).
 
 3.
 
@@ -215,7 +215,7 @@ Per gli interventi di finanziamento previsti dal presente titolo ed erogati dal 
 AGGIORNAMENTO (4)
 
 Il [D.L. 22 giugno 2012, n. 83](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-06-22;83),convertito, con modificazioni, dalla [L. 7 agosto 2012, n. 134](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2022%20giugno%202012%20n.%2083%20recante%20misure%20urgenti%20per%20la%20crescita%20del%20Paese.%2012G0152.md) ha disposto (con l'art. 63, comma 1, lettera b)) che "A decorrere dalla data di entrata in vigore del decreto di cui all'articolo 62, comma 2, sono abrogati: [...] 
- b) il [decreto legislativo 27 luglio 1999, n. 297](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-07-27;297), e successive modificazioni".
+ b) il [decreto legislativo 27 luglio 1999, n. 297](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20disciplina%20e%20snellimento%20delle%20procedure%20per%20il%20sostegno%20della%20ricerca%20scientifica%20e%20tecnologica%20per%20la%20diffusione%20delle%20tecnologie%20per%20la%20mobilita%20dei%20ricercatori.md), e successive modificazioni".
 
 ### Art. 5. — Fondo agevolazioni per la ricerca
 
@@ -232,7 +232,7 @@ Il Ministro del tesoro, del bilancio e della programmazione economica e' autoriz
 AGGIORNAMENTO (4)
 
 Il [D.L. 22 giugno 2012, n. 83](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-06-22;83),convertito, con modificazioni, dalla [L. 7 agosto 2012, n. 134](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2022%20giugno%202012%20n.%2083%20recante%20misure%20urgenti%20per%20la%20crescita%20del%20Paese.%2012G0152.md) ha disposto (con l'art. 63, comma 1, lettera b)) che "A decorrere dalla data di entrata in vigore del decreto di cui all'articolo 62, comma 2, sono abrogati: [...] 
- b) il [decreto legislativo 27 luglio 1999, n. 297](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-07-27;297), e successive modificazioni".
+ b) il [decreto legislativo 27 luglio 1999, n. 297](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20disciplina%20e%20snellimento%20delle%20procedure%20per%20il%20sostegno%20della%20ricerca%20scientifica%20e%20tecnologica%20per%20la%20diffusione%20delle%20tecnologie%20per%20la%20mobilita%20dei%20ricercatori.md), e successive modificazioni".
 
 ### Art. 6. — Modalita' di attuazione
 
@@ -246,7 +246,7 @@ Con decreti di natura non regolamentare emanati dal Ministro dell'universita' e 
 
 3.
 
-Per la concessione dei crediti di imposta per ricerca e sviluppo precompetitivo si applicano le disposizioni di cui all'[articolo 5 della legge 27 dicembre 1997, n. 449](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-12-27;449#art_5), e successive modificazioni e integrazioni, nonche' al [decreto interministeriale 22 luglio 1998, n. 275](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1998-07-22;275), fatta salva la facolta' di modificare con i decreti di cui al comma 2, nel limite delle risorse finanziarie disponibili, gli importi delle agevolazioni e la loro cumulabilita', di cui all'[articolo 5, comma 1, lettere a)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-12-27;449#art_5-com1-leta) e [b), della legge 27 dicembre 1997, n. 449](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-12-27;449#art_5-com1-letb) e di cui all'articolo 3 del predetto decreto interministeriale, nonche' con gli interventi previsti dall'articolo 3, comma 1, lettera c), numero 1).
+Per la concessione dei crediti di imposta per ricerca e sviluppo precompetitivo si applicano le disposizioni di cui all'[articolo 5 della legge 27 dicembre 1997, n. 449](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20per%20la%20stabilizzazione%20della%20finanza%20pubblica.md), e successive modificazioni e integrazioni, nonche' al [decreto interministeriale 22 luglio 1998, n. 275](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1998-07-22;275), fatta salva la facolta' di modificare con i decreti di cui al comma 2, nel limite delle risorse finanziarie disponibili, gli importi delle agevolazioni e la loro cumulabilita', di cui all'[articolo 5, comma 1, lettere a)](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20per%20la%20stabilizzazione%20della%20finanza%20pubblica.md) e [b), della legge 27 dicembre 1997, n. 449](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20per%20la%20stabilizzazione%20della%20finanza%20pubblica.md) e di cui all'articolo 3 del predetto decreto interministeriale, nonche' con gli interventi previsti dall'articolo 3, comma 1, lettera c), numero 1).
 
 4.
 
@@ -261,7 +261,7 @@ Il MURST iscrive i progetti approvati e i soggetti fruitori degli interventi di 
 AGGIORNAMENTO (4)
 
 Il [D.L. 22 giugno 2012, n. 83](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-06-22;83),convertito, con modificazioni, dalla [L. 7 agosto 2012, n. 134](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2022%20giugno%202012%20n.%2083%20recante%20misure%20urgenti%20per%20la%20crescita%20del%20Paese.%2012G0152.md) ha disposto (con l'art. 63, comma 1, lettera b)) che "A decorrere dalla data di entrata in vigore del decreto di cui all'articolo 62, comma 2, sono abrogati: [...] 
- b) il [decreto legislativo 27 luglio 1999, n. 297](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-07-27;297), e successive modificazioni".
+ b) il [decreto legislativo 27 luglio 1999, n. 297](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20disciplina%20e%20snellimento%20delle%20procedure%20per%20il%20sostegno%20della%20ricerca%20scientifica%20e%20tecnologica%20per%20la%20diffusione%20delle%20tecnologie%20per%20la%20mobilita%20dei%20ricercatori.md), e successive modificazioni".
 
 ### Art. 7. — Servizi e consulenza
 
@@ -311,7 +311,7 @@ Con decreto del Ministro dell'istruzione, dell'universita' e della ricerca sono 
 AGGIORNAMENTO (4)
 
 Il [D.L. 22 giugno 2012, n. 83](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-06-22;83),convertito, con modificazioni, dalla [L. 7 agosto 2012, n. 134](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2022%20giugno%202012%20n.%2083%20recante%20misure%20urgenti%20per%20la%20crescita%20del%20Paese.%2012G0152.md) ha disposto (con l'art. 63, comma 1, lettera b)) che "A decorrere dalla data di entrata in vigore del decreto di cui all'articolo 62, comma 2, sono abrogati: [...] 
- b) il [decreto legislativo 27 luglio 1999, n. 297](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-07-27;297), e successive modificazioni".
+ b) il [decreto legislativo 27 luglio 1999, n. 297](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20disciplina%20e%20snellimento%20delle%20procedure%20per%20il%20sostegno%20della%20ricerca%20scientifica%20e%20tecnologica%20per%20la%20diffusione%20delle%20tecnologie%20per%20la%20mobilita%20dei%20ricercatori.md), e successive modificazioni".
 
 ### Art. 8. — Monitoraggio e valutazione
 
@@ -329,7 +329,7 @@ Il MURST nell'ambito delle attivita' di monitoraggio di cui al comma 1, predispo
 AGGIORNAMENTO (4)
 
 Il [D.L. 22 giugno 2012, n. 83](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-06-22;83),convertito, con modificazioni, dalla [L. 7 agosto 2012, n. 134](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2022%20giugno%202012%20n.%2083%20recante%20misure%20urgenti%20per%20la%20crescita%20del%20Paese.%2012G0152.md) ha disposto (con l'art. 63, comma 1, lettera b)) che "A decorrere dalla data di entrata in vigore del decreto di cui all'articolo 62, comma 2, sono abrogati: [...] 
- b) il [decreto legislativo 27 luglio 1999, n. 297](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-07-27;297), e successive modificazioni".
+ b) il [decreto legislativo 27 luglio 1999, n. 297](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20disciplina%20e%20snellimento%20delle%20procedure%20per%20il%20sostegno%20della%20ricerca%20scientifica%20e%20tecnologica%20per%20la%20diffusione%20delle%20tecnologie%20per%20la%20mobilita%20dei%20ricercatori.md), e successive modificazioni".
 
 ### Art. 9. — Norme transitorie e finali
 
@@ -355,7 +355,7 @@ A decorrere dalla data di entrata in vigore del primo decreto di cui all'articol
  3) [articolo 70, commi 3](../DPR/Testo%20unico%20delle%20leggi%20sugli%20interventi%20nel%20Mezzogiorno.md), [4](../DPR/Testo%20unico%20delle%20leggi%20sugli%20interventi%20nel%20Mezzogiorno.md) e [5 del decreto del Presidente della Repubblica 6 marzo 1978, n. 218](../DPR/Testo%20unico%20delle%20leggi%20sugli%20interventi%20nel%20Mezzogiorno.md); 
  4) [articoli dal 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-02-17;46#art_2) [al 12 della legge 17 febbraio 1982, n. 46](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-02-17;46#art_12); 
  5) [articolo 12, commi 8](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disciplina%20organica%20dellintervento%20straordinario%20nel%20Mezzogiorno.md), [9](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disciplina%20organica%20dellintervento%20straordinario%20nel%20Mezzogiorno.md) e [11 della legge 1 marzo 1986, n. 64](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disciplina%20organica%20dellintervento%20straordinario%20nel%20Mezzogiorno.md); 
- 6) [articolo 15, commi 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-03-11;67#art_15-com3) e [4, della legge 11 marzo 1988, n. 67](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-03-11;67#art_15-com4); 
+ 6) [articolo 15, commi 3](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201988.md) e [4, della legge 11 marzo 1988, n. 67](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201988.md); 
  7) [articolo 1, comma 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-05;346#art_1-com2), [articoli 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-05;346#art_2), [3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-05;346#art_3), [4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-05;346#art_4) e [5 della legge 5 agosto 1988, n. 346](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-05;346#art_5); 
  8) [articolo 11, commi 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1994-05-16;299#art_11-com2), [3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1994-05-16;299#art_11-com3) e [4 del decreto-legge 16 maggio 1994,  n. 299](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1994-05-16;299#art_11-com4), convertito, con modificazioni, dalla [legge 19 luglio 1994, n. 451](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2016%20maggio%201994%20n.%20299%20recante%20disposizioni%20urgenti%20in%20materia%20di%20occupazione%20e%20di%20fiscalizzazione%20degli%20oneri%20sociali.md); 
  9) [articolo 1, comma 1, lettera d), del decreto-legge 23 settembre 
@@ -363,7 +363,7 @@ A decorrere dalla data di entrata in vigore del primo decreto di cui all'articol
  dalle parole "di cui il 30 per cento" fino alla fine della lettera; 
  10) [articolo 3, commi 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-01-31;26#art_3-com2), [2-bis](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-01-31;26#art_3-com2bis) e [3 del decretolegge 31 gennaio 1995, n. 26](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-01-31;26#art_3-com3), convertito dalla [legge 29 marzo 1995, n. 95](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20gennaio%201995%20n.%2026%20recante%20disposizioni%20urgenti%20per%20la%20ripresa%20delle%20attivita%20imprenditoriali.md); 
  11) [articolo 6, commi 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-02-08;32#art_6-com2), [3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-02-08;32#art_6-com3), [4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-02-08;32#art_6-com4) e [6 del decreto-legge 8 febbraio 1995, n. 32](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-02-08;32#art_6-com6), convertito dalla [legge 7 aprile 1995, n. 104](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20decreto-legge%208%20febbraio%201995%20n.%2032%20recante%20disposizioni%20urgenti%20per%20accelerare%20la%20concessione%20delle%20agevolazioni%20alle%20attivita%20gestite%20dalla%20soppressa%20Agenzia%20pe_2462a9c7f775.md); 
- 12) [articolo 1, comma 35, della legge 28 dicembre 1995, n. 549](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-12-28;549#art_1-com35); 
+ 12) [articolo 1, comma 35, della legge 28 dicembre 1995, n. 549](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_2.md); 
  13) [articolo 14 della legge 24 giugno 1997, n. 196](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-06-24;196#art_14); 
  14) [articolo 45, commi 15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1998-12-23;448#art_45-com15) e [16 della legge 23 dicembre 1998, n. 448](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1998-12-23;448#art_45-com16);
                             b)
@@ -381,7 +381,7 @@ A decorrere dalla data di entrata in vigore del primo decreto di cui all'articol
 AGGIORNAMENTO (4)
 
 Il [D.L. 22 giugno 2012, n. 83](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-06-22;83),convertito, con modificazioni, dalla [L. 7 agosto 2012, n. 134](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2022%20giugno%202012%20n.%2083%20recante%20misure%20urgenti%20per%20la%20crescita%20del%20Paese.%2012G0152.md) ha disposto (con l'art. 63, comma 1, lettera b)) che "A decorrere dalla data di entrata in vigore del decreto di cui all'articolo 62, comma 2, sono abrogati: [...] 
- b) il [decreto legislativo 27 luglio 1999, n. 297](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-07-27;297), e successive modificazioni".
+ b) il [decreto legislativo 27 luglio 1999, n. 297](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20disciplina%20e%20snellimento%20delle%20procedure%20per%20il%20sostegno%20della%20ricerca%20scientifica%20e%20tecnologica%20per%20la%20diffusione%20delle%20tecnologie%20per%20la%20mobilita%20dei%20ricercatori.md), e successive modificazioni".
 
 ### Art. 10. — Norme di coordinamento con le competenze del Ministero 
 dell'industria, del commercio e dell'artigianato
@@ -417,7 +417,7 @@ Il Ministero dell'industria, del commercio e dell'artigianato e' autorizzato ad 
 AGGIORNAMENTO (4)
 
 Il [D.L. 22 giugno 2012, n. 83](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-06-22;83),convertito, con modificazioni, dalla [L. 7 agosto 2012, n. 134](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2022%20giugno%202012%20n.%2083%20recante%20misure%20urgenti%20per%20la%20crescita%20del%20Paese.%2012G0152.md) ha disposto (con l'art. 63, comma 1, lettera b)) che "A decorrere dalla data di entrata in vigore del decreto di cui all'articolo 62, comma 2, sono abrogati: [...] 
- b) il [decreto legislativo 27 luglio 1999, n. 297](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-07-27;297), e successive modificazioni".
+ b) il [decreto legislativo 27 luglio 1999, n. 297](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20disciplina%20e%20snellimento%20delle%20procedure%20per%20il%20sostegno%20della%20ricerca%20scientifica%20e%20tecnologica%20per%20la%20diffusione%20delle%20tecnologie%20per%20la%20mobilita%20dei%20ricercatori.md), e successive modificazioni".
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

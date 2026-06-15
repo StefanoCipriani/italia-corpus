@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4), con le modificazioni ad esso apportate dall'[art. 3, comma primo, del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98#art_3-com1);
+Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4), con le modificazioni ad esso apportate dall'[art. 3, comma primo, del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Vista le disposizioni transitorie I e XV della Costituzione;
 
@@ -28,7 +28,7 @@ Con effetto dal 1 gennaio 1948, la misura dei canoni annuali di cui all'[art. 1 
 
 AGGIORNAMENTO (1)
 
-La [L. 15 marzo 1956, n. 210](../Atti%20normativi%20abrogati%20%28in%20originale%29/Adeguamento%20dei%20canoni%20di%20linee%20telefoniche%20ad%20uso%20privato%20e%20del%20canone%20per%20le%20linee%20telefoniche%20colleganti%20elettrodotti%20diversi%20tra%20loro%20interconnessi.md) ha disposto (con l'art. 1, comma 1) che "La misura dei canoni annuali per le concessioni di linee telefoniche ad uso privato, prevista dall'[art. 1 del decreto legislativo 4 gennaio 1948, n. 339](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-01-04;339#art_1), e' elevata a lire 10.000 per ogni circuito di comunicazione fino a tre chilometri con due stazioni, ed a lire 1500 per ogni chilometro o frazione in piu' dei primi tre e per ogni stazione in piu' delle prime due".
+La [L. 15 marzo 1956, n. 210](../Atti%20normativi%20abrogati%20%28in%20originale%29/Adeguamento%20dei%20canoni%20di%20linee%20telefoniche%20ad%20uso%20privato%20e%20del%20canone%20per%20le%20linee%20telefoniche%20colleganti%20elettrodotti%20diversi%20tra%20loro%20interconnessi.md) ha disposto (con l'art. 1, comma 1) che "La misura dei canoni annuali per le concessioni di linee telefoniche ad uso privato, prevista dall'[art. 1 del decreto legislativo 4 gennaio 1948, n. 339](Aumento%20dei%20canoni%20di%20concessione%20di%20linee%20telefoniche%20ad%20uso%20privato%20nonche%20applicazione%20di%20un%20apposito%20canone%20per%20le%20linee%20telefoniche%20collganti%20elettrodotti%20diversi.md), e' elevata a lire 10.000 per ogni circuito di comunicazione fino a tre chilometri con due stazioni, ed a lire 1500 per ogni chilometro o frazione in piu' dei primi tre e per ogni stazione in piu' delle prime due".
 
 ## Art. 2.
 

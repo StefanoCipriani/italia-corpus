@@ -12,11 +12,11 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76), [87](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87) e [117 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_117);
 
-Vista la [legge 15 dicembre 2004, n. 308](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-12-15;308), recante delega al Governo per il riordino, il coordinamento e l'integrazione della legislazione in materia ambientale e misure di diretta applicazione;
+Vista la [legge 15 dicembre 2004, n. 308](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20riordino%20il%20coordinamento%20e%20lintegrazione%20della%20legislazione%20in%20materia%20ambientale%20e%20misure%20di%20diretta%20applicazione.md), recante delega al Governo per il riordino, il coordinamento e l'integrazione della legislazione in materia ambientale e misure di diretta applicazione;
 
 Visto l'[articolo 14 della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_14), recante disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri;
 
-Visto il [decreto legislativo 31 marzo 1998, n. 112](Conferimento%20di%20funzioni%20e%20compiti%20amministrativi%20dello%20Stato%20alle%20regioni%20ed%20agli%20enti%20locali%20in%20attuazione%20del%20capo%20I%20della%20legge%2015%20marzo%201997%20n.%2059.md), recante conferimento di funzioni e compiti amministrativi dello Stato alle regioni ed agli enti locali, in attuazione del capo I della [legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59);
+Visto il [decreto legislativo 31 marzo 1998, n. 112](Conferimento%20di%20funzioni%20e%20compiti%20amministrativi%20dello%20Stato%20alle%20regioni%20ed%20agli%20enti%20locali%20in%20attuazione%20del%20capo%20I%20della%20legge%2015%20marzo%201997%20n.%2059.md), recante conferimento di funzioni e compiti amministrativi dello Stato alle regioni ed agli enti locali, in attuazione del capo I della [legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md);
 
 Viste le [direttive 2001/42/CE del Parlamento europeo e del Consiglio, del 27 giugno 2001](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2001;42), concernente la valutazione degli effetti di determinati piani e programmi sull'ambiente, e 85/337/CEE del Consiglio, del 27 giugno 1985, come modificata dalle [direttive 97/11/CE del Consiglio, del 3 marzo 1997](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1997;11), e [2003/35/CE del Parlamento europeo e del Consiglio, del 26 maggio 2003](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2003;35), concernente la valutazione di impatto ambientale di determinati progetti pubblici e privati, nonche' riordino e coordinamento delle procedure per la valutazione di impatto ambientale (VIA), per la valutazione ambientale strategica (VAS) e per la prevenzione e riduzione integrate dell'inquinamento (IPPC);
 
@@ -66,7 +66,7 @@ PARTE PRIMA
 
 1.
 
-Il presente decreto legislativo disciplina, in attuazione della [legge 15 dicembre 2004, n. 308](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-12-15;308), le materie seguenti:
+Il presente decreto legislativo disciplina, in attuazione della [legge 15 dicembre 2004, n. 308](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20riordino%20il%20coordinamento%20e%20lintegrazione%20della%20legislazione%20in%20materia%20ambientale%20e%20misure%20di%20diretta%20applicazione.md), le materie seguenti:
                             a)
                                 nella parte seconda, le procedure per la valutazione ambientale strategica (VAS), per la valutazione d'impatto ambientale (VIA) e per l'autorizzazione ambientale integrata (IPPC);
                             b)
@@ -111,13 +111,13 @@ Avvertenza:
  Le leggi regionali rimuovono ogni ostacolo che impedisce la piena parita' degli uomini e delle donne nella vita sociale, culturale ed economica e promuovono la parita' di accesso tra donne e uomini alle cariche elettive. 
  La legge regionale ratifica le intese della regione con altre regioni per il migliore esercizio delle proprie funzioni, anche con individuazione di organi comuni. 
  Nelle materie di sua competenza la regione puo' concludere accordi con Stati e intese con enti territoriali interni ad altro Stato, nei casi e con le forme disciplinati da leggi dello Stato.". 
- - La [legge 15 dicembre 2004, n. 308](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-12-15;308), recante delega al Governo per il riordino, il coordinamento e l'integrazione della legislazione in materia ambientale e misure di diretta applicazione, e' pubblicata nella Gazzetta Ufficiale 27 dicembre 2004, n. 302, S.O. 
+ - La [legge 15 dicembre 2004, n. 308](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20riordino%20il%20coordinamento%20e%20lintegrazione%20della%20legislazione%20in%20materia%20ambientale%20e%20misure%20di%20diretta%20applicazione.md), recante delega al Governo per il riordino, il coordinamento e l'integrazione della legislazione in materia ambientale e misure di diretta applicazione, e' pubblicata nella Gazzetta Ufficiale 27 dicembre 2004, n. 302, S.O. 
  - L'[art. 14 della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_14), recante disciplina dell'attivita' di governo e ordinamento della Presidenza del Consiglio dei Ministri, pubblicata nella Gazzetta Ufficiale 12 settembre 1988, n. 214, S.O., e' il seguente: 
  "Art. 14 (Decreti legislativi). - 1. I decreti legislativi adottati dal Governo ai sensi dell'[art. 76 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) sono emanati dal Presidente della Repubblica con la denominazione di "decreto legislativo" e con l'indicazione, nel preambolo, della legge di delegazione, della deliberazione del Consiglio dei Ministri e degli altri adempimenti del procedimento prescritti dalla legge di delegazione. 
  2. L'emanazione del decreto legislativo deve avvenire entro il termine fissato dalla legge di delegazione; il testo del decreto legislativo adottato dal Governo e' trasmesso al Presidente della Repubblica, per la emanazione, almeno venti giorni prima della scadenza. 
  3. Se la delega legislativa si riferisce ad una pluralita' di oggetti distinti suscettibili di separata disciplina, il Governo puo' esercitarla mediante piu' atti successivi per uno o piu' degli oggetti predetti. In relazione al termine finale stabilito dalla legge di delegazione, il Governo informa periodicamente le Camere sui criteri che segue nell'organizzazione dell'esercizio della delega. 
  4. In ogni caso, qualora il termine previsto per l'esercizio della delega ecceda i due anni, il Governo e' tenuto a richiedere il parere delle Camere sugli schemi dei decreti delegati. Il parere e' espresso dalle Commissioni permanenti delle due Camere competenti per materia entro sessanta giorni, indicando specificamente le eventuali disposizioni non ritenute corrispondenti alle direttive della legge di delegazione. Il Governo, nei trenta giorni successivi, esaminato il parere, ritrasmette, con le sue osservazioni e con eventuali modificazioni, i testi alle Commissioni per il parere definitivo che deve essere espresso entro trenta giorni.". 
- - Il [decreto legislativo 31 marzo 1988, n. 112](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1988-03-31;112), recante conferimento di funzioni e compiti amministrativi dello Stato alle regioni ed agli enti locali, in attuazione del Capo I della [legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59), e' pubblicato nella Gazzetta Ufficiale 21 aprile 1998, n. 92, S.O. 
+ - Il [decreto legislativo 31 marzo 1988, n. 112](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1988-03-31;112), recante conferimento di funzioni e compiti amministrativi dello Stato alle regioni ed agli enti locali, in attuazione del Capo I della [legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), e' pubblicato nella Gazzetta Ufficiale 21 aprile 1998, n. 92, S.O. 
  - La [direttiva 2001/42/CE del Parlamento europeo e del Consiglio del 27 giugno 2001](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2001;42) concernente la valutazione degli effetti di determinati piani e programmi sull'ambiente, e' pubblicata nella Gazzetta Ufficiale delle Comunita' europee n. [L 197/30 del 21 luglio 2001](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001-07-21;197). 
  - La [direttiva 85/337/CEE del 27 giugno 1985](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1985;337), come modificata dalle [direttive 97/11/CE del 3 marzo 1997](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1997;11) e [2003/35/CE del 26 maggio 2003](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2003;35), concernente la valutazione dell'impatto ambientale di determinati progetti pubblici e privati, e' pubblicata nella Gazzetta Ufficiale delle Comunita' europee n. L 175 del 5 luglio 1985. 
  - La [direttiva 96/61/CE del 24 settembre 1996](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1996;61), sulla prevenzione e la riduzione integrante dell'inquinamento, e' pubblicata nella Gazzetta Ufficiale delle Comunita' europee n. L 257 del 10 ottobre 1996. 
@@ -132,7 +132,7 @@ Avvertenza:
  - La [direttiva 2001/80/CE del Parlamento europeo e del Consiglio](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2001;80), concernente la limitazione delle emissioni nell'atmosfera di taluni inquinanti originati dai grandi impianti di combustione, e' pubblicata nella Gazzetta Ufficiale delle Comunita' europee n. L 309 del 27 novembre 2001. 
  - La [direttiva 2004/35/CE del Parlamento europeo e del Consiglio, del 21 aprile 2004](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2004;35), sulla responsabilita' ambientale in materia di prevenzione e riparazione del danno ambientale, e' pubblicata nella Gazzetta Ufficiale delle Comunita' europee n. L 143 del 30 aprile 2004. 
  Nota all'[art. 1: 
- - La legge 15 dicembre 2004, n. 308](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-12-15;308#art_1), recante: Delega al Governo per il riordino, il coordinamento e l'integrazione della legislazione in materia ambientale e misure di diretta applicazione, e' pubblicata nella Gazzetta Ufficiale n. 302, del 27 dicembre 2004 (S.O.).
+ - La legge 15 dicembre 2004, n. 308](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20riordino%20il%20coordinamento%20e%20lintegrazione%20della%20legislazione%20in%20materia%20ambientale%20e%20misure%20di%20diretta%20applicazione.md), recante: Delega al Governo per il riordino, il coordinamento e l'integrazione della legislazione in materia ambientale e misure di diretta applicazione, e' pubblicata nella Gazzetta Ufficiale n. 302, del 27 dicembre 2004 (S.O.).
 
 ### Art. 2. — (finalita')
 
@@ -142,7 +142,7 @@ Il presente decreto legislativo ha come obiettivo primario la promozione dei liv
 
 2.
 
-Per le finalita' di cui al comma 1, il presente decreto provvede al riordino, al coordinamento e all'integrazione delle disposizioni legislative nelle materie di cui all'articolo 1, in conformita' ai principi e criteri direttivi di cui ai [commi 8](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-12-15;308#art_1-com8) e [9 dell'articolo 1 della legge 15 dicembre 2004, n. 308](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-12-15;308#art_1-com9), e nel rispetto ((degli obblighi internazionali,)) dell'ordinamento comunitario, delle attribuzioni delle regioni e degli enti locali.
+Per le finalita' di cui al comma 1, il presente decreto provvede al riordino, al coordinamento e all'integrazione delle disposizioni legislative nelle materie di cui all'articolo 1, in conformita' ai principi e criteri direttivi di cui ai [commi 8](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20riordino%20il%20coordinamento%20e%20lintegrazione%20della%20legislazione%20in%20materia%20ambientale%20e%20misure%20di%20diretta%20applicazione.md) e [9 dell'articolo 1 della legge 15 dicembre 2004, n. 308](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20riordino%20il%20coordinamento%20e%20lintegrazione%20della%20legislazione%20in%20materia%20ambientale%20e%20misure%20di%20diretta%20applicazione.md), e nel rispetto ((degli obblighi internazionali,)) dell'ordinamento comunitario, delle attribuzioni delle regioni e degli enti locali.
 
 3.
 
@@ -174,7 +174,7 @@ Le disposizioni di cui al presente decreto sono attuate nell'ambito delle risors
 
 AGGIORNAMENTO (40)
 
-Il [D.Lgs. 29 giugno 2010, n. 128](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-06-29;128) ha disposto (con l'art. 4, comma 2) che "Nel [decreto legislativo 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md), ovunque ricorrano, le parole "Ministero dell'ambiente e della tutela del territorio", sono sostituite dalle seguenti: "Ministero dell'ambiente e della tutela del territorio e del mare", le parole: "Ministro dell'ambiente e della tutela del territorio" sono sostituite dalle seguenti: "Ministro dell'ambiente e della tutela del territorio e del mare", le parole "Agenzia per la protezione dell'ambiente e per i servizi tecnici" sono sostituite dalle seguenti: "Istituto superiore per la protezione e la ricerca ambientale", e la parola "APAT" e' sostituita dalla seguente: "ISPRA"".
+Il [D.Lgs. 29 giugno 2010, n. 128](Modifiche%20ed%20integrazioni%20al%20decreto%20legislativo%203%20aprile%202006%20n.%20152%20recante%20norme%20in%20materia%20ambientale%20a%20norma%20dellarticolo%2012%20della%20legge%2018%20giugno%202009%20n.%2069.%2010G0147.md) ha disposto (con l'art. 4, comma 2) che "Nel [decreto legislativo 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md), ovunque ricorrano, le parole "Ministero dell'ambiente e della tutela del territorio", sono sostituite dalle seguenti: "Ministero dell'ambiente e della tutela del territorio e del mare", le parole: "Ministro dell'ambiente e della tutela del territorio" sono sostituite dalle seguenti: "Ministro dell'ambiente e della tutela del territorio e del mare", le parole "Agenzia per la protezione dell'ambiente e per i servizi tecnici" sono sostituite dalle seguenti: "Istituto superiore per la protezione e la ricerca ambientale", e la parola "APAT" e' sostituita dalla seguente: "ISPRA"".
 
 ### Art. 3-bis. — Principi sulla produzione del diritto ambientale
 
@@ -282,7 +282,7 @@ Le regioni, le Province autonome di Trento e Bolzano, le province, le citta' met
 
 2.
 
-Il Ministero della transizione ecologica, in conformita' all'articolo 3-sexies del presente decreto e al [decreto legislativo 19 agosto 2005, n. 195](Attuazione%20della%20direttiva%202003-4-CE%20sullaccesso%20del%20pubblico%20allinformazione%20ambientale.md), pubblica senza indugio le risposte fornite alle istanze di cui al presente articolo nell'ambito della sezione "Informazioni ambientali" del proprio sito ((internet)) istituzionale di cui all'[articolo 40 del decreto legislativo 14 marzo 2013, n. 33](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2013-03-14;33#art_40), previo oscuramento dei dati comunque coperti da riservatezza, nel rispetto del [decreto legislativo 30 giugno 2003, n. 196](Codice%20in%20materia%20di%20protezione%20dei%20dati%20personali%20%20recante%20disposizioni%20per%20ladeguamento%20dellordinamento%20nazionale%20al%20regolamento%20UE%20n.%202016-679%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20de_1077588393e9.md).
+Il Ministero della transizione ecologica, in conformita' all'articolo 3-sexies del presente decreto e al [decreto legislativo 19 agosto 2005, n. 195](Attuazione%20della%20direttiva%202003-4-CE%20sullaccesso%20del%20pubblico%20allinformazione%20ambientale.md), pubblica senza indugio le risposte fornite alle istanze di cui al presente articolo nell'ambito della sezione "Informazioni ambientali" del proprio sito ((internet)) istituzionale di cui all'[articolo 40 del decreto legislativo 14 marzo 2013, n. 33](Riordino%20della%20disciplina%20riguardante%20il%20diritto%20di%20accesso%20civico%20e%20gli%20obblighi%20di%20pubblicita%20trasparenza%20e%20diffusione%20di%20informazioni%20da%20parte%20delle%20pubbliche%20amministrazioni.%2013G00076.md), previo oscuramento dei dati comunque coperti da riservatezza, nel rispetto del [decreto legislativo 30 giugno 2003, n. 196](Codice%20in%20materia%20di%20protezione%20dei%20dati%20personali%20%20recante%20disposizioni%20per%20ladeguamento%20dellordinamento%20nazionale%20al%20regolamento%20UE%20n.%202016-679%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20de_1077588393e9.md).
 
 3.
 
@@ -369,7 +369,7 @@ Ai fini del presente decreto si intende per:
                             i-quater)
                                 'installazione': unita' tecnica permanente, in cui sono svolte una o piu' attivita' elencate all'allegato VIII alla Parte Seconda e qualsiasi altra attivita' accessoria, che sia tecnicamente connessa con le attivita' svolte nel luogo suddetto e possa influire sulle emissioni e sull'inquinamento. E' considerata accessoria l'attivita' tecnicamente connessa anche quando condotta da diverso gestore;
                             i-quinquies)
-                                'installazione esistente': ai fini dell'applicazione del Titolo III-bis alla Parte Seconda una installazione che, al 6 gennaio 2013, ha ottenuto tutte le autorizzazioni ambientali necessarie all'esercizio o il provvedimento positivo di compatibilita' ambientale o per la quale, a tale data, sono state presentate richieste complete per tutte le autorizzazioni ambientali necessarie per il suo esercizio, a condizione che essa entri in funzione entro il 6 gennaio 2014. Le installazioni esistenti si qualificano come 'non gia' soggette ad AIA' se in esse non si svolgono attivita' gia' ricomprese nelle categorie di cui all'Allegato VIII alla Parte Seconda del [decreto legislativo 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md), come introdotto dal [decreto legislativo 29 giugno 2010, n. 128](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-06-29;128);
+                                'installazione esistente': ai fini dell'applicazione del Titolo III-bis alla Parte Seconda una installazione che, al 6 gennaio 2013, ha ottenuto tutte le autorizzazioni ambientali necessarie all'esercizio o il provvedimento positivo di compatibilita' ambientale o per la quale, a tale data, sono state presentate richieste complete per tutte le autorizzazioni ambientali necessarie per il suo esercizio, a condizione che essa entri in funzione entro il 6 gennaio 2014. Le installazioni esistenti si qualificano come 'non gia' soggette ad AIA' se in esse non si svolgono attivita' gia' ricomprese nelle categorie di cui all'Allegato VIII alla Parte Seconda del [decreto legislativo 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md), come introdotto dal [decreto legislativo 29 giugno 2010, n. 128](Modifiche%20ed%20integrazioni%20al%20decreto%20legislativo%203%20aprile%202006%20n.%20152%20recante%20norme%20in%20materia%20ambientale%20a%20norma%20dellarticolo%2012%20della%20legge%2018%20giugno%202009%20n.%2069.%2010G0147.md);
                             i-sexies)
                                 'nuova installazione': una installazione che non ricade nella definizione di installazione esistente;
                             i-septies)
@@ -606,7 +606,7 @@ L'autorita' competente, nel determinare le condizioni per l'autorizzazione integ
 17.
 
 Ai fini di tutela dell'ambiente e dell'ecosistema, all'interno del perimetro delle aree marine e costiere a qualsiasi titolo protette per scopi di tutela ambientale, in virtu' di leggi nazionali, regionali o in attuazione di atti e convenzioni dell'Unione europea e internazionali sono vietate le attivita' di ricerca, di prospezione nonche' di coltivazione di idrocarburi liquidi e gassosi in mare, di cui agli [articoli 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-01-09;9#art_4), [6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-01-09;9#art_6) e [9 della legge 9 gennaio 1991, n. 9](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-01-09;9#art_9). Il divieto e' altresi' stabilito nelle zone di mare poste entro nove miglia dalle linee di costa lungo l'intero perimetro costiero nazionale e dal perimetro esterno delle suddette aree marine e costiere protette. I titoli abilitativi gia' rilasciati sono fatti salvi per la durata di vita utile del giacimento, nel rispetto degli standard di sicurezza e di salvaguardia ambientale.
-Sono sempre assicurate le attivita' di manutenzione finalizzate all'adeguamento tecnologico necessario alla sicurezza degli impianti e alla tutela dell'ambiente, nonche' le operazioni finali di ripristino ambientale. Dall'entrata in vigore delle disposizioni di cui al presente comma e' abrogato il [comma 81 dell'articolo 1 della legge 23 agosto 2004, n. 239](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-08-23;239#art_1-com81). A decorrere dalla data di entrata in vigore della presente disposizione, i titolari delle concessioni di coltivazione in mare sono tenuti a corrispondere annualmente l'aliquota di prodotto di cui all'[articolo 19, comma 1 del decreto legislativo 25 novembre 1996, n. 625](Attuazione%20della%20direttiva%2094-22-CEE%20relativa%20alle%20condizioni%20di%20rilascio%20e%20di%20esercizio%20delle%20autorizzazioni%20alla%20prospezione%20ricerca%20e%20coltivazione%20di%20idrocarburi.md), elevata dal 7% al 10% per il gas e dal 4% al 7% per l'olio. Il titolare unico o contitolare di ciascuna concessione e' tenuto a versare le somme corrispondenti al valore dell'incremento dell'aliquota ad apposito capitolo dell'entrata del bilancio dello Stato, per essere interamente riassegnate, in parti uguali, ad appositi capitoli istituiti nello stato di previsione,rispettivamente, del Ministero dello sviluppo economico, per lo svolgimento delle attivita' di vigilanza e controllo della sicurezza anche ambientale degli impianti di ricerca e coltivazione in mare, e del Ministero dell'ambiente e della tutela del territorio e del mare, per assicurare il pieno svolgimento delle azioni di monitoraggio, ivi compresi gli adempimenti connessi alle valutazioni ambientali in ambito costiero e marino, anche mediante l'impiego dell'Istituto superiore per la protezione e la ricerca ambientale (ISPRA), delle Agenzie regionali per l'ambiente e delle strutture tecniche dei corpi dello Stato preposti alla vigilanza ambientale, e di contrasto dell'inquinamento marino. (176)
+Sono sempre assicurate le attivita' di manutenzione finalizzate all'adeguamento tecnologico necessario alla sicurezza degli impianti e alla tutela dell'ambiente, nonche' le operazioni finali di ripristino ambientale. Dall'entrata in vigore delle disposizioni di cui al presente comma e' abrogato il [comma 81 dell'articolo 1 della legge 23 agosto 2004, n. 239](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20del%20settore%20energetico%20nonche%20delega%20al%20Governo%20per%20il%20riassetto%20delle%20disposizioni%20vigenti%20in%20materia%20di%20energia.md). A decorrere dalla data di entrata in vigore della presente disposizione, i titolari delle concessioni di coltivazione in mare sono tenuti a corrispondere annualmente l'aliquota di prodotto di cui all'[articolo 19, comma 1 del decreto legislativo 25 novembre 1996, n. 625](Attuazione%20della%20direttiva%2094-22-CEE%20relativa%20alle%20condizioni%20di%20rilascio%20e%20di%20esercizio%20delle%20autorizzazioni%20alla%20prospezione%20ricerca%20e%20coltivazione%20di%20idrocarburi.md), elevata dal 7% al 10% per il gas e dal 4% al 7% per l'olio. Il titolare unico o contitolare di ciascuna concessione e' tenuto a versare le somme corrispondenti al valore dell'incremento dell'aliquota ad apposito capitolo dell'entrata del bilancio dello Stato, per essere interamente riassegnate, in parti uguali, ad appositi capitoli istituiti nello stato di previsione,rispettivamente, del Ministero dello sviluppo economico, per lo svolgimento delle attivita' di vigilanza e controllo della sicurezza anche ambientale degli impianti di ricerca e coltivazione in mare, e del Ministero dell'ambiente e della tutela del territorio e del mare, per assicurare il pieno svolgimento delle azioni di monitoraggio, ivi compresi gli adempimenti connessi alle valutazioni ambientali in ambito costiero e marino, anche mediante l'impiego dell'Istituto superiore per la protezione e la ricerca ambientale (ISPRA), delle Agenzie regionali per l'ambiente e delle strutture tecniche dei corpi dello Stato preposti alla vigilanza ambientale, e di contrasto dell'inquinamento marino. (176)
 
 ---------------
 
@@ -761,7 +761,7 @@ Le Regioni e le Province autonome di Trento e di Bolzano disciplinano con propri
 
 8-bis.
 
-Limitatamente agli interventi necessari per il superamento di sentenze di condanna della Corte di Giustizia dell'Unione Europea, in caso di inerzia regionale per i progetti sottoposti a verifica di assoggettabilita' a VIA o a VIA ai sensi del comma 3, lo Stato esercita i poteri sostitutivi di cui all'[articolo 41 della legge 24 dicembre 2012 n. 234](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-24;234#art_41). (134)
+Limitatamente agli interventi necessari per il superamento di sentenze di condanna della Corte di Giustizia dell'Unione Europea, in caso di inerzia regionale per i progetti sottoposti a verifica di assoggettabilita' a VIA o a VIA ai sensi del comma 3, lo Stato esercita i poteri sostitutivi di cui all'[articolo 41 della legge 24 dicembre 2012 n. 234](../Leggi%20di%20delegazione%20europea/Norme%20generali%20sulla%20partecipazione%20dellItalia%20alla%20formazione%20e%20allattuazione%20della%20normativa%20e%20delle%20politiche%20dellUnione%20europea.%2013G00003.md). (134)
 
 9.
 
@@ -862,7 +862,7 @@ Qualora lo richieda almeno una delle Commissioni parlamentari competenti a maggi
 
 2-octies.
 
-I presidenti delle Commissioni di cui al presente articolo si avvale altresi' di una struttura di supporto composta da quattro unita' di personale dell'Arma dei carabinieri, appartenenti all'organizzazione per la tutela forestale, ambientale e agroalimentare di cui all'[articolo 174-bis del codice dell'ordinamento militare](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), di cui al [decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), o comunque con comprovata esperienza nel settore della tutela ambientale o nel coordinamento di unita' complesse o nella gestione di fondi. I componenti della struttura di supporto sono individuati dal Comando generale dell'Arma dei carabinieri, di cui all'articolo 170 del codice di cui al [decreto legislativo n. 66 del 2010](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010;66), e posti in posizione di comando, con oneri rientranti nei costi di funzionamento di cui al comma 5 del presente articolo. Con le stesse modalita' individuate nei periodi precedenti, fermi restando gli specifici compiti attribuiti in materia ambientale dalla normativa vigente ad altre amministrazioni dello Stato nonche' il riparto di competenze tra le Forze di polizia, di cui al [decreto legislativo 19 agosto 2016, n. 177](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-08-19;177), e al decreto del Ministro dell'interno del 15 agosto 2017, le Commissioni di cui al presente articolo possono avvalersi di quattro unita' di personale del Corpo della Guardia di finanza, ai cui oneri si provvede nell'ambito delle risorse di cui al comma 5.
+I presidenti delle Commissioni di cui al presente articolo si avvale altresi' di una struttura di supporto composta da quattro unita' di personale dell'Arma dei carabinieri, appartenenti all'organizzazione per la tutela forestale, ambientale e agroalimentare di cui all'[articolo 174-bis del codice dell'ordinamento militare](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), di cui al [decreto legislativo 15 marzo 2010, n. 66](../Codici/Codice%20dellordinamento%20militare.%2010G0089.md), o comunque con comprovata esperienza nel settore della tutela ambientale o nel coordinamento di unita' complesse o nella gestione di fondi. I componenti della struttura di supporto sono individuati dal Comando generale dell'Arma dei carabinieri, di cui all'articolo 170 del codice di cui al [decreto legislativo n. 66 del 2010](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010;66), e posti in posizione di comando, con oneri rientranti nei costi di funzionamento di cui al comma 5 del presente articolo. Con le stesse modalita' individuate nei periodi precedenti, fermi restando gli specifici compiti attribuiti in materia ambientale dalla normativa vigente ad altre amministrazioni dello Stato nonche' il riparto di competenze tra le Forze di polizia, di cui al [decreto legislativo 19 agosto 2016, n. 177](Disposizioni%20in%20materia%20di%20razionalizzazione%20delle%20funzioni%20di%20polizia%20e%20assorbimento%20del%20Corpo%20forestale%20dello%20Stato%20ai%20sensi%20dellarticolo%208%20comma%201%20lettera%20a%20della%20legge%207%20agosto%202015%20n_f1f59b60450c.md), e al decreto del Ministro dell'interno del 15 agosto 2017, le Commissioni di cui al presente articolo possono avvalersi di quattro unita' di personale del Corpo della Guardia di finanza, ai cui oneri si provvede nell'ambito delle risorse di cui al comma 5.
 
 2-novies.
 
@@ -878,12 +878,12 @@ Con uno o piu' decreti del Ministro dell'ambiente e della tutela del territorio 
 
 5.
 
-A decorrere dall'anno 2017, con decreto annuale del Ministro dell'ambiente e della tutela del territorio e del mare, di concerto con il Ministro dell'economia e delle finanze, sono definiti i costi di funzionamento della Commissione tecnica di verifica dell'impatto ambientale e della Commissione tecnica PNRR-PNIEC, comprensivi dei compensi per i relativi componenti. Alla copertura dei costi di cui al primo periodo si provvede con i proventi delle tariffe di cui all'articolo 33, comma 1, che sono versati all'entrata del bilancio dello Stato e riassegnati agli appositi capitoli dello stato di previsione del Ministero dell'ambiente e della sicurezza energetica, fino a concorrenza dei costi stabiliti con il decreto di cui al primo periodo del presente comma, al netto delle risorse allo scopo gia' iscritte in bilancio ai sensi dell'[articolo 12, comma 1, del decreto-legge 16 giugno 2022, n. 68](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2022-06-16;68#art_12-com1), convertito, con modificazioni, dalla [legge 5 agosto 2022, n. 108](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2016%20giugno%202022%20n.%2068%20recante%20disposizioni%20urgenti%20per%20la%20sicurezza%20e%20lo%20sviluppo%20delle%20infrastrutture%20dei%20trasporti%20e%20della%20mobili_1562c5ffa4d2.md), e ai sensi dell'[articolo 2, comma 617-bis, della legge 24 dicembre 2007, n. 244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-12-24;244#art_2-com617bis), fermo restando il conseguimento degli obiettivi di risparmio a regime, di cui all'articolo 2, comma 617, della medesima [legge n. 244 del 2007](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007;244), senza che ne derivino nuovi o maggiori oneri per la finanza pubblica.
+A decorrere dall'anno 2017, con decreto annuale del Ministro dell'ambiente e della tutela del territorio e del mare, di concerto con il Ministro dell'economia e delle finanze, sono definiti i costi di funzionamento della Commissione tecnica di verifica dell'impatto ambientale e della Commissione tecnica PNRR-PNIEC, comprensivi dei compensi per i relativi componenti. Alla copertura dei costi di cui al primo periodo si provvede con i proventi delle tariffe di cui all'articolo 33, comma 1, che sono versati all'entrata del bilancio dello Stato e riassegnati agli appositi capitoli dello stato di previsione del Ministero dell'ambiente e della sicurezza energetica, fino a concorrenza dei costi stabiliti con il decreto di cui al primo periodo del presente comma, al netto delle risorse allo scopo gia' iscritte in bilancio ai sensi dell'[articolo 12, comma 1, del decreto-legge 16 giugno 2022, n. 68](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2022-06-16;68#art_12-com1), convertito, con modificazioni, dalla [legge 5 agosto 2022, n. 108](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2016%20giugno%202022%20n.%2068%20recante%20disposizioni%20urgenti%20per%20la%20sicurezza%20e%20lo%20sviluppo%20delle%20infrastrutture%20dei%20trasporti%20e%20della%20mobili_1562c5ffa4d2.md), e ai sensi dell'[articolo 2, comma 617-bis, della legge 24 dicembre 2007, n. 244](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202008.md), fermo restando il conseguimento degli obiettivi di risparmio a regime, di cui all'articolo 2, comma 617, della medesima [legge n. 244 del 2007](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007;244), senza che ne derivino nuovi o maggiori oneri per la finanza pubblica.
 Le risorse derivanti dal versamento all'entrata del bilancio dello Stato dei proventi delle tariffe di cui al citato articolo 33, comma 1, del presente decreto eccedenti la quota riassegnata ai sensi del secondo periodo restano definitivamente acquisite al bilancio dello Stato. I compensi sono stabiliti proporzionalmente alle responsabilita' di ciascun membro della Commissione tecnica di verifica dell'impatto ambientale e della Commissione tecnica PNRR-PNIEC, esclusivamente in ragione dei compiti istruttori effettivamente svolti e solo a seguito dell'adozione del parere finale, fermo restando che gli oneri relativi al trattamento economico fondamentale del personale di cui al comma 2-bis restano a carico dell'amministrazione di appartenenza. A decorrere dall'anno 2023, per i componenti della Commissione tecnica di verifica dell'impatto ambientale si applicano i compensi previsti per i membri della Commissione tecnica PNRR-PNIEC, i quali, in considerazione della specificita' dei compiti attribuiti alle medesime Commissioni, della peculiare disciplina prevista e della necessita' di accelerare l'attuazione degli adempimenti di loro competenza, a iniziare dagli importi gia' percepiti dall'anno 2021 sono in ogni caso riconosciuti integralmente, per i dipendenti pubblici anche in aggiunta al trattamento in godimento. (134)
 
 6.
 
-Resta in ogni caso fermo, per i commissari, quanto stabilito dall'[articolo 6-bis della legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241#art_6bis), e dal [decreto legislativo 8 aprile 2013, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2013-04-08;39). In caso di accertata violazione delle prescrizioni del [decreto legislativo n. 39 del 2013](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2013;39), fermo restando ogni altro profilo di responsabilita', il componente responsabile decade dall'incarico con effetto dalla data dell'accertamento. Per gli iscritti agli ordini professionali la violazione viene segnalata dall'autorita' competente.
+Resta in ogni caso fermo, per i commissari, quanto stabilito dall'[articolo 6-bis della legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241#art_6bis), e dal [decreto legislativo 8 aprile 2013, n. 39](Disposizioni%20in%20materia%20di%20inconferibilita%20e%20incompatibilita%20di%20incarichi%20presso%20le%20pubbliche%20amministrazioni%20e%20presso%20gli%20enti%20privati%20in%20controllo%20pubblico%20a%20norma%20dellarticolo%201%20commi%20_d33471567a28.md). In caso di accertata violazione delle prescrizioni del [decreto legislativo n. 39 del 2013](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2013;39), fermo restando ogni altro profilo di responsabilita', il componente responsabile decade dall'incarico con effetto dalla data dell'accertamento. Per gli iscritti agli ordini professionali la violazione viene segnalata dall'autorita' competente.
 
 7.
 
@@ -1945,7 +1945,7 @@ Delle modalita' di svolgimento delle attivita' di monitoraggio, dei risultati de
 
 AGGIORNAMENTO (40)
 
-Il [D.Lgs. 29 giugno 2010, n. 128](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-06-29;128) ha disposto (con l'art. 2, comma 23, lettera a)) che "al comma 1, primo periodo, le parole "Il monitoraggio assicura, anche avvalendosi del sistema delle Agenzie ambientali" sono sostituite dalle parole "Il monitoraggio assicura, anche avvalendosi dell'Istituto Superiore per la Protezione e la Ricerca Ambientale e del sistema delle Agenzie ambientali,"".
+Il [D.Lgs. 29 giugno 2010, n. 128](Modifiche%20ed%20integrazioni%20al%20decreto%20legislativo%203%20aprile%202006%20n.%20152%20recante%20norme%20in%20materia%20ambientale%20a%20norma%20dellarticolo%2012%20della%20legge%2018%20giugno%202009%20n.%2069.%2010G0147.md) ha disposto (con l'art. 2, comma 23, lettera a)) che "al comma 1, primo periodo, le parole "Il monitoraggio assicura, anche avvalendosi del sistema delle Agenzie ambientali" sono sostituite dalle parole "Il monitoraggio assicura, anche avvalendosi dell'Istituto Superiore per la Protezione e la Ricerca Ambientale e del sistema delle Agenzie ambientali,"".
 
 -------------
 
@@ -2085,7 +2085,7 @@ Entro trenta giorni dalla presentazione della domanda, l'autorita' competente ve
 
 AGGIORNAMENTO (40)
 
-Il [D.lgs. 29 giugno 2010, n. 128](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-06-29;128), ha disposto (con l'art. 4, comma 2) che nel presente decreto, ovunque ricorrano, le parole "Ministero dell'ambiente e della tutela del territorio", sono sostituite dalle seguenti: "Ministero dell'ambiente e della tutela del territorio e del mare", le parole: "Ministro dell'ambiente e della tutela del territorio" sono sostituite dalle seguenti: "Ministro dell'ambiente e della tutela del territorio e del mare", le parole "Agenzia per la protezione dell'ambiente e per i servizi tecnici" sono sostituite dalle seguenti: "Istituto superiore per la protezione e la ricerca ambientale", e la parola "APAT" e' sostituita dalla seguente:
+Il [D.lgs. 29 giugno 2010, n. 128](Modifiche%20ed%20integrazioni%20al%20decreto%20legislativo%203%20aprile%202006%20n.%20152%20recante%20norme%20in%20materia%20ambientale%20a%20norma%20dellarticolo%2012%20della%20legge%2018%20giugno%202009%20n.%2069.%2010G0147.md), ha disposto (con l'art. 4, comma 2) che nel presente decreto, ovunque ricorrano, le parole "Ministero dell'ambiente e della tutela del territorio", sono sostituite dalle seguenti: "Ministero dell'ambiente e della tutela del territorio e del mare", le parole: "Ministro dell'ambiente e della tutela del territorio" sono sostituite dalle seguenti: "Ministro dell'ambiente e della tutela del territorio e del mare", le parole "Agenzia per la protezione dell'ambiente e per i servizi tecnici" sono sostituite dalle seguenti: "Istituto superiore per la protezione e la ricerca ambientale", e la parola "APAT" e' sostituita dalla seguente:
 "ISPRA".
 
 ### Articolo 29-quater — Procedura per il rilascio dell'autorizzazione integrata ambientale
@@ -2690,7 +2690,7 @@ Il Ministero dell'ambiente e della tutela del territorio provvede, d'intesa con 
 
 AGGIORNAMENTO (40)
 
-Il [D.Lgs. 29 giugno 2010, n. 128](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-06-29;128) ha disposto (con l'art. 4, comma 2) che "Nel [decreto legislativo 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md), ovunque ricorrano, le parole "Ministero dell'ambiente e della tutela del territorio", sono sostituite dalle seguenti: "Ministero dell'ambiente e della tutela del territorio e del mare", le parole: "Ministro dell'ambiente e della tutela del territorio" sono sostituite dalle seguenti: "Ministro dell'ambiente e della tutela del territorio e del mare", le parole "Agenzia per la protezione dell'ambiente e per i servizi tecnici" sono sostituite dalle seguenti: "Istituto superiore per la protezione e la ricerca ambientale", e la parola "APAT" e' sostituita dalla seguente: "ISPRA"".
+Il [D.Lgs. 29 giugno 2010, n. 128](Modifiche%20ed%20integrazioni%20al%20decreto%20legislativo%203%20aprile%202006%20n.%20152%20recante%20norme%20in%20materia%20ambientale%20a%20norma%20dellarticolo%2012%20della%20legge%2018%20giugno%202009%20n.%2069.%2010G0147.md) ha disposto (con l'art. 4, comma 2) che "Nel [decreto legislativo 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md), ovunque ricorrano, le parole "Ministero dell'ambiente e della tutela del territorio", sono sostituite dalle seguenti: "Ministero dell'ambiente e della tutela del territorio e del mare", le parole: "Ministro dell'ambiente e della tutela del territorio" sono sostituite dalle seguenti: "Ministro dell'ambiente e della tutela del territorio e del mare", le parole "Agenzia per la protezione dell'ambiente e per i servizi tecnici" sono sostituite dalle seguenti: "Istituto superiore per la protezione e la ricerca ambientale", e la parola "APAT" e' sostituita dalla seguente: "ISPRA"".
 
 ## ((TITOLO V NORME TRANSITORIE E FINALI))
 
@@ -2725,7 +2725,7 @@ Al fine di garantire l'operativita' della Commissione di cui all'articolo 8-bis,
 
 AGGIORNAMENTO (40)
 
-Il [D.Lgs. 29 giugno 2010, n. 128](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-06-29;128) ha disposto (con l'art. 4, comma 2) che "Nel [decreto legislativo 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md), ovunque ricorrano, le parole "Ministero dell'ambiente e della tutela del territorio", sono sostituite dalle seguenti: "Ministero dell'ambiente e della tutela del territorio e del mare", le parole: "Ministro dell'ambiente e della tutela del territorio" sono sostituite dalle seguenti: "Ministro dell'ambiente e della tutela del territorio e del mare", le parole "Agenzia per la protezione dell'ambiente e per i servizi tecnici" sono sostituite dalle seguenti: "Istituto superiore per la protezione e la ricerca ambientale", e la parola "APAT" e' sostituita dalla seguente: "ISPRA"".
+Il [D.Lgs. 29 giugno 2010, n. 128](Modifiche%20ed%20integrazioni%20al%20decreto%20legislativo%203%20aprile%202006%20n.%20152%20recante%20norme%20in%20materia%20ambientale%20a%20norma%20dellarticolo%2012%20della%20legge%2018%20giugno%202009%20n.%2069.%2010G0147.md) ha disposto (con l'art. 4, comma 2) che "Nel [decreto legislativo 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md), ovunque ricorrano, le parole "Ministero dell'ambiente e della tutela del territorio", sono sostituite dalle seguenti: "Ministero dell'ambiente e della tutela del territorio e del mare", le parole: "Ministro dell'ambiente e della tutela del territorio" sono sostituite dalle seguenti: "Ministro dell'ambiente e della tutela del territorio e del mare", le parole "Agenzia per la protezione dell'ambiente e per i servizi tecnici" sono sostituite dalle seguenti: "Istituto superiore per la protezione e la ricerca ambientale", e la parola "APAT" e' sostituita dalla seguente: "ISPRA"".
 
 ----------------
 
@@ -2843,7 +2843,7 @@ Il rilascio dell'autorizzazione di cui al presente decreto non esime i gestori d
 
 AGGIORNAMENTO (40)
 
-Il [D.Lgs. 29 giugno 2010, n. 128](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-06-29;128) ha disposto (con l'art. 2, comma 31) che "Nel [decreto legislativo 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md), le parole, "del [decreto legislativo 18 febbraio 2005, n. 59](Attuazione%20integrale%20della%20direttiva%2096-61-CE%20relativa%20alla%20prevenzione%20e%20riduzione%20integrate%20dellinquinamento.md)", ovunque ricorrenti, sono sostituite dalle seguenti: "del Titolo III-bis della parte seconda del presente decreto"". 
+Il [D.Lgs. 29 giugno 2010, n. 128](Modifiche%20ed%20integrazioni%20al%20decreto%20legislativo%203%20aprile%202006%20n.%20152%20recante%20norme%20in%20materia%20ambientale%20a%20norma%20dellarticolo%2012%20della%20legge%2018%20giugno%202009%20n.%2069.%2010G0147.md) ha disposto (con l'art. 2, comma 31) che "Nel [decreto legislativo 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md), le parole, "del [decreto legislativo 18 febbraio 2005, n. 59](Attuazione%20integrale%20della%20direttiva%2096-61-CE%20relativa%20alla%20prevenzione%20e%20riduzione%20integrate%20dellinquinamento.md)", ovunque ricorrenti, sono sostituite dalle seguenti: "del Titolo III-bis della parte seconda del presente decreto"". 
  Ha inoltre disposto (con l'art. 4, comma 2) che "Nel [decreto legislativo 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md), ovunque ricorrano, le parole "Ministero dell'ambiente e della tutela del territorio", sono sostituite dalle seguenti: "Ministero dell'ambiente e della tutela del territorio e del mare", le parole: "Ministro dell'ambiente e della tutela del territorio" sono sostituite dalle seguenti: "Ministro dell'ambiente e della tutela del territorio e del mare", le parole "Agenzia per la protezione dell'ambiente e per i servizi tecnici" sono sostituite dalle seguenti: "Istituto superiore per la protezione e la ricerca ambientale", e la parola "APAT" e' sostituita dalla seguente: "ISPRA"".
 
 ------------
@@ -2868,7 +2868,7 @@ Fatto salvo quanto previsto dal successivo comma 4, a decorrere dalla data di en
                             a)
                                 l'[articolo 6 della legge 8 luglio 1986, n. 349](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-07-08;349#art_6);
                             b)
-                                l'[articolo 18, comma 5, della legge 11 marzo 1988, n. 67](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-03-11;67#art_18-com5);
+                                l'[articolo 18, comma 5, della legge 11 marzo 1988, n. 67](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201988.md);
                             c)
                                 il [decreto del Presidente del Consiglio dei Ministri 10 agosto 1988, n. 377](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:1988-08-10;377);
                             d)
@@ -2884,7 +2884,7 @@ Fatto salvo quanto previsto dal successivo comma 4, a decorrere dalla data di en
                             i)
                                 il [decreto del Presidente della Repubblica 5 ottobre 1991, n. 460](../DPR/Modificazione%20al%20decreto%20del%20Presidente%20del%20Consiglio%20dei%20Ministri%2010%20agosto%201988%20n.%20377%20relativamente%20ai%20progetti%20di%20impianti%20per%20la%20eliminazione%20dei%20rifiuti%20tossici%20e%20nocivi.md);
                             l)
-                                l'[articolo 3 della legge 30 dicembre 1991, n. 412](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-12-30;412#art_3);
+                                l'[articolo 3 della legge 30 dicembre 1991, n. 412](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20in%20materia%20di%20finanza%20pubblica.md);
                             m)
                                 [articolo 6 del decreto legislativo 27 gennaio 1992, n. 100](Attuazione%20delle%20direttive%20n.%2078-176-CEE%20n.%2082-883-CEE%20n.%2083-29-CEE%20e%20n.%2089-428-CEE%20in%20materia%20di%20inquinamento%20provocato%20dai%20rifiuti%20dellindustria%20del%20biossido%20di%20titanio.md);
                             n)
@@ -2914,13 +2914,13 @@ Fatto salvo quanto previsto dal successivo comma 4, a decorrere dalla data di en
                             cc)
                                 l'[articolo 6 della legge 23 marzo 2001, n. 93](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001-03-23;93#art_6);
                             dd)
-                                l'[articolo 77, commi 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-12-27;289#art_77-com1) e [2, della legge 27 dicembre 2002, n. 289](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-12-27;289#art_77-com2);
+                                l'[articolo 77, commi 1](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202003.md) e [2, della legge 27 dicembre 2002, n. 289](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202003.md);
                             ee)
                                 gli [articoli 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-11-14;315#art_1) e [2 del decreto-legge 14 novembre 2003, n. 315](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-11-14;315#art_2), convertito, con modificazioni, dalla [legge 16 gennaio 2004, n. 5](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2014%20novembre%202003%20n.%20315%20recante%20disposizioni%20urgenti%20in%20tema%20di%20composizione%20delle%20commissioni%20per%20la%20valutazione%20di%20impatto%20ambie_e7b6b47ca3c2.md);
                             ff)
                                 l'[articolo 5, comma 9, del decreto legislativo 18 febbraio 2005, n. 59](Attuazione%20integrale%20della%20direttiva%2096-61-CE%20relativa%20alla%20prevenzione%20e%20riduzione%20integrate%20dellinquinamento.md); (40)
                             gg)
-                                l'[articolo 30 della legge 18 aprile 2005, n. 62](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-04-18;62#art_30).
+                                l'[articolo 30 della legge 18 aprile 2005, n. 62](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%202004.md).
 
 4.
 
@@ -2934,7 +2934,7 @@ Sono fatte salve le disposizioni contenute nel presente articolo, nel caso in cu
 
 AGGIORNAMENTO (40)
 
-Il [D.Lgs. 29 giugno 2010, n. 128](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-06-29;128) ha disposto (con l'art. 2, comma 31) che "Nel [decreto legislativo 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md), le parole, "del [decreto legislativo 18 febbraio 2005, n. 59](Attuazione%20integrale%20della%20direttiva%2096-61-CE%20relativa%20alla%20prevenzione%20e%20riduzione%20integrate%20dellinquinamento.md)", ovunque ricorrenti, sono sostituite dalle seguenti: "del Titolo III-bis della parte seconda del presente decreto"".
+Il [D.Lgs. 29 giugno 2010, n. 128](Modifiche%20ed%20integrazioni%20al%20decreto%20legislativo%203%20aprile%202006%20n.%20152%20recante%20norme%20in%20materia%20ambientale%20a%20norma%20dellarticolo%2012%20della%20legge%2018%20giugno%202009%20n.%2069.%2010G0147.md) ha disposto (con l'art. 2, comma 31) che "Nel [decreto legislativo 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md), le parole, "del [decreto legislativo 18 febbraio 2005, n. 59](Attuazione%20integrale%20della%20direttiva%2096-61-CE%20relativa%20alla%20prevenzione%20e%20riduzione%20integrate%20dellinquinamento.md)", ovunque ricorrenti, sono sostituite dalle seguenti: "del Titolo III-bis della parte seconda del presente decreto"".
 
 ### Art. 37.
 
@@ -3097,7 +3097,7 @@ E' fatto obbligo alle Amministrazioni dello Stato, anche ad ordinamento autonomo
 
 4.
 
-L'Associazione nazionale Comuni italiani (ANCI) contribuisce allo svolgimento dell'attivita' conoscitiva di cui al presente articolo, in particolare ai fini dell'attuazione delle iniziative di cui al comma 1, lettera e), nonche' ai fini della diffusione dell'informazione ambientale di cui agli [articoli 8](Attuazione%20della%20direttiva%202003-4-CE%20sullaccesso%20del%20pubblico%20allinformazione%20ambientale.md) e [9 del decreto legislativo 19 agosto 2005, n. 195](Attuazione%20della%20direttiva%202003-4-CE%20sullaccesso%20del%20pubblico%20allinformazione%20ambientale.md), di recepimento della [direttiva 2003/4/CE del Parlamento europeo e del Consiglio del 28 gennaio 2003](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2003;4), e in attuazione di quanto previsto dall'[articolo 1 della legge 17 maggio 1999, n. 144](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-05-17;144#art_1), e altresi' con riguardo a:
+L'Associazione nazionale Comuni italiani (ANCI) contribuisce allo svolgimento dell'attivita' conoscitiva di cui al presente articolo, in particolare ai fini dell'attuazione delle iniziative di cui al comma 1, lettera e), nonche' ai fini della diffusione dell'informazione ambientale di cui agli [articoli 8](Attuazione%20della%20direttiva%202003-4-CE%20sullaccesso%20del%20pubblico%20allinformazione%20ambientale.md) e [9 del decreto legislativo 19 agosto 2005, n. 195](Attuazione%20della%20direttiva%202003-4-CE%20sullaccesso%20del%20pubblico%20allinformazione%20ambientale.md), di recepimento della [direttiva 2003/4/CE del Parlamento europeo e del Consiglio del 28 gennaio 2003](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2003;4), e in attuazione di quanto previsto dall'[articolo 1 della legge 17 maggio 1999, n. 144](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Misure%20in%20materia%20di%20investimenti%20delega%20al%20Governo%20per%20il%20riordino%20degli%20incentivi%20alloccupazione%20e%20della%20normativa%20che%20disciplina%20lINAIL%20nonche%20disposizioni%20per%20il%20riordino%20degli%20enti%20previdenziali.md), e altresi' con riguardo a:
                             a)
                                 inquinamento dell'aria;
                             b)
@@ -3268,7 +3268,7 @@ Il CITE delibera sulla rimodulazione dei sussidi ambientalmente dannosi di cui a
 
 5-bis.
 
-La Commissione per lo studio e l'elaborazione di proposte per la transizione ecologica e per la riduzione dei sussidi ambientalmente dannosi, di cui al [comma 98 dell'articolo 1 della legge 27 dicembre 2019, n. 160](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2019-12-27;160#art_1-com98), e' soppressa e i relativi compiti sono attribuiti al Comitato tecnico di supporto di cui al comma 7 del presente articolo.
+La Commissione per lo studio e l'elaborazione di proposte per la transizione ecologica e per la riduzione dei sussidi ambientalmente dannosi, di cui al [comma 98 dell'articolo 1 della legge 27 dicembre 2019, n. 160](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202020%20e%20bilancio%20pluriennale%20per%20il%20triennio%202020-2022.%2019G00165.md), e' soppressa e i relativi compiti sono attribuiti al Comitato tecnico di supporto di cui al comma 7 del presente articolo.
 
 5-ter.
 
@@ -3869,7 +3869,7 @@ Nello stato di previsione della spesa del Ministero dell'ambiente e della tutela
 
 2.
 
-Ai fini del comma 1 e' autorizzata la spesa di 10 milioni di euro per l'anno finanziario 2016. Al relativo onere si provvede mediante corrispondente riduzione, per l'anno 2016, dell'autorizzazione di spesa di cui all'[articolo 1, comma 432, della legge 23 dicembre 2005, n. 266](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-12-23;266#art_1-com432). Il Ministro dell'economia e delle finanze e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
+Ai fini del comma 1 e' autorizzata la spesa di 10 milioni di euro per l'anno finanziario 2016. Al relativo onere si provvede mediante corrispondente riduzione, per l'anno 2016, dell'autorizzazione di spesa di cui all'[articolo 1, comma 432, della legge 23 dicembre 2005, n. 266](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202006.md). Il Ministro dell'economia e delle finanze e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
 3.
 
@@ -4098,7 +4098,7 @@ Ai fini della presente sezione si intende inoltre per:
                             pp)
                                 utilizzo delle acque: i servizi idrici unitamente agli altri usi risultanti dall'attivita' conoscitiva di cui all'articolo 118 che incidono in modo significativo sullo stato delle acque. Tale nozione si applica ai fini dell'analisi economica di cui all'Allegato 10 alla parte terza del presente decreto;
                             qq)
-                                LETTERA ABROGATA DAL [D.LGS. 16 GENNAIO 2008, N. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-01-16;4);
+                                LETTERA ABROGATA DAL [D.LGS. 16 GENNAIO 2008, N. 4](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ulteriori%20disposizioni%20correttive%20ed%20integrative%20del%20decreto%20legislativo%203%20aprile%202006%20n.%20152%20recante%20norme%20in%20materia%20ambientale.md);
                             rr)
                                 controlli delle emissioni: i controlli che comportano una limitazione specifica delle emissioni, ad esempio un valore limite delle emissioni, oppure che definiscono altrimenti limiti o condizioni in merito agli effetti, alla natura o ad altre caratteristiche di un'emissione o condizioni operative che influiscono sulle emissioni;
                             ss)
@@ -5333,7 +5333,7 @@ Le regioni, sentite le province, possono stabilire norme integrative per il cont
 
 AGGIORNAMENTO (10)
 
-Il [D.Lgs. 16 gennaio 2008, n. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-01-16;4) ha disposto (con l'art. 2, comma 19) che, per effetto dell'abrogazione dell'art. 182, commi 6 e 8, l'art. 107, comma 3, e' cosi' sostituito "3. Non e' ammesso lo smaltimento dei rifiuti, anche se triturati, in fognatura.".
+Il [D.Lgs. 16 gennaio 2008, n. 4](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ulteriori%20disposizioni%20correttive%20ed%20integrative%20del%20decreto%20legislativo%203%20aprile%202006%20n.%20152%20recante%20norme%20in%20materia%20ambientale.md) ha disposto (con l'art. 2, comma 19) che, per effetto dell'abrogazione dell'art. 182, commi 6 e 8, l'art. 107, comma 3, e' cosi' sostituito "3. Non e' ammesso lo smaltimento dei rifiuti, anche se triturati, in fognatura.".
 
 ### Art. 108. — (scarichi di sostanze pericolose)
 
@@ -5935,7 +5935,7 @@ Alle sanzioni amministrative pecuniarie previste dalla parte terza del presente 
 
 Note all'[art. 135:
  - La legge 24 novembre 1981, n. 689](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689#art_135) recante «Modifiche al sistema penale» e' pubblicata nella Gazzetta Ufficiale 30 novembre 1981, n. 329, S.O.
- - Il [decreto legislativo 31 marzo 1998, n. 112](Conferimento%20di%20funzioni%20e%20compiti%20amministrativi%20dello%20Stato%20alle%20regioni%20ed%20agli%20enti%20locali%20in%20attuazione%20del%20capo%20I%20della%20legge%2015%20marzo%201997%20n.%2059.md), recante «Conferimento di funzioni e compiti amministrativi dello Stato alle regioni ed agli enti locali, in attuazione del capo I della [legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59), e' pubblicato nella Gazzetta Ufficiale del 21 aprile 1998, n. 92, S.O.
+ - Il [decreto legislativo 31 marzo 1998, n. 112](Conferimento%20di%20funzioni%20e%20compiti%20amministrativi%20dello%20Stato%20alle%20regioni%20ed%20agli%20enti%20locali%20in%20attuazione%20del%20capo%20I%20della%20legge%2015%20marzo%201997%20n.%2059.md), recante «Conferimento di funzioni e compiti amministrativi dello Stato alle regioni ed agli enti locali, in attuazione del capo I della [legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), e' pubblicato nella Gazzetta Ufficiale del 21 aprile 1998, n. 92, S.O.
  - L'[art. 16, della legge 24 novembre 1981, n. 689](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689#art_16) e' il seguente:
  «Art. 16 (Pagamento in misura ridotta). - E' ammesso il pagamento di una somma in misura ridotta pari alla terza parte del massimo della sanzione prevista per la violazione commessa, o, se piu' favorevole e qualora sia stabilito il minimo della sanzione edittale, pari al doppio del relativo importo, oltre alle spese del procedimento, entro il termine di sessanta giorni dalla contestazione immediata o, se questa non vi e' stata, dalla notificazione degli estremi della violazione. Nei casi di violazione [del [testo unico delle norme sulla circolazione](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20circolazione%20e%20soggiorno%20dei%20cittadini%20degli%20Stati%20membri%20dellUnione%20europea.%20Testo%20A.md) stradale e] dei regolamenti comunali e provinciali continuano ad applicarsi, [rispettivamente l'art. 138 del testo unico approvato con [d.P.R. 15 giugno 1959, n. 393](../DPR/Testo%20unico%20delle%20norme%20sulla%20circolazione%20stradale.md), con le modifiche apportate dall'[art. 11 della legge 14 febbraio 1974, n. 62](../Atti%20normativi%20abrogati%20%28in%20originale%29/Sostituzione%20degli%20articoli%2079%2080%2086%20124%20127%20e%20modifiche%20agli%20articoli%2081%2087%2088%20138%20e%20141%20del%20testo%20unico%20delle%20norme%20sulla%20disciplina%20della%20circolazione%20stradale%20approvato%20con%20decreto%20de_c6728f6b4c4d.md), e] l'art. 107 del testo unico delle leggi comunali e provinciali approvato con [regio decreto 3 marzo 1934, n. 383](../Atti%20normativi%20abrogati%20%28in%20originale%29/Approvazione%20del%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20034U0383.md). Il pagamento in misura ridotta e' ammesso anche nei casi in cui le norme antecedenti all'entrata in vigore del la presente legge non consentivano l'oblazione.».
 
@@ -6235,7 +6235,7 @@ Al fine di ottenere un'offerta piu' conveniente e completa e di evitare contenzi
 
 2-ter.
 
-L'ultimo periodo del [comma 1 dell'articolo 4 del decreto legislativo 11 maggio 1999, n. 141](Trasformazione%20dellEnte%20autonomo%20acquedotto%20pugliese%20in%20societa%20per%20azioni%20a%20norma%20dellarticolo%2011%20comma%201%20lettera%20b%20della%20legge%2015%20marzo%201997%20n.%2059.md), come sostituito dal [comma 4 dell'articolo 25 della legge 28 dicembre 2001, n. 448](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001-12-28;448#art_25-com4), e' soppresso.
+L'ultimo periodo del [comma 1 dell'articolo 4 del decreto legislativo 11 maggio 1999, n. 141](Trasformazione%20dellEnte%20autonomo%20acquedotto%20pugliese%20in%20societa%20per%20azioni%20a%20norma%20dellarticolo%2011%20comma%201%20lettera%20b%20della%20legge%2015%20marzo%201997%20n.%2059.md), come sostituito dal [comma 4 dell'articolo 25 della legge 28 dicembre 2001, n. 448](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202002.md), e' soppresso.
 
 ### Art. 150.
 
@@ -6477,7 +6477,7 @@ In particolare:
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 8 novembre 2006, n. 284](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-11-08;284) ha disposto (con l'art. 1, comma 5) che "il Comitato per la vigilanza sull'uso delle risorse idriche e l'Osservatorio nazionale sui rifiuti sono ricostituiti ed esercitano le relative funzioni."
+Il [D.Lgs. 8 novembre 2006, n. 284](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20correttive%20e%20integrative%20del%20decreto%20legislativo%203%20aprile%202006%20n.%20152%20recante%20norme%20in%20materia%20ambientale.md) ha disposto (con l'art. 1, comma 5) che "il Comitato per la vigilanza sull'uso delle risorse idriche e l'Osservatorio nazionale sui rifiuti sono ricostituiti ed esercitano le relative funzioni."
 
 ### Art. 160.
 
@@ -6488,7 +6488,7 @@ Il [D.Lgs. 8 novembre 2006, n. 284](https://www.normattiva.it/uri-res/N2Ls?urn:n
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 8 novembre 2006, n. 284](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-11-08;284) ha disposto (con l'art. 1, comma 5) che "il Comitato per la vigilanza sull'uso delle risorse idriche e l'Osservatorio nazionale sui rifiuti sono ricostituiti ed esercitano le relative funzioni".
+Il [D.Lgs. 8 novembre 2006, n. 284](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20correttive%20e%20integrative%20del%20decreto%20legislativo%203%20aprile%202006%20n.%20152%20recante%20norme%20in%20materia%20ambientale.md) ha disposto (con l'art. 1, comma 5) che "il Comitato per la vigilanza sull'uso delle risorse idriche e l'Osservatorio nazionale sui rifiuti sono ricostituiti ed esercitano le relative funzioni".
 
 ### Art. 161. — Comitato per la vigilanza sull'uso delle risorse idriche
 
@@ -6825,7 +6825,7 @@ All'onere derivante dalla costituzione e dal funzionamento della Commissione naz
 
 13.
 
-COMMA SOPPRESSO DAL [D.LGS. 16 GENNAIO 2008, N. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-01-16;4)
+COMMA SOPPRESSO DAL [D.LGS. 16 GENNAIO 2008, N. 4](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ulteriori%20disposizioni%20correttive%20ed%20integrative%20del%20decreto%20legislativo%203%20aprile%202006%20n.%20152%20recante%20norme%20in%20materia%20ambientale.md)
 
 14.
 
@@ -6835,7 +6835,7 @@ In sede di prima applicazione, il termine di centottanta giorni di cui all'artic
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 8 novembre 2006, n. 284](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-11-08;284) ha disposto che "fino alla data di entrata in vigore del decreto legislativo correttivo di cui al comma 2-bis del presente articolo, sono fatti salvi gli atti posti in essere dalle autorita' di bacino dal 30 aprile 2006".
+Il [D.Lgs. 8 novembre 2006, n. 284](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20correttive%20e%20integrative%20del%20decreto%20legislativo%203%20aprile%202006%20n.%20152%20recante%20norme%20in%20materia%20ambientale.md) ha disposto che "fino alla data di entrata in vigore del decreto legislativo correttivo di cui al comma 2-bis del presente articolo, sono fatti salvi gli atti posti in essere dalle autorita' di bacino dal 30 aprile 2006".
 
 ---------------
 
@@ -7380,7 +7380,7 @@ Per le frazioni di rifiuti urbani oggetto di raccolta differenziata destinati al
 
 AGGIORNAMENTO (18)
 
-Il [D.L. 6 novembre 2008, n.172](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-11-06;172), convertito con modificazioni dalla [L. 30 dicembre 2008, n. 210](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20novembre%202008%20n.%20172%20recante%20misure%20straordinarie%20per%20fronteggiare%20lemergenza%20nel%20settore%20dello%20smaltimento%20dei%20rifiuti%20nella%20re_e6e31333ea0a.md) ha disposto (con l'art. 9-bis, comma 1, lettera b)) che "b) fino alla data di entrata in vigore del decreto di cui all'[art. 195, comma 2, lettera s-bis), del decreto legislativo 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md), gli accordi e i contratti di programma in materia di rifiuti stipulati tra le amministrazioni pubbliche e i soggetti economici interessati o le associazioni di categoria rappresentative dei settori interessati prima della soppressione del comma 4 dell'articolo 181 del medesimo [decreto legislativo n. 152 del 2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006;152), operata dal [decreto legislativo 16 gennaio 2008, n. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-01-16;4), continuano ad avere efficacia, con le semplificazioni ivi previste, anche in deroga alle disposizioni della parte IV del citato [decreto legislativo n. 152 del 2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006;152), e successive modificazioni, purche' nel rispetto delle norme comunitarie".
+Il [D.L. 6 novembre 2008, n.172](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-11-06;172), convertito con modificazioni dalla [L. 30 dicembre 2008, n. 210](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20novembre%202008%20n.%20172%20recante%20misure%20straordinarie%20per%20fronteggiare%20lemergenza%20nel%20settore%20dello%20smaltimento%20dei%20rifiuti%20nella%20re_e6e31333ea0a.md) ha disposto (con l'art. 9-bis, comma 1, lettera b)) che "b) fino alla data di entrata in vigore del decreto di cui all'[art. 195, comma 2, lettera s-bis), del decreto legislativo 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md), gli accordi e i contratti di programma in materia di rifiuti stipulati tra le amministrazioni pubbliche e i soggetti economici interessati o le associazioni di categoria rappresentative dei settori interessati prima della soppressione del comma 4 dell'articolo 181 del medesimo [decreto legislativo n. 152 del 2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006;152), operata dal [decreto legislativo 16 gennaio 2008, n. 4](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ulteriori%20disposizioni%20correttive%20ed%20integrative%20del%20decreto%20legislativo%203%20aprile%202006%20n.%20152%20recante%20norme%20in%20materia%20ambientale.md), continuano ad avere efficacia, con le semplificazioni ivi previste, anche in deroga alle disposizioni della parte IV del citato [decreto legislativo n. 152 del 2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006;152), e successive modificazioni, purche' nel rispetto delle norme comunitarie".
 
 ### Art. 181-bis.
 
@@ -7424,7 +7424,7 @@ COMMA ABROGATO DAL [D.LGS. 3 DICEMBRE 2010, N. 205](../Atti%20di%20recepimento%2
 
 8.
 
-IL [D.LGS. 16 GENNAIO 2008, N. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-01-16;4), COME MODIFICATO DAL [D.L. 6 NOVEMBRE 2008, N. 172](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-11-06;172), CONVERTITO CON MODIFICAZIONI DALLA [L. 30 DICEMBRE 2008, N. 210](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20novembre%202008%20n.%20172%20recante%20misure%20straordinarie%20per%20fronteggiare%20lemergenza%20nel%20settore%20dello%20smaltimento%20dei%20rifiuti%20nella%20re_e6e31333ea0a.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE COMMA.
+IL [D.LGS. 16 GENNAIO 2008, N. 4](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ulteriori%20disposizioni%20correttive%20ed%20integrative%20del%20decreto%20legislativo%203%20aprile%202006%20n.%20152%20recante%20norme%20in%20materia%20ambientale.md), COME MODIFICATO DAL [D.L. 6 NOVEMBRE 2008, N. 172](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-11-06;172), CONVERTITO CON MODIFICAZIONI DALLA [L. 30 DICEMBRE 2008, N. 210](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20novembre%202008%20n.%20172%20recante%20misure%20straordinarie%20per%20fronteggiare%20lemergenza%20nel%20settore%20dello%20smaltimento%20dei%20rifiuti%20nella%20re_e6e31333ea0a.md) HA CONFERMATO L'ABROGAZIONE DEL PRESENTE COMMA.
 
 ### Articolo 182-bis — (Principi di autosufficienza e prossimita')
 
@@ -7565,7 +7565,7 @@ Include il trattamento di materiale organico ma non il recupero di energia ne' i
 
 AGGIORNAMENTO (32)
 
-La Corte Costituzionale con sentenza 25 - 28 gennaio 2010 n. 28 (in G.U. 1a s.s. 3/2/2010 n. 5) ha dichiarato "l'illegittimita' costituzionale dell'[art. 183, comma 1, lettera n), del decreto legislativo 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md) (Norme in materia ambientale), nel testo antecedente alle modiche introdotte dall'[art. 2, comma 20, del decreto legislativo 16 gennaio 2008, n. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-01-16;4#art_2-com20) (Ulteriori disposizioni correttive ed integrative del [d.lgs. 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md), recante norme in materia ambientale), nella parte in cui prevede: "rientrano altresi' tra i sottoprodotti non soggetti alle disposizioni di cui alla parte quarta del presente decreto le ceneri di pirite, polveri di ossido di ferro, provenienti dal processo di arrostimento del minerale noto come pirite o solfuro di ferro per la produzione di acido solforico e ossido di ferro, depositate presso stabilimenti di produzione dismessi, aree industriali e non, anche se sottoposte a procedimento di bonifica o di ripristino ambientale"".
+La Corte Costituzionale con sentenza 25 - 28 gennaio 2010 n. 28 (in G.U. 1a s.s. 3/2/2010 n. 5) ha dichiarato "l'illegittimita' costituzionale dell'[art. 183, comma 1, lettera n), del decreto legislativo 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md) (Norme in materia ambientale), nel testo antecedente alle modiche introdotte dall'[art. 2, comma 20, del decreto legislativo 16 gennaio 2008, n. 4](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ulteriori%20disposizioni%20correttive%20ed%20integrative%20del%20decreto%20legislativo%203%20aprile%202006%20n.%20152%20recante%20norme%20in%20materia%20ambientale.md) (Ulteriori disposizioni correttive ed integrative del [d.lgs. 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md), recante norme in materia ambientale), nella parte in cui prevede: "rientrano altresi' tra i sottoprodotti non soggetti alle disposizioni di cui alla parte quarta del presente decreto le ceneri di pirite, polveri di ossido di ferro, provenienti dal processo di arrostimento del minerale noto come pirite o solfuro di ferro per la produzione di acido solforico e ossido di ferro, depositate presso stabilimenti di produzione dismessi, aree industriali e non, anche se sottoposte a procedimento di bonifica o di ripristino ambientale"".
 
 -------------
 
@@ -8069,7 +8069,7 @@ Il [D.L. 31 agosto 2013, n. 101](https://www.normattiva.it/uri-res/N2Ls?urn:nir:
 
 AGGIORNAMENTO (117)
 
-Il [D.L. 31 agosto 2013, n. 101](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2013-08-31;101), convertito con modificazioni dalla [L. 30 ottobre 2013, n. 125](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20agosto%202013%20n.%20101%20recante%20disposizioni%20urgenti%20per%20il%20perseguimento%20di%20obiettivi%20di%20razionalizzazione%20nelle%20pubbliche%20amminist_a2a2cc368cbd.md), come modificato dalla [L. 27 dicembre 2017, n. 205](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-12-27;205), ha disposto (con l'art. 11, comma 3-bis) che "Fino alla data del subentro nella gestione del servizio da parte del concessionario individuato con le procedure di cui al comma 9-bis, e comunque non oltre il 31 dicembre 2018, al fine di consentire la tenuta in modalita' elettronica dei registri di carico e scarico e dei formulari di accompagnamento dei rifiuti trasportati nonche' l'applicazione delle altre semplificazioni e le opportune modifiche normative continuano ad applicarsi gli adempimenti e gli obblighi di cui agli [articoli 188](../Codici/Norme%20in%20materia%20ambientale.md), [189](../Codici/Norme%20in%20materia%20ambientale.md), [190](../Codici/Norme%20in%20materia%20ambientale.md) e [193 del decreto legislativo 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md), nel testo previgente alle modifiche apportate dal [decreto legislativo 3 dicembre 2010, n. 205](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20di%20attuazione%20della%20direttiva%202008-98-CE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2019%20novembre%202008%20relativa%20ai%20rifiuti%20e%20che%20abroga%20alcune%20direttive.%2010G0235.md), nonche' le relative sanzioni".
+Il [D.L. 31 agosto 2013, n. 101](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2013-08-31;101), convertito con modificazioni dalla [L. 30 ottobre 2013, n. 125](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20agosto%202013%20n.%20101%20recante%20disposizioni%20urgenti%20per%20il%20perseguimento%20di%20obiettivi%20di%20razionalizzazione%20nelle%20pubbliche%20amminist_a2a2cc368cbd.md), come modificato dalla [L. 27 dicembre 2017, n. 205](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202018%20e%20bilancio%20pluriennale%20per%20il%20triennio%202018-2020.%2017G00222.md), ha disposto (con l'art. 11, comma 3-bis) che "Fino alla data del subentro nella gestione del servizio da parte del concessionario individuato con le procedure di cui al comma 9-bis, e comunque non oltre il 31 dicembre 2018, al fine di consentire la tenuta in modalita' elettronica dei registri di carico e scarico e dei formulari di accompagnamento dei rifiuti trasportati nonche' l'applicazione delle altre semplificazioni e le opportune modifiche normative continuano ad applicarsi gli adempimenti e gli obblighi di cui agli [articoli 188](../Codici/Norme%20in%20materia%20ambientale.md), [189](../Codici/Norme%20in%20materia%20ambientale.md), [190](../Codici/Norme%20in%20materia%20ambientale.md) e [193 del decreto legislativo 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md), nel testo previgente alle modifiche apportate dal [decreto legislativo 3 dicembre 2010, n. 205](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20di%20attuazione%20della%20direttiva%202008-98-CE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2019%20novembre%202008%20relativa%20ai%20rifiuti%20e%20che%20abroga%20alcune%20direttive.%2010G0235.md), nonche' le relative sanzioni".
 
 --------------
 
@@ -8237,7 +8237,7 @@ Il [D.L. 31 agosto 2013, n. 101](https://www.normattiva.it/uri-res/N2Ls?urn:nir:
 
 AGGIORNAMENTO (117)
 
-Il [D.L. 31 agosto 2013, n. 101](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2013-08-31;101), convertito con modificazioni dalla [L. 30 ottobre 2013, n. 125](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20agosto%202013%20n.%20101%20recante%20disposizioni%20urgenti%20per%20il%20perseguimento%20di%20obiettivi%20di%20razionalizzazione%20nelle%20pubbliche%20amminist_a2a2cc368cbd.md), come modificato dalla [L. 27 dicembre 2017, n. 205](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-12-27;205), ha disposto (con l'art. 11, comma 3-bis) che "Fino alla data del subentro nella gestione del servizio da parte del concessionario individuato con le procedure di cui al comma 9-bis, e comunque non oltre il 31 dicembre 2018, al fine di consentire la tenuta in modalita' elettronica dei registri di carico e scarico e dei formulari di accompagnamento dei rifiuti trasportati nonche' l'applicazione delle altre semplificazioni e le opportune modifiche normative continuano ad applicarsi gli adempimenti e gli obblighi di cui agli [articoli 188](../Codici/Norme%20in%20materia%20ambientale.md), [189](../Codici/Norme%20in%20materia%20ambientale.md), [190](../Codici/Norme%20in%20materia%20ambientale.md) e [193 del decreto legislativo 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md), nel testo previgente alle modifiche apportate dal [decreto legislativo 3 dicembre 2010, n. 205](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20di%20attuazione%20della%20direttiva%202008-98-CE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2019%20novembre%202008%20relativa%20ai%20rifiuti%20e%20che%20abroga%20alcune%20direttive.%2010G0235.md), nonche' le relative sanzioni".
+Il [D.L. 31 agosto 2013, n. 101](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2013-08-31;101), convertito con modificazioni dalla [L. 30 ottobre 2013, n. 125](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20agosto%202013%20n.%20101%20recante%20disposizioni%20urgenti%20per%20il%20perseguimento%20di%20obiettivi%20di%20razionalizzazione%20nelle%20pubbliche%20amminist_a2a2cc368cbd.md), come modificato dalla [L. 27 dicembre 2017, n. 205](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202018%20e%20bilancio%20pluriennale%20per%20il%20triennio%202018-2020.%2017G00222.md), ha disposto (con l'art. 11, comma 3-bis) che "Fino alla data del subentro nella gestione del servizio da parte del concessionario individuato con le procedure di cui al comma 9-bis, e comunque non oltre il 31 dicembre 2018, al fine di consentire la tenuta in modalita' elettronica dei registri di carico e scarico e dei formulari di accompagnamento dei rifiuti trasportati nonche' l'applicazione delle altre semplificazioni e le opportune modifiche normative continuano ad applicarsi gli adempimenti e gli obblighi di cui agli [articoli 188](../Codici/Norme%20in%20materia%20ambientale.md), [189](../Codici/Norme%20in%20materia%20ambientale.md), [190](../Codici/Norme%20in%20materia%20ambientale.md) e [193 del decreto legislativo 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md), nel testo previgente alle modifiche apportate dal [decreto legislativo 3 dicembre 2010, n. 205](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20di%20attuazione%20della%20direttiva%202008-98-CE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2019%20novembre%202008%20relativa%20ai%20rifiuti%20e%20che%20abroga%20alcune%20direttive.%2010G0235.md), nonche' le relative sanzioni".
 
 --------------
 
@@ -8348,7 +8348,7 @@ Il [D.L. 31 agosto 2013, n. 101](https://www.normattiva.it/uri-res/N2Ls?urn:nir:
 
 AGGIORNAMENTO (117)
 
-Il [D.L. 31 agosto 2013, n. 101](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2013-08-31;101), convertito con modificazioni dalla [L. 30 ottobre 2013, n. 125](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20agosto%202013%20n.%20101%20recante%20disposizioni%20urgenti%20per%20il%20perseguimento%20di%20obiettivi%20di%20razionalizzazione%20nelle%20pubbliche%20amminist_a2a2cc368cbd.md), come modificato dalla [L. 27 dicembre 2017, n. 205](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-12-27;205), ha disposto (con l'art. 11, comma 3-bis) che "Fino alla data del subentro nella gestione del servizio da parte del concessionario individuato con le procedure di cui al comma 9-bis, e comunque non oltre il 31 dicembre 2018, al fine di consentire la tenuta in modalita' elettronica dei registri di carico e scarico e dei formulari di accompagnamento dei rifiuti trasportati nonche' l'applicazione delle altre semplificazioni e le opportune modifiche normative continuano ad applicarsi gli adempimenti e gli obblighi di cui agli [articoli 188](../Codici/Norme%20in%20materia%20ambientale.md), [189](../Codici/Norme%20in%20materia%20ambientale.md), [190](../Codici/Norme%20in%20materia%20ambientale.md) e [193 del decreto legislativo 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md), nel testo previgente alle modifiche apportate dal [decreto legislativo 3 dicembre 2010, n. 205](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20di%20attuazione%20della%20direttiva%202008-98-CE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2019%20novembre%202008%20relativa%20ai%20rifiuti%20e%20che%20abroga%20alcune%20direttive.%2010G0235.md), nonche' le relative sanzioni".
+Il [D.L. 31 agosto 2013, n. 101](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2013-08-31;101), convertito con modificazioni dalla [L. 30 ottobre 2013, n. 125](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20agosto%202013%20n.%20101%20recante%20disposizioni%20urgenti%20per%20il%20perseguimento%20di%20obiettivi%20di%20razionalizzazione%20nelle%20pubbliche%20amminist_a2a2cc368cbd.md), come modificato dalla [L. 27 dicembre 2017, n. 205](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202018%20e%20bilancio%20pluriennale%20per%20il%20triennio%202018-2020.%2017G00222.md), ha disposto (con l'art. 11, comma 3-bis) che "Fino alla data del subentro nella gestione del servizio da parte del concessionario individuato con le procedure di cui al comma 9-bis, e comunque non oltre il 31 dicembre 2018, al fine di consentire la tenuta in modalita' elettronica dei registri di carico e scarico e dei formulari di accompagnamento dei rifiuti trasportati nonche' l'applicazione delle altre semplificazioni e le opportune modifiche normative continuano ad applicarsi gli adempimenti e gli obblighi di cui agli [articoli 188](../Codici/Norme%20in%20materia%20ambientale.md), [189](../Codici/Norme%20in%20materia%20ambientale.md), [190](../Codici/Norme%20in%20materia%20ambientale.md) e [193 del decreto legislativo 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md), nel testo previgente alle modifiche apportate dal [decreto legislativo 3 dicembre 2010, n. 205](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20di%20attuazione%20della%20direttiva%202008-98-CE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2019%20novembre%202008%20relativa%20ai%20rifiuti%20e%20che%20abroga%20alcune%20direttive.%2010G0235.md), nonche' le relative sanzioni".
 
 --------------
 
@@ -8537,7 +8537,7 @@ Il [D.L. 31 agosto 2013, n. 101](https://www.normattiva.it/uri-res/N2Ls?urn:nir:
 
 AGGIORNAMENTO (117)
 
-Il [D.L. 31 agosto 2013, n. 101](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2013-08-31;101), convertito con modificazioni dalla [L. 30 ottobre 2013, n. 125](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20agosto%202013%20n.%20101%20recante%20disposizioni%20urgenti%20per%20il%20perseguimento%20di%20obiettivi%20di%20razionalizzazione%20nelle%20pubbliche%20amminist_a2a2cc368cbd.md), come modificato dalla [L. 27 dicembre 2017, n. 205](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-12-27;205), ha disposto (con l'art. 11, comma 3-bis) che "Fino alla data del subentro nella gestione del servizio da parte del concessionario individuato con le procedure di cui al comma 9-bis, e comunque non oltre il 31 dicembre 2018, al fine di consentire la tenuta in modalita' elettronica dei registri di carico e scarico e dei formulari di accompagnamento dei rifiuti trasportati nonche' l'applicazione delle altre semplificazioni e le opportune modifiche normative continuano ad applicarsi gli adempimenti e gli obblighi di cui agli [articoli 188](../Codici/Norme%20in%20materia%20ambientale.md), [189](../Codici/Norme%20in%20materia%20ambientale.md), [190](../Codici/Norme%20in%20materia%20ambientale.md) e [193 del decreto legislativo 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md), nel testo previgente alle modifiche apportate dal [decreto legislativo 3 dicembre 2010, n. 205](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20di%20attuazione%20della%20direttiva%202008-98-CE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2019%20novembre%202008%20relativa%20ai%20rifiuti%20e%20che%20abroga%20alcune%20direttive.%2010G0235.md), nonche' le relative sanzioni".
+Il [D.L. 31 agosto 2013, n. 101](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2013-08-31;101), convertito con modificazioni dalla [L. 30 ottobre 2013, n. 125](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20agosto%202013%20n.%20101%20recante%20disposizioni%20urgenti%20per%20il%20perseguimento%20di%20obiettivi%20di%20razionalizzazione%20nelle%20pubbliche%20amminist_a2a2cc368cbd.md), come modificato dalla [L. 27 dicembre 2017, n. 205](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202018%20e%20bilancio%20pluriennale%20per%20il%20triennio%202018-2020.%2017G00222.md), ha disposto (con l'art. 11, comma 3-bis) che "Fino alla data del subentro nella gestione del servizio da parte del concessionario individuato con le procedure di cui al comma 9-bis, e comunque non oltre il 31 dicembre 2018, al fine di consentire la tenuta in modalita' elettronica dei registri di carico e scarico e dei formulari di accompagnamento dei rifiuti trasportati nonche' l'applicazione delle altre semplificazioni e le opportune modifiche normative continuano ad applicarsi gli adempimenti e gli obblighi di cui agli [articoli 188](../Codici/Norme%20in%20materia%20ambientale.md), [189](../Codici/Norme%20in%20materia%20ambientale.md), [190](../Codici/Norme%20in%20materia%20ambientale.md) e [193 del decreto legislativo 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md), nel testo previgente alle modifiche apportate dal [decreto legislativo 3 dicembre 2010, n. 205](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20di%20attuazione%20della%20direttiva%202008-98-CE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2019%20novembre%202008%20relativa%20ai%20rifiuti%20e%20che%20abroga%20alcune%20direttive.%2010G0235.md), nonche' le relative sanzioni".
 
 --------------
 
@@ -8619,7 +8619,7 @@ Le regioni e le province autonome comunicano le informazioni di cui all'articolo
 
 Ferme restando le ulteriori competenze statali previste da speciali disposizioni, anche contenute nella parte quarta del presente decreto, spettano allo Stato:
                             a)
-                                le funzioni di indirizzo e coordinamento necessarie all'attuazione della parte quarta del presente decreto, da esercitare ai sensi dell'[articolo 8 della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_8), nei limiti di quanto stabilito dall'[articolo 8, comma 6, della legge 5 giugno 2003, n. 131](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-06-05;131#art_8-com6);
+                                le funzioni di indirizzo e coordinamento necessarie all'attuazione della parte quarta del presente decreto, da esercitare ai sensi dell'[articolo 8 della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), nei limiti di quanto stabilito dall'[articolo 8, comma 6, della legge 5 giugno 2003, n. 131](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-06-05;131#art_8-com6);
                             b)
                                 la definizione dei criteri generali e delle metodologie per la gestione integrata dei rifiuti,;
                             b-bis)
@@ -8640,7 +8640,7 @@ Nell'individuare le infrastrutture e gli insediamenti strategici di cui al prese
                             h)
                                 l'indicazione delle misure atte ad incoraggiare la razionalizzazione della raccolta, della cernita e del riciclaggio dei rifiuti;
                             i)
-                                l'individuazione delle iniziative e delle azioni, anche economiche, per favorire il riciclaggio e il recupero di dai rifiuti, nonche' per promuovere il mercato dei materiali recuperati dai rifiuti ed il loro impiego da parte delle pubbliche amministrazioni e dei soggetti economici, anche ai sensi dell'[articolo 52, comma 56, lettera a), della legge 28 dicembre 2001, n. 448](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001-12-28;448#art_52-com56-leta), e del [decreto del Ministro dell'ambiente e della tutela del territorio 8 maggio 2003, n. 203](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.ambiente.tutela.territorio:decreto:2003-05-08;203);
+                                l'individuazione delle iniziative e delle azioni, anche economiche, per favorire il riciclaggio e il recupero di dai rifiuti, nonche' per promuovere il mercato dei materiali recuperati dai rifiuti ed il loro impiego da parte delle pubbliche amministrazioni e dei soggetti economici, anche ai sensi dell'[articolo 52, comma 56, lettera a), della legge 28 dicembre 2001, n. 448](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202002.md), e del [decreto del Ministro dell'ambiente e della tutela del territorio 8 maggio 2003, n. 203](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.ambiente.tutela.territorio:decreto:2003-05-08;203);
                             l)
                                 l'individuazione di obiettivi di qualita' dei servizi di gestione dei rifiuti;
                             m)
@@ -8688,7 +8688,7 @@ Sono inoltre di competenza dello Stato:
                             n)
                                 l'aggiornamento degli Allegati alla parte quarta del presente decreto;
                             o)
-                                l'adozione delle norme tecniche, delle modalita' e delle condizioni di utilizzo del prodotto ottenuto mediante compostaggio, con particolare riferimento all'utilizzo agronomico come fertilizzante, ai sensi del [decreto legislativo 29 aprile 2010, n. 75](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-04-29;75), e del prodotto di qualita' ottenuto mediante compostaggio da rifiuti organici selezionati alla fonte con raccolta differenziata;
+                                l'adozione delle norme tecniche, delle modalita' e delle condizioni di utilizzo del prodotto ottenuto mediante compostaggio, con particolare riferimento all'utilizzo agronomico come fertilizzante, ai sensi del [decreto legislativo 29 aprile 2010, n. 75](Riordino%20e%20revisione%20della%20disciplina%20in%20materia%20di%20fertilizzanti%20a%20norma%20dellarticolo%2013%20della%20legge%207%20luglio%202009%20n.%2088.%2010G0096.md), e del prodotto di qualita' ottenuto mediante compostaggio da rifiuti organici selezionati alla fonte con raccolta differenziata;
                             p)
                                 l'autorizzazione allo smaltimento di rifiuti nelle acque marine, in conformita' alle disposizioni stabilite dalle norme comunitarie e dalle convenzioni internazionali vigenti in materia, rilasciata dal Ministro dell'ambiente e della tutela del territorio e del mare, su proposta dell'autorita' marittima nella cui zona di competenza si trova il porto piu' vicino al luogo dove deve essere effettuato lo smaltimento ovvero si trova il porto da cui parte la nave con il carico di rifiuti da smaltire;
                             q)
@@ -9204,7 +9204,7 @@ L'accordo di programma di cui al comma precedente puo' stabilire obblighi, in li
 
 2.
 
-COMMA SOPPRESSO DAL [D.LGS. 16 GENNAIO 2008, N. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-01-16;4).
+COMMA SOPPRESSO DAL [D.LGS. 16 GENNAIO 2008, N. 4](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ulteriori%20disposizioni%20correttive%20ed%20integrative%20del%20decreto%20legislativo%203%20aprile%202006%20n.%20152%20recante%20norme%20in%20materia%20ambientale.md).
 
 3.
 
@@ -9212,7 +9212,7 @@ Nel caso in cui, a livello di ambito territoriale ottimale se costituito, ovvero
 
 3-bis.
 
-Al fine di favorire la raccolta differenziata di rifiuti urbani, la misura del tributo di cui all'[articolo 3, comma 24, della legge 28 dicembre 1995, n. 549](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-12-28;549#art_3-com24), e' modulata in base alla quota percentuale di superamento del livello di raccolta differenziata (RD), fatto salvo l'ammontare minimo fissato dal comma 29 dell'articolo 3 della medesima [legge n. 549 del 1995](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995;549), secondo la tabella seguente:
+Al fine di favorire la raccolta differenziata di rifiuti urbani, la misura del tributo di cui all'[articolo 3, comma 24, della legge 28 dicembre 1995, n. 549](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_2.md), e' modulata in base alla quota percentuale di superamento del livello di raccolta differenziata (RD), fatto salvo l'ammontare minimo fissato dal comma 29 dell'articolo 3 della medesima [legge n. 549 del 1995](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995;549), secondo la tabella seguente:
 
 Superamento del livello di RD rispetto alla normativa statale
                                     Riduzione del tributo
@@ -9247,11 +9247,11 @@ L'addizionale di cui al comma 3 e' dovuta alle regioni e affluisce in un apposit
 
 4.
 
-Con decreto del Ministro dell'ambiente e della tutela del territorio e del mare di concerto con il Ministro delle attivita' produttive d'intesa con la Conferenza unificata di cui all'[articolo 8 del decreto legislativo 28 agosto 1997, n. 281](Definizione%20ed%20ampliamento%20delle%20attribuzioni%20della%20Conferenza%20permanente%20per%20i%20rapporti%20tra%20lo%20Stato%20le%20regioni%20e%20le%20province%20autonome%20di%20Trento%20e%20Bolzano%20ed%20unificazione%20per%20le%20materie%20_0f948c71aa72.md), vengono stabilite la metodologia e i criteri di calcolo delle percentuali di cui ai commi 1 e 2, nonche' la nuova determinazione del coefficiente di correzione di cui all'[articolo 3, comma 29, della legge 28 dicembre 1995, n. 549](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-12-28;549#art_3-com29), in relazione al conseguimento degli obiettivi di cui ai commi 1 e 2.
+Con decreto del Ministro dell'ambiente e della tutela del territorio e del mare di concerto con il Ministro delle attivita' produttive d'intesa con la Conferenza unificata di cui all'[articolo 8 del decreto legislativo 28 agosto 1997, n. 281](Definizione%20ed%20ampliamento%20delle%20attribuzioni%20della%20Conferenza%20permanente%20per%20i%20rapporti%20tra%20lo%20Stato%20le%20regioni%20e%20le%20province%20autonome%20di%20Trento%20e%20Bolzano%20ed%20unificazione%20per%20le%20materie%20_0f948c71aa72.md), vengono stabilite la metodologia e i criteri di calcolo delle percentuali di cui ai commi 1 e 2, nonche' la nuova determinazione del coefficiente di correzione di cui all'[articolo 3, comma 29, della legge 28 dicembre 1995, n. 549](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_2.md), in relazione al conseguimento degli obiettivi di cui ai commi 1 e 2.
 
 5.
 
-Sino all'emanazione del decreto di cui al comma 4 continua ad applicarsi la disciplina attuativa di cui all'[articolo 3, commi da 24](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-12-28;549#art_3-com24) [a 40, della legge 28 dicembre 1995, n. 549](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-12-28;549#art_3-com40).
+Sino all'emanazione del decreto di cui al comma 4 continua ad applicarsi la disciplina attuativa di cui all'[articolo 3, commi da 24](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_2.md) [a 40, della legge 28 dicembre 1995, n. 549](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_2.md).
 
 6.
 
@@ -9289,7 +9289,7 @@ Il [D.L. 9 febbraio 2017, n. 8](https://www.normattiva.it/uri-res/N2Ls?urn:nir:s
 
 AGGIORNAMENTO (109)
 
-Il [D.L. 24 aprile 2017, n. 50](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2017-04-24;50), convertito con modificazioni dalla [L. 21 giugno 2017, n. 96](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2024%20aprile%202017%20n.%2050%20recante%20disposizioni%20urgenti%20in%20materia%20finanziaria%20iniziative%20a%20favore%20degli%20enti%20territoriali%20ulteriori%20int_61cabed4daef.md), ha disposto (con l'art. 46-ter, comma 1) che "In deroga all'[articolo 205, comma 3-ter, del decreto legislativo 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md), ai comuni, individuati negli allegati 1 e 2 al [decreto-legge 17 ottobre 2016, n. 189](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2016-10-17;189), convertito, con modificazioni, dalla [legge 15 dicembre 2016, n. 229](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2017%20ottobre%202016%20n.%20189%20recante%20interventi%20urgenti%20in%20favore%20delle%20popolazioni%20colpite%20dal%20sisma%20del%2024%20agosto%202016.%2016G00243.md), per i versamenti fino al quarto trimestre 2018, dovuti quale tributo per il conferimento dei rifiuti in discarica di cui all'[articolo 3, commi 24 e seguenti, della legge 28 dicembre 1995, n. 549](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-12-28;549#art_3-com24), si assume come riferimento il valore della raccolta differenziata raggiunto nell'anno 2015".
+Il [D.L. 24 aprile 2017, n. 50](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2017-04-24;50), convertito con modificazioni dalla [L. 21 giugno 2017, n. 96](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2024%20aprile%202017%20n.%2050%20recante%20disposizioni%20urgenti%20in%20materia%20finanziaria%20iniziative%20a%20favore%20degli%20enti%20territoriali%20ulteriori%20int_61cabed4daef.md), ha disposto (con l'art. 46-ter, comma 1) che "In deroga all'[articolo 205, comma 3-ter, del decreto legislativo 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md), ai comuni, individuati negli allegati 1 e 2 al [decreto-legge 17 ottobre 2016, n. 189](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2016-10-17;189), convertito, con modificazioni, dalla [legge 15 dicembre 2016, n. 229](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2017%20ottobre%202016%20n.%20189%20recante%20interventi%20urgenti%20in%20favore%20delle%20popolazioni%20colpite%20dal%20sisma%20del%2024%20agosto%202016.%2016G00243.md), per i versamenti fino al quarto trimestre 2018, dovuti quale tributo per il conferimento dei rifiuti in discarica di cui all'[articolo 3, commi 24 e seguenti, della legge 28 dicembre 1995, n. 549](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_2.md), si assume come riferimento il valore della raccolta differenziata raggiunto nell'anno 2015".
 
 ### Art. 205-bis. — (( (Regole per il calcolo degli obiettivi). ))
 
@@ -9541,7 +9541,7 @@ d) i materiali post consumo o derivanti dal recupero degli scarti e dei material
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 8 novembre 2006, n. 284](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-11-08;284) ha disposto (con l'art. 1, comma 5) che "il Comitato per la vigilanza sull'uso delle risorse idriche e l'Osservatorio nazionale sui rifiuti sono ricostituiti ed esercitano le relative funzioni".
+Il [D.Lgs. 8 novembre 2006, n. 284](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20correttive%20e%20integrative%20del%20decreto%20legislativo%203%20aprile%202006%20n.%20152%20recante%20norme%20in%20materia%20ambientale.md) ha disposto (con l'art. 1, comma 5) che "il Comitato per la vigilanza sull'uso delle risorse idriche e l'Osservatorio nazionale sui rifiuti sono ricostituiti ed esercitano le relative funzioni".
 
 ## CAPO IV AUTORIZZAZIONI E ISCRIZIONI
 
@@ -9836,9 +9836,9 @@ Le Sezioni regionali e provinciali dell'Albo sono istituite con decreto del Mini
                             d)
                                 da un esperto di comprovata esperienza nella materia ambientale, designato dal Ministro dell'ambiente e della tutela del territorio e del mare;
                             e)
-                                LETTERA SOPPRESSA DAL [D.LGS. 16 GENNAIO 2008, N. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-01-16;4);
+                                LETTERA SOPPRESSA DAL [D.LGS. 16 GENNAIO 2008, N. 4](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ulteriori%20disposizioni%20correttive%20ed%20integrative%20del%20decreto%20legislativo%203%20aprile%202006%20n.%20152%20recante%20norme%20in%20materia%20ambientale.md);
                             f)
-                                LETTERA SOPPRESSA DAL [D.LGS. 16 GENNAIO 2008, N. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-01-16;4).
+                                LETTERA SOPPRESSA DAL [D.LGS. 16 GENNAIO 2008, N. 4](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ulteriori%20disposizioni%20correttive%20ed%20integrative%20del%20decreto%20legislativo%203%20aprile%202006%20n.%20152%20recante%20norme%20in%20materia%20ambientale.md).
 
 4.
 
@@ -10222,11 +10222,11 @@ Al fine di un uso piu' efficiente delle risorse e di un'economia circolare che p
 
 9.
 
-COMMA SOPPRESSO DAL [D.LGS. 16 GENNAIO 2008, N.4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-01-16;4).
+COMMA SOPPRESSO DAL [D.LGS. 16 GENNAIO 2008, N.4](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ulteriori%20disposizioni%20correttive%20ed%20integrative%20del%20decreto%20legislativo%203%20aprile%202006%20n.%20152%20recante%20norme%20in%20materia%20ambientale.md).
 
 10.
 
-COMMA SOPPRESSO DAL [D.LGS. 16 GENNAIO 2008, N.4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-01-16;4).
+COMMA SOPPRESSO DAL [D.LGS. 16 GENNAIO 2008, N.4](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ulteriori%20disposizioni%20correttive%20ed%20integrative%20del%20decreto%20legislativo%203%20aprile%202006%20n.%20152%20recante%20norme%20in%20materia%20ambientale.md).
 
 11.
 
@@ -10252,7 +10252,7 @@ COMMA ABROGATO DAL [D.LGS. 3 DICEMBRE 2010, N. 205](../Atti%20di%20recepimento%2
 
 AGGIORNAMENTO (10)
 
-Il [D.Lgs. 16 gennaio 2008, n. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-01-16;4) ha disposto (con l'art. 2, comma 38) che "All'articolo 216, comma 4, le parole da: "La sezione regionale dell'Albo" fino a "disporre" sono sostituite dalle seguenti: " La provincia, qualora accerti il mancato rispetto delle norme tecniche e delle condizioni di cui al comma 1, dispone"".
+Il [D.Lgs. 16 gennaio 2008, n. 4](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ulteriori%20disposizioni%20correttive%20ed%20integrative%20del%20decreto%20legislativo%203%20aprile%202006%20n.%20152%20recante%20norme%20in%20materia%20ambientale.md) ha disposto (con l'art. 2, comma 38) che "All'articolo 216, comma 4, le parole da: "La sezione regionale dell'Albo" fino a "disporre" sono sostituite dalle seguenti: " La provincia, qualora accerti il mancato rispetto delle norme tecniche e delle condizioni di cui al comma 1, dispone"".
 
 ---------------
 
@@ -10547,7 +10547,7 @@ Per garantire il controllo del raggiungimento degli obiettivi di riciclaggio e d
 
 3.
 
-COMMA SOPPRESSO DAL [D.LGS. 16 GENNAIO 2008, N. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-01-16;4)
+COMMA SOPPRESSO DAL [D.LGS. 16 GENNAIO 2008, N. 4](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ulteriori%20disposizioni%20correttive%20ed%20integrative%20del%20decreto%20legislativo%203%20aprile%202006%20n.%20152%20recante%20norme%20in%20materia%20ambientale.md)
 
 4.
 
@@ -10634,27 +10634,27 @@ Per adempiere agli obblighi di riciclaggio e di recupero nonche' agli obblighi d
 
 4.
 
-Ai fini di cui al comma 3 gli utilizzatori sono tenuti a consegnare gli imballaggi usati secondari e terziari e i rifiuti di imballaggio secondari e terziari in un luogo di raccolta organizzato dai produttori e con gli stessi concordato. Gli utilizzatori possono tuttavia conferire al servizio pubblico i suddetti imballaggi e rifiuti di imballaggio ovvero secondo le modalita' di cui all'articolo 198, comma 2-bis. PERIODO SOPPRESSO dal [D. LGS. 16 GENNAIO 2008, n. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-01-16;4).
+Ai fini di cui al comma 3 gli utilizzatori sono tenuti a consegnare gli imballaggi usati secondari e terziari e i rifiuti di imballaggio secondari e terziari in un luogo di raccolta organizzato dai produttori e con gli stessi concordato. Gli utilizzatori possono tuttavia conferire al servizio pubblico i suddetti imballaggi e rifiuti di imballaggio ovvero secondo le modalita' di cui all'articolo 198, comma 2-bis. PERIODO SOPPRESSO dal [D. LGS. 16 GENNAIO 2008, n. 4](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ulteriori%20disposizioni%20correttive%20ed%20integrative%20del%20decreto%20legislativo%203%20aprile%202006%20n.%20152%20recante%20norme%20in%20materia%20ambientale.md).
 
 5.
 
-COMMA ABROGATO DAL [D.LGS. 23 DICEMBRE 2022, N. 213](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-12-23;213).
+COMMA ABROGATO DAL [D.LGS. 23 DICEMBRE 2022, N. 213](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20integrative%20e%20correttive%20al%20decreto%20legislativo%203%20settembre%202020%20n.%20116%20di%20attuazione%20della%20direttiva%20UE%202018-851%20che%20modifica%20la%20direttiva%202008-98-CE%20relativa%20ai%20rifiuti%20e%20a_ed0376686cfb.md).
 
 6.
 
-COMMA ABROGATO DAL [D.LGS. 23 DICEMBRE 2022, N. 213](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-12-23;213).
+COMMA ABROGATO DAL [D.LGS. 23 DICEMBRE 2022, N. 213](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20integrative%20e%20correttive%20al%20decreto%20legislativo%203%20settembre%202020%20n.%20116%20di%20attuazione%20della%20direttiva%20UE%202018-851%20che%20modifica%20la%20direttiva%202008-98-CE%20relativa%20ai%20rifiuti%20e%20a_ed0376686cfb.md).
 
 7.
 
-COMMA ABROGATO DAL [D.LGS. 23 DICEMBRE 2022, N. 213](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-12-23;213).
+COMMA ABROGATO DAL [D.LGS. 23 DICEMBRE 2022, N. 213](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20integrative%20e%20correttive%20al%20decreto%20legislativo%203%20settembre%202020%20n.%20116%20di%20attuazione%20della%20direttiva%20UE%202018-851%20che%20modifica%20la%20direttiva%202008-98-CE%20relativa%20ai%20rifiuti%20e%20a_ed0376686cfb.md).
 
 8.
 
-COMMA ABROGATO DAL [D.LGS. 23 DICEMBRE 2022, N. 213](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-12-23;213).
+COMMA ABROGATO DAL [D.LGS. 23 DICEMBRE 2022, N. 213](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20integrative%20e%20correttive%20al%20decreto%20legislativo%203%20settembre%202020%20n.%20116%20di%20attuazione%20della%20direttiva%20UE%202018-851%20che%20modifica%20la%20direttiva%202008-98-CE%20relativa%20ai%20rifiuti%20e%20a_ed0376686cfb.md).
 
 9.
 
-COMMA ABROGATO DAL [D.LGS. 23 DICEMBRE 2022, N. 213](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-12-23;213).
+COMMA ABROGATO DAL [D.LGS. 23 DICEMBRE 2022, N. 213](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20integrative%20e%20correttive%20al%20decreto%20legislativo%203%20settembre%202020%20n.%20116%20di%20attuazione%20della%20direttiva%20UE%202018-851%20che%20modifica%20la%20direttiva%202008-98-CE%20relativa%20ai%20rifiuti%20e%20a_ed0376686cfb.md).
 
 10.
 
@@ -10788,7 +10788,7 @@ Il Ministro dell'ambiente e della tutela del territorio e del mare e il Ministro
 
 AGGIORNAMENTO (10)
 
-Il [D.Lgs. 16 gennaio 2008, n.4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-01-16;4) ha disposto (con l'art. 2, comma 30-terbis) che "Al comma 2, dell'articolo 222, sostituire le parole "all'autorita' di cui all'articolo 207" con le seguenti "osservatorio nazionale sui rifiuti"".
+Il [D.Lgs. 16 gennaio 2008, n.4](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ulteriori%20disposizioni%20correttive%20ed%20integrative%20del%20decreto%20legislativo%203%20aprile%202006%20n.%20152%20recante%20norme%20in%20materia%20ambientale.md) ha disposto (con l'art. 2, comma 30-terbis) che "Al comma 2, dell'articolo 222, sostituire le parole "all'autorita' di cui all'articolo 207" con le seguenti "osservatorio nazionale sui rifiuti"".
 
 -------------
 
@@ -10824,7 +10824,7 @@ I consorzi di cui al comma 1 ((...)) sono tenuti a garantire l'equilibrio della 
 
 AGGIORNAMENTO (10)
 
-Il [D.Lgs. 16 gennaio 2008, n. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-01-16;4) ha disposto (con l'art. 2, comma 30-quater, lettera b)) che al comma 2 sono sostituite le parole da "180 giorni" fino a "presente decreto" con le seguenti: "31 dicembre 2008"; (con l'art. 2, comma 30-quater, lettera f)) che al comma 5 sono sostituite le parole "all'Autorita' di cui all'articolo 207" con le seguenti: "all'Osservatorio nazionale sui rifiuti".
+Il [D.Lgs. 16 gennaio 2008, n. 4](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ulteriori%20disposizioni%20correttive%20ed%20integrative%20del%20decreto%20legislativo%203%20aprile%202006%20n.%20152%20recante%20norme%20in%20materia%20ambientale.md) ha disposto (con l'art. 2, comma 30-quater, lettera b)) che al comma 2 sono sostituite le parole da "180 giorni" fino a "presente decreto" con le seguenti: "31 dicembre 2008"; (con l'art. 2, comma 30-quater, lettera f)) che al comma 5 sono sostituite le parole "all'Autorita' di cui all'articolo 207" con le seguenti: "all'Osservatorio nazionale sui rifiuti".
 
 -------------
 
@@ -10840,7 +10840,7 @@ Per il raggiungimento degli obiettivi globali di recupero e di riciclaggio e per
 
 2.
 
-COMMA ABROGATO DAL [D.LGS. 23 DICEMBRE 2022, N. 213](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-12-23;213).
+COMMA ABROGATO DAL [D.LGS. 23 DICEMBRE 2022, N. 213](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20integrative%20e%20correttive%20al%20decreto%20legislativo%203%20settembre%202020%20n.%20116%20di%20attuazione%20della%20direttiva%20UE%202018-851%20che%20modifica%20la%20direttiva%202008-98-CE%20relativa%20ai%20rifiuti%20e%20a_ed0376686cfb.md).
 
 3.
 
@@ -10903,7 +10903,7 @@ Il contributo ambientale del Conai, determinato ai sensi dell'articolo 237, comm
 
 9.
 
-COMMA SOPPRESSO DAL [D.LGS. 23 DICEMBRE 2022, N. 213](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-12-23;213).
+COMMA SOPPRESSO DAL [D.LGS. 23 DICEMBRE 2022, N. 213](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20integrative%20e%20correttive%20al%20decreto%20legislativo%203%20settembre%202020%20n.%20116%20di%20attuazione%20della%20direttiva%20UE%202018-851%20che%20modifica%20la%20direttiva%202008-98-CE%20relativa%20ai%20rifiuti%20e%20a_ed0376686cfb.md).
 
 10.
 
@@ -10911,7 +10911,7 @@ Al Consiglio di amministrazione del CONAI partecipa con diritto di voto un rappr
 
 11.
 
-COMMA SOPPRESSO DAL [D.LGS. 16 GENNAIO 2008, N.4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-01-16;4).
+COMMA SOPPRESSO DAL [D.LGS. 16 GENNAIO 2008, N.4](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ulteriori%20disposizioni%20correttive%20ed%20integrative%20del%20decreto%20legislativo%203%20aprile%202006%20n.%20152%20recante%20norme%20in%20materia%20ambientale.md).
 
 12.
 
@@ -10931,7 +10931,7 @@ La [L. 28 dicembre 2015, n. 221](https://www.normattiva.it/uri-res/N2Ls?urn:nir:
 
 AGGIORNAMENTO (186)
 
-Il [D.Lgs. 23 dicembre 2022, n. 213](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-12-23;213) ha disposto (con l'art. 6, comma 8, lettera c)) che "alla lettera e), le parole «di cui all'articolo 219, comma 3, lettere d-bis, d-ter) e d-quater)» sono sostituite dalle seguenti: «di cui all'articolo 219, comma 3, lettere e), f) e g)»".
+Il [D.Lgs. 23 dicembre 2022, n. 213](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20integrative%20e%20correttive%20al%20decreto%20legislativo%203%20settembre%202020%20n.%20116%20di%20attuazione%20della%20direttiva%20UE%202018-851%20che%20modifica%20la%20direttiva%202008-98-CE%20relativa%20ai%20rifiuti%20e%20a_ed0376686cfb.md) ha disposto (con l'art. 6, comma 8, lettera c)) che "alla lettera e), le parole «di cui all'articolo 219, comma 3, lettere d-bis, d-ter) e d-quater)» sono sostituite dalle seguenti: «di cui all'articolo 219, comma 3, lettere e), f) e g)»".
 
 ### Art. 225. — (programma generale di prevenzione e di gestione degli imballaggi e dei rifiuti di imballaggio)
 
@@ -10982,7 +10982,7 @@ I piani regionali di cui all'articolo 199 sono integrati con specifiche previsio
 
 AGGIORNAMENTO (10)
 
-Il [D.Lgs. 16 gennaio 2008, n.4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-01-16;4) ha disposto (con l'art. 2, comma 30-quinquiesbis) che "Ai commi 3 e 5 dell'articolo 225 sostituire le parole "all'Autorita' di cui all'articolo 207" con le seguenti: "all'Osservatorio nazionale sui rifiuti"".
+Il [D.Lgs. 16 gennaio 2008, n.4](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ulteriori%20disposizioni%20correttive%20ed%20integrative%20del%20decreto%20legislativo%203%20aprile%202006%20n.%20152%20recante%20norme%20in%20materia%20ambientale.md) ha disposto (con l'art. 2, comma 30-quinquiesbis) che "Ai commi 3 e 5 dell'articolo 225 sostituire le parole "all'Autorita' di cui all'articolo 207" con le seguenti: "all'Osservatorio nazionale sui rifiuti"".
 
 ---------------
 
@@ -11235,13 +11235,13 @@ Entro sei mesi dalla data di entrata in vigore della parte quarta del presente d
 
 AGGIORNAMENTO (138a)
 
-Il [D.Lgs. 29 maggio 2017, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-05-29;98), come modificato dalla [L. 27 dicembre 2017, n. 205](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-12-27;205), ha disposto (con l'art. 7, comma 1) la proroga dell'entrata in vigore della modifica di cui al comma 5 del presente articolo dal 1° luglio 2018 al 1° gennaio 2019.
+Il [D.Lgs. 29 maggio 2017, n. 98](Razionalizzazione%20dei%20processi%20di%20gestione%20dei%20dati%20di%20circolazione%20e%20di%20proprieta%20di%20autoveicoli%20motoveicoli%20e%20rimorchi%20finalizzata%20al%20rilascio%20di%20un%20documento%20unico%20ai%20sensi%20dellarticol_44f67bcd6ebb.md), come modificato dalla [L. 27 dicembre 2017, n. 205](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202018%20e%20bilancio%20pluriennale%20per%20il%20triennio%202018-2020.%2017G00222.md), ha disposto (con l'art. 7, comma 1) la proroga dell'entrata in vigore della modifica di cui al comma 5 del presente articolo dal 1° luglio 2018 al 1° gennaio 2019.
 
 ---------------
 
 AGGIORNAMENTO (148)
 
-Il [D.Lgs. 29 maggio 2017, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-05-29;98), come modificato dalla [L. 30 dicembre 2018, n. 145](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2018-12-30;145), ha disposto (con l'art. 7, comma 1) la proroga dell'entrata in vigore della modifica di cui al comma 5 del presente articolo dal 1° gennaio 2019 al 1° gennaio 2020.
+Il [D.Lgs. 29 maggio 2017, n. 98](Razionalizzazione%20dei%20processi%20di%20gestione%20dei%20dati%20di%20circolazione%20e%20di%20proprieta%20di%20autoveicoli%20motoveicoli%20e%20rimorchi%20finalizzata%20al%20rilascio%20di%20un%20documento%20unico%20ai%20sensi%20dellarticol_44f67bcd6ebb.md), come modificato dalla [L. 30 dicembre 2018, n. 145](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202019%20e%20bilancio%20pluriennale%20per%20il%20triennio%202019-2021.%2018G00172.md), ha disposto (con l'art. 7, comma 1) la proroga dell'entrata in vigore della modifica di cui al comma 5 del presente articolo dal 1° gennaio 2019 al 1° gennaio 2020.
 
 ### Art. 232. — (rifiuti prodotti dalle navi e residui di carico)
 
@@ -11313,7 +11313,7 @@ Qualora il Consorzio non ottemperi nei termini prescritti, le modifiche allo sta
  12. Decorsi novanta giorni dalla data di pubblicazione nella Gazzetta Ufficiale del decreto di approvazione dello Statuto di cui al comma 2, chiunque, in ragione della propria attivita' professionale, detiene oli e grassi vegetali e animali esausti e' obbligato a conferirli ai Consorzio direttamente o mediante consegna a soggetti incaricati dai Consorzio, fermo restando quanto previsto al comma 9. L'obbligo di conferimento non esclude la facolta' per il detentore di cedere oli e grassi vegetali e animali esausti ad imprese di altro Stato membro della Comunita' europea. 
  13. Chiunque, in ragione della propria attivita' professionale ed in attesa del conferimento ai Consorzio, detenga oli e grassi animali e vegetali esausti e' obbligato a stoccare gli stessi in apposito contenitore conforme alle disposizioni vigenti in materia di smaltimento. 
  14. Restano ferme le disposizioni comunitarie e nazionali vigenti in materia di prodotti, sottoprodotti e rifiuti di origine animale. 
- 15. I soggetti giuridici appartenenti alle categorie di cui al comma 5 che vengano costituiti o inizino comunque una delle attivita' proprie delle categorie medesime successivamente all'entrata in vigore della parte quarta del presente decreto aderiscono ad uno dei Consorzio di cui al comma 1 o adottano il sistema di cui al comma 9, entro sessanta giorni dalla data di costituzione o di inizio della propria attivita'. PERIODO SOPPRESSO DAL [D.Lgs. 16 GENNAIO 2008, N.4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-01-16;4).
+ 15. I soggetti giuridici appartenenti alle categorie di cui al comma 5 che vengano costituiti o inizino comunque una delle attivita' proprie delle categorie medesime successivamente all'entrata in vigore della parte quarta del presente decreto aderiscono ad uno dei Consorzio di cui al comma 1 o adottano il sistema di cui al comma 9, entro sessanta giorni dalla data di costituzione o di inizio della propria attivita'. PERIODO SOPPRESSO DAL [D.Lgs. 16 GENNAIO 2008, N.4](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ulteriori%20disposizioni%20correttive%20ed%20integrative%20del%20decreto%20legislativo%203%20aprile%202006%20n.%20152%20recante%20norme%20in%20materia%20ambientale.md).
 
 --------------
 
@@ -11353,7 +11353,7 @@ Ai Consorzio possono partecipare in qualita' di soci aggiunti i produttori ed im
 
 6.
 
-I soggetti giuridici appartenenti alle categorie di cui al comma 4 che vengano costituiti o inizino comunque una delle attivita' proprie delle categorie medesime successivamente all'entrata in vigore della parte quarta del presente decreto aderiscono ad uno dei Consorzio di cui al comma 1 o adottano il sistema di cui al comma 7, entro sessanta giorni dalla data di costituzione o di inizio della propria attivita'. PERIODO SOPPRESSO DAL [D.LGS. 16 GENNAIO 2008, N.4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-01-16;4)
+I soggetti giuridici appartenenti alle categorie di cui al comma 4 che vengano costituiti o inizino comunque una delle attivita' proprie delle categorie medesime successivamente all'entrata in vigore della parte quarta del presente decreto aderiscono ad uno dei Consorzio di cui al comma 1 o adottano il sistema di cui al comma 7, entro sessanta giorni dalla data di costituzione o di inizio della propria attivita'. PERIODO SOPPRESSO DAL [D.LGS. 16 GENNAIO 2008, N.4](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ulteriori%20disposizioni%20correttive%20ed%20integrative%20del%20decreto%20legislativo%203%20aprile%202006%20n.%20152%20recante%20norme%20in%20materia%20ambientale.md)
 
 7.
 
@@ -11433,7 +11433,7 @@ Il consorzio di cui al comma 1, gia' riconosciuto dalla previgente normativa, ha
 
 3.
 
-PERIODO SOPPRESSO DAL [D.LGS. 16 GENNAIO 2008, N.4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-01-16;4). Le imprese che eliminano gli oli minerali usati tramite co-combustione e all'uopo debitamente autorizzate e gli altri consorzio di cui al presente articolo sono tenute a fornire al Consorzio di cui all'[articolo 11 del decreto legislativo 27 gennaio 1992, n. 95](Attuazione%20delle%20direttive%20n.%2075-439-CEE%20e%20n.%2087-101-CEE%20relative%20alla%20eliminazione%20degli%20olii%20usati.md), i dati tecnici di cui al comma 12, lettera h), affinche' tale consorzio comunichi annualmente tutti i dati raccolti su base nazionale ai Ministeri che esercitano il controllo, corredati da una relazione illustrativa. Alla violazione dell'obbligo si applicano le sanzioni di cui all'articolo 258 per la mancata comunicazione di cui all'articolo 189, comma 3.
+PERIODO SOPPRESSO DAL [D.LGS. 16 GENNAIO 2008, N.4](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ulteriori%20disposizioni%20correttive%20ed%20integrative%20del%20decreto%20legislativo%203%20aprile%202006%20n.%20152%20recante%20norme%20in%20materia%20ambientale.md). Le imprese che eliminano gli oli minerali usati tramite co-combustione e all'uopo debitamente autorizzate e gli altri consorzio di cui al presente articolo sono tenute a fornire al Consorzio di cui all'[articolo 11 del decreto legislativo 27 gennaio 1992, n. 95](Attuazione%20delle%20direttive%20n.%2075-439-CEE%20e%20n.%2087-101-CEE%20relative%20alla%20eliminazione%20degli%20olii%20usati.md), i dati tecnici di cui al comma 12, lettera h), affinche' tale consorzio comunichi annualmente tutti i dati raccolti su base nazionale ai Ministeri che esercitano il controllo, corredati da una relazione illustrativa. Alla violazione dell'obbligo si applicano le sanzioni di cui all'articolo 258 per la mancata comunicazione di cui all'articolo 189, comma 3.
 
 4.
 
@@ -11453,7 +11453,7 @@ Le quote di partecipazione ai consorzio sono ripartite fra le categorie di impre
 
 6.
 
-Le deliberazioni degli organi del consorzio, adottate in relazione alle finalita' della parte quarta del presente decreto ed a norma dello statuto, sono vincolanti per tutti i consorziati. PERIODO SOPPRESSO DAL [D.LGS. 16 GENNAIO 2008, N.4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-01-16;4).
+Le deliberazioni degli organi del consorzio, adottate in relazione alle finalita' della parte quarta del presente decreto ed a norma dello statuto, sono vincolanti per tutti i consorziati. PERIODO SOPPRESSO DAL [D.LGS. 16 GENNAIO 2008, N.4](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ulteriori%20disposizioni%20correttive%20ed%20integrative%20del%20decreto%20legislativo%203%20aprile%202006%20n.%20152%20recante%20norme%20in%20materia%20ambientale.md).
 
 7.
 
@@ -11515,7 +11515,7 @@ L'attivita' dei mandatari e' svolta sotto la direzione e la responsabilita' dei 
 
 14.
 
-I soggetti giuridici appartenenti alle categorie di cui al comma 4 che vengano costituiti o inizino comunque una delle attivita' proprie delle categorie medesime successivamente all'entrata in vigore della parte quarta del presente decreto aderiscono ad uno dei consorzio di cui al comma 1, entro sessanta giorni dalla data di costituzione o di inizio della propria attivita'. PERIODO SOPPRESSO DAL [D.LGS. 16 GENNAIO 2008, N.4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-01-16;4)
+I soggetti giuridici appartenenti alle categorie di cui al comma 4 che vengano costituiti o inizino comunque una delle attivita' proprie delle categorie medesime successivamente all'entrata in vigore della parte quarta del presente decreto aderiscono ad uno dei consorzio di cui al comma 1, entro sessanta giorni dalla data di costituzione o di inizio della propria attivita'. PERIODO SOPPRESSO DAL [D.LGS. 16 GENNAIO 2008, N.4](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ulteriori%20disposizioni%20correttive%20ed%20integrative%20del%20decreto%20legislativo%203%20aprile%202006%20n.%20152%20recante%20norme%20in%20materia%20ambientale.md)
 
 15.
 
@@ -12330,7 +12330,7 @@ Ferme restando le competenze di cui all'articolo 9 del decreto del Ministro dell
 
 4-novies.
 
-COMMA ABROGATO DALLA [L. 27 DICEMBRE 2019, N. 160](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2019-12-27;160).
+COMMA ABROGATO DALLA [L. 27 DICEMBRE 2019, N. 160](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202020%20e%20bilancio%20pluriennale%20per%20il%20triennio%202020-2022.%2019G00165.md).
 
 5.
 
@@ -12457,7 +12457,7 @@ Il [D.L. 24 giugno 2014, n. 91](https://www.normattiva.it/uri-res/N2Ls?urn:nir:s
 
 1.
 
-Nei siti oggetto di bonifica, inclusi i siti di interesse nazionale, possono essere realizzati i progetti del Piano nazionale di ripresa e resilienza e del Piano nazionale per gli investimenti complementari al PNRR (PNC), di cui all'[articolo 1 del decreto-legge 6 maggio 2021, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021-05-06;59#art_1), convertito, con modificazioni, dalla [legge 1° luglio 2021, n. 101](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20maggio%202021%20n.%2059%20recante%20misure%20urgenti%20relative%20al%20Fondo%20complementare%20al%20Piano%20nazionale%20di%20ripresa%20e%20resilienza%20e%20altre%20misu_e5b088cf92d2.md), interventi e opere richiesti dalla normativa sulla sicurezza dei luoghi di lavoro, di manutenzione ordinaria e straordinaria di impianti e infrastrutture, compresi adeguamenti alle prescrizioni autorizzative, nonche' opere lineari necessarie per l'esercizio di impianti e forniture di servizi e, piu' in generale, altre opere lineari di pubblico interesse, di sistemazione idraulica, di mitigazione del rischio idraulico, opere per la realizzazione di impianti per la produzione energetica da fonti rinnovabili e di sistemi di accumulo, esclusi gli impianti termoelettrici, fatti salvi i casi di riconversione da un combustibile fossile ad altra fonte meno inquinante o qualora l'installazione comporti una riduzione degli impatti ambientali rispetto all'assetto esistente, opere con le medesime connesse, infrastrutture indispensabili alla costruzione e all'esercizio degli stessi impianti, nonche' le tipologie di opere e interventi individuati nell'allegato I-bis al presente decreto, a condizione che detti interventi e opere siano realizzati secondo modalita' e tecniche che non pregiudichino ne' interferiscano con l'esecuzione e il completamento della bonifica, ne' determinino rischi per la salute dei lavoratori e degli altri fruitori dell'area nel rispetto del [decreto legislativo 9 aprile 2008, n. 81](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81).
+Nei siti oggetto di bonifica, inclusi i siti di interesse nazionale, possono essere realizzati i progetti del Piano nazionale di ripresa e resilienza e del Piano nazionale per gli investimenti complementari al PNRR (PNC), di cui all'[articolo 1 del decreto-legge 6 maggio 2021, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021-05-06;59#art_1), convertito, con modificazioni, dalla [legge 1° luglio 2021, n. 101](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20maggio%202021%20n.%2059%20recante%20misure%20urgenti%20relative%20al%20Fondo%20complementare%20al%20Piano%20nazionale%20di%20ripresa%20e%20resilienza%20e%20altre%20misu_e5b088cf92d2.md), interventi e opere richiesti dalla normativa sulla sicurezza dei luoghi di lavoro, di manutenzione ordinaria e straordinaria di impianti e infrastrutture, compresi adeguamenti alle prescrizioni autorizzative, nonche' opere lineari necessarie per l'esercizio di impianti e forniture di servizi e, piu' in generale, altre opere lineari di pubblico interesse, di sistemazione idraulica, di mitigazione del rischio idraulico, opere per la realizzazione di impianti per la produzione energetica da fonti rinnovabili e di sistemi di accumulo, esclusi gli impianti termoelettrici, fatti salvi i casi di riconversione da un combustibile fossile ad altra fonte meno inquinante o qualora l'installazione comporti una riduzione degli impatti ambientali rispetto all'assetto esistente, opere con le medesime connesse, infrastrutture indispensabili alla costruzione e all'esercizio degli stessi impianti, nonche' le tipologie di opere e interventi individuati nell'allegato I-bis al presente decreto, a condizione che detti interventi e opere siano realizzati secondo modalita' e tecniche che non pregiudichino ne' interferiscano con l'esecuzione e il completamento della bonifica, ne' determinino rischi per la salute dei lavoratori e degli altri fruitori dell'area nel rispetto del [decreto legislativo 9 aprile 2008, n. 81](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20dellarticolo%201%20della%20legge%203%20agosto%202007%20n.%20123%20in%20materia%20di%20tutela%20della%20salute%20e%20della%20sicurezza%20nei%20luoghi%20di%20lavoro.md).
 
 1-bis.
 
@@ -13126,7 +13126,7 @@ Le pene rispettivamente previste dagli articoli 256, 256-bis e 259 sono aumentat
 
 AGGIORNAMENTO (120)
 
-Il [D.Lgs. 1 marzo 2018, n. 21](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2018-03-01;21) ha disposto (con l'art. 8, comma 1) che "Dalla data di entrata in vigore del presente decreto, i richiami alle disposizioni abrogate dall'articolo 7, ovunque presenti, si intendono riferiti alle corrispondenti disposizioni del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) come indicato dalla tabella A allegata al presente decreto".
+Il [D.Lgs. 1 marzo 2018, n. 21](Disposizioni%20di%20attuazione%20del%20principio%20di%20delega%20della%20riserva%20di%20codice%20nella%20materia%20penale%20a%20norma%20dellarticolo%201%20comma%2085%20lettera%20q%20della%20legge%2023%20giugno%202017%20n.%20103.%2018G00046.md) ha disposto (con l'art. 8, comma 1) che "Dalla data di entrata in vigore del presente decreto, i richiami alle disposizioni abrogate dall'articolo 7, ovunque presenti, si intendono riferiti alle corrispondenti disposizioni del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) come indicato dalla tabella A allegata al presente decreto".
 
 ### Articolo 260-bis — (Sistema informatico di controllo della tracciabilita' dei rifiuti)
 
@@ -13203,7 +13203,7 @@ Il [D.L. 31 agosto 2013, n. 101](https://www.normattiva.it/uri-res/N2Ls?urn:nir:
 
 AGGIORNAMENTO (117)
 
-Il [D.L. 31 agosto 2013, n. 101](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2013-08-31;101), convertito con modificazioni dalla [L. 30 ottobre 2013, n. 125](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20agosto%202013%20n.%20101%20recante%20disposizioni%20urgenti%20per%20il%20perseguimento%20di%20obiettivi%20di%20razionalizzazione%20nelle%20pubbliche%20amminist_a2a2cc368cbd.md), come modificato dalla [L. 27 dicembre 2017, n. 205](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-12-27;205), ha disposto (con l'art. 11, comma 3-bis) che "Fino alla data del subentro nella gestione del servizio da parte del concessionario individuato con le procedure di cui al comma 9-bis, e comunque non oltre il 31 dicembre 2018 [...] le sanzioni relative al SISTRI di cui agli articoli 260-bis, commi da 3 a 9, e 260-ter del [decreto legislativo 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md), e successive modificazioni, non si applicano. [...] Fino alla data del subentro nella gestione del servizio da parte del concessionario individuato con le procedure di cui al comma 9-bis, e comunque non oltre il 31 dicembre 2018, le sanzioni di cui all'[articolo 260-bis, commi 1](../Codici/Norme%20in%20materia%20ambientale.md) e [2, del decreto legislativo 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md), sono ridotte del 50 per cento".
+Il [D.L. 31 agosto 2013, n. 101](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2013-08-31;101), convertito con modificazioni dalla [L. 30 ottobre 2013, n. 125](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20agosto%202013%20n.%20101%20recante%20disposizioni%20urgenti%20per%20il%20perseguimento%20di%20obiettivi%20di%20razionalizzazione%20nelle%20pubbliche%20amminist_a2a2cc368cbd.md), come modificato dalla [L. 27 dicembre 2017, n. 205](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202018%20e%20bilancio%20pluriennale%20per%20il%20triennio%202018-2020.%2017G00222.md), ha disposto (con l'art. 11, comma 3-bis) che "Fino alla data del subentro nella gestione del servizio da parte del concessionario individuato con le procedure di cui al comma 9-bis, e comunque non oltre il 31 dicembre 2018 [...] le sanzioni relative al SISTRI di cui agli articoli 260-bis, commi da 3 a 9, e 260-ter del [decreto legislativo 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md), e successive modificazioni, non si applicano. [...] Fino alla data del subentro nella gestione del servizio da parte del concessionario individuato con le procedure di cui al comma 9-bis, e comunque non oltre il 31 dicembre 2018, le sanzioni di cui all'[articolo 260-bis, commi 1](../Codici/Norme%20in%20materia%20ambientale.md) e [2, del decreto legislativo 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md), sono ridotte del 50 per cento".
 
 ### Articolo 260-ter — (Sanzioni amministrative accessorie. Confisca)
 
@@ -13257,7 +13257,7 @@ Il [D.L. 31 agosto 2013, n. 101](https://www.normattiva.it/uri-res/N2Ls?urn:nir:
 
 AGGIORNAMENTO (117)
 
-Il [D.L. 31 agosto 2013, n. 101](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2013-08-31;101), convertito con modificazioni dalla [L. 30 ottobre 2013, n. 125](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20agosto%202013%20n.%20101%20recante%20disposizioni%20urgenti%20per%20il%20perseguimento%20di%20obiettivi%20di%20razionalizzazione%20nelle%20pubbliche%20amminist_a2a2cc368cbd.md), come modificato dalla [L. 27 dicembre 2017, n. 205](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-12-27;205), ha disposto (con l'art. 11, comma 3-bis) che "Fino alla data del subentro nella gestione del servizio da parte del concessionario individuato con le procedure di cui al comma 9-bis, e comunque non oltre il 31 dicembre 2018 [...] le sanzioni relative al SISTRI di cui agli articoli 260-bis, commi da 3 a 9, e 260-ter del [decreto legislativo 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md), e successive modificazioni, non si applicano".
+Il [D.L. 31 agosto 2013, n. 101](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2013-08-31;101), convertito con modificazioni dalla [L. 30 ottobre 2013, n. 125](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20agosto%202013%20n.%20101%20recante%20disposizioni%20urgenti%20per%20il%20perseguimento%20di%20obiettivi%20di%20razionalizzazione%20nelle%20pubbliche%20amminist_a2a2cc368cbd.md), come modificato dalla [L. 27 dicembre 2017, n. 205](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202018%20e%20bilancio%20pluriennale%20per%20il%20triennio%202018-2020.%2017G00222.md), ha disposto (con l'art. 11, comma 3-bis) che "Fino alla data del subentro nella gestione del servizio da parte del concessionario individuato con le procedure di cui al comma 9-bis, e comunque non oltre il 31 dicembre 2018 [...] le sanzioni relative al SISTRI di cui agli articoli 260-bis, commi da 3 a 9, e 260-ter del [decreto legislativo 3 aprile 2006, n. 152](../Codici/Norme%20in%20materia%20ambientale.md), e successive modificazioni, non si applicano".
 
 ### Art. 261. — (imballaggi)
 
@@ -13373,7 +13373,7 @@ Per i procedimenti penali pendenti alla data di entrata in vigore della parte qu
 
 AGGIORNAMENTO (53)
 
-Il [D.Lgs. 1 settembre 2011, n. 150](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-09-01;150) ha disposto (con l'art. 36, commi 1 e 2) che "1. Le norme del presente decreto si applicano ai procedimenti instaurati successivamente alla data di entrata in vigore dello stesso. 
+Il [D.Lgs. 1 settembre 2011, n. 150](Disposizioni%20complementari%20al%20codice%20di%20procedura%20civile%20in%20materia%20di%20riduzione%20e%20semplificazione%20dei%20procedimenti%20civili%20di%20cognizione%20ai%20sensi%20dellarticolo%2054%20della%20legge%2018%20giugno%20200_79c74cc89038.md) ha disposto (con l'art. 36, commi 1 e 2) che "1. Le norme del presente decreto si applicano ai procedimenti instaurati successivamente alla data di entrata in vigore dello stesso. 
  2. Le norme abrogate o modificate dal presente decreto continuano ad applicarsi alle controversie pendenti alla data di entrata in vigore dello stesso."
 
 ### Art. 263. — (proventi delle sanzioni amministrative pecuniarie)
@@ -13418,9 +13418,9 @@ A decorrere dalla data di entrata in vigore della parte quarta del presente decr
                             l)
                                 l'[articolo 14 del decreto-legge 8 luglio 2002, n. 138](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2002-07-08;138#art_14), convertito, con modificazioni, dall'[articolo 14 della legge 8 agosto 2002, n. 178](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%208%20luglio%202002%20n.%20138%20recante%20interventi%20urgenti%20in%20materia%20tributaria%20di%20privatizzazioni%20di%20contenimento%20della%20spesa%20farmaceutica%20_1f927d95ed53.md);
                             m)
-                                l'[articolo 9, comma 2-bis, della legge 21 novembre 2000, n. 342](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-11-21;342#art_9-com2bis), ultimo periodo, dalle parole: "i soggetti di cui all'artico 38, comma 3, lettera a)" sino alla parola: "CONAI";
+                                l'[articolo 9, comma 2-bis, della legge 21 novembre 2000, n. 342](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20in%20materia%20fiscale.md), ultimo periodo, dalle parole: "i soggetti di cui all'artico 38, comma 3, lettera a)" sino alla parola: "CONAI";
                             n)
-                                LETTERA SOPPRESSA DAL [D.LGS. 16 GENNAIO 2008, N. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-01-16;4) (10)
+                                LETTERA SOPPRESSA DAL [D.LGS. 16 GENNAIO 2008, N. 4](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ulteriori%20disposizioni%20correttive%20ed%20integrative%20del%20decreto%20legislativo%203%20aprile%202006%20n.%20152%20recante%20norme%20in%20materia%20ambientale.md) (10)
                             o)
                                 gli [articoli 4](Attuazione%20delle%20direttive%20n.%2075-439-CEE%20e%20n.%2087-101-CEE%20relative%20alla%20eliminazione%20degli%20olii%20usati.md), [5](Attuazione%20delle%20direttive%20n.%2075-439-CEE%20e%20n.%2087-101-CEE%20relative%20alla%20eliminazione%20degli%20olii%20usati.md), [8](Attuazione%20delle%20direttive%20n.%2075-439-CEE%20e%20n.%2087-101-CEE%20relative%20alla%20eliminazione%20degli%20olii%20usati.md), [12](Attuazione%20delle%20direttive%20n.%2075-439-CEE%20e%20n.%2087-101-CEE%20relative%20alla%20eliminazione%20degli%20olii%20usati.md), [14](Attuazione%20delle%20direttive%20n.%2075-439-CEE%20e%20n.%2087-101-CEE%20relative%20alla%20eliminazione%20degli%20olii%20usati.md) e [15 del decreto legislativo 27 gennaio 1992, n. 95](Attuazione%20delle%20direttive%20n.%2075-439-CEE%20e%20n.%2087-101-CEE%20relative%20alla%20eliminazione%20degli%20olii%20usati.md). Restano valide ai fini della gestione degli oli usati, fino al conseguimento o diniego di quelle richieste ai sensi del presente decreto e per un periodo comunque non superiore ad un triennio dalla data della sua entrata in vigore, tutte le autorizzazioni concesse, alla data di entrata in vigore della parte quarta del presente decreto, ai sensi della normativa vigente, ivi compresi il [decreto legislativo 5 febbraio 1997, n. 22](Attuazione%20delle%20direttive%2091-156-CEE%20sui%20rifiuti%2091-689-CEE%20sui%20rifiuti%20pericolosi%20e%2094-62-CE%20sugli%20imballaggi%20e%20sui%20rifiuti%20di%20imballaggio.md), il [decreto legislativo 27 gennaio 1992, n. 95, e il decreto 16 maggio 1996, n. 392](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1996-05-16;392), pubblicato nella Gazzetta Ufficiale n. 173 del 25 luglio 1996.
 Al fine di assicurare che non vi sia soluzione di continuita' nel passaggio dalla preesistente normativa a quella prevista dalla parte quarta del presente decreto, i provvedimenti attuativi dell'[articolo 11 del decreto legislativo 27 gennaio 1992, n. 95](Attuazione%20delle%20direttive%20n.%2075-439-CEE%20e%20n.%2087-101-CEE%20relative%20alla%20eliminazione%20degli%20olii%20usati.md), continuano ad applicarsi sino alla data di entrata in vigore dei corrispondenti provvedimenti attuativi p revisti dalla parte quarta del presente decreto;
@@ -13437,7 +13437,7 @@ Il Governo, ai sensi dell'[articolo 17, comma 2, della legge 23 agosto 1988, n. 
 
 AGGIORNAMENTO (10)
 
-Il [D.Lgs. 16 gennaio 2008, n.4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-01-16;4) ha disposto che "All'articolo 264, comma 1, la lettera n) e' soppressa. E' fatta salva, dalla data di entrata in vigore del presente decreto, l'applicazione del tributo di cui all'[articolo 19 del decreto legislativo 30 dicembre 1992, n. 
+Il [D.Lgs. 16 gennaio 2008, n.4](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ulteriori%20disposizioni%20correttive%20ed%20integrative%20del%20decreto%20legislativo%203%20aprile%202006%20n.%20152%20recante%20norme%20in%20materia%20ambientale.md) ha disposto che "All'articolo 264, comma 1, la lettera n) e' soppressa. E' fatta salva, dalla data di entrata in vigore del presente decreto, l'applicazione del tributo di cui all'[articolo 19 del decreto legislativo 30 dicembre 1992, n. 
 504](Riordino%20della%20finanza%20degli%20enti%20territoriali%20a%20norma%20dellarticolo%204%20della%20legge%2023%20ottobre%201992%20n.%20421.md)."
 
 ### Articolo 264-bis — (( (Abrogazioni e modifiche di disposizioni del
@@ -13673,7 +13673,7 @@ Ai fini del presente titolo si applicano le seguenti definizioni:
                             rr-bis)
                                 raffinerie: stabilimenti in cui si effettua la raffinazione di oli minerali o gas;
                             ss)
-                                LETTERA SOPPRESSA DAL [D.LGS. 29 GIUGNO 2010, N. 128](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-06-29;128);
+                                LETTERA SOPPRESSA DAL [D.LGS. 29 GIUGNO 2010, N. 128](Modifiche%20ed%20integrazioni%20al%20decreto%20legislativo%203%20aprile%202006%20n.%20152%20recante%20norme%20in%20materia%20ambientale%20a%20norma%20dellarticolo%2012%20della%20legge%2018%20giugno%202009%20n.%2069.%2010G0147.md);
                             tt)
                                 impianti di distribuzione: impianti in cui il carburante viene erogato ai serbatoi dei veicoli a motore da impianti di deposito; ai fini dell'applicazione dell'articolo 277 si considerano esistenti gli impianti di distribuzione di benzina gia' costruiti o la cui costruzione ed il cui esercizio sono autorizzati ai sensi della vigente normativa prima del 1° gennaio 2012 e si considerano nuovi gli impianti di distribuzione di benzina la cui costruzione ed il cui esercizio sono autorizzati ai sensi della vigente normativa dal 1° gennaio 2012; sono equiparati agli impianti nuovi gli impianti distribuzione che, a decorrere dal 1° gennaio 2012, sono oggetto di una ristrutturazione completa, intesa come il totale rinnovo o riposizionamento dei serbatoi e delle relative tubazioni;
                             tt-bis)
@@ -13808,29 +13808,29 @@ Le spese per rilievi, accertamenti, verifiche e sopralluoghi necessari per l'ist
 
 12.
 
-COMMA SOPPRESSO DAL [D.LGS. 29 GIUGNO 2010, N. 128](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-06-29;128).
+COMMA SOPPRESSO DAL [D.LGS. 29 GIUGNO 2010, N. 128](Modifiche%20ed%20integrazioni%20al%20decreto%20legislativo%203%20aprile%202006%20n.%20152%20recante%20norme%20in%20materia%20ambientale%20a%20norma%20dellarticolo%2012%20della%20legge%2018%20giugno%202009%20n.%2069.%2010G0147.md).
 
 13.
 
-COMMA SOPPRESSO DAL [D.LGS. 29 GIUGNO 2010, N. 128](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-06-29;128).
+COMMA SOPPRESSO DAL [D.LGS. 29 GIUGNO 2010, N. 128](Modifiche%20ed%20integrazioni%20al%20decreto%20legislativo%203%20aprile%202006%20n.%20152%20recante%20norme%20in%20materia%20ambientale%20a%20norma%20dellarticolo%2012%20della%20legge%2018%20giugno%202009%20n.%2069.%2010G0147.md).
 
 14.
 
-COMMA SOPPRESSO DAL [D.LGS. 29 GIUGNO 2010, N. 128](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-06-29;128).
+COMMA SOPPRESSO DAL [D.LGS. 29 GIUGNO 2010, N. 128](Modifiche%20ed%20integrazioni%20al%20decreto%20legislativo%203%20aprile%202006%20n.%20152%20recante%20norme%20in%20materia%20ambientale%20a%20norma%20dellarticolo%2012%20della%20legge%2018%20giugno%202009%20n.%2069.%2010G0147.md).
 
 15.
 
-COMMA SOPPRESSO DAL [D.LGS. 29 GIUGNO 2010, N. 128](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-06-29;128).
+COMMA SOPPRESSO DAL [D.LGS. 29 GIUGNO 2010, N. 128](Modifiche%20ed%20integrazioni%20al%20decreto%20legislativo%203%20aprile%202006%20n.%20152%20recante%20norme%20in%20materia%20ambientale%20a%20norma%20dellarticolo%2012%20della%20legge%2018%20giugno%202009%20n.%2069.%2010G0147.md).
 
 16.
 
-COMMA SOPPRESSO DAL [D.LGS. 29 GIUGNO 2010, N. 128](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-06-29;128).
+COMMA SOPPRESSO DAL [D.LGS. 29 GIUGNO 2010, N. 128](Modifiche%20ed%20integrazioni%20al%20decreto%20legislativo%203%20aprile%202006%20n.%20152%20recante%20norme%20in%20materia%20ambientale%20a%20norma%20dellarticolo%2012%20della%20legge%2018%20giugno%202009%20n.%2069.%2010G0147.md).
 
 ---------------
 
 AGGIORNAMENTO (136)
 
-Il [D.Lgs. 30 luglio 2020, n. 102](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2020-07-30;102) ha disposto (con l'art. 1, comma 1, lettera b)) che al comma 4, lettera b) del presente articolo, in fine il segno di interpunzione «;» e' sostituito dal seguente: «.»
+Il [D.Lgs. 30 luglio 2020, n. 102](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20integrative%20e%20correttive%20al%20decreto%20legislativo%2015%20novembre%202017%20n.%20183%20di%20attuazione%20della%20direttiva%20UE%202015-2193%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2025%20novembre%202015_aeb6397f8c9f.md) ha disposto (con l'art. 1, comma 1, lettera b)) che al comma 4, lettera b) del presente articolo, in fine il segno di interpunzione «;» e' sostituito dal seguente: «.»
 
 ### Art. 270. — Individuazione degli impianti e convogliamento delle emissioni
 
@@ -13919,15 +13919,15 @@ Le emissioni delle sostanze classificate come cancerogene o tossiche per la ripr
 
 8.
 
-COMMA SOPPRESSO DAL [D.LGS. 29 GIUGNO 2010, N. 128](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-06-29;128).
+COMMA SOPPRESSO DAL [D.LGS. 29 GIUGNO 2010, N. 128](Modifiche%20ed%20integrazioni%20al%20decreto%20legislativo%203%20aprile%202006%20n.%20152%20recante%20norme%20in%20materia%20ambientale%20a%20norma%20dellarticolo%2012%20della%20legge%2018%20giugno%202009%20n.%2069.%2010G0147.md).
 
 9.
 
-COMMA SOPPRESSO DAL [D.LGS. 29 GIUGNO 2010, N. 128](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-06-29;128).
+COMMA SOPPRESSO DAL [D.LGS. 29 GIUGNO 2010, N. 128](Modifiche%20ed%20integrazioni%20al%20decreto%20legislativo%203%20aprile%202006%20n.%20152%20recante%20norme%20in%20materia%20ambientale%20a%20norma%20dellarticolo%2012%20della%20legge%2018%20giugno%202009%20n.%2069.%2010G0147.md).
 
 10.
 
-COMMA SOPPRESSO DAL [D.LGS. 29 GIUGNO 2010, N. 128](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-06-29;128).
+COMMA SOPPRESSO DAL [D.LGS. 29 GIUGNO 2010, N. 128](Modifiche%20ed%20integrazioni%20al%20decreto%20legislativo%203%20aprile%202006%20n.%20152%20recante%20norme%20in%20materia%20ambientale%20a%20norma%20dellarticolo%2012%20della%20legge%2018%20giugno%202009%20n.%2069.%2010G0147.md).
 
 11.
 
@@ -14481,7 +14481,7 @@ Con apposito decreto, da adottare ai sensi dell'articolo 281, comma 6, si provve
 
 19.
 
-COMMA SOPPRESSO DAL [D.LGS 29 GIUGNO 2010, N. 128](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-06-29;128).
+COMMA SOPPRESSO DAL [D.LGS 29 GIUGNO 2010, N. 128](Modifiche%20ed%20integrazioni%20al%20decreto%20legislativo%203%20aprile%202006%20n.%20152%20recante%20norme%20in%20materia%20ambientale%20a%20norma%20dellarticolo%2012%20della%20legge%2018%20giugno%202009%20n.%2069.%2010G0147.md).
 
 20.
 
@@ -14661,7 +14661,7 @@ Per la violazione delle prescrizioni dell'articolo 276, nel caso in cui la stess
 
 AGGIORNAMENTO (136)
 
-Il [D.Lgs. 30 luglio 2020, n. 102](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2020-07-30;102) ha disposto (con l'art. 1, comma 1, lettera g)) che al comma 3, terzo periodo, del presente articolo, le parole «chi non effettua una delle comunicazioni previste all'articolo 273-bis, comma 6 e comma 7, lettere c) e d)» sono sostituite dalle seguenti: «chi non presenta, nei termini previsti, la domanda o la relazione di cui all'articolo 271, comma 7-bis, chi non effettua, nei termini, una delle comunicazioni previste all'articolo 273-bis, comma 6 e comma 7, lettere c) e d), e chi non presenta, nei termini, la domanda prevista all'articolo 273-bis, comma 6».
+Il [D.Lgs. 30 luglio 2020, n. 102](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20integrative%20e%20correttive%20al%20decreto%20legislativo%2015%20novembre%202017%20n.%20183%20di%20attuazione%20della%20direttiva%20UE%202015-2193%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2025%20novembre%202015_aeb6397f8c9f.md) ha disposto (con l'art. 1, comma 1, lettera g)) che al comma 3, terzo periodo, del presente articolo, le parole «chi non effettua una delle comunicazioni previste all'articolo 273-bis, comma 6 e comma 7, lettere c) e d)» sono sostituite dalle seguenti: «chi non presenta, nei termini previsti, la domanda o la relazione di cui all'articolo 271, comma 7-bis, chi non effettua, nei termini, una delle comunicazioni previste all'articolo 273-bis, comma 6 e comma 7, lettere c) e d), e chi non presenta, nei termini, la domanda prevista all'articolo 273-bis, comma 6».
 
 ### Art. 280. — (abrogazioni)
 
@@ -14720,7 +14720,7 @@ Le integrazioni e le modifiche degli allegati alle norme in materia di tutela de
 
 6.
 
-Alla modifica ed integrazione degli Allegati alla parte quinta del presente decreto, al fine di dare attuazione alle direttive comunitarie per le parti in cui le stesse comportino modifiche delle modalita' esecutive e delle caratteristiche di ordine tecnico stabilite dalle norme vigenti, si provvede ai sensi dell'[articolo 36 della legge 24 dicembre 2012, n. 234](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-24;234#art_36).
+Alla modifica ed integrazione degli Allegati alla parte quinta del presente decreto, al fine di dare attuazione alle direttive comunitarie per le parti in cui le stesse comportino modifiche delle modalita' esecutive e delle caratteristiche di ordine tecnico stabilite dalle norme vigenti, si provvede ai sensi dell'[articolo 36 della legge 24 dicembre 2012, n. 234](../Leggi%20di%20delegazione%20europea/Norme%20generali%20sulla%20partecipazione%20dellItalia%20alla%20formazione%20e%20allattuazione%20della%20normativa%20e%20delle%20politiche%20dellUnione%20europea.%2013G00003.md).
 
 7.
 
@@ -14754,7 +14754,7 @@ COMMA ABROGATO DAL [D.P.R. 13 MARZO 2013, N. 59](../DPR/Regolamento%20recante%20
 
 AGGIORNAMENTO (40)
 
-Il [D.Lgs. 29 giugno 2010, n. 128](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-06-29;128) ha disposto (con l'art. 4, comma 2) che nel presente decreto, ovunque ricorrano, le parole "Ministero dell'ambiente e della tutela del territorio", sono sostituite dalle seguenti: "Ministero dell'ambiente e della tutela del territorio e del mare", le parole: "Ministro dell'ambiente e della tutela del territorio" sono sostituite dalle seguenti: "Ministro dell'ambiente e della tutela del territorio e del mare", le parole "Agenzia per la protezione dell'ambiente e per i servizi tecnici" sono sostituite dalle seguenti: "Istituto superiore per la protezione e la ricerca ambientale", e la parola "APAT" e' sostituita dalla seguente:
+Il [D.Lgs. 29 giugno 2010, n. 128](Modifiche%20ed%20integrazioni%20al%20decreto%20legislativo%203%20aprile%202006%20n.%20152%20recante%20norme%20in%20materia%20ambientale%20a%20norma%20dellarticolo%2012%20della%20legge%2018%20giugno%202009%20n.%2069.%2010G0147.md) ha disposto (con l'art. 4, comma 2) che nel presente decreto, ovunque ricorrano, le parole "Ministero dell'ambiente e della tutela del territorio", sono sostituite dalle seguenti: "Ministero dell'ambiente e della tutela del territorio e del mare", le parole: "Ministro dell'ambiente e della tutela del territorio" sono sostituite dalle seguenti: "Ministro dell'ambiente e della tutela del territorio e del mare", le parole "Agenzia per la protezione dell'ambiente e per i servizi tecnici" sono sostituite dalle seguenti: "Istituto superiore per la protezione e la ricerca ambientale", e la parola "APAT" e' sostituita dalla seguente:
 "ISPRA".
 
 ## TITOLO II IMPIANTI TERMICI CIVILI
@@ -15015,7 +15015,7 @@ Sono abrogati, escluse le disposizioni di cui il presente decreto prevede l'ulte
 
 1.
 
-COMMA SOPPRESSO DAL [D.LGS. 29 GIUGNO 2010, N. 128](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-06-29;128).
+COMMA SOPPRESSO DAL [D.LGS. 29 GIUGNO 2010, N. 128](Modifiche%20ed%20integrazioni%20al%20decreto%20legislativo%203%20aprile%202006%20n.%20152%20recante%20norme%20in%20materia%20ambientale%20a%20norma%20dellarticolo%2012%20della%20legge%2018%20giugno%202009%20n.%2069.%2010G0147.md).
 
 2.
 
@@ -15129,7 +15129,7 @@ Al fine di ottimizzare il rendimento di combustione, gli impianti disciplinati d
 
 AGGIORNAMENTO (136)
 
-Il [D.Lgs. 30 luglio 2020, n. 102](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2020-07-30;102) ha disposto (con l'art. 3, comma 1) che "In caso di impianti in esercizio al 19 dicembre 2017, l'adeguamento alle disposizioni dell'[articolo 294 del decreto legislativo n. 152 del 2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006;152#art_294), come modificato dal presente decreto, e' effettuato sulla base del primo rinnovo dell'autorizzazione dello stabilimento o, in caso di impianti disciplinati dal titolo II della parte quinta del [decreto legislativo n. 152 del 2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006;152), entro il 1° gennaio 2025".
+Il [D.Lgs. 30 luglio 2020, n. 102](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20integrative%20e%20correttive%20al%20decreto%20legislativo%2015%20novembre%202017%20n.%20183%20di%20attuazione%20della%20direttiva%20UE%202015-2193%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2025%20novembre%202015_aeb6397f8c9f.md) ha disposto (con l'art. 3, comma 1) che "In caso di impianti in esercizio al 19 dicembre 2017, l'adeguamento alle disposizioni dell'[articolo 294 del decreto legislativo n. 152 del 2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006;152#art_294), come modificato dal presente decreto, e' effettuato sulla base del primo rinnovo dell'autorizzazione dello stabilimento o, in caso di impianti disciplinati dal titolo II della parte quinta del [decreto legislativo n. 152 del 2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006;152), entro il 1° gennaio 2025".
 
 ### Art. 295. — (Combustibili per uso marittimo)
 
@@ -15394,7 +15394,7 @@ Ai componenti della commissione non sono dovuti compensi, gettoni di presenza, (
 
 AGGIORNAMENTO (40)
 
-Il [D.lgs. 29 giugno 2010, n. 128](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-06-29;128), ha disposto (con l'art. 4, comma 2) che nel presente decreto ovunque ricorrano, le parole "Ministero dell'ambiente e della tutela del territorio", sono sostituite dalle seguenti: "Ministero dell'ambiente e della tutela del territorio e del mare", le parole: "Ministro dell'ambiente e della tutela del territorio" sono sostituite dalle seguenti: "Ministro dell'ambiente e della tutela del territorio e del mare", le parole "Agenzia per la protezione dell'ambiente e per i servizi tecnici" sono sostituite dalle seguenti: "Istituto superiore per la protezione e la ricerca ambientale", e la parola "APAT" e' sostituita dalla seguente:
+Il [D.lgs. 29 giugno 2010, n. 128](Modifiche%20ed%20integrazioni%20al%20decreto%20legislativo%203%20aprile%202006%20n.%20152%20recante%20norme%20in%20materia%20ambientale%20a%20norma%20dellarticolo%2012%20della%20legge%2018%20giugno%202009%20n.%2069.%2010G0147.md), ha disposto (con l'art. 4, comma 2) che nel presente decreto ovunque ricorrano, le parole "Ministero dell'ambiente e della tutela del territorio", sono sostituite dalle seguenti: "Ministero dell'ambiente e della tutela del territorio e del mare", le parole: "Ministro dell'ambiente e della tutela del territorio" sono sostituite dalle seguenti: "Ministro dell'ambiente e della tutela del territorio e del mare", le parole "Agenzia per la protezione dell'ambiente e per i servizi tecnici" sono sostituite dalle seguenti: "Istituto superiore per la protezione e la ricerca ambientale", e la parola "APAT" e' sostituita dalla seguente:
 "ISPRA".
 
 ## DISPOSIZIONI PER PARTICOLARI INSTALLAZIONI - - TITOLO I  ATTIVITA' DI PRODUZIONE DI BIOSSIDO DI TITANIO ((E SOLFATI DI CALCIO))
@@ -15986,7 +15986,7 @@ Sono abrogati:
                             b)
                                 l'[articolo 9, comma 3, del decreto legislativo 18 agosto 2000, n. 267](Testo%20unico%20delle%20leggi%20sullordinamento%20degli%20enti%20locali.md);
                             c)
-                                l'[articolo 1, commi 439](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-12-23;266#art_1-com439), [440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-12-23;266#art_1-com440), [441](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-12-23;266#art_1-com441), [442](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-12-23;266#art_1-com442) e [443 della legge 23 dicembre 2005, n. 266](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-12-23;266#art_1-com443).
+                                l'[articolo 1, commi 439](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202006.md), [440](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202006.md), [441](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202006.md), [442](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202006.md) e [443 della legge 23 dicembre 2005, n. 266](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202006.md).
 
 3.
 

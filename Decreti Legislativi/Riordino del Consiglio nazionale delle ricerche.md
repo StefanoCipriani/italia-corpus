@@ -14,7 +14,7 @@ Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cos
 
 Vista la [legge 9 maggio 1989, n. 168](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-05-09;168), e successive modifiche ed integrazioni;
 
-Vista la [legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59), ed in particolare l'articolo 11, comma 1, lettera d), l'articolo 14 e l'articolo 18, comma 1, lettere b) e g);
+Vista la [legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), ed in particolare l'articolo 11, comma 1, lettera d), l'articolo 14 e l'articolo 18, comma 1, lettere b) e g);
 
 Visto l'[articolo 1, comma 12, della legge 16 giugno 1998, n. 191](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1998-06-16;191#art_1-com12);
 
@@ -24,7 +24,7 @@ Visto il [decreto legislativo 3 febbraio 1993, n. 29](Razionalizzazione%20della%
 
 Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella riunione del 6 agosto 1998;
 
-Visto il parere espresso dalla commissione parlamentare di cui all'articolo 5 della citata [legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59);
+Visto il parere espresso dalla commissione parlamentare di cui all'articolo 5 della citata [legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md);
 
 Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 29 gennaio 1999;
 
@@ -94,7 +94,7 @@ Emana il seguente decreto legislativo:
 
 Sono abrogate le disposizioni incompatibili con il presente decreto ed in particolare:
                         a)
-                            il [decreto legislativo luogotenenziale 1 marzo 1945, n. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-03-01;82), ad eccezione degli articoli 11, 23, 26, 27, 28, 29 e 30, e successive modificazioni ed integrazioni;
+                            il [decreto legislativo luogotenenziale 1 marzo 1945, n. 82](../Decreti%20legislativi%20luogotenenziali/Riordinamento%20del%20Consiglio%20nazionale%20delle%20ricerche.%20045U0082.md), ad eccezione degli articoli 11, 23, 26, 27, 28, 29 e 30, e successive modificazioni ed integrazioni;
                         b)
                             (( LETTERA ABROGATA DAL D.LGS. 4 GIUGNO 2003, N. 127 )).
                         c)

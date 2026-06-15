@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge 18 aprile 2005, n. 62](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-04-18;62), recante disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee. Legge comunitaria 2004, ed in particolare l'articolo 1 e l'allegato A;
+Vista la [legge 18 aprile 2005, n. 62](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%202004.md), recante disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee. Legge comunitaria 2004, ed in particolare l'articolo 1 e l'allegato A;
 
 Vista la [direttiva 2001/83/CE del Parlamento europeo e del Consiglio, del 6 novembre 2001](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2001;83), recante un codice comunitario relativo ai medicinali per uso umano;
 
@@ -44,7 +44,7 @@ Acquisito il parere della Conferenza permanente per i rapporti tra lo Stato, le 
 
 Acquisiti i pareri espressi dalle competenti Commissioni della Camera dei deputati;
 
-Considerato che le competenti Commissioni del Senato della Repubblica non hanno espresso il parere nel termine previsto dall'[articolo 1, comma 3, della legge 18 aprile 2005, n. 62](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-04-18;62#art_1-com3);
+Considerato che le competenti Commissioni del Senato della Repubblica non hanno espresso il parere nel termine previsto dall'[articolo 1, comma 3, della legge 18 aprile 2005, n. 62](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%202004.md);
 
 Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 6 aprile 2006;
 
@@ -1052,7 +1052,7 @@ Dopo l'espletamento della procedura di cui agli [articoli 32](https://www.normat
 
 AGGIORNAMENTO (16)
 
-Il [D.Lgs. 4 marzo 2014, n. 42](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014-03-04;42) ha disposto (con l'art. 1, comma 2) che "Dalla data di entrata in vigore del decreto di cui all'[articolo 1, comma 344, della legge 24 dicembre 2012, n. 228](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-24;228#art_1-com344), e' abrogato l'[articolo 46 del decreto legislativo 24 aprile 2006, n. 219](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202001-83-CE%20e%20successive%20direttive%20di%20modifica%20relativa%20ad%20un%20codice%20comunitario%20concernente%20i%20medicinali%20per%20uso%20umano.md)".
+Il [D.Lgs. 4 marzo 2014, n. 42](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20dellarticolo%201%20paragrafi%201%205%20e%2012%20della%20direttiva%202012-26-UE%20che%20modifica%20la%20direttiva%202001-83-CE%20per%20quanto%20riguarda%20la%20farmacovigilanza.%2014G00053.md) ha disposto (con l'art. 1, comma 2) che "Dalla data di entrata in vigore del decreto di cui all'[articolo 1, comma 344, della legge 24 dicembre 2012, n. 228](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20Legge%20di%20stabilita%202013.%2012G0252.md), e' abrogato l'[articolo 46 del decreto legislativo 24 aprile 2006, n. 219](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202001-83-CE%20e%20successive%20direttive%20di%20modifica%20relativa%20ad%20un%20codice%20comunitario%20concernente%20i%20medicinali%20per%20uso%20umano.md)".
 
 ### Art. 47. — Variazioni delle autorizzazioni di mutuo riconoscimento e decentrate
 
@@ -1220,7 +1220,7 @@ c) la sostituzione dei bollini ovvero degli identificativi univoci e' effettuata
 
 AGGIORNAMENTO (30)
 
-Il [D.Lgs. 6 febbraio 2025, n. 10](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2025-02-06;10), ha disposto (con l'art. 1, comma 1, alinea) che la presente modifica decorre dal 9 febbraio 2025.
+Il [D.Lgs. 6 febbraio 2025, n. 10](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Adeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20regolamento%20delegato%20UE%202016-161%20della%20Commissione%20del%202%20ottobre%202015%20che%20integra%20la%20direttiva%202001-83-CE%20del%20Parlamento%20europe_3772bb0ecd26.md), ha disposto (con l'art. 1, comma 1, alinea) che la presente modifica decorre dal 9 febbraio 2025.
 
 ### Art. 52. — Personale qualificato di cui deve dotarsi il titolare dell'autorizzazione alla produzione
 
@@ -1296,7 +1296,7 @@ Il [D.Lgs. 19 febbraio 2014, n. 17](../Atti%20di%20recepimento%20direttive%20UE/
 
 AGGIORNAMENTO (30)
 
-Il [D.Lgs. 6 febbraio 2025, n. 10](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2025-02-06;10), ha disposto (con l'art. 1, comma 1, alinea) che la presente modifica decorre dal 9 febbraio 2025.
+Il [D.Lgs. 6 febbraio 2025, n. 10](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Adeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20regolamento%20delegato%20UE%202016-161%20della%20Commissione%20del%202%20ottobre%202015%20che%20integra%20la%20direttiva%202001-83-CE%20del%20Parlamento%20europe_3772bb0ecd26.md), ha disposto (con l'art. 1, comma 1, alinea) che la presente modifica decorre dal 9 febbraio 2025.
 
 ### Art. 52-bis. — (Produzione e importazione di sostanze attive)
 
@@ -1802,7 +1802,7 @@ Il [D.Lgs. 19 febbraio 2014, n. 17](../Atti%20di%20recepimento%20direttive%20UE/
 
 AGGIORNAMENTO (30)
 
-Il [D.Lgs. 6 febbraio 2025, n. 10](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2025-02-06;10), ha disposto (con l'art. 1, comma 1, alinea) che le presenti modifiche decorrono dal 9 febbraio 2025.
+Il [D.Lgs. 6 febbraio 2025, n. 10](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Adeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20regolamento%20delegato%20UE%202016-161%20della%20Commissione%20del%202%20ottobre%202015%20che%20integra%20la%20direttiva%202001-83-CE%20del%20Parlamento%20europe_3772bb0ecd26.md), ha disposto (con l'art. 1, comma 1, alinea) che le presenti modifiche decorrono dal 9 febbraio 2025.
 
 ### Art. 73-bis.
 
@@ -1839,7 +1839,7 @@ Il [D.Lgs. 19 febbraio 2014, n. 17](../Atti%20di%20recepimento%20direttive%20UE/
 
 AGGIORNAMENTO (30)
 
-Il [D.Lgs. 6 febbraio 2025, n. 10](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2025-02-06;10), ha disposto (con l'art. 1, comma 1, alinea) che le presenti modifiche decorrono dal 9 febbraio 2025.
+Il [D.Lgs. 6 febbraio 2025, n. 10](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Adeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20regolamento%20delegato%20UE%202016-161%20della%20Commissione%20del%202%20ottobre%202015%20che%20integra%20la%20direttiva%202001-83-CE%20del%20Parlamento%20europe_3772bb0ecd26.md), ha disposto (con l'art. 1, comma 1, alinea) che le presenti modifiche decorrono dal 9 febbraio 2025.
 
 ### Art. 74. — Etichettatura per blister e confezionamento primario di piccole dimensioni
 
@@ -2252,7 +2252,7 @@ Il farmacista puo' dare consigli al cliente sui medicinali di cui al comma 1. Gl
 
 3.
 
-Se il medicinale e' classificato nella classe c-bis di cui all'[articolo 8, comma 10, della legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537#art_8-com10), in etichetta deve essere riportata la dicitura "medicinale di automedicazione". Nei rimanenti casi deve essere riportata la dicitura "medicinale non soggetto a prescrizione medica". I medicinali di automedicazione di cui al primo periodo possono essere oggetto di accesso diretto da parte dei clienti in farmacia e nei punti vendita previsti dall'[articolo 5 del decreto-legge 4 luglio 2006, n. 223](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2006-07-04;223#art_5), convertito, con modificazioni, dalla [legge 4 agosto 2006, n. 248](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%204%20luglio%202006%20n.%20223%20recante%20disposizioni%20urgenti%20per%20il%20rilancio%20economico%20e%20sociale%20per%20il%20contenimento%20e%20la%20razionalizzazione%20d_5fc851984c00.md).
+Se il medicinale e' classificato nella classe c-bis di cui all'[articolo 8, comma 10, della legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md), in etichetta deve essere riportata la dicitura "medicinale di automedicazione". Nei rimanenti casi deve essere riportata la dicitura "medicinale non soggetto a prescrizione medica". I medicinali di automedicazione di cui al primo periodo possono essere oggetto di accesso diretto da parte dei clienti in farmacia e nei punti vendita previsti dall'[articolo 5 del decreto-legge 4 luglio 2006, n. 223](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2006-07-04;223#art_5), convertito, con modificazioni, dalla [legge 4 agosto 2006, n. 248](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%204%20luglio%202006%20n.%20223%20recante%20disposizioni%20urgenti%20per%20il%20rilancio%20economico%20e%20sociale%20per%20il%20contenimento%20e%20la%20razionalizzazione%20d_5fc851984c00.md).
 
 4.
 
@@ -2267,7 +2267,7 @@ L'imballaggio esterno dei medicinali previsti dal presente articolo, reca un bol
 
 AGGIORNAMENTO (30)
 
-Il [D.Lgs. 6 febbraio 2025, n. 10](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2025-02-06;10), ha disposto (con l'art. 1, comma 1, alinea) che la presente modifica decorre dal 9 febbraio 2025.
+Il [D.Lgs. 6 febbraio 2025, n. 10](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Adeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20regolamento%20delegato%20UE%202016-161%20della%20Commissione%20del%202%20ottobre%202015%20che%20integra%20la%20direttiva%202001-83-CE%20del%20Parlamento%20europe_3772bb0ecd26.md), ha disposto (con l'art. 1, comma 1, alinea) che la presente modifica decorre dal 9 febbraio 2025.
 
 ### Art. 97. — Pubblicazione dell'elenco dei medicinali secondo la classificazione ai fini della fornitura
 
@@ -2505,7 +2505,7 @@ Ai fini del comma 1, lettera b), se l'approvvigionamento del medicinale avviene:
 
 AGGIORNAMENTO (30)
 
-Il [D.Lgs. 6 febbraio 2025, n. 10](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2025-02-06;10), ha disposto (con l'art. 1, comma 1, alinea) che le presenti modifiche decorrono dal 9 febbraio 2025.
+Il [D.Lgs. 6 febbraio 2025, n. 10](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Adeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20regolamento%20delegato%20UE%202016-161%20della%20Commissione%20del%202%20ottobre%202015%20che%20integra%20la%20direttiva%202001-83-CE%20del%20Parlamento%20europe_3772bb0ecd26.md), ha disposto (con l'art. 1, comma 1, alinea) che le presenti modifiche decorrono dal 9 febbraio 2025.
 
 ### Art. 105. — Dotazioni minime e fornitura dei medicinali
 
@@ -2559,7 +2559,7 @@ Per ogni operazione, il distributore all'ingrosso deve consegnare al destinatari
 
 AGGIORNAMENTO (30)
 
-Il [D.Lgs. 6 febbraio 2025, n. 10](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2025-02-06;10), ha disposto (con l'art. 1, comma 1, alinea) che la presente modifica decorre dal 9 febbraio 2025.
+Il [D.Lgs. 6 febbraio 2025, n. 10](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Adeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20regolamento%20delegato%20UE%202016-161%20della%20Commissione%20del%202%20ottobre%202015%20che%20integra%20la%20direttiva%202001-83-CE%20del%20Parlamento%20europe_3772bb0ecd26.md), ha disposto (con l'art. 1, comma 1, alinea) che la presente modifica decorre dal 9 febbraio 2025.
 
 ### Art. 106. — Disposizioni concernenti medicinali particolari
 
@@ -2723,7 +2723,7 @@ Le linee guida di cui all'articolo 110 includono disposizioni specifiche per l'a
 
 7.
 
-Il presente articolo fa salvi gli articoli 53, 109 e quanto previsto dall'[articolo 1, commi 342](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-24;228#art_1-com342), [343](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-24;228#art_1-com343), [344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-24;228#art_1-com344), [345](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-24;228#art_1-com345), [346](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-24;228#art_1-com346), [347](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-24;228#art_1-com347), [348](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-24;228#art_1-com348) e [362 della legge 24 dicembre 2012, n. 228](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-24;228#art_1-com362). Le ispezioni di cui ai suddetti articoli sono effettuate sotto la responsabilita' del Ministero della salute se il broker di medicinali ha sede sul territorio nazionale.
+Il presente articolo fa salvi gli articoli 53, 109 e quanto previsto dall'[articolo 1, commi 342](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20Legge%20di%20stabilita%202013.%2012G0252.md), [343](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20Legge%20di%20stabilita%202013.%2012G0252.md), [344](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20Legge%20di%20stabilita%202013.%2012G0252.md), [345](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20Legge%20di%20stabilita%202013.%2012G0252.md), [346](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20Legge%20di%20stabilita%202013.%2012G0252.md), [347](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20Legge%20di%20stabilita%202013.%2012G0252.md), [348](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20Legge%20di%20stabilita%202013.%2012G0252.md) e [362 della legge 24 dicembre 2012, n. 228](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20Legge%20di%20stabilita%202013.%2012G0252.md). Le ispezioni di cui ai suddetti articoli sono effettuate sotto la responsabilita' del Ministero della salute se il broker di medicinali ha sede sul territorio nazionale.
 
 8. Se un broker di medicinali non osserva le prescrizioni di cui al presente articolo, il Ministero della salute puo' eliminarlo dal registro di cui al comma 4. Il Ministero della salute ne da' notifica all'interessato. ))
 
@@ -3337,7 +3337,7 @@ Su proposta dell'AIFA, previa consultazione delle Associazioni dell'industria fa
 
 AGGIORNAMENTO (12)
 
-La [L. 24 dicembre 2012, n. 228](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-24;228) ha disposto (con l'art. 1, comma 345) che "Dalla data di entrata in vigore del decreto di cui al comma 344, sono abrogate le disposizioni di cui al Titolo IX del [decreto legislativo 24 aprile 2006, n. 219](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202001-83-CE%20e%20successive%20direttive%20di%20modifica%20relativa%20ad%20un%20codice%20comunitario%20concernente%20i%20medicinali%20per%20uso%20umano.md) e successive modificazioni."
+La [L. 24 dicembre 2012, n. 228](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20Legge%20di%20stabilita%202013.%2012G0252.md) ha disposto (con l'art. 1, comma 345) che "Dalla data di entrata in vigore del decreto di cui al comma 344, sono abrogate le disposizioni di cui al Titolo IX del [decreto legislativo 24 aprile 2006, n. 219](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202001-83-CE%20e%20successive%20direttive%20di%20modifica%20relativa%20ad%20un%20codice%20comunitario%20concernente%20i%20medicinali%20per%20uso%20umano.md) e successive modificazioni."
 
 ### Art. 130. — Disposizioni concernenti il titolare dell'AIC
 
@@ -3394,7 +3394,7 @@ COMMA ABROGATO DAL [D.L. 13 SETTEMBRE 2012, N. 158](https://www.normattiva.it/ur
 
 AGGIORNAMENTO (12)
 
-La [L. 24 dicembre 2012, n. 228](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-24;228) ha disposto (con l'art. 1, comma 345) che "Dalla data di entrata in vigore del decreto di cui al comma 344, sono abrogate le disposizioni di cui al Titolo IX del [decreto legislativo 24 aprile 2006, n. 219](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202001-83-CE%20e%20successive%20direttive%20di%20modifica%20relativa%20ad%20un%20codice%20comunitario%20concernente%20i%20medicinali%20per%20uso%20umano.md) e successive modificazioni."
+La [L. 24 dicembre 2012, n. 228](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20Legge%20di%20stabilita%202013.%2012G0252.md) ha disposto (con l'art. 1, comma 345) che "Dalla data di entrata in vigore del decreto di cui al comma 344, sono abrogate le disposizioni di cui al Titolo IX del [decreto legislativo 24 aprile 2006, n. 219](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202001-83-CE%20e%20successive%20direttive%20di%20modifica%20relativa%20ad%20un%20codice%20comunitario%20concernente%20i%20medicinali%20per%20uso%20umano.md) e successive modificazioni."
 
 ### Art. 131. — Responsabile del servizio di farmacovigilanza
 
@@ -3419,7 +3419,7 @@ Il responsabile del servizio di farmacovigilanza di cui al comma 4 dell'articolo
 
 AGGIORNAMENTO (12)
 
-La [L. 24 dicembre 2012, n. 228](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-24;228) ha disposto (con l'art. 1, comma 345) che "Dalla data di entrata in vigore del decreto di cui al comma 344, sono abrogate le disposizioni di cui al Titolo IX del [decreto legislativo 24 aprile 2006, n. 219](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202001-83-CE%20e%20successive%20direttive%20di%20modifica%20relativa%20ad%20un%20codice%20comunitario%20concernente%20i%20medicinali%20per%20uso%20umano.md) e successive modificazioni."
+La [L. 24 dicembre 2012, n. 228](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20Legge%20di%20stabilita%202013.%2012G0252.md) ha disposto (con l'art. 1, comma 345) che "Dalla data di entrata in vigore del decreto di cui al comma 344, sono abrogate le disposizioni di cui al Titolo IX del [decreto legislativo 24 aprile 2006, n. 219](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202001-83-CE%20e%20successive%20direttive%20di%20modifica%20relativa%20ad%20un%20codice%20comunitario%20concernente%20i%20medicinali%20per%20uso%20umano.md) e successive modificazioni."
 
 ### Art. 132. — Obblighi a carico delle strutture e degli operatori sanitari e successivi adempimenti dell'AIFA
 
@@ -3464,7 +3464,7 @@ L'AIFA provvede affinche' tutte le segnalazioni di sospette reazioni avverse gra
 
 AGGIORNAMENTO (12)
 
-La [L. 24 dicembre 2012, n. 228](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-24;228) ha disposto (con l'art. 1, comma 345) che "Dalla data di entrata in vigore del decreto di cui al comma 344, sono abrogate le disposizioni di cui al Titolo IX del [decreto legislativo 24 aprile 2006, n. 219](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202001-83-CE%20e%20successive%20direttive%20di%20modifica%20relativa%20ad%20un%20codice%20comunitario%20concernente%20i%20medicinali%20per%20uso%20umano.md) e successive modificazioni."
+La [L. 24 dicembre 2012, n. 228](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20Legge%20di%20stabilita%202013.%2012G0252.md) ha disposto (con l'art. 1, comma 345) che "Dalla data di entrata in vigore del decreto di cui al comma 344, sono abrogate le disposizioni di cui al Titolo IX del [decreto legislativo 24 aprile 2006, n. 219](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202001-83-CE%20e%20successive%20direttive%20di%20modifica%20relativa%20ad%20un%20codice%20comunitario%20concernente%20i%20medicinali%20per%20uso%20umano.md) e successive modificazioni."
 
 ### Art. 133. — Sospensione, revoca o modifica di una AIC per ragioni di farmacovigilanza
 
@@ -3489,7 +3489,7 @@ L'AIFA porta a conoscenza del pubblico, con i mezzi piu' opportuni, le decisioni
 
 AGGIORNAMENTO (12)
 
-La [L. 24 dicembre 2012, n. 228](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-24;228) ha disposto (con l'art. 1, comma 345) che "Dalla data di entrata in vigore del decreto di cui al comma 344, sono abrogate le disposizioni di cui al Titolo IX del [decreto legislativo 24 aprile 2006, n. 219](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202001-83-CE%20e%20successive%20direttive%20di%20modifica%20relativa%20ad%20un%20codice%20comunitario%20concernente%20i%20medicinali%20per%20uso%20umano.md) e successive modificazioni."
+La [L. 24 dicembre 2012, n. 228](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20Legge%20di%20stabilita%202013.%2012G0252.md) ha disposto (con l'art. 1, comma 345) che "Dalla data di entrata in vigore del decreto di cui al comma 344, sono abrogate le disposizioni di cui al Titolo IX del [decreto legislativo 24 aprile 2006, n. 219](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202001-83-CE%20e%20successive%20direttive%20di%20modifica%20relativa%20ad%20un%20codice%20comunitario%20concernente%20i%20medicinali%20per%20uso%20umano.md) e successive modificazioni."
 
 ### Art. 134. — Accertamenti sull'osservanza delle norme di farmacovigilanza
 
@@ -3510,7 +3510,7 @@ Alle ispezioni previste dal presente articolo, si applica quanto disposto dai co
 
 AGGIORNAMENTO (12)
 
-La [L. 24 dicembre 2012, n. 228](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-24;228) ha disposto (con l'art. 1, comma 345) che "Dalla data di entrata in vigore del decreto di cui al comma 344, sono abrogate le disposizioni di cui al Titolo IX del [decreto legislativo 24 aprile 2006, n. 219](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202001-83-CE%20e%20successive%20direttive%20di%20modifica%20relativa%20ad%20un%20codice%20comunitario%20concernente%20i%20medicinali%20per%20uso%20umano.md) e successive modificazioni."
+La [L. 24 dicembre 2012, n. 228](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20Legge%20di%20stabilita%202013.%2012G0252.md) ha disposto (con l'art. 1, comma 345) che "Dalla data di entrata in vigore del decreto di cui al comma 344, sono abrogate le disposizioni di cui al Titolo IX del [decreto legislativo 24 aprile 2006, n. 219](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202001-83-CE%20e%20successive%20direttive%20di%20modifica%20relativa%20ad%20un%20codice%20comunitario%20concernente%20i%20medicinali%20per%20uso%20umano.md) e successive modificazioni."
 
 ## DISPOSIZIONI SPECIALI SUI MEDICINALI DERIVATI DAL SANGUE O DAL PLASMA UMANI E SUI MEDICINALI IMMUNOLOGICI
 
@@ -3987,7 +3987,7 @@ L'aggiornamento in calce, disposto dall'art. 13, comma 1, secondo periodo del [D
 
 AGGIORNAMENTO (30)
 
-Il [D.Lgs. 6 febbraio 2025, n. 10](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2025-02-06;10), ha disposto (con l'art. 1, comma 1, alinea) che la presente modifica decorre dal 9 febbraio 2025.
+Il [D.Lgs. 6 febbraio 2025, n. 10](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Adeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20regolamento%20delegato%20UE%202016-161%20della%20Commissione%20del%202%20ottobre%202015%20che%20integra%20la%20direttiva%202001-83-CE%20del%20Parlamento%20europe_3772bb0ecd26.md), ha disposto (con l'art. 1, comma 1, alinea) che la presente modifica decorre dal 9 febbraio 2025.
 
 ### Art. 149. — Estensione delle norme del presente titolo ai medicinali autorizzati con procedura centralizzata
 
@@ -4188,7 +4188,7 @@ Con decreto del Ministro della salute, da adottarsi entro centoventi giorni dall
 
 Sono confermate:
                             a)
-                                le tariffe vigenti alla data di entrata in vigore del presente decreto, concernenti le prestazioni rese dal Ministero della salute a richiesta ed utilita' dei soggetti interessati, sulla base di quanto previsto dall'[articolo 5, comma 12, della legge 29 dicembre 1990, n. 407](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-12-29;407#art_5-com12);
+                                le tariffe vigenti alla data di entrata in vigore del presente decreto, concernenti le prestazioni rese dal Ministero della salute a richiesta ed utilita' dei soggetti interessati, sulla base di quanto previsto dall'[articolo 5, comma 12, della legge 29 dicembre 1990, n. 407](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20diverse%20per%20lattuazione%20della%20manovra%20di%20finanza%20pubblica%201991-1993.md);
                             b)
                                 le tariffe gia' previste dall'[articolo 12, comma 7, del decreto legislativo 30 dicembre 1992, n. 541](Attuazione%20della%20direttiva%2092-28-CEE%20concernente%20la%20pubblicita%20dei%20medicinali%20per%20uso%20umano.md).
                             c)

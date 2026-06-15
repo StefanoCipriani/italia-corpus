@@ -12,13 +12,13 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[articolo 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge costituzionale 31 gennaio 1963, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1963-01-31;1) recante Statuto speciale della Regione Friuli-Venezia Giulia;
+Vista la [legge costituzionale 31 gennaio 1963, n. 1](../Leggi%20costituzionali/Statuto%20speciale%20della%20Regione%20Friuli-Venezia%20Giulia.md) recante Statuto speciale della Regione Friuli-Venezia Giulia;
 
-Visto l'articolo 49 della citata [legge costituzionale 31 gennaio 1963, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1963-01-31;1), come sostituito dall'[articolo 1, comma 817, lettera a), della legge 27 dicembre 2017, n. 205](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-12-27;205#art_1-com817-leta), recante bilancio di previsione dello Stato per l'anno finanziario 2018 e bilancio pluriennale per il triennio 2018-2020;
+Visto l'articolo 49 della citata [legge costituzionale 31 gennaio 1963, n. 1](../Leggi%20costituzionali/Statuto%20speciale%20della%20Regione%20Friuli-Venezia%20Giulia.md), come sostituito dall'[articolo 1, comma 817, lettera a), della legge 27 dicembre 2017, n. 205](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202018%20e%20bilancio%20pluriennale%20per%20il%20triennio%202018-2020.%2017G00222.md), recante bilancio di previsione dello Stato per l'anno finanziario 2018 e bilancio pluriennale per il triennio 2018-2020;
 
 Visto l'accordo tra Stato e Regione Friuli-Venezia Giulia per la revisione del protocollo d'intesa del 29 ottobre 2010 per gli esercizi 2018 e 2019, sottoscritto in data 30 gennaio 2018;
 
-Sentita la Commissione paritetica prevista dall'articolo 65 della citata [legge costituzionale 31 gennaio 1963, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1963-01-31;1);
+Sentita la Commissione paritetica prevista dall'articolo 65 della citata [legge costituzionale 31 gennaio 1963, n. 1](../Leggi%20costituzionali/Statuto%20speciale%20della%20Regione%20Friuli-Venezia%20Giulia.md);
 
 Vista la deliberazione del Consiglio dei ministri, adottata nella riunione del 16 marzo 2018;
 
@@ -30,15 +30,15 @@ Emana il seguente decreto legislativo:
 
 1.
 
-Il presente decreto definisce i criteri di determinazione del gettito riferito al territorio regionale dei tributi erariali di cui all'[articolo 49 della legge costituzionale 31 gennaio 1963, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1963-01-31;1#art_49) (Statuto speciale della Regione Friuli-Venezia Giulia), di seguito «Statuto» e le modalita' di attribuzione dello stesso alla Regione.
+Il presente decreto definisce i criteri di determinazione del gettito riferito al territorio regionale dei tributi erariali di cui all'[articolo 49 della legge costituzionale 31 gennaio 1963, n. 1](../Leggi%20costituzionali/Statuto%20speciale%20della%20Regione%20Friuli-Venezia%20Giulia.md) (Statuto speciale della Regione Friuli-Venezia Giulia), di seguito «Statuto» e le modalita' di attribuzione dello stesso alla Regione.
 
 NOTE 
  Avvertenza: 
  Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, commi 2 e 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti. 
  Note alle premesse: 
  - L'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87) disciplina le funzioni del Presidente della Repubblica. In particolare, il comma 5 conferisce al il potere di promulgare le leggi e di emanare i decreti aventi valore di legge ed i regolamenti. 
- - La [legge costituzionale 31 gennaio 1963, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1963-01-31;1) (Statuto speciale della Regione Friuli-Venezia Giulia), e' pubblicata nella Gazzetta Ufficiale 1° febbraio 1963, n. 29. 
- - Si riporta, di seguito, il testo vigente dell'[art. 49 della legge costituzionale 31 gennaio 1963, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1963-01-31;1#art_49): 
+ - La [legge costituzionale 31 gennaio 1963, n. 1](../Leggi%20costituzionali/Statuto%20speciale%20della%20Regione%20Friuli-Venezia%20Giulia.md) (Statuto speciale della Regione Friuli-Venezia Giulia), e' pubblicata nella Gazzetta Ufficiale 1° febbraio 1963, n. 29. 
+ - Si riporta, di seguito, il testo vigente dell'[art. 49 della legge costituzionale 31 gennaio 1963, n. 1](../Leggi%20costituzionali/Statuto%20speciale%20della%20Regione%20Friuli-Venezia%20Giulia.md): 
  «Art. 49. - 1. Spettano alla Regione le seguenti quote di gettito delle sottoindicate entrate tributarie erariali: 
  a) i 2,975 decimi del gettito dell'accisa sulla benzina e i 3,034 decimi del gettito dell'accisa sul gasolio erogati nella Regione per uso di autotrazione; 
  b) i 5,91 decimi del gettito dell'accisa sull'energia elettrica consumata nella Regione; 
@@ -47,11 +47,11 @@ NOTE
  e) i 5,91 decimi del gettito di qualsiasi altro tributo erariale, comunque denominato, maturato nell'ambito del territorio regionale, ad eccezione: delle accise diverse da quelle indicate alle lettere a), b) e c); dell'imposta di consumo sugli oli lubrificanti, sui bitumi di petrolio e altri prodotti; delle entrate correlate alle accise; della tassa sulle emissioni di anidride solforosa e di ossidi di azoto; delle entrate derivanti dai giochi; delle tasse automobilistiche; dei canoni di abbonamento alle radioaudizioni e alla televisione. Per i tributi erariali per i quali non e' individuabile il gettito maturato, si fa riferimento al gettito riscosso nel territorio regionale. 
  2. La devoluzione alla Regione delle quote di gettito dei tributi erariali indicati nel presente articolo e' effettuata al netto delle quote devolute ad altri enti pubblici e territoriali. 
  3. La Regione compartecipa al gettito delle imposte sostitutive istituite dallo Stato nella misura in cui ad essa o agli enti locali del suo territorio e' attribuito il gettito delle imposte sostituite.». 
- - Si riporta, di seguito, il testo vigente dell'art. 65 della citata [legge costituzionale 31 gennaio 1963, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1963-01-31;1): 
+ - Si riporta, di seguito, il testo vigente dell'art. 65 della citata [legge costituzionale 31 gennaio 1963, n. 1](../Leggi%20costituzionali/Statuto%20speciale%20della%20Regione%20Friuli-Venezia%20Giulia.md): 
  «Art. 65. - Con decreti legislativi, sentita una Commissione paritetica di sei membri, nominati tre dal Governo della Repubblica e tre dal Consiglio regionale, saranno stabilite le norme di attuazione del presente Statuto e quelle relative al trasferimento all'Amministrazione regionale degli uffici statali che nel Friuli-Venezia Giulia adempiono a funzioni attribuite alla Regione.». 
  
  Note all'art. 1: 
- - Il testo vigente dell'art. 49 della citata [legge costituzionale 31 gennaio 1963, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1963-01-31;1), e' riportato nelle note alle premesse.
+ - Il testo vigente dell'art. 49 della citata [legge costituzionale 31 gennaio 1963, n. 1](../Leggi%20costituzionali/Statuto%20speciale%20della%20Regione%20Friuli-Venezia%20Giulia.md), e' riportato nelle note alle premesse.
 
 ## Art. 2. — Compartecipazioni ai tributi erariali
 
@@ -64,7 +64,7 @@ La compartecipazione alle entrate tributarie erariali di cui all'articolo 49 del
 Le entrate erariali spettanti alla Regione comprendono le indennita', le maggiorazioni e gli interessi relativi ai tributi di cui all'articolo 49 dello Statuto e non comprendono le sanzioni amministrative.
 
 Note all'art. 2: 
- - Il testo vigente dell'art. 49 della citata [legge costituzionale 31 gennaio 1963, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1963-01-31;1), e' riportato nelle note alle premesse.
+ - Il testo vigente dell'art. 49 della citata [legge costituzionale 31 gennaio 1963, n. 1](../Leggi%20costituzionali/Statuto%20speciale%20della%20Regione%20Friuli-Venezia%20Giulia.md), e' riportato nelle note alle premesse.
 
 ## Art. 3. — Gettito riferito al territorio regionale
 
@@ -111,7 +111,7 @@ Il gettito delle imposte sostitutive e delle ritenute sui redditi da capitale di
 In tutti i casi non diversamente disciplinati, si considera riferito al territorio regionale il gettito del tributo erariale riscosso sul territorio regionale.
 
 Note all'art. 3: 
- - Il testo vigente dell'art. 49 della citata [legge costituzionale 31 gennaio 1963, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1963-01-31;1), e' riportato nelle note alle premesse. 
+ - Il testo vigente dell'art. 49 della citata [legge costituzionale 31 gennaio 1963, n. 1](../Leggi%20costituzionali/Statuto%20speciale%20della%20Regione%20Friuli-Venezia%20Giulia.md), e' riportato nelle note alle premesse. 
  - Il [decreto legislativo 15 dicembre 1997, n. 446](Istituzione%20dellimposta%20regionale%20sulle%20attivita%20produttive%20revisione%20degli%20scaglioni%20delle%20aliquote%20e%20delle%20detrazioni%20dellIrpef%20e%20istituzione%20di%20una%20addizionale%20regionale%20a%20tale%20imposta_576f8a3bbc05.md), recante «Istituzione dell'imposta regionale sulle attivita' produttive, revisione degli scaglioni, delle aliquote e delle detrazioni dell'Irpef e istituzione di una addizionale regionale a tale imposta, nonche' riordino della disciplina dei tributi locali.», e' pubblicato nella Gazzetta Ufficiale 23 dicembre 1997, n. 298, S.O. 
  - Si riporta, di seguito, il testo vigente dell'art. 4: 
  «Art. 4 (Base imponibile). - 1. L'imposta si applica sul valore della produzione netta derivante dall'attivita' esercitata nel territorio della regione. 
@@ -139,13 +139,13 @@ La Regione puo' chiedere che sia sospeso il riversamento di cui ai commi 1 e 2 p
 La Regione puo' chiedere che venga applicato un acconto inferiore a quello che le spetterebbe in base alle risultanze dei precedenti esercizi per consentire un migliore allineamento dell'ammontare degli acconti corrisposti in corso d'anno rispetto alle spettanze previste. Il conguaglio e' determinato tenendo conto delle somme effettivamente erogate a titolo di acconto.
 
 Note all'art. 4: 
- - Il testo vigente dell'art. 49 della citata [legge costituzionale 31 gennaio 1963, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1963-01-31;1), e' riportato nelle note alle premesse.
+ - Il testo vigente dell'art. 49 della citata [legge costituzionale 31 gennaio 1963, n. 1](../Leggi%20costituzionali/Statuto%20speciale%20della%20Regione%20Friuli-Venezia%20Giulia.md), e' riportato nelle note alle premesse.
 
 ## Art. 5. — Riserva all'Erario
 
 1.
 
-Il gettito derivante da maggiorazioni di aliquote o dall'istituzione di nuovi tributi, se destinato per legge alla copertura, ai sensi dell'[articolo 81 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_81), di nuove specifiche spese di carattere non continuativo che non rientrano nelle materie di competenza della Regione, ivi comprese quelle relative a calamita' naturali, e' riservato allo Stato, purche' risulti temporalmente delimitato, nonche' contabilizzato distintamente nel bilancio statale e quindi quantificabile. Non sono ammesse riserve di gettito destinate al raggiungimento di obiettivi di riequilibrio della finanza pubblica, ad eccezione delle riserve stabilite dall'[articolo 1, comma 508, della legge 27 dicembre 2013, n. 147](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2013-12-27;147#art_1-com508), nel testo in vigore alla data di pubblicazione del presente decreto.
+Il gettito derivante da maggiorazioni di aliquote o dall'istituzione di nuovi tributi, se destinato per legge alla copertura, ai sensi dell'[articolo 81 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_81), di nuove specifiche spese di carattere non continuativo che non rientrano nelle materie di competenza della Regione, ivi comprese quelle relative a calamita' naturali, e' riservato allo Stato, purche' risulti temporalmente delimitato, nonche' contabilizzato distintamente nel bilancio statale e quindi quantificabile. Non sono ammesse riserve di gettito destinate al raggiungimento di obiettivi di riequilibrio della finanza pubblica, ad eccezione delle riserve stabilite dall'[articolo 1, comma 508, della legge 27 dicembre 2013, n. 147](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20Legge%20di%20stabilita%202014.%2013G00191.md), nel testo in vigore alla data di pubblicazione del presente decreto.
 
 Note all'art. 5: 
  - Si riporta, di seguito, il testo vigente dell'[art. 81 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_81): 
@@ -155,7 +155,7 @@ Note all'art. 5:
  Le Camere ogni anno approvano con legge il bilancio e il rendiconto consuntivo presentati dal Governo. 
  L'esercizio provvisorio del bilancio non puo' essere concesso se non per legge e per periodi non superiori complessivamente a quattro mesi. 
  Il contenuto della legge di bilancio, le norme fondamentali e i criteri volti ad assicurare l'equilibrio tra le entrate e le spese dei bilanci e la sostenibilita' del debito del complesso delle pubbliche amministrazioni sono stabiliti con legge approvata a maggioranza assoluta dei componenti di ciascuna Camera, nel rispetto dei principi definiti con legge costituzionale.». 
- - La [legge 27 dicembre 2013, n. 147](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2013-12-27;147), recante «Disposizioni per la formazione del bilancio annuale e pluriennale dello Stato - legge di stabilita' 2014», e' pubblicata nella Gazzetta Ufficiale 27 dicembre 2013, n. 302, S.O. 
+ - La [legge 27 dicembre 2013, n. 147](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20Legge%20di%20stabilita%202014.%2013G00191.md), recante «Disposizioni per la formazione del bilancio annuale e pluriennale dello Stato - legge di stabilita' 2014», e' pubblicata nella Gazzetta Ufficiale 27 dicembre 2013, n. 302, S.O. 
  - Si riporta, di seguito, il testo vigente dell'art. 1, comma 508: 
  «508. Al fine di assicurare il concorso delle regioni a statuto speciale e delle Province autonome di Trento e di Bolzano all'equilibrio dei bilanci e alla sostenibilita' del debito pubblico, in attuazione dell'[art. 97, primo comma, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_97-com1), le nuove e maggiori entrate erariali derivanti dal [decreto-legge 13 agosto 2011, n. 138](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-08-13;138), convertito, con modificazioni, dalla [legge 14 settembre 2011, n. 148](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20agosto%202011%20n.%20138%20recante%20ulteriori%20misure%20urgenti%20per%20la%20stabilizzazione%20finanziaria%20e%20per%20lo%20sviluppo.%20Delega%20al%20Governo%20per_fc14691433a7.md), e dal [decreto-legge 6 dicembre 2011, n. 201](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-12-06;201), convertito, con modificazioni, dalla [legge 22 dicembre 2011, n. 214](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20dicembre%202011%20n.%20201%20recante%20disposizioni%20urgenti%20per%20la%20crescita%20lequita%20e%20il%20consolidamento%20dei%20conti%20pubblici.%2011G0256.md), sono riservate all'Erario, per un periodo di cinque anni a decorrere dal 1° gennaio 2014, per essere interamente destinate alla copertura degli oneri per il servizio del debito pubblico, al fine di garantire la riduzione del debito pubblico stesso nella misura e nei tempi stabiliti dal Trattato sulla stabilita', sul coordinamento e sulla governance nell'Unione economica e monetaria, fatto a Bruxelles il 2 marzo 2012, ratificato ai sensi della [legge 23 luglio 2012, n. 114](../DL%20e%20leggi%20di%20conversione/Ratifica%20ed%20esecuzione%20del%20Trattato%20sulla%20stabilita%20sul%20coordinamento%20e%20sulla%20governance%20nellUnione%20economica%20e%20monetaria%20tra%20il%20Regno%20del%20Belgio%20la%20Repubblica%20di%20Bulgaria%20il%20Regno%20di%20Dan_9c1a35ccf217.md). Con apposito decreto del Ministero dell'economia e delle finanze, sentiti i Presidenti delle giunte regionali interessati, da adottare entro sessanta giorni dalla data di entrata in vigore della presente legge, sono stabilite le modalita' di individuazione del maggior gettito, attraverso separata contabilizzazione.».
 

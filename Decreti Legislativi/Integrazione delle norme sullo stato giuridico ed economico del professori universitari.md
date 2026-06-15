@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4), con le modificazioni ad esso apportate dall'[art. 3, comma primo, del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98#art_3-com1);
+Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4), con le modificazioni ad esso apportate dall'[art. 3, comma primo, del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Viste le disposizioni transitorie I e XV della Costituzione;
 
@@ -33,7 +33,7 @@ I periodi di permanenza dei professori universitari ordinari nella classe IV, gr
 
 AGGIORNAMENTO (1)
 
-La [L. 19 maggio 1950, n. 355](../DL%20e%20leggi%20di%20conversione/Ratifica%20con%20modificazioni%20del%20decreto%20legislativo%2023%20marzo%201948%20n.%20265%20concernente%20integrazione%20delle%20norme%20sullo%20stato%20giuridico%20ed%20economico%20dei%20professori%20universitari.md) ha disposto (con l'art. 3, comma 1) che "Le modifiche apportate al [decreto legislativo 23 marzo 1948, n. 265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-03-23;265), con la presente legge hanno effetto dal 1 novembre 1947, salvo il diverso disposto dell'art. 3-bis (nuovo) del decreto legislativo stesso."
+La [L. 19 maggio 1950, n. 355](../DL%20e%20leggi%20di%20conversione/Ratifica%20con%20modificazioni%20del%20decreto%20legislativo%2023%20marzo%201948%20n.%20265%20concernente%20integrazione%20delle%20norme%20sullo%20stato%20giuridico%20ed%20economico%20dei%20professori%20universitari.md) ha disposto (con l'art. 3, comma 1) che "Le modifiche apportate al [decreto legislativo 23 marzo 1948, n. 265](Integrazione%20delle%20norme%20sullo%20stato%20giuridico%20ed%20economico%20del%20professori%20universitari.md), con la presente legge hanno effetto dal 1 novembre 1947, salvo il diverso disposto dell'art. 3-bis (nuovo) del decreto legislativo stesso."
 
 ## Art. 2-bis.
 
@@ -43,7 +43,7 @@ La [L. 19 maggio 1950, n. 355](../DL%20e%20leggi%20di%20conversione/Ratifica%20c
 
 AGGIORNAMENTO (1)
 
-La [L. 19 maggio 1950, n. 355](../DL%20e%20leggi%20di%20conversione/Ratifica%20con%20modificazioni%20del%20decreto%20legislativo%2023%20marzo%201948%20n.%20265%20concernente%20integrazione%20delle%20norme%20sullo%20stato%20giuridico%20ed%20economico%20dei%20professori%20universitari.md) ha disposto (con l'art. 3, comma 1) che "Le modifiche apportate al [decreto legislativo 23 marzo 1948, n. 265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-03-23;265), con la presente legge hanno effetto dal 1 novembre 1947, salvo il diverso disposto dell'art. 3-bis (nuovo) del decreto legislativo stesso."
+La [L. 19 maggio 1950, n. 355](../DL%20e%20leggi%20di%20conversione/Ratifica%20con%20modificazioni%20del%20decreto%20legislativo%2023%20marzo%201948%20n.%20265%20concernente%20integrazione%20delle%20norme%20sullo%20stato%20giuridico%20ed%20economico%20dei%20professori%20universitari.md) ha disposto (con l'art. 3, comma 1) che "Le modifiche apportate al [decreto legislativo 23 marzo 1948, n. 265](Integrazione%20delle%20norme%20sullo%20stato%20giuridico%20ed%20economico%20del%20professori%20universitari.md), con la presente legge hanno effetto dal 1 novembre 1947, salvo il diverso disposto dell'art. 3-bis (nuovo) del decreto legislativo stesso."
 
 ## Art. 3.
 
@@ -58,7 +58,7 @@ La [L. 19 maggio 1950, n. 355](../DL%20e%20leggi%20di%20conversione/Ratifica%20c
 
 AGGIORNAMENTO (1)
 
-La [L. 19 maggio 1950, n. 355](../DL%20e%20leggi%20di%20conversione/Ratifica%20con%20modificazioni%20del%20decreto%20legislativo%2023%20marzo%201948%20n.%20265%20concernente%20integrazione%20delle%20norme%20sullo%20stato%20giuridico%20ed%20economico%20dei%20professori%20universitari.md) ha disposto (con l'art. 3, comma 1) che "Le modifiche apportate al [decreto legislativo 23 marzo 1948, n. 265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-03-23;265), con la presente legge hanno effetto dal 1 novembre 1947, salvo il diverso disposto dell'art. 3-bis (nuovo) del decreto legislativo stesso."
+La [L. 19 maggio 1950, n. 355](../DL%20e%20leggi%20di%20conversione/Ratifica%20con%20modificazioni%20del%20decreto%20legislativo%2023%20marzo%201948%20n.%20265%20concernente%20integrazione%20delle%20norme%20sullo%20stato%20giuridico%20ed%20economico%20dei%20professori%20universitari.md) ha disposto (con l'art. 3, comma 1) che "Le modifiche apportate al [decreto legislativo 23 marzo 1948, n. 265](Integrazione%20delle%20norme%20sullo%20stato%20giuridico%20ed%20economico%20del%20professori%20universitari.md), con la presente legge hanno effetto dal 1 novembre 1947, salvo il diverso disposto dell'art. 3-bis (nuovo) del decreto legislativo stesso."
 
 ## Art. 3-bis.
 
@@ -68,7 +68,7 @@ La [L. 19 maggio 1950, n. 355](../DL%20e%20leggi%20di%20conversione/Ratifica%20c
 
 AGGIORNAMENTO (1)
 
-La [L. 19 maggio 1950, n. 355](../DL%20e%20leggi%20di%20conversione/Ratifica%20con%20modificazioni%20del%20decreto%20legislativo%2023%20marzo%201948%20n.%20265%20concernente%20integrazione%20delle%20norme%20sullo%20stato%20giuridico%20ed%20economico%20dei%20professori%20universitari.md) ha disposto (con l'art. 3, comma 1) che "Le modifiche apportate al [decreto legislativo 23 marzo 1948, n. 265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-03-23;265), con la presente legge hanno effetto dal 1 novembre 1947, salvo il diverso disposto dell'art. 3-bis (nuovo) del decreto legislativo stesso."
+La [L. 19 maggio 1950, n. 355](../DL%20e%20leggi%20di%20conversione/Ratifica%20con%20modificazioni%20del%20decreto%20legislativo%2023%20marzo%201948%20n.%20265%20concernente%20integrazione%20delle%20norme%20sullo%20stato%20giuridico%20ed%20economico%20dei%20professori%20universitari.md) ha disposto (con l'art. 3, comma 1) che "Le modifiche apportate al [decreto legislativo 23 marzo 1948, n. 265](Integrazione%20delle%20norme%20sullo%20stato%20giuridico%20ed%20economico%20del%20professori%20universitari.md), con la presente legge hanno effetto dal 1 novembre 1947, salvo il diverso disposto dell'art. 3-bis (nuovo) del decreto legislativo stesso."
 
 ## Art. 4.
 

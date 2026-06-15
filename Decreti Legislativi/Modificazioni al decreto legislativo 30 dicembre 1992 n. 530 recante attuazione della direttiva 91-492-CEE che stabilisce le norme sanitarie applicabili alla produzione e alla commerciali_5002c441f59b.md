@@ -12,11 +12,11 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto il [decreto legislativo 30 dicembre 1992, n. 530](Attuazione%20della%20direttiva%2091-492-CEE%20che%20stabilisce%20le%20norme%20sanitarie%20applicabili%20alla%20produzione%20e%20commercializzazione%20dei%20molluschi%20bivalvi%20vivi.md), recante attuazione della [direttiva 91/492/CEE, del Consiglio del 15 luglio 1991](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1991;492), che stabilisce le norme sanitarie applicabili alla produzione e alla commercializzazione dei molluschi bivalvi vivi, emanato in esercizio della delega conferita al Governo con la [legge 19 dicembre 1992, n. 489](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-12-19;489);
+Visto il [decreto legislativo 30 dicembre 1992, n. 530](Attuazione%20della%20direttiva%2091-492-CEE%20che%20stabilisce%20le%20norme%20sanitarie%20applicabili%20alla%20produzione%20e%20commercializzazione%20dei%20molluschi%20bivalvi%20vivi.md), recante attuazione della [direttiva 91/492/CEE, del Consiglio del 15 luglio 1991](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1991;492), che stabilisce le norme sanitarie applicabili alla produzione e alla commercializzazione dei molluschi bivalvi vivi, emanato in esercizio della delega conferita al Governo con la [legge 19 dicembre 1992, n. 489](../Leggi%20di%20delegazione%20europea/Disposizioni%20in%20materia%20di%20attuazione%20di%20direttive%20comunitarie%20relative%20al%20mercato%20interno.md);
 
 Ritenuto necessario apportare modificazioni e integrazioni al citato [decreto legislativo n. 530 del 1992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992;530);
 
-Visto l'[articolo 6, comma 1, della legge 22 febbraio 1994, n. 146](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-22;146#art_6-com1);
+Visto l'[articolo 6, comma 1, della legge 22 febbraio 1994, n. 146](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%201993.md);
 
 Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 12 marzo 1996;
 

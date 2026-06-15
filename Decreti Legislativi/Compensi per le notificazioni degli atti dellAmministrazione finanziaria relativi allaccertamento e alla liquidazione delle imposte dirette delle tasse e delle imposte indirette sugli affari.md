@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4), con le modificazioni ad esso apportate dall'[art. 3, comma primo, del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98#art_3-com1);
+Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4), con le modificazioni ad esso apportate dall'[art. 3, comma primo, del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Viste le disposizioni transitorie I e XV della Costituzione;
 
@@ -28,7 +28,7 @@ Il compenso di cui al [decreto legislativo luogotenenziale 12 ottobre 1945, n. 7
 
 AGGIORNAMENTO (1)
 
-La [L. 27 febbraio 1955, n. 83](../Atti%20normativi%20abrogati%20%28in%20originale%29/Compenso%20per%20le%20notifiche%20degli%20atti%20dellAmministrazione%20finanziaria%20relativi%20allaccertamento%20ed%20alla%20liquidazione%20delle%20imposte%20dirette%20e%20delle%20tasse%20ed%20imposte%20indirette%20sugli%20affari.md) ha disposto (con l'art. 1) che "Il compenso di cui al [decreto legislativo 20 marzo 1948, n. 369](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-03-20;369), dovuto ai messi notificatori, ai messi comunali ed agli agenti degli uffici finanziari provinciali per la notificazione di qualsiasi atto dell'Amministrazione finanziaria, relativo all'accertamento ed alla liquidazione delle imposte dirette e delle tasse ed imposte indirette sugli affari, e' fissato in lire 25 quando la notifica e' eseguita nei Comuni con popolazione fino a centomila abitanti ed in lire 50 negli altri casi".
+La [L. 27 febbraio 1955, n. 83](../Atti%20normativi%20abrogati%20%28in%20originale%29/Compenso%20per%20le%20notifiche%20degli%20atti%20dellAmministrazione%20finanziaria%20relativi%20allaccertamento%20ed%20alla%20liquidazione%20delle%20imposte%20dirette%20e%20delle%20tasse%20ed%20imposte%20indirette%20sugli%20affari.md) ha disposto (con l'art. 1) che "Il compenso di cui al [decreto legislativo 20 marzo 1948, n. 369](Compensi%20per%20le%20notificazioni%20degli%20atti%20dellAmministrazione%20finanziaria%20relativi%20allaccertamento%20e%20alla%20liquidazione%20delle%20imposte%20dirette%20delle%20tasse%20e%20delle%20imposte%20indirette%20sugli%20affari.md), dovuto ai messi notificatori, ai messi comunali ed agli agenti degli uffici finanziari provinciali per la notificazione di qualsiasi atto dell'Amministrazione finanziaria, relativo all'accertamento ed alla liquidazione delle imposte dirette e delle tasse ed imposte indirette sugli affari, e' fissato in lire 25 quando la notifica e' eseguita nei Comuni con popolazione fino a centomila abitanti ed in lire 50 negli altri casi".
 
 -----------------
 

@@ -14,7 +14,7 @@ Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cos
 
 Vista la [direttiva 2003/4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2003;4)/ CE del Parlamento europeo e del Consiglio, del 28 gennaio 2003, concernente l'accesso del pubblico all'informazione ambientale, che abroga la [direttiva 90/313/CEE del Consiglio](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1990;313);
 
-Vista la [legge 31 ottobre 2003, n. 306](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-10-31;306), recante disposizioni per l'adempimento degli obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee (Legge comunitaria 2003);
+Vista la [legge 31 ottobre 2003, n. 306](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%202003.md), recante disposizioni per l'adempimento degli obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee (Legge comunitaria 2003);
 
 Visto il [decreto legislativo del 24 febbraio 1997, n. 39](Attuazione%20direttiva%2090-313-CEE%20concernente%20la%20liberta%20di%20accesso%20alle%20informazioni%20in%20materia%20di%20ambiente.md), recante attuazione della [direttiva 90/313/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1990;313), concernente la liberta' di accesso alle informazioni in materia di ambiente;
 

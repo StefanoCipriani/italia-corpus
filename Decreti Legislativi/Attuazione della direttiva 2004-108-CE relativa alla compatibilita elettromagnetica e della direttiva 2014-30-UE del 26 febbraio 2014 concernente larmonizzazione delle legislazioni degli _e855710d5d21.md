@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge 25 gennaio 2006, n. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-01-25;29), recante disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee - legge comunitaria 2005, ed in particolare l'articolo 1, commi 1 e 3, e l'allegato B;
+Vista la [legge 25 gennaio 2006, n. 29](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%202005.md), recante disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee - legge comunitaria 2005, ed in particolare l'articolo 1, commi 1 e 3, e l'allegato B;
 
 Vista la [direttiva 2004/108/CE del Parlamento europeo e del Consiglio, del 15 dicembre 2004](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2004;108), concernente il ravvicinamento delle legislazioni degli Stati membri relative alla compatibilita' elettromagnetica e che abroga la [direttiva 89/336/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1989;336);
 

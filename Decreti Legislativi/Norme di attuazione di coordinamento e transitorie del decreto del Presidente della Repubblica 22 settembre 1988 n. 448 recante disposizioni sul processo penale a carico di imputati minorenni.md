@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge 16 febbraio 1987, n. 81](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-02-16;81), recante delega legislativa al Governo della Repubblica per l'emanazione delle disposizioni sul processo penale a carico degli imputati minorenni;
+Vista la [legge 16 febbraio 1987, n. 81](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20legislativa%20al%20Governo%20della%20Repubblica%20per%20lemanazione%20del%20nuovo%20codice%20di%20procedura%20penale_2.md), recante delega legislativa al Governo della Repubblica per l'emanazione delle disposizioni sul processo penale a carico degli imputati minorenni;
 
 Visto il [decreto del Presidente della Repubblica 22 settembre 1988, n. 448](../DPR/Approvazione%20delle%20disposizioni%20sul%20processo%20penale%20a%20carico%20di%20imputati%20minorenni.md), recante approvazione delle disposizioni sul processo penale a carico di imputati minorenni;
 

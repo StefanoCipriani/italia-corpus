@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87, quinto comma, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Visto l'[articolo 3, commi da 143](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;662#art_3-com143) [a 149](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;662#art_3-com149) e [151, della legge 23 dicembre 1996, n. 662](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;662#art_3-com151), recante delega al Governo per l'emanazione di uno o piu' decreti legislativi contenenti disposizioni volte alla istituzione dell'imposta regionale sulle attivita' produttive, alla semplificazione degli adempimenti dei contribuenti con la revisione degli scaglioni, delle aliquote e delle detrazioni dell'imposta sul reddito delle persone fisiche, alla istituzione dell'addizionale regionale all'imposta sul reddito delle persone fisiche, e al riordino della disciplina dei tributi locali;
+Visto l'[articolo 3, commi da 143](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_3.md) [a 149](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_3.md) e [151, della legge 23 dicembre 1996, n. 662](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_3.md), recante delega al Governo per l'emanazione di uno o piu' decreti legislativi contenenti disposizioni volte alla istituzione dell'imposta regionale sulle attivita' produttive, alla semplificazione degli adempimenti dei contribuenti con la revisione degli scaglioni, delle aliquote e delle detrazioni dell'imposta sul reddito delle persone fisiche, alla istituzione dell'addizionale regionale all'imposta sul reddito delle persone fisiche, e al riordino della disciplina dei tributi locali;
 
 Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella riunione del 14 ottobre 1997;
 
@@ -55,7 +55,7 @@ Avvertenza:
  Note alle premesse: 
  - L'[art. 76 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) regola la delega al Governo dell'esercizio della funzione legislativa e stabilisce che essa non puo' avvenire se non con determinazione di principi e criteri direttivi e soltanto per tempo limitato e per oggetti definiti. 
  - L'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5) conferisce al Presidente della Repubblica il potere di promulgare le leggi e di emanare i decreti aventi valore di legge e i regolamenti. 
- - Si riporta il testo dei [commi 13](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;662#art_3-com13), [15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;662#art_3-com15), [16](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;662#art_3-com16), [143](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;662#art_3-com143), [144](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;662#art_3-com144), [145](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;662#art_3-com145), [146](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;662#art_3-com146), [147](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;662#art_3-com147), [148](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;662#art_3-com148), [149](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;662#art_3-com149) e [151 dell'art. 3 della legge 23 dicembre 1996, n. 662](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;662#art_3-com151) (Misure di razionalizzazione della finanza pubblica): 
+ - Si riporta il testo dei [commi 13](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_3.md), [15](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_3.md), [16](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_3.md), [143](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_3.md), [144](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_3.md), [145](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_3.md), [146](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_3.md), [147](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_3.md), [148](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_3.md), [149](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_3.md) e [151 dell'art. 3 della legge 23 dicembre 1996, n. 662](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_3.md) (Misure di razionalizzazione della finanza pubblica): 
  "Art. 3 (Disposizioni in materia di entrata). - 1-12 (Omissis). 
  13. Entro trenta giorni dalla data di pubblicazione della presente legge nella Gazzetta Ufficiale della Repubblica italiana, e' istituita una commissione composta da quindici senatori e quindici deputati, nominati rispettivamente dal Presidente del Senato della Repubblica e dal Presidente della Camera dei deputati nel rispetto della proporzione esistente tra i gruppi parlamentari, sulla base delle designazioni dei gruppi medesimi. 
  14. (Omissis). 
@@ -65,7 +65,7 @@ Avvertenza:
  17-142 (Omissis). 
  143. Il Governo della Repubblica e' delegato ad emanare, entro undici mesi dalla data di entrata in vigore della presente legge, al fine di semplificare e razionalizzare gli adempimenti dei contribuenti, di ridurre il costo del lavoro e il prelievo complessivo che grava sui redditi da lavoro autonomo e di impresa minore, nel rispetto dei principi costituzionali del concorso alle spese pubbliche in ragione della capacita' contributiva e dell'autonomia politica e finanziaria degli enti territoriali, uno o piu' decreto legislativi contenenti disposizioni, anche in materia di accertamento, di riscossione, di sanzioni, di contenzioso e di ordinamento e funzionamento dell'amministrazione finanziaria dello Stato, delle regioni, delle province autonome e degli enti locali, occorrenti per le seguenti riforme del sistema tributario: 
  a) istituzione dell'imposta regionale sulle attivita' produttive e di una addizionale regionale all'imposta sul reddito delle persone fisiche con una aliquota compresa tra lo 0,5 e l'1 per cento e contemporanea abolizione: 
- 1) dei contributi per il Servizio sanitario nazionale di cui all'[articolo 31 della legge 28 febbraio 1986, n. 41](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-02-28;41#art_31), e successive modificazioni, del contributo dello 0,2 per cento di cui all'[articolo 1, terzo comma, della legge 31 dicembre 1961, n. 1443](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-12-31;1443#art_1-com3), e all'articolo 20, ultimo comma, della [legge 12 agosto 1962, n. 1338](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-08-12;1338), e della quota di contributo per l'assicurazione obbligatoria contro la tubercolosi eccedente quella prevista per il finanziamento delle prestazioni economiche della predetta assicurazione di cui all'[articolo 27 della legge 9 marzo 1989, n. 88](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-09;88#art_27); 
+ 1) dei contributi per il Servizio sanitario nazionale di cui all'[articolo 31 della legge 28 febbraio 1986, n. 41](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201986.md), e successive modificazioni, del contributo dello 0,2 per cento di cui all'[articolo 1, terzo comma, della legge 31 dicembre 1961, n. 1443](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-12-31;1443#art_1-com3), e all'articolo 20, ultimo comma, della [legge 12 agosto 1962, n. 1338](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-08-12;1338), e della quota di contributo per l'assicurazione obbligatoria contro la tubercolosi eccedente quella prevista per il finanziamento delle prestazioni economiche della predetta assicurazione di cui all'[articolo 27 della legge 9 marzo 1989, n. 88](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-09;88#art_27); 
  2) dell'imposta locale sui redditi, di cui al titolo III del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md); 
  3) dell'imposta comunale per l'esercizio di imprese e di arti e professioni, di cui al titolo I del [decreto-legge 2 marzo 1989, n. 66](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-03-02;66), convertito, con modificazioni, dalla [legge 24 aprile 1989, n. 144](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%202%20marzo%201989%20n.%2066%20recante%20disposizioni%20urgenti%20in%20materia%20di%20autonomia%20impositiva%20degli%20enti%20locali%20e%20di%20finanza%20locale.md); 
  4) della tassa sulla concessione governativa per l'attribuzione del numero di partita IVA, di cui all'articolo 24 della tariffa allegata al [decreto del Presidente della Repubblica 26 ottobre 1972, n. 641](../DPR/Disciplina%20delle%20tasse%20sulle%20concessioni%20governative.md); 
@@ -78,7 +78,7 @@ Avvertenza:
  2) delle tasse per l'occupazione di spazi ed aree pubbliche, di cui al capo II del [decreto legislativo 15 novembre 1993, n. 507, e all'articolo 5](Revisione%20ed%20armonizzazione%20dellimposta%20comunale%20sulla%20pubblicita%20e%20del%20diritto%20sulle%20pubbliche%20affissioni%20della%20tassa%20per%20loccupazione%20di%20spazi%20ed%20aree%20pubbliche%20dei%20comuni%20e%20delle%20provi_687a7e872aee.md) della [legge 16 maggio 1970, n. 281](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-05-16;281); 
  3) della addizionale comunale e provinciale sul consumo della energia elettrica, di cui all'[articolo 24 del decreto-legge 28 febbraio 1983, n. 55](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1983-02-28;55#art_24), convertito, con modificazioni, dalla [legge 26 aprile 1983, n. 131](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2028%20febbraio%201983%20n.%2055%20recante%20provvedimenti%20urgenti%20per%20il%20settore%20della%20finanza%20locale%20per%20lanno%201983.md); 
  4) dell'imposta erariale di trascrizione, iscrizione e annotazione dei veicoli al pubblico registro automobilistico di cui alla [legge 23 dicembre 1977, n. 952](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-12-23;952); 
- 5) dell'addizionale provinciale all'imposta erariale di trascrizione di cui all'[articolo 3, comma 48, della legge 28 dicembre 1995, n. 549](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-12-28;549#art_3-com48); 
+ 5) dell'addizionale provinciale all'imposta erariale di trascrizione di cui all'[articolo 3, comma 48, della legge 28 dicembre 1995, n. 549](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_2.md); 
  f) revisione della disciplina relativa all'imposta di registro per gli atti di natura traslativa o dichiarativa aventi per oggetto veicoli a motore da sottoporre alle formalita' di trascrizione, iscrizione e annotazione al pubblico registro automobilistico; 
  attribuzione ai comuni delle somme riscosse per le imposte di registro, ipotecaria e catastale in relazione agli atti di trasferimento a titolo oneroso, compresi quelli giudiziari, della proprieta' di immobili nonche' quelli traslativi o costitutivi di diritti reali sugli stessi; 
  g) previsione di adeguate forme di finanziamento delle citta' metropolitane di cui all'[articolo 18 della legge 8 giugno 1990, n. 142](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ordinamento%20delle%20autonomie%20locali.md); attraverso l'attribuzione di gettito di tributi regionali e locali in rapporto alle funzioni assorbite. 
@@ -122,7 +122,7 @@ Avvertenza:
  147. La disciplina transitoria di cui al comma 143, lettera c), e' informata ai seguenti principi e criteri direttivi: 
  a) previsione di una graduale sostituzione del gettito di tributi da sopprimere, al fine di evitare carenze e sovrapposizioni nei flussi finanziari dello Stato, delle regioni e degli altri enti locali; 
  b) esclusione dell'esercizio della facolta' concessa alle regioni di maggiorare l'aliquota base dell'imposta regionale sulle attivita' produttive e riserva allo Stato del potere di fissare l'aliquota dell'addizionale all'imposta sul reddito delle persone fisiche, nei limiti indicati nel comma 146, lettera b), al massimo per i primi due periodi di imposta; 
- c) previsione dell'incremento di un punto percentuale del livello di fiscalizzazione dei contributi sanitari a carico dei datori di lavoro, di cui all'[articolo 31 della legge 28 febbraio 1986, n. 41](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-02-28;41#art_31), e successive modificazioni, a decorrere dal periodo di paga in corso alla data del 1 gennaio 1997; 
+ c) previsione dell'incremento di un punto percentuale del livello di fiscalizzazione dei contributi sanitari a carico dei datori di lavoro, di cui all'[articolo 31 della legge 28 febbraio 1986, n. 41](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201986.md), e successive modificazioni, a decorrere dal periodo di paga in corso alla data del 1 gennaio 1997; 
  d) previsione del mantenimento dell'attuale assetto di finanziamento della sanita', anche in presenza dei nuovi tributi regionali, considerando, per quanto riguarda il fondo sanitario, come dotazione propria della regione il gettito dell'addizionale all'imposta sul reddito delle persone fisiche e una percentuale compresa tra il 65 e il 90 per cento del gettito dell'imposta regionale sulle attivita' produttive, al netto della quota, attribuita allo Stato, di cui alla lettera o) del comma 144; 
  e) per quanto riguarda i trasferimenti ad altro titolo, decurtazione degli stessi di un importo pari al residuo gettito dell'imposta regionale sulle attivita' produttive al netto delle devoluzioni a province e comuni di cui alla lettera q) del comma 144 con la previsione, qualora il residuo gettito sia superiore all'ammontare di detti trasferimenti, del riversamento allo Stato dell'eccedenza. 
  148. La disciplina riguardante i meccanismi perequativi di cui al comma 143, lettera c), e' informata al criterio del riequilibrio tra le regioni degli effetti finanziari derivanti dalla maggiore autonomia tributaria secondo modalita' e tempi, determinati di intesa con le regioni, che tengano conto della capacita' fiscale di ciascuna di esse e dell'esigenza di incentivare lo sforzo fiscale. 
@@ -173,7 +173,7 @@ quelle ad esse equiparate a norma dell'articolo 5, comma 3, del predetto testo u
                             c)
                                 le persone fisiche, le societa' semplici e quelle ad esse equiparate a norma dell'articolo 5, comma 3, del predetto testo unico esercenti arti e professioni di cui all'articolo 49, comma 1, del medesimo testo unico; ((70))
                             d)
-                                LETTERA ABROGATA DALLA [L. 28 DICEMBRE 2015, N. 208](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-12-28;208); (52)
+                                LETTERA ABROGATA DALLA [L. 28 DICEMBRE 2015, N. 208](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202016.%2015G00222.md); (52)
                             e)
                                 gli enti privati di cui all'articolo 87, comma 1, lettera c), del citato [testo unico n. 917 del 1986](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1986;917), nonche' le societa' e gli enti di cui alla lettera d) dello stesso comma;
                             e-bis)
@@ -187,7 +187,7 @@ quelle ad esse equiparate a norma dell'articolo 5, comma 3, del predetto testo u
 
 AGGIORNAMENTO (8)
 
-Il [D.Lgs. 30 dicembre 1999, n. 506](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-12-30;506) ha disposto (con l'art. 3, comma 1) che "Le modificazioni apportate dall'articolo 1, comma 1, lettere da a) a r), si applicano a decorrere dal periodo d'imposta in corso alla data di emanazione del presente decreto,[. . .]."
+Il [D.Lgs. 30 dicembre 1999, n. 506](Disposizioni%20integrative%20e%20correttive%20dei%20decreti%20legislativi%2015%20dicembre%201997%20n.%20446%20e%2018%20dicembre%201997%20n.%20472%20recanti%20rispettivamente%20disposizioni%20in%20materia%20di%20imposta%20regionale%20sulle%20_1e413d217a81.md) ha disposto (con l'art. 3, comma 1) che "Le modificazioni apportate dall'articolo 1, comma 1, lettere da a) a r), si applicano a decorrere dal periodo d'imposta in corso alla data di emanazione del presente decreto,[. . .]."
 
 --------------
 
@@ -199,13 +199,13 @@ Il [D.L. 29 dicembre 2010, n. 225](../DL%20proroghe/Proroga%20di%20termini%20pre
 
 AGGIORNAMENTO (52)
 
-La [L. 28 dicembre 2015, n. 208](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-12-28;208), ha disposto (con l'art. 1, comma 72) che "Le disposizioni del comma 70 si applicano a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2015".
+La [L. 28 dicembre 2015, n. 208](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202016.%2015G00222.md), ha disposto (con l'art. 1, comma 72) che "Le disposizioni del comma 70 si applicano a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2015".
 
 --------------
 
 AGGIORNAMENTO (70)
 
-La L. 30 dicembre 20231, n. 234, ha disposto (con l'art. 1, comma 8) che "A decorrere dal periodo d'imposta in corso alla data di entrata in vigore della presente legge, l'imposta regionale sulle attivita' produttive (IRAP), di cui al [decreto legislativo 15 dicembre 1997, n. 446](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-12-15;446), non e' dovuta dalle persone fisiche esercenti attivita' commerciali ed esercenti arti e professioni di cui alle lettere b) e c) del comma 1 dell'articolo 3 del medesimo [decreto legislativo n. 446 del 1997](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997;446)".
+La L. 30 dicembre 20231, n. 234, ha disposto (con l'art. 1, comma 8) che "A decorrere dal periodo d'imposta in corso alla data di entrata in vigore della presente legge, l'imposta regionale sulle attivita' produttive (IRAP), di cui al [decreto legislativo 15 dicembre 1997, n. 446](Istituzione%20dellimposta%20regionale%20sulle%20attivita%20produttive%20revisione%20degli%20scaglioni%20delle%20aliquote%20e%20delle%20detrazioni%20dellIrpef%20e%20istituzione%20di%20una%20addizionale%20regionale%20a%20tale%20imposta_576f8a3bbc05.md), non e' dovuta dalle persone fisiche esercenti attivita' commerciali ed esercenti arti e professioni di cui alle lettere b) e c) del comma 1 dell'articolo 3 del medesimo [decreto legislativo n. 446 del 1997](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997;446)".
 
 ### Art. 4. — Base imponibile
 
@@ -225,13 +225,13 @@ Gli atti generali concernenti l'applicazione delle disposizioni di cui al comma 
 
 AGGIORNAMENTO (8)
 
-Il [D.Lgs. 30 dicembre 1999, n. 506](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-12-30;506) ha disposto (con l'art. 3, comma 1) che "Le modificazioni apportate dall'articolo 1, comma 1, lettere da a) a r), si applicano a decorrere dal periodo d'imposta in corso alla data di emanazione del presente decreto,[. . .]."
+Il [D.Lgs. 30 dicembre 1999, n. 506](Disposizioni%20integrative%20e%20correttive%20dei%20decreti%20legislativi%2015%20dicembre%201997%20n.%20446%20e%2018%20dicembre%201997%20n.%20472%20recanti%20rispettivamente%20disposizioni%20in%20materia%20di%20imposta%20regionale%20sulle%20_1e413d217a81.md) ha disposto (con l'art. 3, comma 1) che "Le modificazioni apportate dall'articolo 1, comma 1, lettere da a) a r), si applicano a decorrere dal periodo d'imposta in corso alla data di emanazione del presente decreto,[. . .]."
 
 --------------
 
 AGGIORNAMENTO (52)
 
-La [L. 28 dicembre 2015, n. 208](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-12-28;208), ha disposto (con l'art. 1, comma 72) che "Le disposizioni del comma 70 si applicano a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2015".
+La [L. 28 dicembre 2015, n. 208](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202016.%2015G00222.md), ha disposto (con l'art. 1, comma 72) che "Le disposizioni del comma 70 si applicano a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2015".
 
 ### Art. 5. — Determinazione del valore della produzione netta delle societa' di capitali e degli enti commerciali).
 
@@ -265,25 +265,25 @@ Indipendentemente dalla effettiva collocazione nel conto economico, i componenti
 
 AGGIORNAMENTO (6)
 
-Il [D.Lgs. 10 giugno 1999, n. 176](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-06-10;176) ha disposto (con l'art. 1, comma 3) che le modifiche ai commi 1 e 2 "si applicano a decorrere dal periodo d'imposta per il quale il termine di presentazione della dichiarazione, ai sensi del decreto del Presidente del Consiglio dei Ministri 1 aprile 1999, pubblicato nella Gazzetta Ufficiale n. 77 del 2 aprile 1999, scade successivamente alla data di entrata in vigore del presente decreto, ad esclusione di quella modificativa del trattamento dei contributi erogati in base a norma di legge, che si applica a decorrere dal periodo d'imposta in corso a tale data."
+Il [D.Lgs. 10 giugno 1999, n. 176](Disposizioni%20correttive%20e%20integrative%20del%20decreto%20legislativo%2015%20dicembre%201997%20n.%20446%20concernente%20listituzione%20dellIRAP.md) ha disposto (con l'art. 1, comma 3) che le modifiche ai commi 1 e 2 "si applicano a decorrere dal periodo d'imposta per il quale il termine di presentazione della dichiarazione, ai sensi del decreto del Presidente del Consiglio dei Ministri 1 aprile 1999, pubblicato nella Gazzetta Ufficiale n. 77 del 2 aprile 1999, scade successivamente alla data di entrata in vigore del presente decreto, ad esclusione di quella modificativa del trattamento dei contributi erogati in base a norma di legge, che si applica a decorrere dal periodo d'imposta in corso a tale data."
 
 ---------------
 
 AGGIORNAMENTO (8)
 
-Il [D.Lgs. 30 dicembre 1999, n. 506](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-12-30;506) ha disposto (con l'art. 3, comma 1) che "Le modificazioni apportate dall'articolo 1, comma 1, lettere da a) a r), si applicano a decorrere dal periodo d'imposta in corso alla data di emanazione del presente decreto,[. . .]."
+Il [D.Lgs. 30 dicembre 1999, n. 506](Disposizioni%20integrative%20e%20correttive%20dei%20decreti%20legislativi%2015%20dicembre%201997%20n.%20446%20e%2018%20dicembre%201997%20n.%20472%20recanti%20rispettivamente%20disposizioni%20in%20materia%20di%20imposta%20regionale%20sulle%20_1e413d217a81.md) ha disposto (con l'art. 3, comma 1) che "Le modificazioni apportate dall'articolo 1, comma 1, lettere da a) a r), si applicano a decorrere dal periodo d'imposta in corso alla data di emanazione del presente decreto,[. . .]."
 
 ---------------
 
 AGGIORNAMENTO (35)
 
-La [L. 24 dicembre 2007, n. 244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-12-24;244) ha disposto (con l'art. 1, comma 51) che "Le disposizioni di cui al comma 50 si applicano a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2007."
+La [L. 24 dicembre 2007, n. 244](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202008.md) ha disposto (con l'art. 1, comma 51) che "Le disposizioni di cui al comma 50 si applicano a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2007."
 
 ---------------
 
 AGGIORNAMENTO (50)
 
-Il [D.Lgs. 14 settembre 2015, n. 147](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-09-14;147) ha (con l'art. 5, comma 3) che il presente articolo si interpreta nel senso che per le cessioni di immobili e di aziende nonche' per la costituzione e il trasferimento di diritti reali sugli stessi, l'esistenza di un maggior corrispettivo non e' presumibile soltanto sulla base del valore anche se dichiarato, accertato o definito ai fini dell'imposta di registro di cui al [decreto del Presidente della Repubblica 26 aprile 1986, n. 131](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20limposta%20di%20registro.md), ovvero delle imposte ipotecaria e catastale di cui al [decreto legislativo 31 ottobre 1990, n. 347](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20le%20imposte%20ipotecaria%20e%20catastale.md).
+Il [D.Lgs. 14 settembre 2015, n. 147](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20recanti%20misure%20per%20la%20crescita%20e%20linternazionalizzazione%20delle%20imprese.%2015G00163.md) ha (con l'art. 5, comma 3) che il presente articolo si interpreta nel senso che per le cessioni di immobili e di aziende nonche' per la costituzione e il trasferimento di diritti reali sugli stessi, l'esistenza di un maggior corrispettivo non e' presumibile soltanto sulla base del valore anche se dichiarato, accertato o definito ai fini dell'imposta di registro di cui al [decreto del Presidente della Repubblica 26 aprile 1986, n. 131](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20limposta%20di%20registro.md), ovvero delle imposte ipotecaria e catastale di cui al [decreto legislativo 31 ottobre 1990, n. 347](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20le%20imposte%20ipotecaria%20e%20catastale.md).
 
 ---------------
 
@@ -291,17 +291,17 @@ AGGIORNAMENTO (54)
 
 Il [D.L. 30 dicembre 2016, n. 244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2016-12-30;244), convertito con modificazioni dalla [L. 27 febbraio 2017, n. 19](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%202016%20n.%20244%20recante%20proroga%20e%20definizione%20di%20termini.%20Proroga%20del%20termine%20per%20lesercizio%20di%20deleghe%20legislative.%2017G00033.md), ha disposto: 
  - (con l'art. 13-bis, comma 5) che "Le disposizioni di cui ai commi precedenti hanno efficacia con riguardo ai componenti reddituali e patrimoniali rilevati in bilancio a decorrere dall'esercizio successivo a quello in corso al 31 dicembre 2015. Continuano ad essere assoggettati alla disciplina fiscale previgente gli effetti reddituali e patrimoniali sul bilancio del predetto esercizio e di quelli successivi delle operazioni che risultino diversamente qualificate, classificate, valutate e imputate temporalmente ai fini fiscali rispetto alle qualificazioni, classificazioni, valutazioni e imputazioni temporali risultanti dal bilancio dell'esercizio in corso al 31 dicembre 2015"; 
- - (con l'art. 13-bis, comma 6) che "Le disposizioni di cui al comma 5 si applicano anche ai fini della determinazione della base imponibile di cui al [decreto legislativo 15 dicembre 1997, n. 446](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-12-15;446)"; 
- - (con l'art. 13-bis, comma 7, lettera b)) che "Nel primo esercizio di applicazione dei principi contabili di cui all'[articolo 9-bis, comma 1, lettera a), del decreto legislativo 28 febbraio 2005, n. 38](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-28;38#art_9bis-com1-leta), aggiornati ai sensi del [comma 3 dell'articolo 12 del decreto legislativo 18 agosto 2015, n. 139](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;139#art_12-com3): 
+ - (con l'art. 13-bis, comma 6) che "Le disposizioni di cui al comma 5 si applicano anche ai fini della determinazione della base imponibile di cui al [decreto legislativo 15 dicembre 1997, n. 446](Istituzione%20dellimposta%20regionale%20sulle%20attivita%20produttive%20revisione%20degli%20scaglioni%20delle%20aliquote%20e%20delle%20detrazioni%20dellIrpef%20e%20istituzione%20di%20una%20addizionale%20regionale%20a%20tale%20imposta_576f8a3bbc05.md)"; 
+ - (con l'art. 13-bis, comma 7, lettera b)) che "Nel primo esercizio di applicazione dei principi contabili di cui all'[articolo 9-bis, comma 1, lettera a), del decreto legislativo 28 febbraio 2005, n. 38](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-28;38#art_9bis-com1-leta), aggiornati ai sensi del [comma 3 dell'articolo 12 del decreto legislativo 18 agosto 2015, n. 139](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202013-34-UE%20relativa%20ai%20bilanci%20desercizio%20ai%20bilanci%20consolidati%20e%20alle%20relative%20relazioni%20di%20talune%20tipologie%20di%20imprese%20recante%20modifica%20della%20direttiva%202006-_0a7464acec94.md): 
  [...] 
- b) i componenti imputati direttamente a patrimonio netto concorrono alla formazione della base imponibile di cui all'[articolo 5 del decreto legislativo 15 dicembre 1997, n. 446](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-12-15;446#art_5), se, sulla base dei criteri applicabili negli esercizi precedenti, sarebbero stati classificati nelle voci di cui alle [lettere A)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2425-leta) e [B) dell'articolo 2425 del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2425-letb) rilevanti ai fini del medesimo articolo 5"; 
- - (con l'art. 13-bis, comma 8) che "Le disposizioni di cui ai commi da 5 a 7 si applicano anche in caso di variazioni che intervengono nei principi contabili ai sensi del [comma 3 dell'articolo 12 del decreto legislativo 18 agosto 2015, n. 139](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;139#art_12-com3), e nelle ipotesi di cambiamento degli obblighi informativi di bilancio conseguenti a modifiche delle dimensioni dell'impresa".
+ b) i componenti imputati direttamente a patrimonio netto concorrono alla formazione della base imponibile di cui all'[articolo 5 del decreto legislativo 15 dicembre 1997, n. 446](Istituzione%20dellimposta%20regionale%20sulle%20attivita%20produttive%20revisione%20degli%20scaglioni%20delle%20aliquote%20e%20delle%20detrazioni%20dellIrpef%20e%20istituzione%20di%20una%20addizionale%20regionale%20a%20tale%20imposta_576f8a3bbc05.md), se, sulla base dei criteri applicabili negli esercizi precedenti, sarebbero stati classificati nelle voci di cui alle [lettere A)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2425-leta) e [B) dell'articolo 2425 del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2425-letb) rilevanti ai fini del medesimo articolo 5"; 
+ - (con l'art. 13-bis, comma 8) che "Le disposizioni di cui ai commi da 5 a 7 si applicano anche in caso di variazioni che intervengono nei principi contabili ai sensi del [comma 3 dell'articolo 12 del decreto legislativo 18 agosto 2015, n. 139](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202013-34-UE%20relativa%20ai%20bilanci%20desercizio%20ai%20bilanci%20consolidati%20e%20alle%20relative%20relazioni%20di%20talune%20tipologie%20di%20imprese%20recante%20modifica%20della%20direttiva%202006-_0a7464acec94.md), e nelle ipotesi di cambiamento degli obblighi informativi di bilancio conseguenti a modifiche delle dimensioni dell'impresa".
 
 ---------------
 
 AGGIORNAMENTO (78)
 
-Il [D.Lgs. 18 dicembre 2025, n. 192](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2025-12-18;192) ha disposto (con l'art. 7, comma 2) che "Le disposizioni di cui all'articolo 4 si applicano alle correzioni di errori contabili rilevate nei bilanci relativi agli esercizi aventi inizio a partire dal 1° gennaio 2025".
+Il [D.Lgs. 18 dicembre 2025, n. 192](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20integrative%20e%20correttive%20in%20materia%20di%20IRPEF%20e%20IRES%20di%20fiscalita%20internazionale%20di%20imposta%20sulle%20successioni%20e%20donazioni%20e%20di%20imposta%20di%20registro%20nonche%20di%20modifica%20allo%20stat_94c3ccef6a56.md) ha disposto (con l'art. 7, comma 2) che "Le disposizioni di cui all'articolo 4 si applicano alle correzioni di errori contabili rilevate nei bilanci relativi agli esercizi aventi inizio a partire dal 1° gennaio 2025".
 
 ### Art. 5-bis. — Determinazione del valore della produzione netta delle societa' di persone e delle imprese individuali).
 
@@ -323,25 +323,25 @@ I soggetti di cui al comma 1, in regime di contabilita' ordinaria, possono optar
 
 AGGIORNAMENTO (35)
 
-La [L. 24 dicembre 2007, n. 244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-12-24;244) ha disposto (con l'art. 1, comma 51) che "Le disposizioni di cui al comma 50 si applicano a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2007."
+La [L. 24 dicembre 2007, n. 244](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202008.md) ha disposto (con l'art. 1, comma 51) che "Le disposizioni di cui al comma 50 si applicano a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2007."
 
 ---------------
 
 AGGIORNAMENTO (46)
 
-Il [D.Lgs. 21 novembre 2014, n. 175](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014-11-21;175) ha disposto (con l'art. 16, comma 5) che la presente modifica si applica a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2014.
+Il [D.Lgs. 21 novembre 2014, n. 175](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Semplificazione%20fiscale%20e%20dichiarazione%20dei%20redditi%20precompilata.%2014G00190.md) ha disposto (con l'art. 16, comma 5) che la presente modifica si applica a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2014.
 
 ---------------
 
 AGGIORNAMENTO (50)
 
-Il [D.Lgs. 14 settembre 2015, n. 147](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-09-14;147) ha (con l'art. 5, comma 3) che il presente articolo si interpreta nel senso che per le cessioni di immobili e di aziende nonche' per la costituzione e il trasferimento di diritti reali sugli stessi, l'esistenza di un maggior corrispettivo non e' presumibile soltanto sulla base del valore anche se dichiarato, accertato o definito ai fini dell'imposta di registro di cui al [decreto del Presidente della Repubblica 26 aprile 1986, n. 131](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20limposta%20di%20registro.md), ovvero delle imposte ipotecaria e catastale di cui al [decreto legislativo 31 ottobre 1990, n. 347](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20le%20imposte%20ipotecaria%20e%20catastale.md).
+Il [D.Lgs. 14 settembre 2015, n. 147](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20recanti%20misure%20per%20la%20crescita%20e%20linternazionalizzazione%20delle%20imprese.%2015G00163.md) ha (con l'art. 5, comma 3) che il presente articolo si interpreta nel senso che per le cessioni di immobili e di aziende nonche' per la costituzione e il trasferimento di diritti reali sugli stessi, l'esistenza di un maggior corrispettivo non e' presumibile soltanto sulla base del valore anche se dichiarato, accertato o definito ai fini dell'imposta di registro di cui al [decreto del Presidente della Repubblica 26 aprile 1986, n. 131](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20limposta%20di%20registro.md), ovvero delle imposte ipotecaria e catastale di cui al [decreto legislativo 31 ottobre 1990, n. 347](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20le%20imposte%20ipotecaria%20e%20catastale.md).
 
 --------------
 
 AGGIORNAMENTO (53)
 
-La [L. 11 dicembre 2016, n. 232](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2016-12-11;232) ha disposto (con l'art. 1, comma 23) che la presente modifica decorre dal periodo d'imposta successivo a quello in corso al 31 dicembre 2016.
+La [L. 11 dicembre 2016, n. 232](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202017%20e%20bilancio%20pluriennale%20per%20il%20triennio%202017-2019.%2016G00242.md) ha disposto (con l'art. 1, comma 23) che la presente modifica decorre dal periodo d'imposta successivo a quello in corso al 31 dicembre 2016.
 
 ### Art. 6. — (Determinazione del valore della produzione netta delle banche e di altri enti e societa' finanziari)
 
@@ -359,11 +359,11 @@ Per gli intermediari finanziari, salvo quanto previsto nei successivi commi, la 
 
 2.
 
-Per le societa' di intermediazione mobiliare e gli intermediari, diversi dai soggetti di cui al comma 1, abilitati allo svolgimento dei servizi di investimento indicati nell'articolo 1 del testo unico delle disposizioni in materia di intermediazione finanziaria, di cui al [decreto legislativo 24 febbraio 1998, n. 58](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-02-24;58), iscritti nell'albo previsto dall'articolo 20 dello stesso decreto, assume rilievo la differenza tra la somma degli interessi attivi e proventi assimilati relativi alle operazioni di riporto e di pronti contro termine e le commissioni attive riferite ai servizi prestati dall'intermediario e la somma degli interessi passivi e oneri assimilati relativi alle operazioni di riporto e di pronti contro termine e le commissioni passive riferite ai servizi prestati dall'intermediario. (58)
+Per le societa' di intermediazione mobiliare e gli intermediari, diversi dai soggetti di cui al comma 1, abilitati allo svolgimento dei servizi di investimento indicati nell'articolo 1 del testo unico delle disposizioni in materia di intermediazione finanziaria, di cui al [decreto legislativo 24 febbraio 1998, n. 58](Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), iscritti nell'albo previsto dall'articolo 20 dello stesso decreto, assume rilievo la differenza tra la somma degli interessi attivi e proventi assimilati relativi alle operazioni di riporto e di pronti contro termine e le commissioni attive riferite ai servizi prestati dall'intermediario e la somma degli interessi passivi e oneri assimilati relativi alle operazioni di riporto e di pronti contro termine e le commissioni passive riferite ai servizi prestati dall'intermediario. (58)
 
 3.
 
-Per le societa' di gestione dei fondi comuni di investimento, di cui al citato testo unico di cui al [decreto legislativo 24 febbraio 1998, n. 58](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-02-24;58), e successive modificazioni, si assume la differenza tra le commissioni attive e passive.
+Per le societa' di gestione dei fondi comuni di investimento, di cui al citato testo unico di cui al [decreto legislativo 24 febbraio 1998, n. 58](Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), e successive modificazioni, si assume la differenza tra le commissioni attive e passive.
 
 4.
 
@@ -403,8 +403,8 @@ Per la Banca d'Italia e l'Ufficio italiano dei cambi, per i quali assumono rilev
 
 8.
 
-Per i soggetti indicati nei commi precedenti non e' comunque ammessa la deduzione: dei costi, dei compensi e degli utili indicati nel comma 1, lettera b), numeri da 2) a 5), dell'articolo 11; della quota interessi dei canoni di locazione finanziaria, desunta dal contratto; dell'imposta comunale sugli immobili di cui al [decreto legislativo 30 dicembre 1992, n. 504](Riordino%20della%20finanza%20degli%20enti%20territoriali%20a%20norma%20dellarticolo%204%20della%20legge%2023%20ottobre%201992%20n.%20421.md). Per le societa' di intermediazione mobiliare di cui al testo unico delle disposizioni in materia di intermediazione finanziaria, di cui al [decreto legislativo 24 febbraio 1998, n. 58](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-02-24;58), gli interessi passivi concorrono alla formazione del valore della produzione nella misura del 96 per cento del loro ammontare. PERIODO SOPPRESSO DALLA [L. 28 DICEMBRE 2015, N.
-208](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-12-28;208). I contributi erogati in base a norma di legge, fatta eccezione per quelli correlati a costi indeducibili, nonche' le plusvalenze e le minusvalenze derivanti dalla cessione di immobili che non costituiscono beni strumentali per l'esercizio dell'impresa, ne' beni alla cui produzione o al cui scambio e' diretta l'attivita' dell'impresa, concorrono in ogni caso alla formazione del valore della produzione. Sono comunque ammesse in deduzione quote di ammortamento del costo sostenuto per l'acquisizione di marchi d'impresa e a titolo di avviamento in misura non superiore a un diciottesimo del costo indipendentemente dall'imputazione al conto economico. (52) (56) 
+Per i soggetti indicati nei commi precedenti non e' comunque ammessa la deduzione: dei costi, dei compensi e degli utili indicati nel comma 1, lettera b), numeri da 2) a 5), dell'articolo 11; della quota interessi dei canoni di locazione finanziaria, desunta dal contratto; dell'imposta comunale sugli immobili di cui al [decreto legislativo 30 dicembre 1992, n. 504](Riordino%20della%20finanza%20degli%20enti%20territoriali%20a%20norma%20dellarticolo%204%20della%20legge%2023%20ottobre%201992%20n.%20421.md). Per le societa' di intermediazione mobiliare di cui al testo unico delle disposizioni in materia di intermediazione finanziaria, di cui al [decreto legislativo 24 febbraio 1998, n. 58](Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), gli interessi passivi concorrono alla formazione del valore della produzione nella misura del 96 per cento del loro ammontare. PERIODO SOPPRESSO DALLA [L. 28 DICEMBRE 2015, N.
+208](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202016.%2015G00222.md). I contributi erogati in base a norma di legge, fatta eccezione per quelli correlati a costi indeducibili, nonche' le plusvalenze e le minusvalenze derivanti dalla cessione di immobili che non costituiscono beni strumentali per l'esercizio dell'impresa, ne' beni alla cui produzione o al cui scambio e' diretta l'attivita' dell'impresa, concorrono in ogni caso alla formazione del valore della produzione. Sono comunque ammesse in deduzione quote di ammortamento del costo sostenuto per l'acquisizione di marchi d'impresa e a titolo di avviamento in misura non superiore a un diciottesimo del costo indipendentemente dall'imputazione al conto economico. (52) (56) 
  9.Per le societa' di partecipazione non finanziaria e assimilati, la base imponibile e' determinata aggiungendo al risultato derivante dall'applicazione dell'articolo 5 la differenza tra gli interessi attivi e proventi assimilati e gli interessi passivi e oneri assimilati. Gli interessi passivi concorrono alla formazione del valore della produzione nella misura del 96 per cento del loro ammontare. (35) (58) 
  
  (50)
@@ -413,7 +413,7 @@ Per i soggetti indicati nei commi precedenti non e' comunque ammessa la deduzion
 
 AGGIORNAMENTO (8)
 
-Il [D.Lgs. 30 dicembre 1999, n. 506](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-12-30;506) ha disposto (con l'art. 3, comma 1) che "Le modificazioni apportate dall'articolo 1, comma 1, lettere da a) a r), si applicano a decorrere dal periodo d'imposta in corso alla data di emanazione del presente decreto,[. . .]."
+Il [D.Lgs. 30 dicembre 1999, n. 506](Disposizioni%20integrative%20e%20correttive%20dei%20decreti%20legislativi%2015%20dicembre%201997%20n.%20446%20e%2018%20dicembre%201997%20n.%20472%20recanti%20rispettivamente%20disposizioni%20in%20materia%20di%20imposta%20regionale%20sulle%20_1e413d217a81.md) ha disposto (con l'art. 3, comma 1) che "Le modificazioni apportate dall'articolo 1, comma 1, lettere da a) a r), si applicano a decorrere dal periodo d'imposta in corso alla data di emanazione del presente decreto,[. . .]."
 
 ---------------
 
@@ -431,13 +431,13 @@ Il [D.L. 12 luglio 2004, n. 168](https://www.normattiva.it/uri-res/N2Ls?urn:nir:
 
 AGGIORNAMENTO (35)
 
-La [L. 24 dicembre 2007, n. 244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-12-24;244) ha disposto (con l'art. 1, comma 51) che "Le disposizioni di cui al comma 50 si applicano a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2007."
+La [L. 24 dicembre 2007, n. 244](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202008.md) ha disposto (con l'art. 1, comma 51) che "Le disposizioni di cui al comma 50 si applicano a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2007."
 
 ---------------
 
 AGGIORNAMENTO (43)
 
-La [L. 27 dicembre 2013, n. 147](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2013-12-27;147) ha disposto (con l'art. 1, comma 159) che la presente modifica si applica a decorrere dal periodo di imposta in corso al 31 dicembre 2013.
+La [L. 27 dicembre 2013, n. 147](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20Legge%20di%20stabilita%202014.%2013G00191.md) ha disposto (con l'art. 1, comma 159) che la presente modifica si applica a decorrere dal periodo di imposta in corso al 31 dicembre 2013.
 
 ---------------
 
@@ -452,19 +452,19 @@ Il [D.L. 27 giugno 2015, n. 83](https://www.normattiva.it/uri-res/N2Ls?urn:nir:s
 
 AGGIORNAMENTO (50)
 
-Il [D.Lgs. 14 settembre 2015, n. 147](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-09-14;147) ha (con l'art. 5, comma 3) che il presente articolo si interpreta nel senso che per le cessioni di immobili e di aziende nonche' per la costituzione e il trasferimento di diritti reali sugli stessi, l'esistenza di un maggior corrispettivo non e' presumibile soltanto sulla base del valore anche se dichiarato, accertato o definito ai fini dell'imposta di registro di cui al [decreto del Presidente della Repubblica 26 aprile 1986, n. 131](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20limposta%20di%20registro.md), ovvero delle imposte ipotecaria e catastale di cui al [decreto legislativo 31 ottobre 1990, n. 347](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20le%20imposte%20ipotecaria%20e%20catastale.md).
+Il [D.Lgs. 14 settembre 2015, n. 147](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20recanti%20misure%20per%20la%20crescita%20e%20linternazionalizzazione%20delle%20imprese.%2015G00163.md) ha (con l'art. 5, comma 3) che il presente articolo si interpreta nel senso che per le cessioni di immobili e di aziende nonche' per la costituzione e il trasferimento di diritti reali sugli stessi, l'esistenza di un maggior corrispettivo non e' presumibile soltanto sulla base del valore anche se dichiarato, accertato o definito ai fini dell'imposta di registro di cui al [decreto del Presidente della Repubblica 26 aprile 1986, n. 131](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20limposta%20di%20registro.md), ovvero delle imposte ipotecaria e catastale di cui al [decreto legislativo 31 ottobre 1990, n. 347](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20le%20imposte%20ipotecaria%20e%20catastale.md).
 
 ---------------
 
 AGGIORNAMENTO (52)
 
-La [L. 28 dicembre 2015, n. 208](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-12-28;208), ha disposto (con l'art. 1, comma 69) che "Le disposizioni di cui ai commi da 65 a 68 si applicano a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2016".
+La [L. 28 dicembre 2015, n. 208](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202016.%2015G00222.md), ha disposto (con l'art. 1, comma 69) che "Le disposizioni di cui ai commi da 65 a 68 si applicano a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2016".
 
 ---------------
 
 AGGIORNAMENTO (56)
 
-La [L. 27 dicembre 2017, n. 205](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-12-27;205) ha disposto (con l'art. 1, comma 86) che la presente modifica si applica a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2016.
+La [L. 27 dicembre 2017, n. 205](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202018%20e%20bilancio%20pluriennale%20per%20il%20triennio%202018-2020.%2017G00222.md) ha disposto (con l'art. 1, comma 86) che la presente modifica si applica a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2016.
 
 ---------------
 
@@ -476,13 +476,13 @@ Il [D.Lgs. 29 novembre 2018, n. 142](../Atti%20di%20recepimento%20direttive%20UE
 
 AGGIORNAMENTO (78)
 
-Il [D.Lgs. 18 dicembre 2025, n. 192](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2025-12-18;192) ha disposto (con l'art. 7, comma 2) che "Le disposizioni di cui all'articolo 4 si applicano alle correzioni di errori contabili rilevate nei bilanci relativi agli esercizi aventi inizio a partire dal 1° gennaio 2025".
+Il [D.Lgs. 18 dicembre 2025, n. 192](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20integrative%20e%20correttive%20in%20materia%20di%20IRPEF%20e%20IRES%20di%20fiscalita%20internazionale%20di%20imposta%20sulle%20successioni%20e%20donazioni%20e%20di%20imposta%20di%20registro%20nonche%20di%20modifica%20allo%20stat_94c3ccef6a56.md) ha disposto (con l'art. 7, comma 2) che "Le disposizioni di cui all'articolo 4 si applicano alle correzioni di errori contabili rilevate nei bilanci relativi agli esercizi aventi inizio a partire dal 1° gennaio 2025".
 
 ---------------
 
 AGGIORNAMENTO (79)
 
-La [L. 30 dicembre 2025, n. 199](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-12-30;199) ha disposto (con l'art. 1, comma 47) che "Le disposizioni di cui al comma 46 si applicano dal periodo d'imposta in corso al 31 dicembre 2025; in relazione ai periodi d'imposta anteriori, la quota dell'imposta regionale sulle attivita' produttive riferita ai dividendi che hanno concorso alla formazione del valore della produzione netta, ai sensi degli [articoli 6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-12-15;446#art_6) e [7 del decreto legislativo 15 dicembre 1997, n. 446](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-12-15;446#art_7), in misura eccedente rispetto a quanto disposto dal comma 46 del presente articolo, puo' essere esclusivamente chiesta a rimborso ai sensi dell'[articolo 38 del decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../DPR/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md)".
+La [L. 30 dicembre 2025, n. 199](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202026%20e%20bilancio%20pluriennale%20per%20il%20triennio%202026-2028.%2025G00212.md) ha disposto (con l'art. 1, comma 47) che "Le disposizioni di cui al comma 46 si applicano dal periodo d'imposta in corso al 31 dicembre 2025; in relazione ai periodi d'imposta anteriori, la quota dell'imposta regionale sulle attivita' produttive riferita ai dividendi che hanno concorso alla formazione del valore della produzione netta, ai sensi degli [articoli 6](Istituzione%20dellimposta%20regionale%20sulle%20attivita%20produttive%20revisione%20degli%20scaglioni%20delle%20aliquote%20e%20delle%20detrazioni%20dellIrpef%20e%20istituzione%20di%20una%20addizionale%20regionale%20a%20tale%20imposta_576f8a3bbc05.md) e [7 del decreto legislativo 15 dicembre 1997, n. 446](Istituzione%20dellimposta%20regionale%20sulle%20attivita%20produttive%20revisione%20degli%20scaglioni%20delle%20aliquote%20e%20delle%20detrazioni%20dellIrpef%20e%20istituzione%20di%20una%20addizionale%20regionale%20a%20tale%20imposta_576f8a3bbc05.md), in misura eccedente rispetto a quanto disposto dal comma 46 del presente articolo, puo' essere esclusivamente chiesta a rimborso ai sensi dell'[articolo 38 del decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../DPR/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md)".
 
 ### Art. 7. — (Determinazione del valore della produzione netta delle imprese di assicurazione)
 
@@ -527,13 +527,13 @@ Il [D.L. 30 settembre 2005, n. 205](https://www.normattiva.it/uri-res/N2Ls?urn:n
 
 AGGIORNAMENTO (35)
 
-La [L. 24 dicembre 2007, n. 244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-12-24;244) ha disposto (con l'art. 1, comma 51) che "Le disposizioni di cui al comma 50 si applicano a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2007."
+La [L. 24 dicembre 2007, n. 244](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202008.md) ha disposto (con l'art. 1, comma 51) che "Le disposizioni di cui al comma 50 si applicano a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2007."
 
 ---------------
 
 AGGIORNAMENTO (43)
 
-La [L. 27 dicembre 2013, n. 147](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2013-12-27;147) ha disposto (con l'art. 1, comma 159) che la presente modifica si applica a decorrere dal periodo di imposta in corso al 31 dicembre 2013.
+La [L. 27 dicembre 2013, n. 147](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20Legge%20di%20stabilita%202014.%2013G00191.md) ha disposto (con l'art. 1, comma 159) che la presente modifica si applica a decorrere dal periodo di imposta in corso al 31 dicembre 2013.
 
 ---------------
 
@@ -548,19 +548,19 @@ Il [D.L. 27 giugno 2015, n. 83](https://www.normattiva.it/uri-res/N2Ls?urn:nir:s
 
 AGGIORNAMENTO (50)
 
-Il [D.Lgs. 14 settembre 2015, n. 147](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-09-14;147) ha (con l'art. 5, comma 3) che il presente articolo si interpreta nel senso che per le cessioni di immobili e di aziende nonche' per la costituzione e il trasferimento di diritti reali sugli stessi, l'esistenza di un maggior corrispettivo non e' presumibile soltanto sulla base del valore anche se dichiarato, accertato o definito ai fini dell'imposta di registro di cui al [decreto del Presidente della Repubblica 26 aprile 1986, n. 131](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20limposta%20di%20registro.md), ovvero delle imposte ipotecaria e catastale di cui al [decreto legislativo 31 ottobre 1990, n. 347](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20le%20imposte%20ipotecaria%20e%20catastale.md).
+Il [D.Lgs. 14 settembre 2015, n. 147](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20recanti%20misure%20per%20la%20crescita%20e%20linternazionalizzazione%20delle%20imprese.%2015G00163.md) ha (con l'art. 5, comma 3) che il presente articolo si interpreta nel senso che per le cessioni di immobili e di aziende nonche' per la costituzione e il trasferimento di diritti reali sugli stessi, l'esistenza di un maggior corrispettivo non e' presumibile soltanto sulla base del valore anche se dichiarato, accertato o definito ai fini dell'imposta di registro di cui al [decreto del Presidente della Repubblica 26 aprile 1986, n. 131](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20limposta%20di%20registro.md), ovvero delle imposte ipotecaria e catastale di cui al [decreto legislativo 31 ottobre 1990, n. 347](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20concernenti%20le%20imposte%20ipotecaria%20e%20catastale.md).
 
 ---------------
 
 AGGIORNAMENTO (78)
 
-Il [D.Lgs. 18 dicembre 2025, n. 192](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2025-12-18;192) ha disposto (con l'art. 7, comma 2) che "Le disposizioni di cui all'articolo 4 si applicano alle correzioni di errori contabili rilevate nei bilanci relativi agli esercizi aventi inizio a partire dal 1° gennaio 2025".
+Il [D.Lgs. 18 dicembre 2025, n. 192](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20integrative%20e%20correttive%20in%20materia%20di%20IRPEF%20e%20IRES%20di%20fiscalita%20internazionale%20di%20imposta%20sulle%20successioni%20e%20donazioni%20e%20di%20imposta%20di%20registro%20nonche%20di%20modifica%20allo%20stat_94c3ccef6a56.md) ha disposto (con l'art. 7, comma 2) che "Le disposizioni di cui all'articolo 4 si applicano alle correzioni di errori contabili rilevate nei bilanci relativi agli esercizi aventi inizio a partire dal 1° gennaio 2025".
 
 ---------------
 
 AGGIORNAMENTO (79)
 
-La [L. 30 dicembre 2025, n. 199](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-12-30;199) ha disposto (con l'art. 1, comma 47) che "Le disposizioni di cui al comma 46 si applicano dal periodo d'imposta in corso al 31 dicembre 2025; in relazione ai periodi d'imposta anteriori, la quota dell'imposta regionale sulle attivita' produttive riferita ai dividendi che hanno concorso alla formazione del valore della produzione netta, ai sensi degli [articoli 6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-12-15;446#art_6) e [7 del decreto legislativo 15 dicembre 1997, n. 446](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-12-15;446#art_7), in misura eccedente rispetto a quanto disposto dal comma 46 del presente articolo, puo' essere esclusivamente chiesta a rimborso ai sensi dell'[articolo 38 del decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../DPR/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md)".
+La [L. 30 dicembre 2025, n. 199](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202026%20e%20bilancio%20pluriennale%20per%20il%20triennio%202026-2028.%2025G00212.md) ha disposto (con l'art. 1, comma 47) che "Le disposizioni di cui al comma 46 si applicano dal periodo d'imposta in corso al 31 dicembre 2025; in relazione ai periodi d'imposta anteriori, la quota dell'imposta regionale sulle attivita' produttive riferita ai dividendi che hanno concorso alla formazione del valore della produzione netta, ai sensi degli [articoli 6](Istituzione%20dellimposta%20regionale%20sulle%20attivita%20produttive%20revisione%20degli%20scaglioni%20delle%20aliquote%20e%20delle%20detrazioni%20dellIrpef%20e%20istituzione%20di%20una%20addizionale%20regionale%20a%20tale%20imposta_576f8a3bbc05.md) e [7 del decreto legislativo 15 dicembre 1997, n. 446](Istituzione%20dellimposta%20regionale%20sulle%20attivita%20produttive%20revisione%20degli%20scaglioni%20delle%20aliquote%20e%20delle%20detrazioni%20dellIrpef%20e%20istituzione%20di%20una%20addizionale%20regionale%20a%20tale%20imposta_576f8a3bbc05.md), in misura eccedente rispetto a quanto disposto dal comma 46 del presente articolo, puo' essere esclusivamente chiesta a rimborso ai sensi dell'[articolo 38 del decreto del Presidente della Repubblica 29 settembre 1973, n. 602](../DPR/Disposizioni%20sulla%20riscossione%20delle%20imposte%20sul%20reddito.md)".
 
 ### Art. 8. — Determinazione del valore della produzione netta dei soggetti di cui all'articolo 3, comma 1, lettera c)
 
@@ -572,7 +572,7 @@ Per i soggetti di cui all'articolo 3, comma 1, lettera c), la base imponibile e'
 
 AGGIORNAMENTO (35)
 
-La [L. 24 dicembre 2007, n. 244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-12-24;244) ha disposto (con l'art. 1, comma 51) che "Le disposizioni di cui al comma 50 si applicano a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2007."
+La [L. 24 dicembre 2007, n. 244](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202008.md) ha disposto (con l'art. 1, comma 51) che "Le disposizioni di cui al comma 50 si applicano a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2007."
 
 ### Art. 9. — ((Determinazione del valore della produzione netta per alcuni soggetti del settore agricolo))
 
@@ -581,7 +581,7 @@ La [L. 24 dicembre 2007, n. 244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:
 1.
 
 Per ((...)) gli esercenti attivita' di allevamento di animali di cui all'articolo 78 del testo unico delle imposte dirette, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), la base imponibile e' determinata dalla differenza tra l'ammontare dei corrispettivi e l'ammontare degli acquisti destinati alla produzione. ((52)) 
-Le disposizioni del periodo precedente si applicano anche per la determinazione della base imponibile relativa alle attivita' di agriturismo svolte dai soggetti che si avvalgono, ai fini delle imposte sui redditi, del regime forfetario di cui all'[articolo 5 della legge 30 dicembre 1991, n. 413](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-12-30;413#art_5).
+Le disposizioni del periodo precedente si applicano anche per la determinazione della base imponibile relativa alle attivita' di agriturismo svolte dai soggetti che si avvalgono, ai fini delle imposte sui redditi, del regime forfetario di cui all'[articolo 5 della legge 30 dicembre 1991, n. 413](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20ampliare%20le%20basi%20imponibili%20per%20razionalizzare%20facilitare%20e%20potenziare%20lattivita%20di%20accertamento%20disposizioni%20per%20la%20rivalutazione%20obbligatoria%20dei%20beni%20immobili%20delle%20im_715eda796591.md).
 
 2.
 
@@ -595,13 +595,13 @@ Per i soggetti che esercitano attivita' agricola, diversi da quelli di cui al co
 
 AGGIORNAMENTO (8)
 
-Il [D.Lgs. 30 dicembre 1999, n. 506](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-12-30;506) ha disposto (con l'art. 3, comma 1) che "Le modificazioni apportate dall'articolo 1, comma 1, lettere da a) a r), si applicano a decorrere dal periodo d'imposta in corso alla data di emanazione del presente decreto,[. . .]."
+Il [D.Lgs. 30 dicembre 1999, n. 506](Disposizioni%20integrative%20e%20correttive%20dei%20decreti%20legislativi%2015%20dicembre%201997%20n.%20446%20e%2018%20dicembre%201997%20n.%20472%20recanti%20rispettivamente%20disposizioni%20in%20materia%20di%20imposta%20regionale%20sulle%20_1e413d217a81.md) ha disposto (con l'art. 3, comma 1) che "Le modificazioni apportate dall'articolo 1, comma 1, lettere da a) a r), si applicano a decorrere dal periodo d'imposta in corso alla data di emanazione del presente decreto,[. . .]."
 
 --------------
 
 AGGIORNAMENTO (52)
 
-La [L. 28 dicembre 2015, n. 208](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-12-28;208), ha disposto (con l'art. 1, comma 72) che "Le disposizioni del comma 70 si applicano a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2015".
+La [L. 28 dicembre 2015, n. 208](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202016.%2015G00222.md), ha disposto (con l'art. 1, comma 72) che "Le disposizioni del comma 70 si applicano a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2015".
 
 ### Art. 10. — Determinazione del valore della produzione netta dei soggetti di cui all'articolo 3, comma 1, lettera e)
 
@@ -616,7 +616,7 @@ La base imponibile relativa alle altre attivita' e' determinata a norma del prec
 
 3.
 
-COMMA ABROGATO DAL [D.LGS. 30 DICEMBRE 1999, N. 506](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-12-30;506).
+COMMA ABROGATO DAL [D.LGS. 30 DICEMBRE 1999, N. 506](Disposizioni%20integrative%20e%20correttive%20dei%20decreti%20legislativi%2015%20dicembre%201997%20n.%20446%20e%2018%20dicembre%201997%20n.%20472%20recanti%20rispettivamente%20disposizioni%20in%20materia%20di%20imposta%20regionale%20sulle%20_1e413d217a81.md).
 
 4.
 
@@ -626,7 +626,7 @@ Per gli altri soggetti di cui all'articolo 3, comma 1, lettera e), la base impon
                             b)
                                 per le societa' ed associazioni esercenti arti e professioni secondo la disposizione dell'articolo 8;
                             c)
-                                LETTERA ABROGATA DAL [D.LGS. 30 DICEMBRE 1999, N. 506](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-12-30;506).
+                                LETTERA ABROGATA DAL [D.LGS. 30 DICEMBRE 1999, N. 506](Disposizioni%20integrative%20e%20correttive%20dei%20decreti%20legislativi%2015%20dicembre%201997%20n.%20446%20e%2018%20dicembre%201997%20n.%20472%20recanti%20rispettivamente%20disposizioni%20in%20materia%20di%20imposta%20regionale%20sulle%20_1e413d217a81.md).
 
 5.
 
@@ -636,7 +636,7 @@ Ai fini dell'applicazione del presente titolo le attivita' commerciali sono quel
 
 AGGIORNAMENTO (8)
 
-Il [D.Lgs. 30 dicembre 1999, n. 506](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-12-30;506) ha disposto (con l'art. 3, comma 1) che "Le modificazioni apportate dall'articolo 1, comma 1, lettere da a) a r), si applicano a decorrere dal periodo d'imposta in corso alla data di emanazione del presente decreto,[. . .]."
+Il [D.Lgs. 30 dicembre 1999, n. 506](Disposizioni%20integrative%20e%20correttive%20dei%20decreti%20legislativi%2015%20dicembre%201997%20n.%20446%20e%2018%20dicembre%201997%20n.%20472%20recanti%20rispettivamente%20disposizioni%20in%20materia%20di%20imposta%20regionale%20sulle%20_1e413d217a81.md) ha disposto (con l'art. 3, comma 1) che "Le modificazioni apportate dall'articolo 1, comma 1, lettere da a) a r), si applicano a decorrere dal periodo d'imposta in corso alla data di emanazione del presente decreto,[. . .]."
 
 ### Art. 10-bis. — (Determinazione del valore della produzione netta
  dei soggetti di cui all'articolo 3, comma 1, lettera e-bis)
@@ -653,7 +653,7 @@ Se i soggetti di cui al comma 1 esercitano anche attivita' commerciali, gli stes
 
 AGGIORNAMENTO (8)
 
-Il [D.Lgs. 30 dicembre 1999, n. 506](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-12-30;506) ha disposto (con l'art. 3, comma 1) che "Le modificazioni apportate dall'articolo 1, comma 1, lettere da a) a r), si applicano a decorrere dal periodo d'imposta in corso alla data di emanazione del presente decreto,[. . .]."
+Il [D.Lgs. 30 dicembre 1999, n. 506](Disposizioni%20integrative%20e%20correttive%20dei%20decreti%20legislativi%2015%20dicembre%201997%20n.%20446%20e%2018%20dicembre%201997%20n.%20472%20recanti%20rispettivamente%20disposizioni%20in%20materia%20di%20imposta%20regionale%20sulle%20_1e413d217a81.md) ha disposto (con l'art. 3, comma 1) che "Le modificazioni apportate dall'articolo 1, comma 1, lettere da a) a r), si applicano a decorrere dal periodo d'imposta in corso alla data di emanazione del presente decreto,[. . .]."
 
 ### Art. 11. — (Disposizioni comuni per la determinazione del valore della produzione netta)
 
@@ -665,18 +665,18 @@ Nella determinazione della base imponibile:
  1) in relazione a soggetti diversi dai lavoratori dipendenti a tempo indeterminato, i contributi per le assicurazioni obbligatorie contro gli infortuni sul lavoro; (71) 
  1-bis) le somme corrisposte, anche su base volontaria al fondo istituito, con mandato senza rappresentanza, presso uno dei consorzi cui le imprese aderiscono in ottemperanza a obblighi di legge, in conformita' alle disposizioni di legge o contrattuali, indipendentemente dal trattamento contabile ad esse applicato, a condizione che siano utilizzate in conformita' agli scopi di tali consorzi; (51) 
  2) NUMERO ABROGATO DAL [D.L. 21 GIUGNO 2022, N. 73](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2022-06-21;73) CONVERTITO CON MODIFICAZIONI DALLA [L. 4 AGOSTO 2022, N. 122](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2021%20giugno%202022%20n.%2073%20recante%20misure%20urgenti%20in%20materia%20di%20semplificazioni%20fiscali%20e%20di%20rilascio%20del%20nulla%20osta%20al%20lavoro%20Tesoreria_6fb571c1b527.md); (71) 
- 3) NUMERO ABROGATO DALLA [L. 30 DICEMBRE 2018, N. 145](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2018-12-30;145); 
+ 3) NUMERO ABROGATO DALLA [L. 30 DICEMBRE 2018, N. 145](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202019%20e%20bilancio%20pluriennale%20per%20il%20triennio%202019-2021.%2018G00172.md); 
  4) NUMERO ABROGATO DAL [D.L. 21 GIUGNO 2022, N. 73](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2022-06-21;73) CONVERTITO CON MODIFICAZIONI DALLA [L. 4 AGOSTO 2022, N. 122](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2021%20giugno%202022%20n.%2073%20recante%20misure%20urgenti%20in%20materia%20di%20semplificazioni%20fiscali%20e%20di%20rilascio%20del%20nulla%20osta%20al%20lavoro%20Tesoreria_6fb571c1b527.md); (71) 
  5) per i soggetti che determinano il valore della produzione ai sensi degli articoli da 5 a 9, in relazione al personale dipendente diverso da quello a tempo indeterminato, e per i soggetti che determinano il valore della produzione ai sensi degli articoli 10, comma 1, e 10-bis, comma 1, le spese relative agli apprendisti, ai disabili e le spese per il personale assunto con contratti di formazione e lavoro, nonche', per i soggetti di cui all'articolo 3, comma 1, lettere da a) a e), i costi sostenuti per il personale addetto alla ricerca e sviluppo, ivi compresi quelli per il predetto personale sostenuti da consorzi tra imprese costituiti per la realizzazione di programmi comuni di ricerca e sviluppo, a condizione che l'attestazione di effettivita' degli stessi sia rilasciata dal presidente del collegio sindacale ovvero, in mancanza, da un revisore dei conti o da un professionista iscritto negli albi dei revisori dei conti, dei dottori commercialisti, dei ragionieri e periti commerciali o dei consulenti del lavoro, nelle forme previste dall'[articolo 13, comma 2, del decreto-legge 28 marzo 1997, n. 79](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1997-03-28;79#art_13-com2), convertito, con modificazioni, dalla [legge 28 maggio 1997, n. 140](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2028%20marzo%201997%20n.%2079%20recante%20misure%20urgenti%20per%20il%20riequilibrio%20della%20finanza%20pubblica.md), e successive modificazioni, ovvero dal responsabile del centro di assistenza fiscale; (71)
                             b)
                                 non sono ammessi in deduzione: 
- 1) NUMERO ABROGATO DALLA [L. 24 DICEMBRE 2007, N. 244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-12-24;244). (35) 
+ 1) NUMERO ABROGATO DALLA [L. 24 DICEMBRE 2007, N. 244](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202008.md). (35) 
  2) i compensi per attivita' commerciali e per prestazioni di lavoro autonomo non esercitate abitualmente, nonche' i compensi attribuiti per obblighi di fare, non fare o permettere, di cui all'articolo 67, comma 1, lettere i) e l), del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md); (35) 
  3) i costi per prestazioni di collaborazione coordinata e continuativa di cui all'articolo 49, commi 2, lettera a), e 3, del predetto testo unico delle imposte sui redditi; 
  4) i compensi per prestazioni di lavoro assimilato a quello dipendente ai sensi dell'articolo 47 dello stesso testo unico delle imposte sui redditi; 
  5) gli utili spettanti agli associati in partecipazione di cui alla lettera c) del predetto articolo 49, comma 2, del testo unico delle imposte sui redditi; 
- 6) NUMERO ABROGATO DALLA [L. 24 DICEMBRE 2007, N. 244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-12-24;244). (33) 
- 1.1. Le deduzioni di cui al comma 1, lettera a), numeri 2), 3) e 4), per i produttori agricoli di cui all'articolo 3, comma 1, lettera d), e per le societa' agricole di cui all'[articolo 2 del decreto legislativo 29 marzo 2004, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004-03-29;99#art_2), si applicano, nella misura del 50 per cento degli importi ivi previsti, anche per ogni lavoratore agricolo dipendente a tempo determinato impiegato nel periodo di imposta purche' abbia lavorato almeno 150 giornate e il contratto abbia almeno una durata triennale. (45)
+ 6) NUMERO ABROGATO DALLA [L. 24 DICEMBRE 2007, N. 244](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202008.md). (33) 
+ 1.1. Le deduzioni di cui al comma 1, lettera a), numeri 2), 3) e 4), per i produttori agricoli di cui all'articolo 3, comma 1, lettera d), e per le societa' agricole di cui all'[articolo 2 del decreto legislativo 29 marzo 2004, n. 99](Disposizioni%20in%20materia%20di%20soggetti%20e%20attivita%20integrita%20aziendale%20e%20semplificazione%20amministrativa%20in%20agricoltura%20a%20norma%20dellarticolo%201%20comma%202%20lettere%20d%20f%20g%20l%20ee%20della%20legge%207%20marzo%202003%20n.%2038.md), si applicano, nella misura del 50 per cento degli importi ivi previsti, anche per ogni lavoratore agricolo dipendente a tempo determinato impiegato nel periodo di imposta purche' abbia lavorato almeno 150 giornate e il contratto abbia almeno una durata triennale. (45)
 
 1-bis.
 
@@ -684,15 +684,15 @@ Per le imprese autorizzate all'auto-trasporto di merci, sono ammesse in deduzion
 
 2.
 
-COMMA ABROGATO DALLA [L. 24 DICEMBRE 2007, N. 244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-12-24;244). (35)
+COMMA ABROGATO DALLA [L. 24 DICEMBRE 2007, N. 244](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202008.md). (35)
 
 3.
 
-COMMA ABROGATO DALLA [L. 24 DICEMBRE 2007, N. 244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-12-24;244). (35)
+COMMA ABROGATO DALLA [L. 24 DICEMBRE 2007, N. 244](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202008.md). (35)
 
 4.
 
-COMMA ABROGATO DALLA [L. 24 DICEMBRE 2007, N. 244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-12-24;244). (35)
+COMMA ABROGATO DALLA [L. 24 DICEMBRE 2007, N. 244](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202008.md). (35)
 
 4-bis.
 
@@ -721,11 +721,11 @@ NUMERO ABROGATO DAL [D.L. 21 GIUGNO 2022, N. 73](https://www.normattiva.it/uri-r
 
 4-quinquies.
 
-COMMA ABROGATO DALLA [L. 27 DICEMBRE 2013, N. 147](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2013-12-27;147).
+COMMA ABROGATO DALLA [L. 27 DICEMBRE 2013, N. 147](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20Legge%20di%20stabilita%202014.%2013G00191.md).
 
 4-sexies.
 
-COMMA ABROGATO DALLA [L. 27 DICEMBRE 2013, N. 147](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2013-12-27;147).
+COMMA ABROGATO DALLA [L. 27 DICEMBRE 2013, N. 147](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20Legge%20di%20stabilita%202014.%2013G00191.md).
 
 4-septies.
 
@@ -744,43 +744,43 @@ Per i soggetti che determinano il valore della produzione netta ai sensi degli a
 
 AGGIORNAMENTO (6)
 
-Il [D.Lgs. 10 giugno 1999, n. 176](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-06-10;176) ha disposto (con l'art. 1, comma 3) che le modifiche di cui alle lettere 0a) e a) "si applicano a decorrere dal periodo d'imposta per il quale il termine di presentazione della dichiarazione, ai sensi del decreto del Presidente del Consiglio dei Ministri 1 aprile 1999, pubblicato nella Gazzetta Ufficiale n. 77 del 2 aprile 1999, scade successivamente alla data di entrata in vigore del presente decreto, ad esclusione di quella modificativa del trattamento dei contributi erogati in base a norma di legge, che si applica a decorrere dal periodo d'imposta in corso a tale data."
+Il [D.Lgs. 10 giugno 1999, n. 176](Disposizioni%20correttive%20e%20integrative%20del%20decreto%20legislativo%2015%20dicembre%201997%20n.%20446%20concernente%20listituzione%20dellIRAP.md) ha disposto (con l'art. 1, comma 3) che le modifiche di cui alle lettere 0a) e a) "si applicano a decorrere dal periodo d'imposta per il quale il termine di presentazione della dichiarazione, ai sensi del decreto del Presidente del Consiglio dei Ministri 1 aprile 1999, pubblicato nella Gazzetta Ufficiale n. 77 del 2 aprile 1999, scade successivamente alla data di entrata in vigore del presente decreto, ad esclusione di quella modificativa del trattamento dei contributi erogati in base a norma di legge, che si applica a decorrere dal periodo d'imposta in corso a tale data."
 
 -------------
 
 AGGIORNAMENTO (8)
 
-Il [D.Lgs. 30 dicembre 1999, n. 506](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-12-30;506) ha disposto (con l'art. 3, comma 1) che "Le modificazioni apportate dall'articolo 1, comma 1, lettere da a) a r), si applicano a decorrere dal periodo d'imposta in corso alla data di emanazione del presente decreto,[. . .]."
+Il [D.Lgs. 30 dicembre 1999, n. 506](Disposizioni%20integrative%20e%20correttive%20dei%20decreti%20legislativi%2015%20dicembre%201997%20n.%20446%20e%2018%20dicembre%201997%20n.%20472%20recanti%20rispettivamente%20disposizioni%20in%20materia%20di%20imposta%20regionale%20sulle%20_1e413d217a81.md) ha disposto (con l'art. 3, comma 1) che "Le modificazioni apportate dall'articolo 1, comma 1, lettere da a) a r), si applicano a decorrere dal periodo d'imposta in corso alla data di emanazione del presente decreto,[. . .]."
 
 -------------
 
 AGGIORNAMENTO (12)
 
-La [L. 23 dicembre 2000, n. 388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-23;388) ha disposto (con l'art. 16, comma 2) che le disposizioni di cui ai commi 4-bis e 4-ter del presente articolo si applicano a decorrere dal periodo d'imposta successivo a quello in corso alla data del 31 dicembre 1999.
+La [L. 23 dicembre 2000, n. 388](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202001.md) ha disposto (con l'art. 16, comma 2) che le disposizioni di cui ai commi 4-bis e 4-ter del presente articolo si applicano a decorrere dal periodo d'imposta successivo a quello in corso alla data del 31 dicembre 1999.
 
 -------------
 
 AGGIORNAMENTO (24)
 
-La [L. 30 dicembre 2004, n. 311](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-12-30;311) ha disposto (con l'art. 1, comma 348) che " Le disposizioni del comma 347 si applicano a partire dal periodo d'imposta che inizia successivamente al 31 dicembre 2004, ad eccezione di quelle della lettera d), che si applicano a decorrere dal periodo d'imposta in cui interviene l'approvazione da parte della Commissione europea ai sensi dell'articolo 88, paragrafo 3, del Trattato istitutivo della Comunita' europea."
+La [L. 30 dicembre 2004, n. 311](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202005.md) ha disposto (con l'art. 1, comma 348) che " Le disposizioni del comma 347 si applicano a partire dal periodo d'imposta che inizia successivamente al 31 dicembre 2004, ad eccezione di quelle della lettera d), che si applicano a decorrere dal periodo d'imposta in cui interviene l'approvazione da parte della Commissione europea ai sensi dell'articolo 88, paragrafo 3, del Trattato istitutivo della Comunita' europea."
 
 -------------
 
 AGGIORNAMENTO (28)
 
-Il [D.Lgs. 18 novembre 2005, n.247](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-11-18;247), ha disposto (con l'art. 17, comma 3) che "Le disposizioni degli [articoli 11](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-12-15;446#art_11) ed [11-bis del decreto legislativo 15 dicembre 1997, n. 446](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-12-15;446#art_11bis), come modificate dal presente articolo, hanno effetto per i periodi di imposta che iniziano a decorrere dal 1° gennaio 2004."
+Il [D.Lgs. 18 novembre 2005, n.247](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20correttive%20ed%20integrative%20al%20decreto%20legislativo%2012%20dicembre%202003%20n.%20344%20in%20materia%20di%20imposta%20sul%20reddito%20delle%20societa%20nonche%20altre%20disposizioni%20tributarie.md), ha disposto (con l'art. 17, comma 3) che "Le disposizioni degli [articoli 11](Istituzione%20dellimposta%20regionale%20sulle%20attivita%20produttive%20revisione%20degli%20scaglioni%20delle%20aliquote%20e%20delle%20detrazioni%20dellIrpef%20e%20istituzione%20di%20una%20addizionale%20regionale%20a%20tale%20imposta_576f8a3bbc05.md) ed [11-bis del decreto legislativo 15 dicembre 1997, n. 446](Istituzione%20dellimposta%20regionale%20sulle%20attivita%20produttive%20revisione%20degli%20scaglioni%20delle%20aliquote%20e%20delle%20detrazioni%20dellIrpef%20e%20istituzione%20di%20una%20addizionale%20regionale%20a%20tale%20imposta_576f8a3bbc05.md), come modificate dal presente articolo, hanno effetto per i periodi di imposta che iniziano a decorrere dal 1° gennaio 2004."
 
 -------------
 
 AGGIORNAMENTO (35)
 
-La [L. 24 dicembre 2007, n. 244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-12-24;244) ha disposto (con l'art. 1, comma 51) che "Le disposizioni di cui al comma 50 si applicano a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2007."
+La [L. 24 dicembre 2007, n. 244](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202008.md) ha disposto (con l'art. 1, comma 51) che "Le disposizioni di cui al comma 50 si applicano a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2007."
 
 -------------
 
 AGGIORNAMENTO (42)
 
-La [L. 24 dicembre 2012, n. 228](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-24;228) ha disposto (con l'art. 1, comma 485) che "Le disposizioni dell'[articolo 11 del decreto legislativo 15 dicembre 1997, n. 446](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-12-15;446#art_11), come da ultimo modificato dal comma 484 del presente articolo, si applicano a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2013. Entro tale data, il Governo regola, previa intesa in sede di Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, i rapporti finanziari con le regioni e le province autonome di Trento e di Bolzano in modo che sia garantita l'invarianza delle risorse spettanti a legislazione vigente alle stesse regioni e province autonome".
+La [L. 24 dicembre 2012, n. 228](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20Legge%20di%20stabilita%202013.%2012G0252.md) ha disposto (con l'art. 1, comma 485) che "Le disposizioni dell'[articolo 11 del decreto legislativo 15 dicembre 1997, n. 446](Istituzione%20dellimposta%20regionale%20sulle%20attivita%20produttive%20revisione%20degli%20scaglioni%20delle%20aliquote%20e%20delle%20detrazioni%20dellIrpef%20e%20istituzione%20di%20una%20addizionale%20regionale%20a%20tale%20imposta_576f8a3bbc05.md), come da ultimo modificato dal comma 484 del presente articolo, si applicano a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2013. Entro tale data, il Governo regola, previa intesa in sede di Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, i rapporti finanziari con le regioni e le province autonome di Trento e di Bolzano in modo che sia garantita l'invarianza delle risorse spettanti a legislazione vigente alle stesse regioni e province autonome".
 
 -------------
 
@@ -792,14 +792,14 @@ Il [D.L. 24 giugno 2014, n. 91](https://www.normattiva.it/uri-res/N2Ls?urn:nir:s
 
 AGGIORNAMENTO (47)
 
-La [L. 23 dicembre 2014, n. 190](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-12-23;190) ha disposto (con l'art. 1, comma 20) che la presente modifica decorre dal periodo d'imposta successivo a quello in corso al 31 dicembre 2014. 
- Ha inoltre disposto (con l'art. 1, comma 25) che "La disposizione di cui all'ultimo periodo dell'[articolo 11, comma 4-octies, del decreto legislativo 15 dicembre 1997, n. 446](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-12-15;446#art_11-com4octies), introdotto dal comma 20 del presente articolo, si applica previa autorizzazione della Commissione europea richiesta a cura del Ministero delle politiche agricole alimentari e forestali".
+La [L. 23 dicembre 2014, n. 190](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202015.%2014G00203.md) ha disposto (con l'art. 1, comma 20) che la presente modifica decorre dal periodo d'imposta successivo a quello in corso al 31 dicembre 2014. 
+ Ha inoltre disposto (con l'art. 1, comma 25) che "La disposizione di cui all'ultimo periodo dell'[articolo 11, comma 4-octies, del decreto legislativo 15 dicembre 1997, n. 446](Istituzione%20dellimposta%20regionale%20sulle%20attivita%20produttive%20revisione%20degli%20scaglioni%20delle%20aliquote%20e%20delle%20detrazioni%20dellIrpef%20e%20istituzione%20di%20una%20addizionale%20regionale%20a%20tale%20imposta_576f8a3bbc05.md), introdotto dal comma 20 del presente articolo, si applica previa autorizzazione della Commissione europea richiesta a cura del Ministero delle politiche agricole alimentari e forestali".
 
 ------------
 
 AGGIORNAMENTO (52)
 
-La [L. 28 dicembre 2015, n. 208](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-12-28;208) ha disposto (con l'art. 1, comma 124) che la modifica di cui alla lettera d-bis), comma 4-bis del presente articolo, si applica a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2015. 
+La [L. 28 dicembre 2015, n. 208](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202016.%2015G00222.md) ha disposto (con l'art. 1, comma 124) che la modifica di cui alla lettera d-bis), comma 4-bis del presente articolo, si applica a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2015. 
  Ha inoltre disposto (con l'art. 1, comma 989) che "Le disposizioni di cui ai commi 987 e 988 si applicano a decorrere dall'esercizio in corso al 31 dicembre 2015".
 
 ------------
@@ -823,7 +823,7 @@ Il [D.L. 27 marzo 2026, n. 38](https://www.normattiva.it/uri-res/N2Ls?urn:nir:st
 
 AGGIORNAMENTO (35)
 
-La [L. 24 dicembre 2007, n. 244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-12-24;244) ha disposto (con l'art. 1, comma 51) che "Le disposizioni di cui al comma 50 si applicano a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2007."
+La [L. 24 dicembre 2007, n. 244](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202008.md) ha disposto (con l'art. 1, comma 51) che "Le disposizioni di cui al comma 50 si applicano a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2007."
 
 ### Art. 12. — Determinazione del valore della produzione netta realizzata fuori dal territorio dello Stato o da soggetti non residenti.
 
@@ -837,7 +837,7 @@ Nei confronti dei soggetti passivi non residenti nel territorio dello Stato si c
 
 2-bis.
 
-Il valore della produzione netta derivante da una stabile organizzazione e' determinato sulla base di un apposito rendiconto economico e patrimoniale, da redigersi secondo i principi contabili previsti per i soggetti residenti aventi le medesime caratteristiche, salva quella della emissione di strumenti finanziari ammessi alla negoziazione in mercati regolamentati di qualsiasi Stato membro dell'Unione europea ovvero diffusi tra il pubblico di cui all'articolo 116 testo unico delle disposizioni in materia di intermediazione finanziaria, di cui al [decreto legislativo 24 febbraio 1998, n. 58](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-02-24;58). A tali fini, si applicano le disposizioni dell'articolo 152, comma 2, del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md). (50)
+Il valore della produzione netta derivante da una stabile organizzazione e' determinato sulla base di un apposito rendiconto economico e patrimoniale, da redigersi secondo i principi contabili previsti per i soggetti residenti aventi le medesime caratteristiche, salva quella della emissione di strumenti finanziari ammessi alla negoziazione in mercati regolamentati di qualsiasi Stato membro dell'Unione europea ovvero diffusi tra il pubblico di cui all'articolo 116 testo unico delle disposizioni in materia di intermediazione finanziaria, di cui al [decreto legislativo 24 febbraio 1998, n. 58](Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md). A tali fini, si applicano le disposizioni dell'articolo 152, comma 2, del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md). (50)
 
 3.
 
@@ -847,25 +847,25 @@ Le persone fisiche e gli altri soggetti passivi si considerano residenti nel ter
 
 AGGIORNAMENTO (8)
 
-Il [D.Lgs. 30 dicembre 1999, n. 506](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-12-30;506) ha disposto (con l'art. 3, comma 1) che "Le modificazioni apportate dall'articolo 1, comma 1, lettere da a) a r), si applicano a decorrere dal periodo d'imposta in corso alla data di emanazione del presente decreto,[. . .]."
+Il [D.Lgs. 30 dicembre 1999, n. 506](Disposizioni%20integrative%20e%20correttive%20dei%20decreti%20legislativi%2015%20dicembre%201997%20n.%20446%20e%2018%20dicembre%201997%20n.%20472%20recanti%20rispettivamente%20disposizioni%20in%20materia%20di%20imposta%20regionale%20sulle%20_1e413d217a81.md) ha disposto (con l'art. 3, comma 1) che "Le modificazioni apportate dall'articolo 1, comma 1, lettere da a) a r), si applicano a decorrere dal periodo d'imposta in corso alla data di emanazione del presente decreto,[. . .]."
 
 -----------
 
 AGGIORNAMENTO (50)
 
-Il [D.Lgs. 14 settembre 2015, n. 147](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-09-14;147) ha disposto (con l'art. 7, comma 4) che la presente modifica si applica a decorrere dal periodo di imposta successivo a quello in corso alla data di entrata in vigore del D.Lgs. medesimo.
+Il [D.Lgs. 14 settembre 2015, n. 147](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20recanti%20misure%20per%20la%20crescita%20e%20linternazionalizzazione%20delle%20imprese.%2015G00163.md) ha disposto (con l'art. 7, comma 4) che la presente modifica si applica a decorrere dal periodo di imposta successivo a quello in corso alla data di entrata in vigore del D.Lgs. medesimo.
 
 --------------
 
 AGGIORNAMENTO (52)
 
-La [L. 28 dicembre 2015, n. 208](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-12-28;208), ha disposto (con l'art. 1, comma 72) che "Le disposizioni del comma 70 si applicano a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2015".
+La [L. 28 dicembre 2015, n. 208](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202016.%2015G00222.md), ha disposto (con l'art. 1, comma 72) che "Le disposizioni del comma 70 si applicano a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2015".
 
 ------------
 
 AGGIORNAMENTO (55)
 
-La [L. 20 novembre 2017, n. 167](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20degli%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20allUnione%20europea%20-%20Legge%20europea%202017.%2017G00180.md) ha disposto (con l'art. 10, comma 1) che "Dal periodo d'imposta a decorrere dal quale entra in vigore il decreto di cui al comma 3 del presente articolo, le disposizioni dell'[articolo 4 del decreto-legge 30 dicembre 1997, n. 457](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1997-12-30;457#art_4), convertito, con modificazioni, dalla [legge 27 febbraio 1998, n. 30, dell'articolo 12, comma 3](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%201997%20n.%20457%20recante%20disposizioni%20urgenti%20per%20lo%20sviluppo%20del%20settore%20dei%20trasporti%20e%20lincremento%20delloccupazione.md), del [decreto legislativo 15 dicembre 1997, n. 446, e dell'articolo 155, comma 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-12-15;446#art_155-com1), del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), si applicano anche ai soggetti residenti e ai soggetti non residenti aventi stabile organizzazione nel territorio dello Stato che utilizzano navi adibite esclusivamente a traffici commerciali internazionali iscritte nei registri degli Stati dell'Unione europea o dello Spazio economico europeo". 
+La [L. 20 novembre 2017, n. 167](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20degli%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20allUnione%20europea%20-%20Legge%20europea%202017.%2017G00180.md) ha disposto (con l'art. 10, comma 1) che "Dal periodo d'imposta a decorrere dal quale entra in vigore il decreto di cui al comma 3 del presente articolo, le disposizioni dell'[articolo 4 del decreto-legge 30 dicembre 1997, n. 457](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1997-12-30;457#art_4), convertito, con modificazioni, dalla [legge 27 febbraio 1998, n. 30, dell'articolo 12, comma 3](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%201997%20n.%20457%20recante%20disposizioni%20urgenti%20per%20lo%20sviluppo%20del%20settore%20dei%20trasporti%20e%20lincremento%20delloccupazione.md), del [decreto legislativo 15 dicembre 1997, n. 446, e dell'articolo 155, comma 1](Istituzione%20dellimposta%20regionale%20sulle%20attivita%20produttive%20revisione%20degli%20scaglioni%20delle%20aliquote%20e%20delle%20detrazioni%20dellIrpef%20e%20istituzione%20di%20una%20addizionale%20regionale%20a%20tale%20imposta_576f8a3bbc05.md), del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), si applicano anche ai soggetti residenti e ai soggetti non residenti aventi stabile organizzazione nel territorio dello Stato che utilizzano navi adibite esclusivamente a traffici commerciali internazionali iscritte nei registri degli Stati dell'Unione europea o dello Spazio economico europeo". 
  Ha inoltre disposto (con l'art. 10, comma 2) che "Le disposizioni del comma 1 del presente articolo si applicano a condizione che sia rispettato quanto previsto dagli articoli 1, comma 5, e 3 del [decreto-legge 30 dicembre 1997, n. 457](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1997-12-30;457), convertito, con modificazioni, dalla [legge 27 febbraio 1998, n. 30, dall'articolo 317](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%201997%20n.%20457%20recante%20disposizioni%20urgenti%20per%20lo%20sviluppo%20del%20settore%20dei%20trasporti%20e%20lincremento%20delloccupazione.md) del [codice della navigazione e dall'articolo 426](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) del regolamento per l'esecuzione del [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) (navigazione marittima), di cui al [decreto del Presidente della Repubblica 15 febbraio 1952, n. 328](../DPR/Approvazione%20del%20Regolamento%20per%20lesecuzione%20del%20Codice%20della%20navigazione%20Navigazione%20marittima.md)".
 
 ### Art. 13. — Disposizioni concernenti il GEIE
@@ -925,19 +925,19 @@ La variazione puo' essere differenziata per settori di attivita' e per categorie
 
 3-bis.
 
-Allo scopo di semplificare gli adempimenti tributari dei contribuenti e le funzioni dei centri di assistenza fiscale nonche' degli altri intermediari, le regioni e le province autonome di Trento e di Bolzano, entro il 31 marzo dell'anno a cui l'imposta si riferisce, inviano al Ministero dell'economia e delle finanze - Dipartimento delle finanze i dati rilevanti per la determinazione del tributo mediante l'inserimento degli stessi nell'apposita sezione del portale del federalismo fiscale ai fini della pubblicazione nel sito informatico di cui all'[articolo 1, comma 3, del decreto legislativo 28 settembre 1998, n. 360](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-09-28;360#art_1-com3). Con decreto del Ministero dell'economia e delle finanze, sentita la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, sono individuati i dati rilevanti per la determinazione dell'imposta regionale sulle attivita' produttive. Il mancato inserimento da parte delle regioni e delle province autonome nel suddetto sito informatico dei dati rilevanti ai fini della determinazione dell'imposta comporta l'inapplicabilita' di sanzioni e di interessi.
+Allo scopo di semplificare gli adempimenti tributari dei contribuenti e le funzioni dei centri di assistenza fiscale nonche' degli altri intermediari, le regioni e le province autonome di Trento e di Bolzano, entro il 31 marzo dell'anno a cui l'imposta si riferisce, inviano al Ministero dell'economia e delle finanze - Dipartimento delle finanze i dati rilevanti per la determinazione del tributo mediante l'inserimento degli stessi nell'apposita sezione del portale del federalismo fiscale ai fini della pubblicazione nel sito informatico di cui all'[articolo 1, comma 3, del decreto legislativo 28 settembre 1998, n. 360](Istituzione%20di%20una%20addizionale%20comunale%20allIRPEF%20a%20norma%20dellarticolo%2048%20comma%2010%20della%20legge%2027%20dicembre%201997%20n.%20449%20come%20modificato%20dallarticolo%201%20comma%2010%20della%20legge%2016%20giugno%201998%20n.%20191.md). Con decreto del Ministero dell'economia e delle finanze, sentita la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, sono individuati i dati rilevanti per la determinazione dell'imposta regionale sulle attivita' produttive. Il mancato inserimento da parte delle regioni e delle province autonome nel suddetto sito informatico dei dati rilevanti ai fini della determinazione dell'imposta comporta l'inapplicabilita' di sanzioni e di interessi.
 
 -------------
 
 AGGIORNAMENTO (8)
 
-Il [D.Lgs. 30 dicembre 1999, n. 506](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-12-30;506) ha disposto (con l'art. 3, comma 1) che "Le modificazioni apportate dall'articolo 1, comma 1, lettere da a) a r), si applicano a decorrere dal periodo d'imposta in corso alla data di emanazione del presente decreto, ad eccezione di quelle recate dalla lettera l), numero 1), concernente l'[articolo 16, comma 2, del decreto legislativo n. 446 del 1997](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997;446#art_16-com2), le quali si applicano a decorrere dal 1° gennaio 2000".
+Il [D.Lgs. 30 dicembre 1999, n. 506](Disposizioni%20integrative%20e%20correttive%20dei%20decreti%20legislativi%2015%20dicembre%201997%20n.%20446%20e%2018%20dicembre%201997%20n.%20472%20recanti%20rispettivamente%20disposizioni%20in%20materia%20di%20imposta%20regionale%20sulle%20_1e413d217a81.md) ha disposto (con l'art. 3, comma 1) che "Le modificazioni apportate dall'articolo 1, comma 1, lettere da a) a r), si applicano a decorrere dal periodo d'imposta in corso alla data di emanazione del presente decreto, ad eccezione di quelle recate dalla lettera l), numero 1), concernente l'[articolo 16, comma 2, del decreto legislativo n. 446 del 1997](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997;446#art_16-com2), le quali si applicano a decorrere dal 1° gennaio 2000".
 
 -------------
 
 AGGIORNAMENTO (35)
 
-La [L. 24 dicembre 2007, n. 244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-12-24;244) ha disposto (con l'art. 1, comma 51) che "Le disposizioni di cui al comma 50 si applicano a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2007".
+La [L. 24 dicembre 2007, n. 244](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202008.md) ha disposto (con l'art. 1, comma 51) che "Le disposizioni di cui al comma 50 si applicano a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2007".
 
 -------------
 
@@ -949,13 +949,13 @@ Il [D.L. 24 aprile 2014, n. 66](https://www.normattiva.it/uri-res/N2Ls?urn:nir:s
 
 AGGIORNAMENTO (47)
 
-La [L. 23 dicembre 2014, n. 190](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-12-23;190) ha disposto (con l'art. 1, comma 22), con decorrenza dal periodo d'imposta successivo a quello in corso al 31 dicembre 2013, l'abrogazione del [comma 1 dell'art. 2 del D.L. 24 aprile 2014, n. 66](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2014-04-24;66#art_2-com1), convertito con modificazioni dalla [L. 23 giugno 2014, n. 89](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2024%20aprile%202014%20n.%2066%20recante%20misure%20urgenti%20per%20la%20competitivita%20e%20la%20giustizia%20sociale.%20Deleghe%20al%20Governo%20per%20il%20completamento%20d_83bebe792254.md), che aveva disposto con la medesima decorrenza le modifiche ai commi 1 e 1-bis, lettere a), b) e c), del presente articolo.
+La [L. 23 dicembre 2014, n. 190](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202015.%2014G00203.md) ha disposto (con l'art. 1, comma 22), con decorrenza dal periodo d'imposta successivo a quello in corso al 31 dicembre 2013, l'abrogazione del [comma 1 dell'art. 2 del D.L. 24 aprile 2014, n. 66](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2014-04-24;66#art_2-com1), convertito con modificazioni dalla [L. 23 giugno 2014, n. 89](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2024%20aprile%202014%20n.%2066%20recante%20misure%20urgenti%20per%20la%20competitivita%20e%20la%20giustizia%20sociale.%20Deleghe%20al%20Governo%20per%20il%20completamento%20d_83bebe792254.md), che aveva disposto con la medesima decorrenza le modifiche ai commi 1 e 1-bis, lettere a), b) e c), del presente articolo.
 
 -------------
 
 AGGIORNAMENTO (79)
 
-La [L. 30 dicembre 2025, n. 199](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-12-30;199) ha disposto (con l'art. 1, comma 74) che "Per il periodo d'imposta successivo a quello in corso al 31 dicembre 2025 e per i due successivi, le aliquote di cui all'[articolo 16, comma 1-bis, lettere b)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-12-15;446#art_16-com1bis-letb) e [c), del decreto legislativo 15 dicembre 1997, n. 446](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-12-15;446#art_16-com1bis-letc), sono incrementate di 2 punti percentuali per i soggetti diversi da quelli indicati nell'articolo 6, commi 2, 3, 4 e 9, del medesimo [decreto legislativo n. 446 del 1997](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997;446). Fino a concorrenza della differenza tra l'imposta derivante dall'applicazione delle disposizioni di cui al primo periodo e quella che si sarebbe determinata in assenza delle predette disposizioni, per il periodo d'imposta successivo a quello in corso al 31 dicembre 2026 e per il successivo spetta una detrazione pari a euro 90.000".
+La [L. 30 dicembre 2025, n. 199](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202026%20e%20bilancio%20pluriennale%20per%20il%20triennio%202026-2028.%2025G00212.md) ha disposto (con l'art. 1, comma 74) che "Per il periodo d'imposta successivo a quello in corso al 31 dicembre 2025 e per i due successivi, le aliquote di cui all'[articolo 16, comma 1-bis, lettere b)](Istituzione%20dellimposta%20regionale%20sulle%20attivita%20produttive%20revisione%20degli%20scaglioni%20delle%20aliquote%20e%20delle%20detrazioni%20dellIrpef%20e%20istituzione%20di%20una%20addizionale%20regionale%20a%20tale%20imposta_576f8a3bbc05.md) e [c), del decreto legislativo 15 dicembre 1997, n. 446](Istituzione%20dellimposta%20regionale%20sulle%20attivita%20produttive%20revisione%20degli%20scaglioni%20delle%20aliquote%20e%20delle%20detrazioni%20dellIrpef%20e%20istituzione%20di%20una%20addizionale%20regionale%20a%20tale%20imposta_576f8a3bbc05.md), sono incrementate di 2 punti percentuali per i soggetti diversi da quelli indicati nell'articolo 6, commi 2, 3, 4 e 9, del medesimo [decreto legislativo n. 446 del 1997](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997;446). Fino a concorrenza della differenza tra l'imposta derivante dall'applicazione delle disposizioni di cui al primo periodo e quella che si sarebbe determinata in assenza delle predette disposizioni, per il periodo d'imposta successivo a quello in corso al 31 dicembre 2026 e per il successivo spetta una detrazione pari a euro 90.000".
 
 ---------------
 
@@ -1005,19 +1005,19 @@ Per l'anno 1998, le cooperative sociali di cui all'[articolo 1, comma 1, lettera
 
 AGGIORNAMENTO (3)
 
-Il [D. Lgs. 19 novembre 1998, n. 422](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-11-19;422) ha disposto (con l'art. 4, comma 2) che le modifiche apportate al comma 3 del presente articolo 17 si applicano a decorrere dal periodo d'imposta in corso alla data del 1 gennaio 1998.
+Il [D. Lgs. 19 novembre 1998, n. 422](Disposizioni%20integrative%20e%20correttive%20dei%20decreti%20legislativi%209%20luglio%201997%20n.%20237%20e%20n.%20241%204%20dicembre%201997%20n.%20460%2015%20dicembre%201997%20n.%20446%20e%2018%20dicembre%201997%20n.%20472.md) ha disposto (con l'art. 4, comma 2) che le modifiche apportate al comma 3 del presente articolo 17 si applicano a decorrere dal periodo d'imposta in corso alla data del 1 gennaio 1998.
 
 ### Art. 18. — Agevolazioni per nuove iniziative produttive
 
 1.
 
-Il [comma 210 dell'articolo 2 della legge 23 dicembre 1996, n. 662](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;662#art_2-com210), e' sostituito dal seguente: "210. Per le iniziative produttive intraprese ((, a decorrere dal 1 gennaio 1997,)) nei territori di cui all'[articolo 1, comma 1 lettera a), del decreto-legge 8 febbraio 1995, n. 32](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-02-08;32#art_1-com1-leta), convertito, con modificazioni, dalla [legge 7 aprile 1995, n. 104](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20decreto-legge%208%20febbraio%201995%20n.%2032%20recante%20disposizioni%20urgenti%20per%20accelerare%20la%20concessione%20delle%20agevolazioni%20alle%20attivita%20gestite%20dalla%20soppressa%20Agenzia%20pe_2462a9c7f775.md), e' riconosciuto, per l'anno di inizio di attivita' e per i due successivi, un credito di imposta pari, per ciascun anno, al 50 per cento dell'imposta sul reddito delle persone fisiche sui redditi riferibili proporzionalmente al reddito di impresa o derivante dall'esercizio di arti o professioni dell'anno cui compete; il credito e' utilizzato per il versamento della detta imposta e non puo' essere superiore, per ciascun anno, a lire 5 milioni. Per le stesse iniziative e' concessa per i medesimi periodi di imposta la riduzione al 50 per cento dell'imposta regionale sulle attivita' produttive; la riduzione non puo' essere superiore a 5 milioni dell'imposta dovuta per ciascun anno. Per le iniziative produttive intraprese nelle aree territoriali di cui all'obiettivo 1 del regolamento CEE n. 2052/88, le predette disposizioni si applicano per l'anno di inizio di attivita' e per i cinque successivi.".
+Il [comma 210 dell'articolo 2 della legge 23 dicembre 1996, n. 662](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_3.md), e' sostituito dal seguente: "210. Per le iniziative produttive intraprese ((, a decorrere dal 1 gennaio 1997,)) nei territori di cui all'[articolo 1, comma 1 lettera a), del decreto-legge 8 febbraio 1995, n. 32](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-02-08;32#art_1-com1-leta), convertito, con modificazioni, dalla [legge 7 aprile 1995, n. 104](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20decreto-legge%208%20febbraio%201995%20n.%2032%20recante%20disposizioni%20urgenti%20per%20accelerare%20la%20concessione%20delle%20agevolazioni%20alle%20attivita%20gestite%20dalla%20soppressa%20Agenzia%20pe_2462a9c7f775.md), e' riconosciuto, per l'anno di inizio di attivita' e per i due successivi, un credito di imposta pari, per ciascun anno, al 50 per cento dell'imposta sul reddito delle persone fisiche sui redditi riferibili proporzionalmente al reddito di impresa o derivante dall'esercizio di arti o professioni dell'anno cui compete; il credito e' utilizzato per il versamento della detta imposta e non puo' essere superiore, per ciascun anno, a lire 5 milioni. Per le stesse iniziative e' concessa per i medesimi periodi di imposta la riduzione al 50 per cento dell'imposta regionale sulle attivita' produttive; la riduzione non puo' essere superiore a 5 milioni dell'imposta dovuta per ciascun anno. Per le iniziative produttive intraprese nelle aree territoriali di cui all'obiettivo 1 del regolamento CEE n. 2052/88, le predette disposizioni si applicano per l'anno di inizio di attivita' e per i cinque successivi.".
 
 ((
 
 1-bis.
 
-Resta ferma, in relazione al periodo d'imposta 1997, la spettanza del credito d'imposta agli effetti dell'imposta locale sui redditi e dell'imposta sul patrimonio netto delle imprese prevista dal [comma 210 dell'articolo 2 della legge 23 dicembre 1996, n. 662](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;662#art_2-com210), nel testo vigente prima delle modifiche recate dal precedente comma 1.
+Resta ferma, in relazione al periodo d'imposta 1997, la spettanza del credito d'imposta agli effetti dell'imposta locale sui redditi e dell'imposta sul patrimonio netto delle imprese prevista dal [comma 210 dell'articolo 2 della legge 23 dicembre 1996, n. 662](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_3.md), nel testo vigente prima delle modifiche recate dal precedente comma 1.
 
 ))
 
@@ -1059,7 +1059,7 @@ Nei casi di liquidazione, fallimento, liquidazione coatta amministrativa, trasfo
 
 AGGIORNAMENTO (8)
 
-Il [D.Lgs. 30 dicembre 1999, n. 506](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-12-30;506) ha disposto (con l'art. 3, comma 1) che "Le modificazioni apportate dall'articolo 1, comma 1, lettere da a) a r), si applicano a decorrere dal periodo d'imposta in corso alla data di emanazione del presente decreto,[. . .]."
+Il [D.Lgs. 30 dicembre 1999, n. 506](Disposizioni%20integrative%20e%20correttive%20dei%20decreti%20legislativi%2015%20dicembre%201997%20n.%20446%20e%2018%20dicembre%201997%20n.%20472%20recanti%20rispettivamente%20disposizioni%20in%20materia%20di%20imposta%20regionale%20sulle%20_1e413d217a81.md) ha disposto (con l'art. 3, comma 1) che "Le modificazioni apportate dall'articolo 1, comma 1, lettere da a) a r), si applicano a decorrere dal periodo d'imposta in corso alla data di emanazione del presente decreto,[. . .]."
 
 ### Art. 20. — Obblighi contabili
 
@@ -1080,7 +1080,7 @@ Ogni soggetto passivo si considera domiciliato nel comune nel quale ha il domici
 Le controversie concernenti l'imposta regionale sulle attivita' produttive e la relativa addizionale e le sanzioni sono soggette alla giurisdizione delle Commissioni tributarie secondo le disposizioni del [decreto legislativo 31 dicembre 1992, n. 546](Disposizioni%20sul%20processo%20tributario%20in%20attuazione%20della%20delega%20al%20Governo%20contenuta%20nellart.%2030%20della%20legge%2030%20dicembre%201991%20n.%20413.md).
 
 Nota all'[art. 22:
- - Il D.Lgs 31 dicembre 1992, n. 546](Disposizioni%20sul%20processo%20tributario%20in%20attuazione%20della%20delega%20al%20Governo%20contenuta%20nellart.%2030%20della%20legge%2030%20dicembre%201991%20n.%20413.md), reca: "Disposizioni sul processo tributario in attuazione della delega al Governo contenuta nell'[art. 30 della legge 30 dicembre 1991, n. 413](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-12-30;413#art_30)".
+ - Il D.Lgs 31 dicembre 1992, n. 546](Disposizioni%20sul%20processo%20tributario%20in%20attuazione%20della%20delega%20al%20Governo%20contenuta%20nellart.%2030%20della%20legge%2030%20dicembre%201991%20n.%20413.md), reca: "Disposizioni sul processo tributario in attuazione della delega al Governo contenuta nell'[art. 30 della legge 30 dicembre 1991, n. 413](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20ampliare%20le%20basi%20imponibili%20per%20razionalizzare%20facilitare%20e%20potenziare%20lattivita%20di%20accertamento%20disposizioni%20per%20la%20rivalutazione%20obbligatoria%20dei%20beni%20immobili%20delle%20im_715eda796591.md)".
 
 ### Art. 23. — Accesso alle informazioni
 
@@ -1104,7 +1104,7 @@ Le regioni a statuto ordinario possono disciplinare, con legge, nel rispetto dei
 
 2.
 
-Le regioni a statuto speciale e le provincie autonome di Trento e Bolzano provvedono, con legge, alla attuazione delle disposizioni del presente titolo in conformita' delle disposizioni della [legge 23 dicembre 1996, n. 662, articolo 3, commi 158](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;662#art_3-com158) e [159](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;662#art_3-com159).
+Le regioni a statuto speciale e le provincie autonome di Trento e Bolzano provvedono, con legge, alla attuazione delle disposizioni del presente titolo in conformita' delle disposizioni della [legge 23 dicembre 1996, n. 662, articolo 3, commi 158](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_3.md) e [159](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_3.md).
 
 3.
 
@@ -1130,7 +1130,7 @@ Con decreto del Ministro delle finanze da emanare ai sensi dell'[articolo 17, co
 
 AGGIORNAMENTO (8)
 
-Il [D.Lgs. 30 dicembre 1999, n. 506](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-12-30;506) ha disposto (con l'art. 3, comma 1) che "Le modificazioni apportate dall'articolo 1, comma 1, lettere da a) a r), si applicano a decorrere dal periodo d'imposta in corso alla data di emanazione del presente decreto,[. . .]."
+Il [D.Lgs. 30 dicembre 1999, n. 506](Disposizioni%20integrative%20e%20correttive%20dei%20decreti%20legislativi%2015%20dicembre%201997%20n.%20446%20e%2018%20dicembre%201997%20n.%20472%20recanti%20rispettivamente%20disposizioni%20in%20materia%20di%20imposta%20regionale%20sulle%20_1e413d217a81.md) ha disposto (con l'art. 3, comma 1) che "Le modificazioni apportate dall'articolo 1, comma 1, lettere da a) a r), si applicano a decorrere dal periodo d'imposta in corso alla data di emanazione del presente decreto,[. . .]."
 
 ### Art. 25. — Disciplina temporanea
 
@@ -1179,7 +1179,7 @@ Note all'art. 25:
  a) esprime parere:
  1) sul disegno di legge finanziaria e sui disegni di legge collegati;
  2) sul documento di programmazione economica e finanziaria;
- 3) sugli schemi di decreto legislativo adottati in base all'[articolo 1 della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_1);
+ 3) sugli schemi di decreto legislativo adottati in base all'[articolo 1 della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md);
  b) promuove e sancisce intese tra Governo, regioni, province, comuni e comunita' montane. Nel caso di mancata intesa o di urgenza si applicano le disposizioni di cui all'articolo 3, commi 3 e 4;
  c) promuove e sancisce accordi tra Governo, regioni, province, comuni e comunita' montane, al fine di coordinare l'esercizio delle rispettive competenze e svolgere in collaborazione attivita' di interesse comune;
  d) acquisisce le designazioni dei rappresentanti delle autonomie locali indicati, rispettivamente, dai presidenti delle regioni e province autonome di Trento e di Bolzano, dall'ANCI, dall'UPI e dall'UNCEM nei casi previsti dalla legge;
@@ -1197,7 +1197,7 @@ Note all'art. 25:
  c) di ogni altro problema connesso con gli scopi di cui al presente comma che venga sottoposto, anche su richiesta del Presidente dell'ANCI, dell'UPI e dell'UNCEM, al parere della Conferenza dal Presidente del Consiglio dei Ministri o dal Presidente delegato.
  7. La Conferenza Statocitta' ed autonomie locali ha inoltre il compito di favorire:
  a) l'informazione e le iniziative per il miglioramento dell'efficienza dei servizi pubblici locali;
- b) la promozione di accordi o contratti di programma ai sensi dell'[art. 12 della legge 23 dicembre 1992, n. 498](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-12-23;498#art_12);
+ b) la promozione di accordi o contratti di programma ai sensi dell'[art. 12 della legge 23 dicembre 1992, n. 498](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20urgenti%20in%20materia%20di%20finanza%20pubblica.md);
  c) le attivita' relative alla organizzazione di manifestazioni che coinvolgono piu' comuni o province da celebrare in ambito nazionale.
  Art. 10 (Segreteria). - 1. L'attivita' istruttoria e di supporto al funzionamento della Conferenza unificata sono svolte congiuntamente dalla segreteria della Conferenza Statoregioni e dalla segreteria della Conferenza Statocitta' ed autonomie locali.
  2. La segreteria della Conferenza Statoregioni opera alle dirette dipendenze e secondo gli indirizzi del presidente della Conferenza stessa. Ad essa e' assegnato personale dello Stato e, fino alla meta' dei posti in organico, da personale delle regioni e delle province autonome di Trento e Bolzano, il cui trattamento economico rimane a carico delle amministrazioni di appartenenza.
@@ -1240,7 +1240,7 @@ Le regioni possono attribuire alle provincie e ai comuni quote di compartecipazi
 
 5.
 
-COMMA ABROGATO DAL [D. LGS. 10 APRILE 1998, N. 137](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-04-10;137).
+COMMA ABROGATO DAL [D. LGS. 10 APRILE 1998, N. 137](Disposizioni%20correttive%20del%20decreto%20legislativo%2015%20dicembre%201997%20n.%20446%20concernente%20listituzione%20dellimposta%20regionale%20sulle%20attivita%20produttive%20la%20revisione%20degli%20scaglioni%20delle%20aliquot_f739155553d2.md).
 
 6.
 
@@ -1250,7 +1250,7 @@ Le regioni Friuli Venezia-Giulia e Valle d'Aosta e le provincie autonome di Tren
 
 AGGIORNAMENTO (10)
 
-Il [D. Lgs. 18 febbraio 2000, n.56](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-02-18;56) ha disposto (con l'art. 11, comma 1) che a decorrere dall'anno 2001 e' abolita la compartecipazione dei comuni e delle province al gettito dell'IRAP, prevista dal presente articolo; il corrispondente gettito rimane attribuito alle regioni.
+Il [D. Lgs. 18 febbraio 2000, n.56](Disposizioni%20in%20materia%20di%20federalismo%20fiscale%20a%20norma%20dellarticolo%2010%20della%20legge%2013%20maggio%201999%20n.%20133.md) ha disposto (con l'art. 11, comma 1) che a decorrere dall'anno 2001 e' abolita la compartecipazione dei comuni e delle province al gettito dell'IRAP, prevista dal presente articolo; il corrispondente gettito rimane attribuito alle regioni.
 
 ### Art. 28.
 
@@ -1309,7 +1309,7 @@ Per lo svolgimento di attivita' di pagamento e riscossione dell'imposta, le banc
 
 AGGIORNAMENTO (8)
 
-Il [D.Lgs. 30 dicembre 1999, n. 506](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-12-30;506) ha disposto (con l'art. 3, comma 1) che "Le modificazioni apportate dall'articolo 1, comma 1, lettere da a) a r), si applicano a decorrere dal periodo d'imposta in corso alla data di emanazione del presente decreto,[. . .]."
+Il [D.Lgs. 30 dicembre 1999, n. 506](Disposizioni%20integrative%20e%20correttive%20dei%20decreti%20legislativi%2015%20dicembre%201997%20n.%20446%20e%2018%20dicembre%201997%20n.%20472%20recanti%20rispettivamente%20disposizioni%20in%20materia%20di%20imposta%20regionale%20sulle%20_1e413d217a81.md) ha disposto (con l'art. 3, comma 1) che "Le modificazioni apportate dall'articolo 1, comma 1, lettere da a) a r), si applicano a decorrere dal periodo d'imposta in corso alla data di emanazione del presente decreto,[. . .]."
 
 ### Art. 31. — Primo acconto di imposta
 
@@ -1326,7 +1326,7 @@ Per il primo periodo di imposta nel quale, a norma degli articoli 36 e 37, l'imp
 
 AGGIORNAMENTO (51)
 
-Il [D.Lgs. 24 settembre 2015, n. 158](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-09-24;158) aveva precedentemente disposto (con l'art. 32, comma 2, lettera a)) l'abrogazione del presente articolo a decorrere dal 1 gennaio 2017.
+Il [D.Lgs. 24 settembre 2015, n. 158](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20sistema%20sanzionatorio%20in%20attuazione%20dellarticolo%208%20comma%201%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00169.md) aveva precedentemente disposto (con l'art. 32, comma 2, lettera a)) l'abrogazione del presente articolo a decorrere dal 1 gennaio 2017.
 
 ### Art. 33.
 
@@ -1337,7 +1337,7 @@ Il [D.Lgs. 24 settembre 2015, n. 158](https://www.normattiva.it/uri-res/N2Ls?urn
 
 AGGIORNAMENTO (51)
 
-Il [D.Lgs. 24 settembre 2015, n. 158](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-09-24;158) aveva precedentemente disposto (con l'art. 32, comma 2, lettera a)) l'abrogazione del presente articolo a decorrere dal 1 gennaio 2017.
+Il [D.Lgs. 24 settembre 2015, n. 158](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20sistema%20sanzionatorio%20in%20attuazione%20dellarticolo%208%20comma%201%20della%20legge%2011%20marzo%202014%20n.%2023.%2015G00169.md) aveva precedentemente disposto (con l'art. 32, comma 2, lettera a)) l'abrogazione del presente articolo a decorrere dal 1 gennaio 2017.
 
 ### Art. 34. — Ritardato o omesso versamento dell'imposta
 
@@ -1369,7 +1369,7 @@ Per le violazioni degli obblighi relativi alla tenuta o conservazione della cont
 
 Salvo quanto disposto dall'articolo 37, l'imposta regionale sulle attivita' produttive si applica a decorrere dalla data di entrata in vigore del presente decreto e dalla medesima data sono aboliti:
                             a)
-                                i contributi per il servizio sanitario nazionale di cui all'[articolo 31 della legge 28 febbraio 1986, n. 41](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-02-28;41#art_31), come da ultimo modificato dall'[articolo 4 della legge 22 marzo 1995, n. 85](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2023%20febbraio%201995%20n.%2041%20recante%20misure%20urgenti%20per%20il%20risanamento%20della%20finanza%20pubblica%20e%20per%20loccupazione%20nelle%20aree%20depresse.md), il contributo dello 0,2 per cento di cui all'[articolo 1, terzo comma, della legge 31 dicembre 1961, n. 1443](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-12-31;1443#art_1-com3), e all'articolo 20, ultimo comma, della [legge 12 agosto 1962, n. 1338](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-08-12;1338), e la quota di contributo per l'assicurazione obbligatoria contro la tubercolosi eccedente quella prevista per il finanziamento delle prestazioni economiche della predetta assicurazione di cui all'[articolo 27 della legge 9 marzo 1989, n. 88](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-09;88#art_27);
+                                i contributi per il servizio sanitario nazionale di cui all'[articolo 31 della legge 28 febbraio 1986, n. 41](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201986.md), come da ultimo modificato dall'[articolo 4 della legge 22 marzo 1995, n. 85](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2023%20febbraio%201995%20n.%2041%20recante%20misure%20urgenti%20per%20il%20risanamento%20della%20finanza%20pubblica%20e%20per%20loccupazione%20nelle%20aree%20depresse.md), il contributo dello 0,2 per cento di cui all'[articolo 1, terzo comma, della legge 31 dicembre 1961, n. 1443](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-12-31;1443#art_1-com3), e all'articolo 20, ultimo comma, della [legge 12 agosto 1962, n. 1338](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-08-12;1338), e la quota di contributo per l'assicurazione obbligatoria contro la tubercolosi eccedente quella prevista per il finanziamento delle prestazioni economiche della predetta assicurazione di cui all'[articolo 27 della legge 9 marzo 1989, n. 88](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-09;88#art_27);
                             b)
                                 l'imposta locale sui redditi di cui al titolo III del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md);
                             c)
@@ -1442,19 +1442,19 @@ I contributi per il Servizio sanitario nazionale riscossi nell'anno di entrata i
 
 3.
 
-A decorrere dal 1998, la partecipazione delle regioni Sicilia e Sardegna al finanziamento del Servizio sanitario nazionale stabilita dall'[articolo 12, comma 9, della legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537#art_12-com9), come da ultimo modificato dall'[articolo 1, comma 143, della legge 23 dicembre 1996, n. 662](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;662#art_1-com143), e' commisurata alle risorse provenienti dal Fondo sanitario nazionale e dai gettiti di cui ai commi 1 e 2. ((10))
+A decorrere dal 1998, la partecipazione delle regioni Sicilia e Sardegna al finanziamento del Servizio sanitario nazionale stabilita dall'[articolo 12, comma 9, della legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md), come da ultimo modificato dall'[articolo 1, comma 143, della legge 23 dicembre 1996, n. 662](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_3.md), e' commisurata alle risorse provenienti dal Fondo sanitario nazionale e dai gettiti di cui ai commi 1 e 2. ((10))
 
 ---------------
 
 AGGIORNAMENTO (8)
 
-Il [D.Lgs. 30 dicembre 1999, n. 506](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-12-30;506) ha disposto (con l'art. 3, comma 1) che "Le modificazioni apportate dall'articolo 1, comma 1, lettere da a) a r), si applicano a decorrere dal periodo d'imposta in corso alla data di emanazione del presente decreto,[. . .]."
+Il [D.Lgs. 30 dicembre 1999, n. 506](Disposizioni%20integrative%20e%20correttive%20dei%20decreti%20legislativi%2015%20dicembre%201997%20n.%20446%20e%2018%20dicembre%201997%20n.%20472%20recanti%20rispettivamente%20disposizioni%20in%20materia%20di%20imposta%20regionale%20sulle%20_1e413d217a81.md) ha disposto (con l'art. 3, comma 1) che "Le modificazioni apportate dall'articolo 1, comma 1, lettere da a) a r), si applicano a decorrere dal periodo d'imposta in corso alla data di emanazione del presente decreto,[. . .]."
 
 ------------------
 
 AGGIORNAMENTO (10)
 
-Il [D. Lgs. 18 febbraio 2000, n.56](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-02-18;56) ha disposto (con l'art. 13, comma 1) che dall'anno 2001 cessano di avere effetto nei confronti delle regioni a statuto ordinario le disposizioni previste dal presente articolo.
+Il [D. Lgs. 18 febbraio 2000, n.56](Disposizioni%20in%20materia%20di%20federalismo%20fiscale%20a%20norma%20dellarticolo%2010%20della%20legge%2013%20maggio%201999%20n.%20133.md) ha disposto (con l'art. 13, comma 1) che dall'anno 2001 cessano di avere effetto nei confronti delle regioni a statuto ordinario le disposizioni previste dal presente articolo.
 
 ### Art. 39. — Ripartizione del Fondo sanitario nazionale
 
@@ -1482,7 +1482,7 @@ Sono abrogati i [commi 15](Riordino%20della%20disciplina%20in%20materia%20sanita
 
 AGGIORNAMENTO (10)
 
-Il [D. Lgs. 18 febbraio 2000, n.56](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-02-18;56) ha disposto (con l'art. 13, comma 1) che dall'anno 2001 cessano di avere effetto nei confronti delle regioni a statuto ordinario le disposizioni dei commi 1, 2, 3 e 4 del presente articolo.
+Il [D. Lgs. 18 febbraio 2000, n.56](Disposizioni%20in%20materia%20di%20federalismo%20fiscale%20a%20norma%20dellarticolo%2010%20della%20legge%2013%20maggio%201999%20n.%20133.md) ha disposto (con l'art. 13, comma 1) che dall'anno 2001 cessano di avere effetto nei confronti delle regioni a statuto ordinario le disposizioni dei commi 1, 2, 3 e 4 del presente articolo.
 
 ### Art. 40. — Modalita' per il riversamento dell'Irap
  e dell'addizionale Irpef
@@ -1536,13 +1536,13 @@ Per gettito dell'imposta regionale sulle attivita' produttive di cui ai commi pr
 
 AGGIORNAMENTO (8)
 
-Il [D.Lgs. 30 dicembre 1999, n. 506](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-12-30;506) ha disposto (con l'art. 3, comma 1) che "Le modificazioni apportate dall'articolo 1, comma 1, lettere da a) a r), si applicano a decorrere dal periodo d'imposta in corso alla data di emanazione del presente decreto,[. . .]."
+Il [D.Lgs. 30 dicembre 1999, n. 506](Disposizioni%20integrative%20e%20correttive%20dei%20decreti%20legislativi%2015%20dicembre%201997%20n.%20446%20e%2018%20dicembre%201997%20n.%20472%20recanti%20rispettivamente%20disposizioni%20in%20materia%20di%20imposta%20regionale%20sulle%20_1e413d217a81.md) ha disposto (con l'art. 3, comma 1) che "Le modificazioni apportate dall'articolo 1, comma 1, lettere da a) a r), si applicano a decorrere dal periodo d'imposta in corso alla data di emanazione del presente decreto,[. . .]."
 
 ### Art. 42. — Versamento delle eccedenze
 
 1.
 
-A decorrere dall'anno 1999, il Fondo perequativo di cui all'[articolo 3, comma 2, della legge 28 dicembre 1995, n. 549](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-12-28;549#art_3-com2), e' soppresso.
+A decorrere dall'anno 1999, il Fondo perequativo di cui all'[articolo 3, comma 2, della legge 28 dicembre 1995, n. 549](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_2.md), e' soppresso.
 
 2.
 
@@ -1558,11 +1558,11 @@ A decorrere dall'anno 1999, il Fondo perequativo di cui all'[articolo 3, comma 2
 
 5.
 
-A decorrere dall'anno 1998 cessano le anticipazioni straordinarie di cassa di cui all'[articolo 3, comma 4, della legge 28 dicembre 1995, n. 549](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-12-28;549#art_3-com4).
+A decorrere dall'anno 1998 cessano le anticipazioni straordinarie di cassa di cui all'[articolo 3, comma 4, della legge 28 dicembre 1995, n. 549](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_2.md).
 
 6.
 
-A decorrere dall'anno 1998 la trattenuta di cui all'[articolo 20, comma 2, del decreto-legge 18 gennaio 1993, n. 8](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-01-18;8#art_20-com2), convertito, con modificazioni, dalla [legge 19 marzo 1993, n. 68](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2018%20gennaio%201993%20n.%208%20recante%20disposizioni%20urgenti%20in%20materia%20di%20finanza%20derivata%20e%20di%20contabilita%20pubblica.md), e' effettuata sulle erogazioni di cui all'[articolo 3, comma 12, della legge 28 dicembre 1995, n. 549](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-12-28;549#art_3-com12).
+A decorrere dall'anno 1998 la trattenuta di cui all'[articolo 20, comma 2, del decreto-legge 18 gennaio 1993, n. 8](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-01-18;8#art_20-com2), convertito, con modificazioni, dalla [legge 19 marzo 1993, n. 68](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2018%20gennaio%201993%20n.%208%20recante%20disposizioni%20urgenti%20in%20materia%20di%20finanza%20derivata%20e%20di%20contabilita%20pubblica.md), e' effettuata sulle erogazioni di cui all'[articolo 3, comma 12, della legge 28 dicembre 1995, n. 549](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_2.md).
 
 7.
 
@@ -1614,13 +1614,13 @@ La differenza tra l'imposta dovuta in via ordinaria per l'anno 1998 e l'imposta 
 
 AGGIORNAMENTO (7)
 
-La [L. 23 dicembre 1999, n. 488](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-12-23;488) ha disposto (con l'art. 6, comma 18) che le modifiche di cui al commi 1 e 2 del presente articolo "non hanno effetto ai fini della determinazione dell'imposta da versare a titolo di acconto per il periodo d'imposta in corso al 31 dicembre 1999."
+La [L. 23 dicembre 1999, n. 488](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202000.md) ha disposto (con l'art. 6, comma 18) che le modifiche di cui al commi 1 e 2 del presente articolo "non hanno effetto ai fini della determinazione dell'imposta da versare a titolo di acconto per il periodo d'imposta in corso al 31 dicembre 1999."
 
 --------------
 
 AGGIORNAMENTO (52)
 
-La [L. 28 dicembre 2015, n. 208](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-12-28;208), ha disposto (con l'art. 1, comma 72) che "Le disposizioni del comma 70 si applicano a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2015".
+La [L. 28 dicembre 2015, n. 208](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202016.%2015G00222.md), ha disposto (con l'art. 1, comma 72) che "Le disposizioni del comma 70 si applicano a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2015".
 
 ## Revisione degli scaglioni, delle aliquote e delle detrazioni dell'imposta sul reddito delle persone fisiche, istituzione dell'addizionale regionale all'imposta sul reddito delle persone fisiche.
 
@@ -1743,7 +1743,7 @@ L'addizionale regionale e' determinata applicando l'aliquota, fissata dalla regi
 
 3.
 
-L'aliquota di compartecipazione dell'addizionale regionale di cui al comma 1 e' fissata allo 0,50 per cento. Ciascuna regione, con proprio provvedimento, da pubblicare nella Gazzetta Ufficiale non oltre il 31 dicembre dell'anno precedente a quello cui l'addizionale si riferisce, puo' maggiorare l'aliquota suddetta fino all'1 per cento. Le regioni possono deliberare che la maggiorazione, se piu' favorevole per il contribuente rispetto a quella vigente, si applichi anche al periodo di imposta al quale si riferisce l'addizionale. Ai fini della semplificazione delle dichiarazioni e delle funzioni dei sostituti d'imposta e dei centri di assistenza fiscale nonche' degli altri intermediari, le regioni e le province autonome di Trento e di Bolzano sono tenute ad inviare, ai fini della pubblicazione sul sito informatico di cui all'[articolo 1, comma 3, del decreto legislativo 28 settembre 1998, n. 360](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-09-28;360#art_1-com3), entro il 31 gennaio dell'anno a cui l'addizionale si riferisce, i dati contenuti nei provvedimenti di variazione dell'addizionale regionale, individuati con decreto del Ministero dell'economia e delle finanze, di natura non regolamentare, sentita la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano. Il mancato inserimento nel suddetto sito informatico dei dati rilevanti ai fini della determinazione dell'addizionale comporta l'inapplicabilita' di sanzioni e di interessi. (8) (10) (13) (73) ((75))
+L'aliquota di compartecipazione dell'addizionale regionale di cui al comma 1 e' fissata allo 0,50 per cento. Ciascuna regione, con proprio provvedimento, da pubblicare nella Gazzetta Ufficiale non oltre il 31 dicembre dell'anno precedente a quello cui l'addizionale si riferisce, puo' maggiorare l'aliquota suddetta fino all'1 per cento. Le regioni possono deliberare che la maggiorazione, se piu' favorevole per il contribuente rispetto a quella vigente, si applichi anche al periodo di imposta al quale si riferisce l'addizionale. Ai fini della semplificazione delle dichiarazioni e delle funzioni dei sostituti d'imposta e dei centri di assistenza fiscale nonche' degli altri intermediari, le regioni e le province autonome di Trento e di Bolzano sono tenute ad inviare, ai fini della pubblicazione sul sito informatico di cui all'[articolo 1, comma 3, del decreto legislativo 28 settembre 1998, n. 360](Istituzione%20di%20una%20addizionale%20comunale%20allIRPEF%20a%20norma%20dellarticolo%2048%20comma%2010%20della%20legge%2027%20dicembre%201997%20n.%20449%20come%20modificato%20dallarticolo%201%20comma%2010%20della%20legge%2016%20giugno%201998%20n.%20191.md), entro il 31 gennaio dell'anno a cui l'addizionale si riferisce, i dati contenuti nei provvedimenti di variazione dell'addizionale regionale, individuati con decreto del Ministero dell'economia e delle finanze, di natura non regolamentare, sentita la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano. Il mancato inserimento nel suddetto sito informatico dei dati rilevanti ai fini della determinazione dell'addizionale comporta l'inapplicabilita' di sanzioni e di interessi. (8) (10) (13) (73) ((75))
 
 4.
 
@@ -1770,13 +1770,13 @@ Per gli anni 1998 e 1999 l'aliquota dell'addizionale regionale di cui al comma 1
 
 AGGIORNAMENTO (8)
 
-Il [D.Lgs. 30 dicembre 1999, n. 506](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-12-30;506) ha disposto (con l'art. 3, comma 1) che "Le modificazioni apportate dall'articolo 1, comma 1, lettere da a) a r), si applicano a decorrere dal periodo d'imposta in corso alla data di emanazione del presente decreto,[. . .]."
+Il [D.Lgs. 30 dicembre 1999, n. 506](Disposizioni%20integrative%20e%20correttive%20dei%20decreti%20legislativi%2015%20dicembre%201997%20n.%20446%20e%2018%20dicembre%201997%20n.%20472%20recanti%20rispettivamente%20disposizioni%20in%20materia%20di%20imposta%20regionale%20sulle%20_1e413d217a81.md) ha disposto (con l'art. 3, comma 1) che "Le modificazioni apportate dall'articolo 1, comma 1, lettere da a) a r), si applicano a decorrere dal periodo d'imposta in corso alla data di emanazione del presente decreto,[. . .]."
 
 ---------------
 
 AGGIORNAMENTO (10)
 
-Il [D.Lgs. 18 febbraio 2000, n. 56](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-02-18;56) ha disposto (con l'art. 3, comma 1) che a decorrere dall'anno 2000, le aliquote dell'addizionale regionale dell'IRPEF dello 0,5 per cento e dell'1 per cento previste dal comma 3 del presente articolo, sono elevate, rispettivamente, allo 0,9 per cento e all'1,4 per cento.
+Il [D.Lgs. 18 febbraio 2000, n. 56](Disposizioni%20in%20materia%20di%20federalismo%20fiscale%20a%20norma%20dellarticolo%2010%20della%20legge%2013%20maggio%201999%20n.%20133.md) ha disposto (con l'art. 3, comma 1) che a decorrere dall'anno 2000, le aliquote dell'addizionale regionale dell'IRPEF dello 0,5 per cento e dell'1 per cento previste dal comma 3 del presente articolo, sono elevate, rispettivamente, allo 0,9 per cento e all'1,4 per cento.
 
 ---------------
 
@@ -1788,19 +1788,19 @@ Il [D.L. 18 settembre 2001, n. 347](https://www.normattiva.it/uri-res/N2Ls?urn:n
 
 AGGIORNAMENTO (31)
 
-La Deliberazione 27 ottobre 2006, (in G.U. 14/11/2006, n. 265), ha disposto (con l'art. 1, comma 1) che "Per quanto rappresentato in premessa, che si intende integralmente richiamato: di determinare, a decorrere dal 1° gennaio 2007, l'aliquota dell'addizionale regionale all'imposta sul reddito delle persone fisiche di cui all'[art. 50 del decreto legislativo 15 dicembre 1997, n. 446](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-12-15;446#art_50) e successive modificazioni e integrazioni nella misura dell'1,4 per cento".
+La Deliberazione 27 ottobre 2006, (in G.U. 14/11/2006, n. 265), ha disposto (con l'art. 1, comma 1) che "Per quanto rappresentato in premessa, che si intende integralmente richiamato: di determinare, a decorrere dal 1° gennaio 2007, l'aliquota dell'addizionale regionale all'imposta sul reddito delle persone fisiche di cui all'[art. 50 del decreto legislativo 15 dicembre 1997, n. 446](Istituzione%20dellimposta%20regionale%20sulle%20attivita%20produttive%20revisione%20degli%20scaglioni%20delle%20aliquote%20e%20delle%20detrazioni%20dellIrpef%20e%20istituzione%20di%20una%20addizionale%20regionale%20a%20tale%20imposta_576f8a3bbc05.md) e successive modificazioni e integrazioni nella misura dell'1,4 per cento".
 
 ---------------
 
 AGGIORNAMENTO (73)
 
-Il [D.Lgs. 30 dicembre 2023, n. 216](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2023-12-30;216), ha disposto (con l'art. 3, comma 1) che "Al fine di garantire la coerenza della disciplina dell'addizionale regionale all'imposta sul reddito delle persone fisiche con la nuova articolazione degli scaglioni dell'imposta sul reddito delle persone fisiche stabilita dall'articolo 1, il termine di cui all'articolo 50, comma 3, secondo periodo, del [decreto legislativo 15 dicembre 1997, n. 446](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-12-15;446), per modificare gli scaglioni e le aliquote applicabili per l'anno di imposta 2024, e' differito al 15 aprile 2024. Nelle more del riordino della fiscalita' degli enti territoriali, entro lo stesso termine le regioni e le province autonome possono determinare, per il solo anno 2024, aliquote differenziate dell'addizionale regionale all'imposta sul reddito delle persone fisiche sulla base degli scaglioni di reddito previsti dall'articolo 11, comma 1, del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md) vigenti per l'anno 2023. Nell'ipotesi in cui le regioni e le province autonome non approvano entro il suddetto termine la legge modificativa degli scaglioni e delle aliquote, per il solo anno 2024 l'addizionale regionale all'imposta sul reddito delle persone fisiche si applica sulla base degli scaglioni e delle aliquote vigenti per l'anno 2023. ".
+Il [D.Lgs. 30 dicembre 2023, n. 216](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20del%20primo%20modulo%20di%20riforma%20delle%20imposte%20sul%20reddito%20delle%20persone%20fisiche%20e%20altre%20misure%20in%20tema%20di%20imposte%20sui%20redditi.%2023G00228.md), ha disposto (con l'art. 3, comma 1) che "Al fine di garantire la coerenza della disciplina dell'addizionale regionale all'imposta sul reddito delle persone fisiche con la nuova articolazione degli scaglioni dell'imposta sul reddito delle persone fisiche stabilita dall'articolo 1, il termine di cui all'articolo 50, comma 3, secondo periodo, del [decreto legislativo 15 dicembre 1997, n. 446](Istituzione%20dellimposta%20regionale%20sulle%20attivita%20produttive%20revisione%20degli%20scaglioni%20delle%20aliquote%20e%20delle%20detrazioni%20dellIrpef%20e%20istituzione%20di%20una%20addizionale%20regionale%20a%20tale%20imposta_576f8a3bbc05.md), per modificare gli scaglioni e le aliquote applicabili per l'anno di imposta 2024, e' differito al 15 aprile 2024. Nelle more del riordino della fiscalita' degli enti territoriali, entro lo stesso termine le regioni e le province autonome possono determinare, per il solo anno 2024, aliquote differenziate dell'addizionale regionale all'imposta sul reddito delle persone fisiche sulla base degli scaglioni di reddito previsti dall'articolo 11, comma 1, del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md) vigenti per l'anno 2023. Nell'ipotesi in cui le regioni e le province autonome non approvano entro il suddetto termine la legge modificativa degli scaglioni e delle aliquote, per il solo anno 2024 l'addizionale regionale all'imposta sul reddito delle persone fisiche si applica sulla base degli scaglioni e delle aliquote vigenti per l'anno 2023. ".
 
 ---------------
 
 AGGIORNAMENTO (75)
 
-La [L. 30 dicembre 2024, n. 207](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2024-12-30;207) ha disposto (con l'art. 1, comma 726) che "Al fine di garantire la coerenza della disciplina dell'addizionale regionale all'imposta sul reddito delle persone fisiche con la nuova articolazione degli scaglioni di reddito dell'imposta sul reddito delle persone fisiche prevista dall'articolo 11, comma 1, del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), il termine stabilito dall'articolo 50, comma 3, secondo periodo, del [decreto legislativo 15 dicembre 1997, n. 446](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-12-15;446), per modificare gli scaglioni e le aliquote applicabili per l'anno di imposta 2025, e' differito al 15 aprile 2025".
+La [L. 30 dicembre 2024, n. 207](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202025%20e%20bilancio%20pluriennale%20per%20il%20triennio%202025-2027.%2024G00229.md) ha disposto (con l'art. 1, comma 726) che "Al fine di garantire la coerenza della disciplina dell'addizionale regionale all'imposta sul reddito delle persone fisiche con la nuova articolazione degli scaglioni di reddito dell'imposta sul reddito delle persone fisiche prevista dall'articolo 11, comma 1, del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), il termine stabilito dall'articolo 50, comma 3, secondo periodo, del [decreto legislativo 15 dicembre 1997, n. 446](Istituzione%20dellimposta%20regionale%20sulle%20attivita%20produttive%20revisione%20degli%20scaglioni%20delle%20aliquote%20e%20delle%20detrazioni%20dellIrpef%20e%20istituzione%20di%20una%20addizionale%20regionale%20a%20tale%20imposta_576f8a3bbc05.md), per modificare gli scaglioni e le aliquote applicabili per l'anno di imposta 2025, e' differito al 15 aprile 2025".
 
 ## Riordino della disciplina dei tributi locali
 
@@ -1820,7 +1820,7 @@ Dal 1 gennaio 1999 sono abolite:
                             b)
                                 l'imposta erariale di trascrizione, iscrizione ed annotazione dei veicoli al pubblico registro automobilistico di cui alla [legge 23 dicembre 1977, n. 952](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-12-23;952);
                             c)
-                                l'addizionale provinciale all'imposta erariale di trascrizione di cui all'[articolo 3, comma 48, della legge 28 dicembre 1995, n. 549](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-12-28;549#art_3-com48).
+                                l'addizionale provinciale all'imposta erariale di trascrizione di cui all'[articolo 3, comma 48, della legge 28 dicembre 1995, n. 549](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_2.md).
 
 3.
 
@@ -1853,7 +1853,7 @@ I regolamenti, per quanto attiene all'accertamento e alla riscossione dei tribut
                                 qualora sia deliberato di affidare a terzi, anche disgiuntamente, l'accertamento e la riscossione dei tributi e di tutte le entrate, le relative attivita' sono affidate, nel rispetto della normativa dell'Unione europea e delle procedure vigenti in materia di affidamento della gestione dei servizi pubblici locali, a: 
  1) i soggetti iscritti nell'albo di cui all'articolo 53, comma 1; ((75)) 
  2) gli operatori degli Stati membri stabiliti in un Paese dell'Unione europea che esercitano le menzionate attivita', i quali devono presentare una certificazione rilasciata dalla competente autorita' del loro Stato di stabilimento dalla quale deve risultare la sussistenza di requisiti equivalenti a quelli previsti dalla normativa italiana di settore; 
- 3) la societa' a capitale interamente pubblico, di cui all'articolo 113, comma 5, lettera c), del testo unico di cui al [decreto legislativo 18 agosto 2000, n. 267](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-08-18;267), e successive modificazioni, mediante convenzione, a condizione: che l'ente titolare del capitale sociale eserciti sulla societa' un controllo analogo a quello esercitato sui propri servizi; che la societa' realizzi la parte piu' importante della propria attivita' con l'ente che la controlla; che svolga la propria attivita' solo nell'ambito territoriale di pertinenza dell'ente che la controlla; 
+ 3) la societa' a capitale interamente pubblico, di cui all'articolo 113, comma 5, lettera c), del testo unico di cui al [decreto legislativo 18 agosto 2000, n. 267](Testo%20unico%20delle%20leggi%20sullordinamento%20degli%20enti%20locali.md), e successive modificazioni, mediante convenzione, a condizione: che l'ente titolare del capitale sociale eserciti sulla societa' un controllo analogo a quello esercitato sui propri servizi; che la societa' realizzi la parte piu' importante della propria attivita' con l'ente che la controlla; che svolga la propria attivita' solo nell'ambito territoriale di pertinenza dell'ente che la controlla; 
  4) le societa' di cui all'articolo 113, comma 5, lettera b), del citato testo unico di cui al [decreto legislativo n. 267 del 2000](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000;267), iscritte nell'albo di cui all'articolo 53, comma 1, del presente decreto, i cui soci privati siano scelti, nel rispetto della disciplina e dei principi comunitari, tra i soggetti di cui ai numeri 1) e 2) della presente lettera, a condizione che l'affidamento dei servizi di accertamento e di riscossione dei tributi e delle entrate avvenga sulla base di procedure ad evidenza pubblica. (64)(68)
                             c)
                                 l'affidamento di cui alla precedente lettera b) non deve comportare oneri aggiuntivi per il contribuente;
@@ -1862,47 +1862,47 @@ I regolamenti, per quanto attiene all'accertamento e alla riscossione dei tribut
 
 6.
 
-COMMA ABROGATO DALLA [L. 24 DICEMBRE 2007, N. 244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-12-24;244).
+COMMA ABROGATO DALLA [L. 24 DICEMBRE 2007, N. 244](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202008.md).
 
 7.
 
-COMMA ABROGATO DALLA [L. 28 DICEMBRE 2001, N. 448](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001-12-28;448). 
+COMMA ABROGATO DALLA [L. 28 DICEMBRE 2001, N. 448](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202002.md). 
  (40) (43) (62)(64)
 
 ---------------
 
 AGGIORNAMENTO (40)
 
-Il [D.L. 6 dicembre 2011, n. 201](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-12-06;201), convertito con modificazioni dalla [L. 22 dicembre 2011, n. 214](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20dicembre%202011%20n.%20201%20recante%20disposizioni%20urgenti%20per%20la%20crescita%20lequita%20e%20il%20consolidamento%20dei%20conti%20pubblici.%2011G0256.md), ha disposto (con l'art. 14, comma 35) che "Il tributo comunale sui rifiuti e sui servizi, in deroga all'[articolo 52 del decreto legislativo 15 dicembre 1997, n. 446](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-12-15;446#art_52), e' versato esclusivamente al comune. Il versamento del tributo comunale per l'anno di riferimento e' effettuato, in mancanza di diversa deliberazione comunale, in quattro rate trimestrali, scadenti nei mesi di gennaio, aprile, luglio e ottobre, mediante bollettino di conto corrente postale ovvero modello di pagamento unificato. E' consentito il pagamento in unica soluzione entro il mese di giugno di ciascun anno".
+Il [D.L. 6 dicembre 2011, n. 201](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-12-06;201), convertito con modificazioni dalla [L. 22 dicembre 2011, n. 214](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20dicembre%202011%20n.%20201%20recante%20disposizioni%20urgenti%20per%20la%20crescita%20lequita%20e%20il%20consolidamento%20dei%20conti%20pubblici.%2011G0256.md), ha disposto (con l'art. 14, comma 35) che "Il tributo comunale sui rifiuti e sui servizi, in deroga all'[articolo 52 del decreto legislativo 15 dicembre 1997, n. 446](Istituzione%20dellimposta%20regionale%20sulle%20attivita%20produttive%20revisione%20degli%20scaglioni%20delle%20aliquote%20e%20delle%20detrazioni%20dellIrpef%20e%20istituzione%20di%20una%20addizionale%20regionale%20a%20tale%20imposta_576f8a3bbc05.md), e' versato esclusivamente al comune. Il versamento del tributo comunale per l'anno di riferimento e' effettuato, in mancanza di diversa deliberazione comunale, in quattro rate trimestrali, scadenti nei mesi di gennaio, aprile, luglio e ottobre, mediante bollettino di conto corrente postale ovvero modello di pagamento unificato. E' consentito il pagamento in unica soluzione entro il mese di giugno di ciascun anno".
 
 ---------------
 
 AGGIORNAMENTO (43)
 
-La [L. 27 dicembre 2013, n. 147](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2013-12-27;147) ha disposto (con l'art. 1, comma 688) che "Il versamento della TASI e della TARI e' effettuato, in deroga all'[articolo 52 del decreto legislativo n. 446 del 1997](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997;446#art_52), secondo le disposizioni di cui all'[articolo 17 del decreto legislativo 9 luglio 1997, n. 241](Norme%20di%20semplificazione%20degli%20adempimenti%20dei%20contribuenti%20in%20sede%20di%20dichiarazione%20dei%20redditi%20e%20dellimposta%20sul%20valore%20aggiunto%20nonche%20di%20modernizzazione%20del%20sistema%20di%20gestione%20delle%20dichiarazioni.md), nonche' tramite apposito bollettino di conto corrente postale al quale si applicano le disposizioni di cui al citato articolo 17, in quanto compatibili, ovvero tramite le altre modalita' di pagamento offerte dai servizi elettronici di incasso e di pagamento interbancari e postali. Il comune stabilisce il numero e le scadenze di pagamento del tributo, consentendo di norma almeno due rate a scadenza semestrale e in modo anche differenziato con riferimento alla TARI e alla TASI. E' comunque consentito il pagamento in un'unica soluzione entro il 16 giugno di ciascun anno". 
+La [L. 27 dicembre 2013, n. 147](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20Legge%20di%20stabilita%202014.%2013G00191.md) ha disposto (con l'art. 1, comma 688) che "Il versamento della TASI e della TARI e' effettuato, in deroga all'[articolo 52 del decreto legislativo n. 446 del 1997](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997;446#art_52), secondo le disposizioni di cui all'[articolo 17 del decreto legislativo 9 luglio 1997, n. 241](Norme%20di%20semplificazione%20degli%20adempimenti%20dei%20contribuenti%20in%20sede%20di%20dichiarazione%20dei%20redditi%20e%20dellimposta%20sul%20valore%20aggiunto%20nonche%20di%20modernizzazione%20del%20sistema%20di%20gestione%20delle%20dichiarazioni.md), nonche' tramite apposito bollettino di conto corrente postale al quale si applicano le disposizioni di cui al citato articolo 17, in quanto compatibili, ovvero tramite le altre modalita' di pagamento offerte dai servizi elettronici di incasso e di pagamento interbancari e postali. Il comune stabilisce il numero e le scadenze di pagamento del tributo, consentendo di norma almeno due rate a scadenza semestrale e in modo anche differenziato con riferimento alla TARI e alla TASI. E' comunque consentito il pagamento in un'unica soluzione entro il 16 giugno di ciascun anno". 
  Ha inoltre disposto (con l'art. 1, comma 691) che "I comuni possono, in deroga all'[articolo 52 del decreto legislativo n. 446 del 1997](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997;446#art_52), affidare l'accertamento e la riscossione della TARI e della tariffa di cui ai commi 667 e 668 ai soggetti ai quali risulta attribuito nell'anno 2013 il servizio di gestione dei rifiuti, nonche' la gestione dell'accertamento e della riscossione della TASI ai soggetti ai quali, nel medesimo anno, risulta attribuito il servizio di accertamento e riscossione dell'IMU. I comuni che applicano la tariffa di cui ai commi 667 e 668 disciplinano, con proprio regolamento, le modalita' di versamento del corrispettivo".
 
 ---------------
 
 AGGIORNAMENTO (62)
 
-Il [D.Lgs. 30 dicembre 1992, n. 504](Riordino%20della%20finanza%20degli%20enti%20territoriali%20a%20norma%20dellarticolo%204%20della%20legge%2023%20ottobre%201992%20n.%20421.md), come modificato dal [D.L. 26 ottobre 2019, n. 124](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2019-10-26;124), convertito con modificazioni dalla [L. 19 dicembre 2019, n. 157](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2026%20ottobre%202019%20n.%20124%20recante%20disposizioni%20urgenti%20in%20materia%20fiscale%20e%20per%20esigenze%20indifferibili.%2019G00164.md), ha disposto (con l'art. 19, comma 7) che "Salva diversa deliberazione adottata dalla provincia o dalla citta' metropolitana, da comunicare all'Agenzia delle entrate entro il 28 febbraio 2020, in deroga al comma 3 del presente articolo e all'[articolo 52 del decreto legislativo 15 dicembre 1997, n. 446](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-12-15;446#art_52), a decorrere dal 1° gennaio 2020, la misura del tributo di cui al presente articolo e' fissata al 5 per cento del prelievo collegato al servizio di raccolta e smaltimento dei rifiuti solidi urbani stabilito da ciascun comune ai sensi delle leggi vigenti in materia".
+Il [D.Lgs. 30 dicembre 1992, n. 504](Riordino%20della%20finanza%20degli%20enti%20territoriali%20a%20norma%20dellarticolo%204%20della%20legge%2023%20ottobre%201992%20n.%20421.md), come modificato dal [D.L. 26 ottobre 2019, n. 124](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2019-10-26;124), convertito con modificazioni dalla [L. 19 dicembre 2019, n. 157](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2026%20ottobre%202019%20n.%20124%20recante%20disposizioni%20urgenti%20in%20materia%20fiscale%20e%20per%20esigenze%20indifferibili.%2019G00164.md), ha disposto (con l'art. 19, comma 7) che "Salva diversa deliberazione adottata dalla provincia o dalla citta' metropolitana, da comunicare all'Agenzia delle entrate entro il 28 febbraio 2020, in deroga al comma 3 del presente articolo e all'[articolo 52 del decreto legislativo 15 dicembre 1997, n. 446](Istituzione%20dellimposta%20regionale%20sulle%20attivita%20produttive%20revisione%20degli%20scaglioni%20delle%20aliquote%20e%20delle%20detrazioni%20dellIrpef%20e%20istituzione%20di%20una%20addizionale%20regionale%20a%20tale%20imposta_576f8a3bbc05.md), a decorrere dal 1° gennaio 2020, la misura del tributo di cui al presente articolo e' fissata al 5 per cento del prelievo collegato al servizio di raccolta e smaltimento dei rifiuti solidi urbani stabilito da ciascun comune ai sensi delle leggi vigenti in materia".
 
 ---------------
 
 AGGIORNAMENTO (64)
 
-La [L. 27 dicembre 2019, n. 160](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2019-12-27;160), ha disposto: 
- - (con l'art. 1, comma 756) che "A decorrere dall'anno 2021, i comuni, in deroga all'[articolo 52 del decreto legislativo 15 dicembre 1997, n. 446](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-12-15;446#art_52), possono diversificare le aliquote di cui ai commi da 748 a 755 esclusivamente con riferimento alle fattispecie individuate con decreto del Ministro dell'economia e delle finanze, da adottare entro centottanta giorni dalla data di entrata in vigore della presente legge, sentita la Conferenza Stato-citta' ed autonomie locali, che si pronuncia entro quarantacinque giorni dalla data di trasmissione. Decorso il predetto termine di quarantacinque giorni, il decreto puo' essere comunque adottato". 
+La [L. 27 dicembre 2019, n. 160](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202020%20e%20bilancio%20pluriennale%20per%20il%20triennio%202020-2022.%2019G00165.md), ha disposto: 
+ - (con l'art. 1, comma 756) che "A decorrere dall'anno 2021, i comuni, in deroga all'[articolo 52 del decreto legislativo 15 dicembre 1997, n. 446](Istituzione%20dellimposta%20regionale%20sulle%20attivita%20produttive%20revisione%20degli%20scaglioni%20delle%20aliquote%20e%20delle%20detrazioni%20dellIrpef%20e%20istituzione%20di%20una%20addizionale%20regionale%20a%20tale%20imposta_576f8a3bbc05.md), possono diversificare le aliquote di cui ai commi da 748 a 755 esclusivamente con riferimento alle fattispecie individuate con decreto del Ministro dell'economia e delle finanze, da adottare entro centottanta giorni dalla data di entrata in vigore della presente legge, sentita la Conferenza Stato-citta' ed autonomie locali, che si pronuncia entro quarantacinque giorni dalla data di trasmissione. Decorso il predetto termine di quarantacinque giorni, il decreto puo' essere comunque adottato". 
  - (con l'art. 1, comma 762) che "In deroga all'[articolo 52 del decreto legislativo n. 446 del 1997](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997;446#art_52), i soggetti passivi effettuano il versamento dell'imposta dovuta al comune per l'anno in corso in due rate, scadenti la prima il 16 giugno e la seconda il 16 dicembre". 
  - (con l'art. 1, comma 781) che "I comuni, in deroga all'[articolo 52 del decreto legislativo n. 446 del 1997](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997;446#art_52), possono continuare ad affidare, fino alla scadenza del relativo contratto, la gestione dell'imposta municipale sugli immobili ai soggetti ai quali, alla data del 31 dicembre 2019, risulta affidato il servizio di gestione dell'IMU e della TASI". 
- - (con l'art. 1, comma 789) che "I contratti in corso alla data del 1° gennaio 2020, stipulati con i soggetti di cui all'[articolo 52, comma 5, lettera b), del decreto legislativo 15 dicembre 1997, n. 446](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-12-15;446#art_52-com5-letb), sono adeguati, entro il 31 dicembre 2020, alle disposizioni di cui ai commi da 784 a 814".
+ - (con l'art. 1, comma 789) che "I contratti in corso alla data del 1° gennaio 2020, stipulati con i soggetti di cui all'[articolo 52, comma 5, lettera b), del decreto legislativo 15 dicembre 1997, n. 446](Istituzione%20dellimposta%20regionale%20sulle%20attivita%20produttive%20revisione%20degli%20scaglioni%20delle%20aliquote%20e%20delle%20detrazioni%20dellIrpef%20e%20istituzione%20di%20una%20addizionale%20regionale%20a%20tale%20imposta_576f8a3bbc05.md), sono adeguati, entro il 31 dicembre 2020, alle disposizioni di cui ai commi da 784 a 814".
 
 ---------------
 
 AGGIORNAMENTO (68)
 
-La [L. 27 dicembre 2019, n. 160](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2019-12-27;160), come modificata dal [D.L. 31 dicembre 2020, n. 183](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2020-12-31;183), ha disposto (con l'art. 1, comma 789) che "I contratti in corso alla data del 1° gennaio 2020, stipulati con i soggetti di cui all'[articolo 52, comma 5, lettera b), del decreto legislativo 15 dicembre 1997, n. 446](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-12-15;446#art_52-com5-letb), sono adeguati, entro il 30 giugno 2021, alle disposizioni di cui ai commi da 784 a 814".
+La [L. 27 dicembre 2019, n. 160](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202020%20e%20bilancio%20pluriennale%20per%20il%20triennio%202020-2022.%2019G00165.md), come modificata dal [D.L. 31 dicembre 2020, n. 183](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2020-12-31;183), ha disposto (con l'art. 1, comma 789) che "I contratti in corso alla data del 1° gennaio 2020, stipulati con i soggetti di cui all'[articolo 52, comma 5, lettera b), del decreto legislativo 15 dicembre 1997, n. 446](Istituzione%20dellimposta%20regionale%20sulle%20attivita%20produttive%20revisione%20degli%20scaglioni%20delle%20aliquote%20e%20delle%20detrazioni%20dellIrpef%20e%20istituzione%20di%20una%20addizionale%20regionale%20a%20tale%20imposta_576f8a3bbc05.md), sono adeguati, entro il 30 giugno 2021, alle disposizioni di cui ai commi da 784 a 814".
 
 ---------------
 
@@ -1946,7 +1946,7 @@ Le provincie e i comuni approvano le tariffe e i prezzi pubblici ai fini dell'ap
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 23 marzo 1998, n. 56](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-03-23;56) ha disposto (con l'art. 7, comma 1) che "Le disposizioni del presente decreto hanno effetto a decorrere dal 1 gennaio 1998."
+Il [D.Lgs. 23 marzo 1998, n. 56](Disposizioni%20integrative%20e%20correttive%20dei%20decreti%20legislativi%20emanati%20a%20norma%20dellarticolo%203%20commi%2019%2066%20134%20138%20da%20143%20a%20149%20e%20151%20e%20162%20lettere%20a%20b%20c%20d%20ed%20f%20della%20legge%2023%20dicembre%201996%20n.%20662.md) ha disposto (con l'art. 7, comma 1) che "Le disposizioni del presente decreto hanno effetto a decorrere dal 1 gennaio 1998."
 
 ### Art. 55. — Tasse sulle concessioni delle regioni a statuto ordinario
 
@@ -2024,7 +2024,7 @@ Con decreto del Ministro delle finanze sono stabilite le misure dell'imposta pro
 
 AGGIORNAMENTO (43)
 
-La [L. 27 dicembre 2013, n. 147](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2013-12-27;147) ha disposto (con l'art. 1, comma 165) che la presente modifica si applica a decorrere dal 1º gennaio 2014.
+La [L. 27 dicembre 2013, n. 147](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20Legge%20di%20stabilita%202014.%2013G00191.md) ha disposto (con l'art. 1, comma 165) che la presente modifica si applica a decorrere dal 1º gennaio 2014.
 
 ### Art. 57. — Revisione delle imposte di registro
  e sulle donazioni
@@ -2141,7 +2141,7 @@ Agli effetti dell'applicazione dell'[articolo 9 del decreto legislativo 30 dicem
 
 4.
 
-COMMA ABROGATO DAL [D.LGS. 30 DICEMBRE 1999, N. 506](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-12-30;506).
+COMMA ABROGATO DAL [D.LGS. 30 DICEMBRE 1999, N. 506](Disposizioni%20integrative%20e%20correttive%20dei%20decreti%20legislativi%2015%20dicembre%201997%20n.%20446%20e%2018%20dicembre%201997%20n.%20472%20recanti%20rispettivamente%20disposizioni%20in%20materia%20di%20imposta%20regionale%20sulle%20_1e413d217a81.md).
 
 ### Art. 59. — Potesta' regolamentare in materia di imposta comunale sugli immobili
 
@@ -2167,23 +2167,23 @@ Con regolamento adottato a norma dell'articolo 52, i comuni possono:
                             i)
                                 stabilire che si considerano regolarmente eseguiti i versamenti effettuati da un contitolare anche per conto degli altri;
                             l)
-                                LETTERA ABROGATA DALLA [L. 27 DICEMBRE 2006, N. 296](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-12-27;296);
+                                LETTERA ABROGATA DALLA [L. 27 DICEMBRE 2006, N. 296](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202007.md);
                             m)
                                 introdurre l'istituto dell'accertamento con adesione del contribuente, sulla base dei criteri stabiliti dal [decreto legislativo 19 giugno 1997, n. 218](Disposizioni%20in%20materia%20di%20accertamento%20con%20adesione%20e%20di%20conciliazione%20giudiziale.md);
                             n)
-                                LETTERA ABROGATA DALLA [L. 27 DICEMBRE 2006, N. 296](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-12-27;296);
+                                LETTERA ABROGATA DALLA [L. 27 DICEMBRE 2006, N. 296](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202007.md);
                             o)
                                 stabilire differimenti di termini per i versamenti, per situazioni particolari;
                             p)
-                                prevedere che ai fini del potenziamento degli uffici tributari del comune, ai sensi dell'[articolo 3, comma 57, della legge 23 dicembre 1996, n. 662](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;662#art_3-com57), possono essere attribuiti compensi incentivanti al personale addetto.
+                                prevedere che ai fini del potenziamento degli uffici tributari del comune, ai sensi dell'[articolo 3, comma 57, della legge 23 dicembre 1996, n. 662](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_3.md), possono essere attribuiti compensi incentivanti al personale addetto.
 
 2.
 
-COMMA ABROGATO DALLA [L. 27 DICEMBRE 2006, N. 296](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-12-27;296).
+COMMA ABROGATO DALLA [L. 27 DICEMBRE 2006, N. 296](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202007.md).
 
 3.
 
-COMMA ABROGATO DALLA [L. 27 DICEMBRE 2006, N. 296](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-12-27;296).
+COMMA ABROGATO DALLA [L. 27 DICEMBRE 2006, N. 296](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202007.md).
 
 ### Art. 60. — Attribuzione alle provincie e ai comuni del gettito di imposte
  erariali
@@ -2212,7 +2212,7 @@ Le disposizioni del presente articolo hanno effetto dal 1 gennaio 1999 e si appl
 
 AGGIORNAMENTO (4)
 
-La [L. 23 dicembre 1998, n. 448](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1998-12-23;448) ha disposto (con l'art. 31, comma 16) che "Il termine fissato al 1 gennaio 1999 dall'[articolo 60, comma 5, del decreto legislativo 15 dicembre 1997, n. 446](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-12-15;446#art_60-com5), relativamente alle disposizioni di cui al comma 2 del medesimo articolo 60, e' differito al 1 gennaio 2000."
+La [L. 23 dicembre 1998, n. 448](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1998-12-23;448) ha disposto (con l'art. 31, comma 16) che "Il termine fissato al 1 gennaio 1999 dall'[articolo 60, comma 5, del decreto legislativo 15 dicembre 1997, n. 446](Istituzione%20dellimposta%20regionale%20sulle%20attivita%20produttive%20revisione%20degli%20scaglioni%20delle%20aliquote%20e%20delle%20detrazioni%20dellIrpef%20e%20istituzione%20di%20una%20addizionale%20regionale%20a%20tale%20imposta_576f8a3bbc05.md), relativamente alle disposizioni di cui al comma 2 del medesimo articolo 60, e' differito al 1 gennaio 2000."
 
 ### Art. 61. — Riduzione dei trasferimenti erariali agli enti locali
 
@@ -2240,39 +2240,39 @@ Le riduzioni dei contributi statali e i gettiti dei tributi previsti dal present
 
 AGGIORNAMENTO (4)
 
-La [L. 23 dicembre 1998, n. 448](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1998-12-23;448) ha disposto (con l'art. 31, comma 18) che "Tutti i riferimenti temporali previsti all'[articolo 61, comma 1, del decreto legislativo 15 dicembre 1997, n. 446](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-12-15;446#art_61-com1), limitatamente all'attribuzione del gettito delle imposte di cui all'articolo 60, comma 2, del menzionato decreto legislativo, sono differiti di un anno."
+La [L. 23 dicembre 1998, n. 448](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1998-12-23;448) ha disposto (con l'art. 31, comma 18) che "Tutti i riferimenti temporali previsti all'[articolo 61, comma 1, del decreto legislativo 15 dicembre 1997, n. 446](Istituzione%20dellimposta%20regionale%20sulle%20attivita%20produttive%20revisione%20degli%20scaglioni%20delle%20aliquote%20e%20delle%20detrazioni%20dellIrpef%20e%20istituzione%20di%20una%20addizionale%20regionale%20a%20tale%20imposta_576f8a3bbc05.md), limitatamente all'attribuzione del gettito delle imposte di cui all'articolo 60, comma 2, del menzionato decreto legislativo, sono differiti di un anno."
 
 ### Art. 62.
 
-ARTICOLO ABROGATO DALLA [L. 27 DICEMBRE 2019, N. 160](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2019-12-27;160) (64) ((65))
+ARTICOLO ABROGATO DALLA [L. 27 DICEMBRE 2019, N. 160](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202020%20e%20bilancio%20pluriennale%20per%20il%20triennio%202020-2022.%2019G00165.md) (64) ((65))
 
 --------------
 
 AGGIORNAMENTO (64)
 
-La [L. 27 dicembre 2019, n. 160](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2019-12-27;160), ha disposto (con l'art. 1, comma 847) che "Restano ferme le disposizioni inerenti alla pubblicita' in ambito ferroviario e quelle che disciplinano la propaganda elettorale".
+La [L. 27 dicembre 2019, n. 160](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202020%20e%20bilancio%20pluriennale%20per%20il%20triennio%202020-2022.%2019G00165.md), ha disposto (con l'art. 1, comma 847) che "Restano ferme le disposizioni inerenti alla pubblicita' in ambito ferroviario e quelle che disciplinano la propaganda elettorale".
 
 ----------
 
 AGGIORNAMENTO (65)
 
-Il [D.L. 30 dicembre 2019, n. 162](../DL%20proroghe/Disposizioni%20urgenti%20in%20materia%20di%20proroga%20di%20termini%20legislativi%20di%20organizzazione%20delle%20pubbliche%20amministrazioni%20nonche%20di%20innovazione%20tecnologica.%2019G00171.md), convertito con modificazioni dalla [L. 28 febbraio 2020, n. 8](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%202019%20n.%20162%20recante%20disposizioni%20urgenti%20in%20materia%20di%20proroga%20di%20termini%20legislativi%20di%20organizzazione%20delle%20pubblich_802a4ba69299.md), nel modificare l'[art. 1, comma 847 della L. 27 dicembre 2019, n. 160](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2019-12-27;160#art_1-com847), ha conseguentemente disposto (con l'art. 4, comma 3-quater) che "Limitatamente all'anno 2020 non ha effetto l'abrogazione disposta dal [comma 847 dell'articolo 1 della legge 27 dicembre 2019, n. 160](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2019-12-27;160#art_1-com847); si applicano, per il medesimo anno, l'imposta comunale sulla pubblicita' e il diritto sulle pubbliche affissioni nonche' la tassa per l'occupazione di spazi ed aree pubbliche, di cui rispettivamente ai capi I e II del [decreto legislativo 15 novembre 1993, n. 507](Revisione%20ed%20armonizzazione%20dellimposta%20comunale%20sulla%20pubblicita%20e%20del%20diritto%20sulle%20pubbliche%20affissioni%20della%20tassa%20per%20loccupazione%20di%20spazi%20ed%20aree%20pubbliche%20dei%20comuni%20e%20delle%20provi_687a7e872aee.md), nonche' il canone per l'installazione dei mezzi pubblicitari e il canone per l'occupazione di spazi ed aree pubbliche, di cui rispettivamente agli [articoli 62](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-12-15;446#art_62) e [63 del decreto legislativo 15 dicembre 1997, n. 446](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-12-15;446#art_63)".
+Il [D.L. 30 dicembre 2019, n. 162](../DL%20proroghe/Disposizioni%20urgenti%20in%20materia%20di%20proroga%20di%20termini%20legislativi%20di%20organizzazione%20delle%20pubbliche%20amministrazioni%20nonche%20di%20innovazione%20tecnologica.%2019G00171.md), convertito con modificazioni dalla [L. 28 febbraio 2020, n. 8](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%202019%20n.%20162%20recante%20disposizioni%20urgenti%20in%20materia%20di%20proroga%20di%20termini%20legislativi%20di%20organizzazione%20delle%20pubblich_802a4ba69299.md), nel modificare l'[art. 1, comma 847 della L. 27 dicembre 2019, n. 160](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202020%20e%20bilancio%20pluriennale%20per%20il%20triennio%202020-2022.%2019G00165.md), ha conseguentemente disposto (con l'art. 4, comma 3-quater) che "Limitatamente all'anno 2020 non ha effetto l'abrogazione disposta dal [comma 847 dell'articolo 1 della legge 27 dicembre 2019, n. 160](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202020%20e%20bilancio%20pluriennale%20per%20il%20triennio%202020-2022.%2019G00165.md); si applicano, per il medesimo anno, l'imposta comunale sulla pubblicita' e il diritto sulle pubbliche affissioni nonche' la tassa per l'occupazione di spazi ed aree pubbliche, di cui rispettivamente ai capi I e II del [decreto legislativo 15 novembre 1993, n. 507](Revisione%20ed%20armonizzazione%20dellimposta%20comunale%20sulla%20pubblicita%20e%20del%20diritto%20sulle%20pubbliche%20affissioni%20della%20tassa%20per%20loccupazione%20di%20spazi%20ed%20aree%20pubbliche%20dei%20comuni%20e%20delle%20provi_687a7e872aee.md), nonche' il canone per l'installazione dei mezzi pubblicitari e il canone per l'occupazione di spazi ed aree pubbliche, di cui rispettivamente agli [articoli 62](Istituzione%20dellimposta%20regionale%20sulle%20attivita%20produttive%20revisione%20degli%20scaglioni%20delle%20aliquote%20e%20delle%20detrazioni%20dellIrpef%20e%20istituzione%20di%20una%20addizionale%20regionale%20a%20tale%20imposta_576f8a3bbc05.md) e [63 del decreto legislativo 15 dicembre 1997, n. 446](Istituzione%20dellimposta%20regionale%20sulle%20attivita%20produttive%20revisione%20degli%20scaglioni%20delle%20aliquote%20e%20delle%20detrazioni%20dellIrpef%20e%20istituzione%20di%20una%20addizionale%20regionale%20a%20tale%20imposta_576f8a3bbc05.md)".
 
 ### Art. 63.
 
-ARTICOLO ABROGATO DALLA [L. 27 DICEMBRE 2019, N. 160](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2019-12-27;160))) (64) ((65))
+ARTICOLO ABROGATO DALLA [L. 27 DICEMBRE 2019, N. 160](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202020%20e%20bilancio%20pluriennale%20per%20il%20triennio%202020-2022.%2019G00165.md))) (64) ((65))
 
 --------------
 
 AGGIORNAMENTO (64)
 
-La [L. 27 dicembre 2019, n. 160](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2019-12-27;160), ha disposto (con l'art. 1, comma 847) che "Restano ferme le disposizioni inerenti alla pubblicita' in ambito ferroviario e quelle che disciplinano la propaganda elettorale".
+La [L. 27 dicembre 2019, n. 160](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202020%20e%20bilancio%20pluriennale%20per%20il%20triennio%202020-2022.%2019G00165.md), ha disposto (con l'art. 1, comma 847) che "Restano ferme le disposizioni inerenti alla pubblicita' in ambito ferroviario e quelle che disciplinano la propaganda elettorale".
 
 ----------
 
 AGGIORNAMENTO (65)
 
-Il [D.L. 30 dicembre 2019, n. 162](../DL%20proroghe/Disposizioni%20urgenti%20in%20materia%20di%20proroga%20di%20termini%20legislativi%20di%20organizzazione%20delle%20pubbliche%20amministrazioni%20nonche%20di%20innovazione%20tecnologica.%2019G00171.md), convertito con modificazioni dalla [L. 28 febbraio 2020, n. 8](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%202019%20n.%20162%20recante%20disposizioni%20urgenti%20in%20materia%20di%20proroga%20di%20termini%20legislativi%20di%20organizzazione%20delle%20pubblich_802a4ba69299.md), nel modificare l'[art. 1, comma 847 della L. 27 dicembre 2019, n. 160](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2019-12-27;160#art_1-com847), ha conseguentemente disposto (con l'art. 4, comma 3-quater) che "Limitatamente all'anno 2020 non ha effetto l'abrogazione disposta dal [comma 847 dell'articolo 1 della legge 27 dicembre 2019, n. 160](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2019-12-27;160#art_1-com847); si applicano, per il medesimo anno, l'imposta comunale sulla pubblicita' e il diritto sulle pubbliche affissioni nonche' la tassa per l'occupazione di spazi ed aree pubbliche, di cui rispettivamente ai capi I e II del [decreto legislativo 15 novembre 1993, n. 507](Revisione%20ed%20armonizzazione%20dellimposta%20comunale%20sulla%20pubblicita%20e%20del%20diritto%20sulle%20pubbliche%20affissioni%20della%20tassa%20per%20loccupazione%20di%20spazi%20ed%20aree%20pubbliche%20dei%20comuni%20e%20delle%20provi_687a7e872aee.md), nonche' il canone per l'installazione dei mezzi pubblicitari e il canone per l'occupazione di spazi ed aree pubbliche, di cui rispettivamente agli [articoli 62](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-12-15;446#art_62) e [63 del decreto legislativo 15 dicembre 1997, n. 446](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-12-15;446#art_63)".
+Il [D.L. 30 dicembre 2019, n. 162](../DL%20proroghe/Disposizioni%20urgenti%20in%20materia%20di%20proroga%20di%20termini%20legislativi%20di%20organizzazione%20delle%20pubbliche%20amministrazioni%20nonche%20di%20innovazione%20tecnologica.%2019G00171.md), convertito con modificazioni dalla [L. 28 febbraio 2020, n. 8](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%202019%20n.%20162%20recante%20disposizioni%20urgenti%20in%20materia%20di%20proroga%20di%20termini%20legislativi%20di%20organizzazione%20delle%20pubblich_802a4ba69299.md), nel modificare l'[art. 1, comma 847 della L. 27 dicembre 2019, n. 160](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202020%20e%20bilancio%20pluriennale%20per%20il%20triennio%202020-2022.%2019G00165.md), ha conseguentemente disposto (con l'art. 4, comma 3-quater) che "Limitatamente all'anno 2020 non ha effetto l'abrogazione disposta dal [comma 847 dell'articolo 1 della legge 27 dicembre 2019, n. 160](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202020%20e%20bilancio%20pluriennale%20per%20il%20triennio%202020-2022.%2019G00165.md); si applicano, per il medesimo anno, l'imposta comunale sulla pubblicita' e il diritto sulle pubbliche affissioni nonche' la tassa per l'occupazione di spazi ed aree pubbliche, di cui rispettivamente ai capi I e II del [decreto legislativo 15 novembre 1993, n. 507](Revisione%20ed%20armonizzazione%20dellimposta%20comunale%20sulla%20pubblicita%20e%20del%20diritto%20sulle%20pubbliche%20affissioni%20della%20tassa%20per%20loccupazione%20di%20spazi%20ed%20aree%20pubbliche%20dei%20comuni%20e%20delle%20provi_687a7e872aee.md), nonche' il canone per l'installazione dei mezzi pubblicitari e il canone per l'occupazione di spazi ed aree pubbliche, di cui rispettivamente agli [articoli 62](Istituzione%20dellimposta%20regionale%20sulle%20attivita%20produttive%20revisione%20degli%20scaglioni%20delle%20aliquote%20e%20delle%20detrazioni%20dellIrpef%20e%20istituzione%20di%20una%20addizionale%20regionale%20a%20tale%20imposta_576f8a3bbc05.md) e [63 del decreto legislativo 15 dicembre 1997, n. 446](Istituzione%20dellimposta%20regionale%20sulle%20attivita%20produttive%20revisione%20degli%20scaglioni%20delle%20aliquote%20e%20delle%20detrazioni%20dellIrpef%20e%20istituzione%20di%20una%20addizionale%20regionale%20a%20tale%20imposta_576f8a3bbc05.md)".
 
 ### Art. 64. — Disposizioni finali e transitorie
 

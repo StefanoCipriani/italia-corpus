@@ -232,7 +232,7 @@ Tali certificati non possono essere rilasciati ai mutilati e ai minorati fisici.
 
 AGGIORNAMENTO (1)
 
-La [L. 24 dicembre 2012, n. 228](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-24;228) ha disposto (con l'art. 1, comma 388) che e' fissato al 30 giugno 2013 il termine di scadenza dei termini e dei regimi giuridici di cui al comma 1, capoverso Art. 116, lettere a), b), c), d), e), h), i), n) e o) del presente articolo.
+La [L. 24 dicembre 2012, n. 228](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20Legge%20di%20stabilita%202013.%2012G0252.md) ha disposto (con l'art. 1, comma 388) che e' fissato al 30 giugno 2013 il termine di scadenza dei termini e dei regimi giuridici di cui al comma 1, capoverso Art. 116, lettere a), b), c), d), e), h), i), n) e o) del presente articolo.
 
 -------------
 
@@ -418,7 +418,7 @@ All'articolo 123, comma 7, secondo periodo, del [Codice della strada](Nuovo%20co
 
 AGGIORNAMENTO (1)
 
-La [L. 24 dicembre 2012, n. 228](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-24;228) ha disposto (con l'art. 1, comma 388) che e' fissato al 30 giugno 2013 il termine di scadenza dei termini e dei regimi giuridici di cui al comma 1 del presente articolo.
+La [L. 24 dicembre 2012, n. 228](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20Legge%20di%20stabilita%202013.%2012G0252.md) ha disposto (con l'art. 1, comma 388) che e' fissato al 30 giugno 2013 il termine di scadenza dei termini e dei regimi giuridici di cui al comma 1 del presente articolo.
 
 -------------
 
@@ -734,7 +734,7 @@ Le disposizioni del presente decreto legislativo si applicano a decorrere dal 19
 
 AGGIORNAMENTO (1)
 
-La [L. 24 dicembre 2012, n. 228](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-24;228) ha disposto (con l'art. 1, comma 388) che e' fissato al 30 giugno 2013 il termine di scadenza dei termini e dei regimi giuridici di cui al comma 1 del presente articolo.
+La [L. 24 dicembre 2012, n. 228](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20Legge%20di%20stabilita%202013.%2012G0252.md) ha disposto (con l'art. 1, comma 388) che e' fissato al 30 giugno 2013 il termine di scadenza dei termini e dei regimi giuridici di cui al comma 1 del presente articolo.
 
 -------------
 

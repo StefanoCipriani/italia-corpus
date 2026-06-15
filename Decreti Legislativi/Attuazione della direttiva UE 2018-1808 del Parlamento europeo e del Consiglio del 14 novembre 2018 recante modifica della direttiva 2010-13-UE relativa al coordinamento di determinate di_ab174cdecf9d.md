@@ -20,11 +20,11 @@ Vista la [direttiva 89/552/CEE del Consiglio, del 3 ottobre 1989](https://www.no
 
 Viste le [direttive 2002/19/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2002;19), [2002/20/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2002;20), [2002/21/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2002;21), [2002/22/CE del Parlamento europeo e del Consiglio, del 7 marzo 2002](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2002;22);
 
-Vista la [legge 24 dicembre 2012, n. 234](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-24;234), recante «Norme generali sulla partecipazione dell'Italia alla formazione e all'attuazione della normativa e delle politiche dell'Unione europea»;
+Vista la [legge 24 dicembre 2012, n. 234](../Leggi%20di%20delegazione%20europea/Norme%20generali%20sulla%20partecipazione%20dellItalia%20alla%20formazione%20e%20allattuazione%20della%20normativa%20e%20delle%20politiche%20dellUnione%20europea.%2013G00003.md), recante «Norme generali sulla partecipazione dell'Italia alla formazione e all'attuazione della normativa e delle politiche dell'Unione europea»;
 
 Vista la [legge 31 luglio 1997, n. 249](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-07-31;249), recante «Istituzione dell'Autorita' per le garanzie nelle comunicazioni e norme sui sistemi delle telecomunicazioni e radiotelevisivo»;
 
-Vista la [legge 22 aprile 2021, n. 53](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2021-04-22;53), recante «Delega al Governo per il recepimento delle direttive europee e l'attuazione di altri atti dell'Unione europea - legge di delegazione europea 2019-2020», in particolare l'articolo 3;
+Vista la [legge 22 aprile 2021, n. 53](../Leggi%20di%20delegazione%20europea/Delega%20al%20Governo%20per%20il%20recepimento%20delle%20direttive%20europee%20e%20lattuazione%20di%20altri%20atti%20dellUnione%20europea%20-%20Legge%20di%20delegazione%20europea%202019-2020.%2021G00063.md), recante «Delega al Governo per il recepimento delle direttive europee e l'attuazione di altri atti dell'Unione europea - legge di delegazione europea 2019-2020», in particolare l'articolo 3;
 
 Visto il [decreto legislativo 31 luglio 2005, n. 177](Testo%20unico%20dei%20servizi%20di%20media%20audiovisivi%20e%20radiofonici.md), recante «Testo unico dei servizi di media audiovisivi e radiofonici» e ss. modifiche;
 
@@ -115,7 +115,7 @@ L'Autorita', nell'assolvere alla funzione indicata dal comma 7, si conforma alle
  
 ------------- 
 AGGIORNAMEMTO (1) 
-Il [D.Lgs. 25 marzo 2024, n. 50](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-03-25;50) ha disposto (con l'art. 1, comma 2, lettera b)) che nel comma 2, lettera b), del presente articolo "dopo la parola: «audiovisivo» sono inserite le seguenti: «o radiofonico»".
+Il [D.Lgs. 25 marzo 2024, n. 50](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20integrative%20e%20correttive%20del%20decreto%20legislativo%208%20novembre%202021%20n.%20208%20recante%20il%20testo%20unico%20dei%20servizi%20di%20media%20audiovisivi%20in%20considerazione%20dellevoluzione%20delle%20realta%20_286982745d51.md) ha disposto (con l'art. 1, comma 2, lettera b)) che nel comma 2, lettera b), del presente articolo "dopo la parola: «audiovisivo» sono inserite le seguenti: «o radiofonico»".
 
 ### Art. 3. — Definizioni
 
@@ -737,7 +737,7 @@ I soggetti titolari di un'autorizzazione rilasciata ai sensi del comma 1 sono te
 
 3.
 
-Per i fornitori di servizi media audiovisivi e di dati in ambito locale, il Ministero procede secondo quanto previsto dall'[articolo 1, commi 1033](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-12-27;205#art_1-com1033) e [1034, della legge 27 dicembre 2017, n. 205](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-12-27;205#art_1-com1034).
+Per i fornitori di servizi media audiovisivi e di dati in ambito locale, il Ministero procede secondo quanto previsto dall'[articolo 1, commi 1033](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202018%20e%20bilancio%20pluriennale%20per%20il%20triennio%202018-2020.%2017G00222.md) e [1034, della legge 27 dicembre 2017, n. 205](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202018%20e%20bilancio%20pluriennale%20per%20il%20triennio%202018-2020.%2017G00222.md).
 
 ))
 
@@ -821,7 +821,7 @@ Nei limiti di cui al comma 3, ad uno stesso soggetto e' consentita la programmaz
 
 Note all'art. 21: 
  - Per i riferimenti normativi della [legge 6 agosto 1990, n. 223](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-06;223) si veda nelle note all'articolo 9. 
- - Il [decreto legislativo 6 settembre 2011, n. 159](Codice%20delle%20leggi%20antimafia%20e%20delle%20misure%20di%20prevenzione%20nonche%20nuove%20disposizioni%20in%20materia%20di%20documentazione%20antimafia%20a%20norma%20degli%20articoli%201%20e%202%20della%20legge%2013%20agosto%202010%20n.%20136.%2011G0201.md) (Codice delle leggi antimafia e delle misure di prevenzione, nonche' nuove disposizioni in materia di documentazione antimafia, a norma degli [articoli 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2010-08-13;136#art_1) e [2 della legge 13 agosto 2010, n. 136](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2010-08-13;136#art_2)) e' pubblicato nella Gazzetta Ufficiale 28 settembre 2011, n. 226, S.O. 
+ - Il [decreto legislativo 6 settembre 2011, n. 159](Codice%20delle%20leggi%20antimafia%20e%20delle%20misure%20di%20prevenzione%20nonche%20nuove%20disposizioni%20in%20materia%20di%20documentazione%20antimafia%20a%20norma%20degli%20articoli%201%20e%202%20della%20legge%2013%20agosto%202010%20n.%20136.%2011G0201.md) (Codice delle leggi antimafia e delle misure di prevenzione, nonche' nuove disposizioni in materia di documentazione antimafia, a norma degli [articoli 1](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Piano%20straordinario%20contro%20le%20mafie%20nonche%20delega%20al%20Governo%20in%20materia%20di%20normativa%20antimafia.%2010G0162.md) e [2 della legge 13 agosto 2010, n. 136](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Piano%20straordinario%20contro%20le%20mafie%20nonche%20delega%20al%20Governo%20in%20materia%20di%20normativa%20antimafia.%2010G0162.md)) e' pubblicato nella Gazzetta Ufficiale 28 settembre 2011, n. 226, S.O. 
  - Il testo dell'[articolo 199 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), cosi' recita: 
  «Art. 199. Sottoposizione a misure di sicurezza: disposizione espressa di legge. 
  Nessuno puo' essere sottoposto a misure di sicurezza che non siano espressamente stabilite dalla legge e fuori dei casi dalla legge stessa preveduti.».
@@ -2118,7 +2118,7 @@ Il servizio pubblico radiofonico, televisivo e multimediale, ai sensi dell'((art
                             l)
                                 la destinazione di una quota non inferiore al 15 per cento dei ricavi complessivi annui alla produzione di opere europee, ivi comprese quelle realizzate da produttori indipendenti; tale quota trova applicazione a partire dal contratto di servizio stipulato dopo il 6 maggio 2004;
                             m)
-                                la realizzazione nei termini previsti dalla [legge 3 maggio 2004, n. 112](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-05-03;112), delle infrastrutture per la trasmissione radiotelevisiva su frequenze terrestri in tecnica digitale;
+                                la realizzazione nei termini previsti dalla [legge 3 maggio 2004, n. 112](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20di%20principio%20in%20materia%20di%20assetto%20del%20sistema%20radiotelevisivo%20e%20della%20RAI-Radiotelevisione%20italiana%20S.p.a.%20nonche%20delega%20al%20Governo%20per%20lemanazione%20del%20testo%20unico%20della%20radiotelevisione.md), delle infrastrutture per la trasmissione radiotelevisiva su frequenze terrestri in tecnica digitale;
                             n)
                                 la realizzazione di servizi interattivi digitali di pubblica utilita';
                             o)
@@ -2392,11 +2392,11 @@ Il consiglio di amministrazione riferisce semestralmente, prima dell'approvazion
 
 27.
 
-La disciplina di nomina del presidente e dei membri del consiglio di amministrazione di cui ai commi 9, 10, 14, 15, 16, 17 e la relativa disciplina di revoca di cui ai commi 18 e 19 si applicano fino a che il numero delle azioni alienate ai sensi dell'[articolo 21 della legge 3 maggio 2004, n. 112](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-05-03;112#art_21), non superi la quota del 10 per cento del capitale della RAI-Radiotelevisione italiana S.p.a., in considerazione dei rilevanti ed imprescindibili motivi di interesse generale connessi allo svolgimento del servizio.
+La disciplina di nomina del presidente e dei membri del consiglio di amministrazione di cui ai commi 9, 10, 14, 15, 16, 17 e la relativa disciplina di revoca di cui ai commi 18 e 19 si applicano fino a che il numero delle azioni alienate ai sensi dell'[articolo 21 della legge 3 maggio 2004, n. 112](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20di%20principio%20in%20materia%20di%20assetto%20del%20sistema%20radiotelevisivo%20e%20della%20RAI-Radiotelevisione%20italiana%20S.p.a.%20nonche%20delega%20al%20Governo%20per%20lemanazione%20del%20testo%20unico%20della%20radiotelevisione.md), non superi la quota del 10 per cento del capitale della RAI-Radiotelevisione italiana S.p.a., in considerazione dei rilevanti ed imprescindibili motivi di interesse generale connessi allo svolgimento del servizio.
 
 28.
 
-La dismissione della partecipazione dello Stato nella RAI-Radiotelevisione italiana S.p.a. resta disciplinata dall'[articolo 21 della legge 3 maggio 2004, n. 112](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-05-03;112#art_21).
+La dismissione della partecipazione dello Stato nella RAI-Radiotelevisione italiana S.p.a. resta disciplinata dall'[articolo 21 della legge 3 maggio 2004, n. 112](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20di%20principio%20in%20materia%20di%20assetto%20del%20sistema%20radiotelevisivo%20e%20della%20RAI-Radiotelevisione%20italiana%20S.p.a.%20nonche%20delega%20al%20Governo%20per%20lemanazione%20del%20testo%20unico%20della%20radiotelevisione.md).
 
 ### Art. 64.
 
@@ -2529,7 +2529,7 @@ In attesa che il Governo adotti uno o piu' regolamenti nei confronti degli eserc
 
 6.
 
-La riduzione ad un decimo di cui al comma 5 si applica anche alle sanzioni irrogate alle emittenti locali ai sensi dell'[articolo 1, comma 31, della legge 31 luglio 1997, n. 249](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-07-31;249#art_1-com31), degli [articoli 30](Codice%20delle%20comunicazioni%20elettroniche.md) e [31 del decreto legislativo 1° agosto 2003, n. 259](Codice%20delle%20comunicazioni%20elettroniche.md), dell'[articolo 5, comma 8, del decreto legislativo 9 gennaio 2008, n. 9](Disciplina%20della%20titolarita%20e%20della%20commercializzazione%20dei%20diritti%20audiovisivi%20sportivi%20e%20relativa%20ripartizione%20delle%20risorse.md), nonche' ai sensi dell'[articolo 1, commi 10](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2010-12-13;220#art_1-com10), [11](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2010-12-13;220#art_1-com11) e [12, della legge 13 dicembre 2010, n. 220](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2010-12-13;220#art_1-com12).
+La riduzione ad un decimo di cui al comma 5 si applica anche alle sanzioni irrogate alle emittenti locali ai sensi dell'[articolo 1, comma 31, della legge 31 luglio 1997, n. 249](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-07-31;249#art_1-com31), degli [articoli 30](Codice%20delle%20comunicazioni%20elettroniche.md) e [31 del decreto legislativo 1° agosto 2003, n. 259](Codice%20delle%20comunicazioni%20elettroniche.md), dell'[articolo 5, comma 8, del decreto legislativo 9 gennaio 2008, n. 9](Disciplina%20della%20titolarita%20e%20della%20commercializzazione%20dei%20diritti%20audiovisivi%20sportivi%20e%20relativa%20ripartizione%20delle%20risorse.md), nonche' ai sensi dell'[articolo 1, commi 10](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202011.%2010G0238.md), [11](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202011.%2010G0238.md) e [12, della legge 13 dicembre 2010, n. 220](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202011.%2010G0238.md).
 
 7.
 
@@ -2675,7 +2675,7 @@ La manipolazione dei dati tramite metodologie consapevolmente errate ovvero tram
 
 5-bis.
 
-Per gli anni 2024-2025, per l'attivita' di promozione dell'alfabetizzazione mediatica e digitale, il Ministero utilizza le risorse previste, per ciascuno degli anni 2024 e 2025, di cui all'[articolo 1, comma 360, della legge 29 dicembre 2022, n. 197](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2022-12-29;197#art_1-com360).
+Per gli anni 2024-2025, per l'attivita' di promozione dell'alfabetizzazione mediatica e digitale, il Ministero utilizza le risorse previste, per ciascuno degli anni 2024 e 2025, di cui all'[articolo 1, comma 360, della legge 29 dicembre 2022, n. 197](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202023%20e%20bilancio%20pluriennale%20per%20il%20triennio%202023-2025.%2022G00211.md).
 
 ))
 
@@ -2683,19 +2683,19 @@ Per gli anni 2024-2025, per l'attivita' di promozione dell'alfabetizzazione medi
 
 1.
 
-Dall'attuazione delle disposizioni del presente testo unico, non devono derivare nuovi o maggiori oneri a carico della finanza pubblica, ad eccezione di quanto previsto dall'[articolo 1, comma 66-ter, della legge 23 dicembre 2005, n. 266](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-12-23;266#art_1-com66ter), introdotto dal comma 3 del presente articolo.
+Dall'attuazione delle disposizioni del presente testo unico, non devono derivare nuovi o maggiori oneri a carico della finanza pubblica, ad eccezione di quanto previsto dall'[articolo 1, comma 66-ter, della legge 23 dicembre 2005, n. 266](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202006.md), introdotto dal comma 3 del presente articolo.
 
 2.
 
-Le amministrazioni interessate provvedono all'adempimento dei compiti derivanti dall'attuazione del presente testo unico, ad eccezione di quanto previsto dall'[articolo 1, comma 66-ter, della legge 23 dicembre 2005, n. 266](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-12-23;266#art_1-com66ter), introdotto dal comma 3 del presente articolo, con le risorse umane, strumentali e finanziarie disponibili a legislazione vigente.
+Le amministrazioni interessate provvedono all'adempimento dei compiti derivanti dall'attuazione del presente testo unico, ad eccezione di quanto previsto dall'[articolo 1, comma 66-ter, della legge 23 dicembre 2005, n. 266](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202006.md), introdotto dal comma 3 del presente articolo, con le risorse umane, strumentali e finanziarie disponibili a legislazione vigente.
 
 3.
 
-Al fine di assicurare la copertura dei costi amministrativi complessivamente sostenuti per l'esercizio delle funzioni di regolazione, vigilanza, composizione delle controversie e sanzionatorie attribuite dal presente testo unico all'Autorita', dopo il [comma 66-bis dell'articolo 1 della legge 23 dicembre 2005, n. 266](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-12-23;266#art_1-com66bis) e' inserito il seguente: 
+Al fine di assicurare la copertura dei costi amministrativi complessivamente sostenuti per l'esercizio delle funzioni di regolazione, vigilanza, composizione delle controversie e sanzionatorie attribuite dal presente testo unico all'Autorita', dopo il [comma 66-bis dell'articolo 1 della legge 23 dicembre 2005, n. 266](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202006.md) e' inserito il seguente: 
  «66-ter. L'esercizio delle competenze attribuite all'Autorita' ai sensi delle disposizioni attuative della [direttiva (UE)1808/2018](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2018;1808) e' finanziato mediante il contributo di cui al comma 66, posto a carico delle piattaforme di condivisione di video di cui alle predette disposizioni attuative della [direttiva (UE)1808/2018](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2018;1808) operanti sul territorio nazionale. Per i soggetti di cui al periodo precedente, l'Autorita', con propria deliberazione adottata ai sensi del comma 65, stabilisce i termini e le modalita' di versamento di detto contributo e fissa l'entita' di contribuzione nel limite massimo del 2 per mille dei ricavi realizzati nel territorio nazionale, anche se contabilizzati nei bilanci di societa' aventi sede all'estero, relativi al valore della produzione, risultante dall'ultimo bilancio di esercizio approvato, ovvero, per i soggetti non obbligati alla redazione di tale bilancio, delle omologhe voci di altre scritture contabili che attestino il valore complessivo della produzione.».
 
 Note all'art. 72: 
- - Il testo dell'[articolo 1, comma 66-bis della legge 23 dicembre 2005, n. 266](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-12-23;266#art_1-com66bis) (Disposizioni per la formazione del bilancio annuale e pluriennale dello Stato (legge finanziaria 2006), pubblicata nella Gazzetta Ufficiale 29 dicembre 2005, n. 302, S.O.: 
+ - Il testo dell'[articolo 1, comma 66-bis della legge 23 dicembre 2005, n. 266](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202006.md) (Disposizioni per la formazione del bilancio annuale e pluriennale dello Stato (legge finanziaria 2006), pubblicata nella Gazzetta Ufficiale 29 dicembre 2005, n. 302, S.O.: 
  «66-bis. In sede di prima applicazione, per l'anno 2021, l'entita' della contribuzione a carico dei fornitori di servizi di intermediazione on line e di motori di ricerca on line di cui all'[articolo 1, comma 6, lettera a), numero 5), della legge 31 luglio 1997, n. 249](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-07-31;249#art_1-com6-leta-num5), e' fissata in misura pari all'1,5 per mille dei ricavi realizzati nel territorio nazionale, anche se contabilizzati nei bilanci di societa' aventi sede all'estero, relativi al valore della produzione, risultante dal bilancio di esercizio dell'anno precedente, ovvero, per i soggetti non obbligati alla redazione di tale bilancio, delle omologhe voci di altre scritture contabili che attestino il valore complessivo della produzione. Per gli anni successivi, eventuali variazioni della misura e delle modalita' della contribuzione possono essere adottate dall'Autorita' per le garanzie nelle comunicazioni ai sensi del comma 65, nel limite massimo del 2 per mille dei ricavi valutati ai sensi del periodo precedente. 
  - Per i riferimenti della [direttiva (UE) 2018/1808](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2018;1808) si veda nelle note alle premesse.
 

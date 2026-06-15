@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto l'[art. 1, comma 1, lettera h), della legge 23 ottobre 1992, n. 421](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-10-23;421#art_1-com1-leth);
+Visto l'[art. 1, comma 1, lettera h), della legge 23 ottobre 1992, n. 421](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20razionalizzazione%20e%20la%20revisione%20delle%20discipline%20in%20materia%20di%20sanita%20di%20pubblico%20impiego%20di%20previdenza%20e%20di%20finanza%20territoriale.md);
 
 Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella riunione dell'11 giugno 1993;
 
@@ -71,7 +71,7 @@ Gli istituti zooprofilattici sperimentali possono stipulare convenzioni o contra
 
 AGGIORNAMENTO (4)
 
-Il [D.Lgs. 28 giugno 2012, n. 106](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2012-06-28;106) ha disposto (con l'art. 16, comma 1) che "A decorrere dalla data di entrata in vigore dello statuto e dei regolamenti di cui all'articolo 12, sono abrogate le disposizioni del [decreto legislativo 30 giugno 1993, n. 270](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-30;270), incompatibili con il presente decreto legislativo". 
+Il [D.Lgs. 28 giugno 2012, n. 106](Riorganizzazione%20degli%20enti%20vigilati%20dal%20Ministero%20della%20salute%20a%20norma%20dellarticolo%202%20della%20legge%204%20novembre%202010%20n.%20183.%2012G0127.md) ha disposto (con l'art. 16, comma 1) che "A decorrere dalla data di entrata in vigore dello statuto e dei regolamenti di cui all'articolo 12, sono abrogate le disposizioni del [decreto legislativo 30 giugno 1993, n. 270](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordinamento%20degli%20istituti%20zooprofilattici%20sperimentali%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md), incompatibili con il presente decreto legislativo". 
  Ha inoltre disposto (con l'art. 16, comma 2) che "Fino alla data di entrata in vigore dello statuto e dei regolamenti di cui all'articolo 12, rimangono in vigore le attuali norme sul funzionamento e sull'organizzazione degli Istituti nei limiti della loro compatibilita' con le disposizioni del presente decreto legislativo".
 
 ## Art. 2. — Competenze statali e regionali
@@ -111,13 +111,13 @@ Compete allo Stato il coordinamento tecnico-funzionale degli istituti e l'attrib
 
 AGGIORNAMENTO (2)
 
-La Corte Costituzionale, con sentenza 24 marzo-7 aprile 1994, n. 124 (in G.U. 1a s.s. 13/4/1994, n. 16), ha dichiarato l'illegittimita' costituzionale "dell'[art. 2, primo comma, del decreto legislativo 30 giugno 1993, n. 270](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-30;270#art_2-com1) (Riordinamento degli istituti zooprofilattici sperimentali, a norma dell'[art. 1, primo comma, lettera h), della legge 23 ottobre 1992, n. 421](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-10-23;421#art_1-com1-leth)), nella parte in cui dispone che, con atto di indirizzo e coordinamento, il Ministro della sanita' determina i requisiti minimi strutturali, tecnologici e stabilisce i criteri organizzativi uniformi ai quali gli istituti devono conformarsi".
+La Corte Costituzionale, con sentenza 24 marzo-7 aprile 1994, n. 124 (in G.U. 1a s.s. 13/4/1994, n. 16), ha dichiarato l'illegittimita' costituzionale "dell'[art. 2, primo comma, del decreto legislativo 30 giugno 1993, n. 270](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordinamento%20degli%20istituti%20zooprofilattici%20sperimentali%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md) (Riordinamento degli istituti zooprofilattici sperimentali, a norma dell'[art. 1, primo comma, lettera h), della legge 23 ottobre 1992, n. 421](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20razionalizzazione%20e%20la%20revisione%20delle%20discipline%20in%20materia%20di%20sanita%20di%20pubblico%20impiego%20di%20previdenza%20e%20di%20finanza%20territoriale.md)), nella parte in cui dispone che, con atto di indirizzo e coordinamento, il Ministro della sanita' determina i requisiti minimi strutturali, tecnologici e stabilisce i criteri organizzativi uniformi ai quali gli istituti devono conformarsi".
 
 -------------
 
 AGGIORNAMENTO (4)
 
-Il [D.Lgs. 28 giugno 2012, n. 106](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2012-06-28;106) ha disposto (con l'art. 16, comma 1) che "A decorrere dalla data di entrata in vigore dello statuto e dei regolamenti di cui all'articolo 12, sono abrogate le disposizioni del [decreto legislativo 30 giugno 1993, n. 270](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-30;270), incompatibili con il presente decreto legislativo". 
+Il [D.Lgs. 28 giugno 2012, n. 106](Riorganizzazione%20degli%20enti%20vigilati%20dal%20Ministero%20della%20salute%20a%20norma%20dellarticolo%202%20della%20legge%204%20novembre%202010%20n.%20183.%2012G0127.md) ha disposto (con l'art. 16, comma 1) che "A decorrere dalla data di entrata in vigore dello statuto e dei regolamenti di cui all'articolo 12, sono abrogate le disposizioni del [decreto legislativo 30 giugno 1993, n. 270](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordinamento%20degli%20istituti%20zooprofilattici%20sperimentali%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md), incompatibili con il presente decreto legislativo". 
  Ha inoltre disposto (con l'art. 16, comma 2) che "Fino alla data di entrata in vigore dello statuto e dei regolamenti di cui all'articolo 12, rimangono in vigore le attuali norme sul funzionamento e sull'organizzazione degli Istituti nei limiti della loro compatibilita' con le disposizioni del presente decreto legislativo".
 
 ## Art. 3. — Organizzazione
@@ -163,7 +163,7 @@ La Corte Costituzionale, con sentenza 24 marzo-7 aprile 1994, n. 124 (in G.U. 1a
 
 AGGIORNAMENTO (4)
 
-Il [D.Lgs. 28 giugno 2012, n. 106](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2012-06-28;106) ha disposto (con l'art. 16, comma 1) che "A decorrere dalla data di entrata in vigore dello statuto e dei regolamenti di cui all'articolo 12, sono abrogate le disposizioni del [decreto legislativo 30 giugno 1993, n. 270](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-30;270), incompatibili con il presente decreto legislativo". 
+Il [D.Lgs. 28 giugno 2012, n. 106](Riorganizzazione%20degli%20enti%20vigilati%20dal%20Ministero%20della%20salute%20a%20norma%20dellarticolo%202%20della%20legge%204%20novembre%202010%20n.%20183.%2012G0127.md) ha disposto (con l'art. 16, comma 1) che "A decorrere dalla data di entrata in vigore dello statuto e dei regolamenti di cui all'articolo 12, sono abrogate le disposizioni del [decreto legislativo 30 giugno 1993, n. 270](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordinamento%20degli%20istituti%20zooprofilattici%20sperimentali%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md), incompatibili con il presente decreto legislativo". 
  Ha inoltre disposto (con l'art. 16, comma 2) che "Fino alla data di entrata in vigore dello statuto e dei regolamenti di cui all'articolo 12, rimangono in vigore le attuali norme sul funzionamento e sull'organizzazione degli Istituti nei limiti della loro compatibilita' con le disposizioni del presente decreto legislativo".
 
 ## Art. 4. — S t a t u t o
@@ -185,7 +185,7 @@ Qualora il consiglio di amministrazione non provveda entro il termine di cui al 
 
 AGGIORNAMENTO (4)
 
-Il [D.Lgs. 28 giugno 2012, n. 106](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2012-06-28;106) ha disposto (con l'art. 16, comma 1) che "A decorrere dalla data di entrata in vigore dello statuto e dei regolamenti di cui all'articolo 12, sono abrogate le disposizioni del [decreto legislativo 30 giugno 1993, n. 270](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-30;270), incompatibili con il presente decreto legislativo". 
+Il [D.Lgs. 28 giugno 2012, n. 106](Riorganizzazione%20degli%20enti%20vigilati%20dal%20Ministero%20della%20salute%20a%20norma%20dellarticolo%202%20della%20legge%204%20novembre%202010%20n.%20183.%2012G0127.md) ha disposto (con l'art. 16, comma 1) che "A decorrere dalla data di entrata in vigore dello statuto e dei regolamenti di cui all'articolo 12, sono abrogate le disposizioni del [decreto legislativo 30 giugno 1993, n. 270](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordinamento%20degli%20istituti%20zooprofilattici%20sperimentali%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md), incompatibili con il presente decreto legislativo". 
  Ha inoltre disposto (con l'art. 16, comma 2) che "Fino alla data di entrata in vigore dello statuto e dei regolamenti di cui all'articolo 12, rimangono in vigore le attuali norme sul funzionamento e sull'organizzazione degli Istituti nei limiti della loro compatibilita' con le disposizioni del presente decreto legislativo".
 
 ## Art. 5. — Erogazione delle prestazioni e produzione
@@ -207,7 +207,7 @@ Gli istituti, d'intesa con le regioni e le province autonome competenti, possono
 
 AGGIORNAMENTO (4)
 
-Il [D.Lgs. 28 giugno 2012, n. 106](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2012-06-28;106) ha disposto (con l'art. 16, comma 1) che "A decorrere dalla data di entrata in vigore dello statuto e dei regolamenti di cui all'articolo 12, sono abrogate le disposizioni del [decreto legislativo 30 giugno 1993, n. 270](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-30;270), incompatibili con il presente decreto legislativo". 
+Il [D.Lgs. 28 giugno 2012, n. 106](Riorganizzazione%20degli%20enti%20vigilati%20dal%20Ministero%20della%20salute%20a%20norma%20dellarticolo%202%20della%20legge%204%20novembre%202010%20n.%20183.%2012G0127.md) ha disposto (con l'art. 16, comma 1) che "A decorrere dalla data di entrata in vigore dello statuto e dei regolamenti di cui all'articolo 12, sono abrogate le disposizioni del [decreto legislativo 30 giugno 1993, n. 270](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordinamento%20degli%20istituti%20zooprofilattici%20sperimentali%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md), incompatibili con il presente decreto legislativo". 
  Ha inoltre disposto (con l'art. 16, comma 2) che "Fino alla data di entrata in vigore dello statuto e dei regolamenti di cui all'articolo 12, rimangono in vigore le attuali norme sul funzionamento e sull'organizzazione degli Istituti nei limiti della loro compatibilita' con le disposizioni del presente decreto legislativo".
 
 ## Art. 6. — Finanziamento
@@ -243,7 +243,7 @@ Il finanziamento degli istituti e' inoltre assicurato:
 
 AGGIORNAMENTO (4)
 
-Il [D.Lgs. 28 giugno 2012, n. 106](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2012-06-28;106) ha disposto (con l'art. 16, comma 1) che "A decorrere dalla data di entrata in vigore dello statuto e dei regolamenti di cui all'articolo 12, sono abrogate le disposizioni del [decreto legislativo 30 giugno 1993, n. 270](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-30;270), incompatibili con il presente decreto legislativo". 
+Il [D.Lgs. 28 giugno 2012, n. 106](Riorganizzazione%20degli%20enti%20vigilati%20dal%20Ministero%20della%20salute%20a%20norma%20dellarticolo%202%20della%20legge%204%20novembre%202010%20n.%20183.%2012G0127.md) ha disposto (con l'art. 16, comma 1) che "A decorrere dalla data di entrata in vigore dello statuto e dei regolamenti di cui all'articolo 12, sono abrogate le disposizioni del [decreto legislativo 30 giugno 1993, n. 270](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordinamento%20degli%20istituti%20zooprofilattici%20sperimentali%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md), incompatibili con il presente decreto legislativo". 
  Ha inoltre disposto (con l'art. 16, comma 2) che "Fino alla data di entrata in vigore dello statuto e dei regolamenti di cui all'articolo 12, rimangono in vigore le attuali norme sul funzionamento e sull'organizzazione degli Istituti nei limiti della loro compatibilita' con le disposizioni del presente decreto legislativo".
 
 ## Art. 7. — P e r s o n a l e
@@ -257,7 +257,7 @@ Il [D.Lgs. 28 giugno 2012, n. 106](https://www.normattiva.it/uri-res/N2Ls?urn:ni
 
 AGGIORNAMENTO (4)
 
-Il [D.Lgs. 28 giugno 2012, n. 106](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2012-06-28;106) ha disposto (con l'art. 16, comma 1) che "A decorrere dalla data di entrata in vigore dello statuto e dei regolamenti di cui all'articolo 12, sono abrogate le disposizioni del [decreto legislativo 30 giugno 1993, n. 270](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-30;270), incompatibili con il presente decreto legislativo". 
+Il [D.Lgs. 28 giugno 2012, n. 106](Riorganizzazione%20degli%20enti%20vigilati%20dal%20Ministero%20della%20salute%20a%20norma%20dellarticolo%202%20della%20legge%204%20novembre%202010%20n.%20183.%2012G0127.md) ha disposto (con l'art. 16, comma 1) che "A decorrere dalla data di entrata in vigore dello statuto e dei regolamenti di cui all'articolo 12, sono abrogate le disposizioni del [decreto legislativo 30 giugno 1993, n. 270](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordinamento%20degli%20istituti%20zooprofilattici%20sperimentali%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md), incompatibili con il presente decreto legislativo". 
  Ha inoltre disposto (con l'art. 16, comma 2) che "Fino alla data di entrata in vigore dello statuto e dei regolamenti di cui all'articolo 12, rimangono in vigore le attuali norme sul funzionamento e sull'organizzazione degli Istituti nei limiti della loro compatibilita' con le disposizioni del presente decreto legislativo".
 
 ## Art. 8. — Trattamento di previdenza del personale
@@ -275,7 +275,7 @@ L'INPDAP determina l'importo da versare da parte di ciascun istituto zooprofilat
 
 AGGIORNAMENTO (4)
 
-Il [D.Lgs. 28 giugno 2012, n. 106](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2012-06-28;106) ha disposto (con l'art. 16, comma 1) che "A decorrere dalla data di entrata in vigore dello statuto e dei regolamenti di cui all'articolo 12, sono abrogate le disposizioni del [decreto legislativo 30 giugno 1993, n. 270](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-30;270), incompatibili con il presente decreto legislativo". 
+Il [D.Lgs. 28 giugno 2012, n. 106](Riorganizzazione%20degli%20enti%20vigilati%20dal%20Ministero%20della%20salute%20a%20norma%20dellarticolo%202%20della%20legge%204%20novembre%202010%20n.%20183.%2012G0127.md) ha disposto (con l'art. 16, comma 1) che "A decorrere dalla data di entrata in vigore dello statuto e dei regolamenti di cui all'articolo 12, sono abrogate le disposizioni del [decreto legislativo 30 giugno 1993, n. 270](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordinamento%20degli%20istituti%20zooprofilattici%20sperimentali%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md), incompatibili con il presente decreto legislativo". 
  Ha inoltre disposto (con l'art. 16, comma 2) che "Fino alla data di entrata in vigore dello statuto e dei regolamenti di cui all'articolo 12, rimangono in vigore le attuali norme sul funzionamento e sull'organizzazione degli Istituti nei limiti della loro compatibilita' con le disposizioni del presente decreto legislativo".
 
 ## Art. 9. — Norme finali
@@ -298,14 +298,14 @@ Ai concorsi in atto alla data di entrata in vigore del presente decreto si appli
 
 5.
 
-Al controllo sugli atti degli istituti si applicano le disposizioni di cui all'[art. 4, comma 8, della legge 30 dicembre 1991, n. 412](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-12-30;412#art_4-com8). 
+Al controllo sugli atti degli istituti si applicano le disposizioni di cui all'[art. 4, comma 8, della legge 30 dicembre 1991, n. 412](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20in%20materia%20di%20finanza%20pubblica.md). 
  ((4))
 
 -------------
 
 AGGIORNAMENTO (4)
 
-Il [D.Lgs. 28 giugno 2012, n. 106](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2012-06-28;106) ha disposto (con l'art. 16, comma 1) che "A decorrere dalla data di entrata in vigore dello statuto e dei regolamenti di cui all'articolo 12, sono abrogate le disposizioni del [decreto legislativo 30 giugno 1993, n. 270](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-30;270), incompatibili con il presente decreto legislativo". 
+Il [D.Lgs. 28 giugno 2012, n. 106](Riorganizzazione%20degli%20enti%20vigilati%20dal%20Ministero%20della%20salute%20a%20norma%20dellarticolo%202%20della%20legge%204%20novembre%202010%20n.%20183.%2012G0127.md) ha disposto (con l'art. 16, comma 1) che "A decorrere dalla data di entrata in vigore dello statuto e dei regolamenti di cui all'articolo 12, sono abrogate le disposizioni del [decreto legislativo 30 giugno 1993, n. 270](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordinamento%20degli%20istituti%20zooprofilattici%20sperimentali%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md), incompatibili con il presente decreto legislativo". 
  Ha inoltre disposto (con l'art. 16, comma 2) che "Fino alla data di entrata in vigore dello statuto e dei regolamenti di cui all'articolo 12, rimangono in vigore le attuali norme sul funzionamento e sull'organizzazione degli Istituti nei limiti della loro compatibilita' con le disposizioni del presente decreto legislativo".
 
 ## Art. 10. — Abrogazioni
@@ -323,7 +323,7 @@ L'abrogazione di cui al comma 1 ha efficacia dall'entrata in vigore dei regolame
 
 AGGIORNAMENTO (4)
 
-Il [D.Lgs. 28 giugno 2012, n. 106](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2012-06-28;106) ha disposto (con l'art. 16, comma 1) che "A decorrere dalla data di entrata in vigore dello statuto e dei regolamenti di cui all'articolo 12, sono abrogate le disposizioni del [decreto legislativo 30 giugno 1993, n. 270](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-30;270), incompatibili con il presente decreto legislativo". 
+Il [D.Lgs. 28 giugno 2012, n. 106](Riorganizzazione%20degli%20enti%20vigilati%20dal%20Ministero%20della%20salute%20a%20norma%20dellarticolo%202%20della%20legge%204%20novembre%202010%20n.%20183.%2012G0127.md) ha disposto (con l'art. 16, comma 1) che "A decorrere dalla data di entrata in vigore dello statuto e dei regolamenti di cui all'articolo 12, sono abrogate le disposizioni del [decreto legislativo 30 giugno 1993, n. 270](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordinamento%20degli%20istituti%20zooprofilattici%20sperimentali%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md), incompatibili con il presente decreto legislativo". 
  Ha inoltre disposto (con l'art. 16, comma 2) che "Fino alla data di entrata in vigore dello statuto e dei regolamenti di cui all'articolo 12, rimangono in vigore le attuali norme sul funzionamento e sull'organizzazione degli Istituti nei limiti della loro compatibilita' con le disposizioni del presente decreto legislativo".
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.

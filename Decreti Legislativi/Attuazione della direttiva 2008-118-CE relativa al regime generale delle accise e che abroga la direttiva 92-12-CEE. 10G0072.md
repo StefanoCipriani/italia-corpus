@@ -999,7 +999,7 @@ Nel [decreto-legge 30 gennaio 2004, n. 24](https://www.normattiva.it/uri-res/N2L
 
 5.
 
-Nella [legge 30 dicembre 2004, n. 311, nell'articolo 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-12-30;311#art_1), i commi 486 e 487 sono abrogati.
+Nella [legge 30 dicembre 2004, n. 311, nell'articolo 1](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202005.md), i commi 486 e 487 sono abrogati.
 
 Note all'[art. 4: 
  - La legge 13 luglio 1965, n. 825](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regime%20di%20imposizione%20fiscale%20sui%20prodotti%20oggetto%20di%20monopolio%20di%20Stato.md) e' pubblicata nella G.U. 22 luglio 1965, n. 182. 

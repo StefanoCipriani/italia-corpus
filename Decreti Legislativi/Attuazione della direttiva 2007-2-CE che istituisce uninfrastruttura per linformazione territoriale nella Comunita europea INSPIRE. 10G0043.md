@@ -34,7 +34,7 @@ VISTO il [decreto legislativo 24 gennaio 2006, n. 36](Attuazione%20della%20diret
 
 VISTO il [decreto legislativo 3 aprile 2006, n. 152](Norme%20in%20materia%20ambientale.md), e successive modificazioni, recante norme in materia ambientale;
 
-VISTO il [decreto legislativo 22 gennaio 2004, n. 42](Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md), successive modificazioni, recante il [codice dei beni culturali e del paesaggio](Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md), ai sensi dell'[articolo 10 della legge 6 luglio 2002, n. 137](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-07-06;137#art_10);
+VISTO il [decreto legislativo 22 gennaio 2004, n. 42](Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md), successive modificazioni, recante il [codice dei beni culturali e del paesaggio](Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md), ai sensi dell'[articolo 10 della legge 6 luglio 2002, n. 137](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20per%20la%20riforma%20dellorganizzazione%20del%20Governo%20e%20della%20Presidenza%20del%20Consiglio%20dei%20Ministri%20nonche%20di%20enti%20pubblici.md);
 
 VISTO il regolamento (CE) n. 401/2009 del Parlamento europeo e del Consiglio, del 23 aprile 2009, sull'Agenzia europea dell'ambiente e la rete europea d'informazione e di osservazione in materia ambientale;
 
@@ -364,7 +364,7 @@ I decreti di cui al comma 8 sono pubblicati nella Gazzetta Ufficiale della Repub
 
 10.
 
-Gli introiti delle tariffe di cui al comma 8 sono versati all'entrata del bilancio dello Stato, per essere riassegnati, ai sensi dell'[articolo 4, comma 2, della legge 18 aprile 2005, n. 62](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-04-18;62#art_4-com2), allo stato di previsione delle Amministrazioni interessate.
+Gli introiti delle tariffe di cui al comma 8 sono versati all'entrata del bilancio dello Stato, per essere riassegnati, ai sensi dell'[articolo 4, comma 2, della legge 18 aprile 2005, n. 62](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%202004.md), allo stato di previsione delle Amministrazioni interessate.
 
 11.
 
@@ -418,7 +418,7 @@ In deroga ai commi 1 e 5, per esigenze di auto finanziamento delle autorita' pub
 
 8.
 
-Gli introiti delle tariffe di cui al comma 7, sono versati all'entrata del bilancio dello Stato, per essere riassegnati, ai sensi dell'[articolo 4, comma 2, della legge 18 aprile 2005, n. 62](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-04-18;62#art_4-com2), allo stato di previsione delle Amministrazioni interessate.
+Gli introiti delle tariffe di cui al comma 7, sono versati all'entrata del bilancio dello Stato, per essere riassegnati, ai sensi dell'[articolo 4, comma 2, della legge 18 aprile 2005, n. 62](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%202004.md), allo stato di previsione delle Amministrazioni interessate.
 
 9.
 

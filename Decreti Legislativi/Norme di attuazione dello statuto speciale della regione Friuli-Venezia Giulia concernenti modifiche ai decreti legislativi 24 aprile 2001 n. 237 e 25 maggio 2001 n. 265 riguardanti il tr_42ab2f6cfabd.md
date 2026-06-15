@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[articolo 87, quinto comma, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge costituzionale 31 gennaio 1963, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1963-01-31;1), che ha approvato lo statuto speciale della regione Friuli-Venezia Giulia;
+Vista la [legge costituzionale 31 gennaio 1963, n. 1](../Leggi%20costituzionali/Statuto%20speciale%20della%20Regione%20Friuli-Venezia%20Giulia.md), che ha approvato lo statuto speciale della regione Friuli-Venezia Giulia;
 
 Visto il [decreto legislativo 24 aprile 2001, n. 237](Norme%20di%20attuazione%20dello%20Statuto%20speciale%20della%20regione%20Friuli-Venezia%20Giulia%20recanti%20il%20trasferimento%20alla%20regione%20di%20beni%20immobili%20dello%20Stato.md);
 
@@ -40,7 +40,7 @@ Avvertenza:
  - Il [decreto legislativo 25 maggio 2001, n. 265](Norme%20di%20attuazione%20dello%20Statuto%20speciale%20della%20regione%20Friuli-Venezia%20Giulia%20per%20il%20trasferimento%20di%20beni%20del%20demanio%20idrico%20e%20marittimo%20nonche%20di%20funzioni%20in%20materia%20di%20risorse%20idriche_15c0795136f5.md) (Norme di attuazione dello statuto speciale della regione Friuli-Venezia Giulia concernente il trasferimento alla regione di beni appartenenti al demanio idrico), e' pubblicato nella Gazzetta Ufficiale n. 155 del 6 luglio 2001.
  Note alle premesse:
  - L'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5) conferisce al Presidente della Repubblica il potere di promulgare leggi e di emanare i decreti aventi valore di leggi e regolamenti.
- - La [legge costituzionale 31 gennaio 1963, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1963-01-31;1), e' stata pubblicata nella Gazzetta Ufficiale n. 29 del 1° febbraio 1963.
+ - La [legge costituzionale 31 gennaio 1963, n. 1](../Leggi%20costituzionali/Statuto%20speciale%20della%20Regione%20Friuli-Venezia%20Giulia.md), e' stata pubblicata nella Gazzetta Ufficiale n. 29 del 1° febbraio 1963.
  - Il [decreto legislativo 24 aprile 2001, n. 237](Norme%20di%20attuazione%20dello%20Statuto%20speciale%20della%20regione%20Friuli-Venezia%20Giulia%20recanti%20il%20trasferimento%20alla%20regione%20di%20beni%20immobili%20dello%20Stato.md), e' citato nelle note al titolo.
  - Il [decreto legislativo 25 maggio 2001, n. 265](Norme%20di%20attuazione%20dello%20Statuto%20speciale%20della%20regione%20Friuli-Venezia%20Giulia%20per%20il%20trasferimento%20di%20beni%20del%20demanio%20idrico%20e%20marittimo%20nonche%20di%20funzioni%20in%20materia%20di%20risorse%20idriche_15c0795136f5.md), e' citato nelle note al titolo.
  - L'art. 65 dello statuto speciale per la regione Friuli-Venezia Giulia, approvato con legge costituzionale 31 gennaio 1963, n. 1 (pubblicata nella Gazzetta Ufficiale n. 29 del 1° febbraio 1963), e' cosi' formulato:

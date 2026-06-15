@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4), con le modificazioni ad esso apportate dall'[art. 3, comma primo, del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98#art_3-com1);
+Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4), con le modificazioni ad esso apportate dall'[art. 3, comma primo, del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Viste le disposizioni transitorie I e XV della Costituzione;
 
@@ -52,7 +52,7 @@ Le disposizioni del presente decreto si osservano, in quanto applicabili, per i 
 
 ## Art. 7.
 
-Per i pagamenti in dipendenza dell'applicazione del presente decreto dovra' tenersi conto di quanto disposto dagli [articoli 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-05-08;428#art_1) e [8 del decreto legislativo luogotenenziale 8 maggio 1946, n. 428](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-05-08;428#art_8), e successive modificazioni.
+Per i pagamenti in dipendenza dell'applicazione del presente decreto dovra' tenersi conto di quanto disposto dagli [articoli 1](../Decreti%20legislativi%20luogotenenziali/Pagamento%20dei%20debiti%20scaduti%20delle%20Amministrazioni%20dello%20Stato.md) e [8 del decreto legislativo luogotenenziale 8 maggio 1946, n. 428](../Decreti%20legislativi%20luogotenenziali/Pagamento%20dei%20debiti%20scaduti%20delle%20Amministrazioni%20dello%20Stato.md), e successive modificazioni.
 
 ## Art. 8.
 

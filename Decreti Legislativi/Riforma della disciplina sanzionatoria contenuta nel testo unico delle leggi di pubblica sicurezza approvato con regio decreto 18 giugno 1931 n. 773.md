@@ -14,7 +14,7 @@ Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cos
 
 Visto l'[art. 14 della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_14);
 
-Visto l'[art. 1 della legge 28 dicembre 1993, n. 562](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-28;562#art_1);
+Visto l'[art. 1 della legge 28 dicembre 1993, n. 562](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20riforma%20della%20disciplina%20sanzionatoria%20contenuta%20nel%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza%20e%20delle%20disposizioni%20ad%20esso%20connesse%20o%20complementari.md);
 
 Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella riunione del 22 aprile 1994;
 

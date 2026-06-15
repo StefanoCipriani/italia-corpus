@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[articolo 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge costituzionale 31 gennaio 1963, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1963-01-31;1), che ha approvato lo statuto speciale della regione Friuli-Venezia Giulia;
+Vista la [legge costituzionale 31 gennaio 1963, n. 1](../Leggi%20costituzionali/Statuto%20speciale%20della%20Regione%20Friuli-Venezia%20Giulia.md), che ha approvato lo statuto speciale della regione Friuli-Venezia Giulia;
 
 Sentita la Commissione paritetica prevista dall'articolo 65 dello statuto speciale;
 
@@ -33,7 +33,7 @@ Avvertenza:
 
  Note alle premesse:
  - L'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5) conferisce al Presidente della Repubblica il potere di promulgare leggi e di emanare i decreti aventi valore di leggi e regolamenti.
- - La [legge costituzionale 31 gennaio 1963, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1963-01-31;1), e' stata pubblicata nella Gazzetta Ufficiale n. 29 del 1 febbraio 1963.
+ - La [legge costituzionale 31 gennaio 1963, n. 1](../Leggi%20costituzionali/Statuto%20speciale%20della%20Regione%20Friuli-Venezia%20Giulia.md), e' stata pubblicata nella Gazzetta Ufficiale n. 29 del 1 febbraio 1963.
  - L'art. 65 dello statuto speciale per la regione Friuli-Venezia Giulia, approvato con legge costituzionale 31 gennaio 1963, n. 1 (pubblicata nella Gazzetta Ufficiale n. 29 del 1 febbraio 1963), e' cosi' formulato:
  "Art. 65. - Con decreti legislativi, sentita una commissione paritetica di sei membri, nominati tre dal Governo della Repubblica e tre dal consiglio regionale, saranno stabilite le norme di attuazione del presente statuto e quelle relative al trasferimento all'amministrazione regionale degli uffici statali che nel Friuli-Venezia Giulia adempiono a funzioni attribuite alla regione.".
 
@@ -145,7 +145,7 @@ Nota all'art. 5:
 Sono trasferite alla regione Friuli-Venezia Giulia, per la parte che gia' non le spetti ai sensi delle norme vigenti, tutte le funzioni in materia di incentivi alle imprese di cui agli [articoli 19](Conferimento%20di%20funzioni%20e%20compiti%20amministrativi%20dello%20Stato%20alle%20regioni%20ed%20agli%20enti%20locali%20in%20attuazione%20del%20capo%20I%20della%20legge%2015%20marzo%201997%20n.%2059.md), [30](Conferimento%20di%20funzioni%20e%20compiti%20amministrativi%20dello%20Stato%20alle%20regioni%20ed%20agli%20enti%20locali%20in%20attuazione%20del%20capo%20I%20della%20legge%2015%20marzo%201997%20n.%2059.md), [34](Conferimento%20di%20funzioni%20e%20compiti%20amministrativi%20dello%20Stato%20alle%20regioni%20ed%20agli%20enti%20locali%20in%20attuazione%20del%20capo%20I%20della%20legge%2015%20marzo%201997%20n.%2059.md), [41](Conferimento%20di%20funzioni%20e%20compiti%20amministrativi%20dello%20Stato%20alle%20regioni%20ed%20agli%20enti%20locali%20in%20attuazione%20del%20capo%20I%20della%20legge%2015%20marzo%201997%20n.%2059.md) e [48 del decreto legislativo 31 marzo 1998, n. 112](Conferimento%20di%20funzioni%20e%20compiti%20amministrativi%20dello%20Stato%20alle%20regioni%20ed%20agli%20enti%20locali%20in%20attuazione%20del%20capo%20I%20della%20legge%2015%20marzo%201997%20n.%2059.md).
 
 Nota all'[art. 6:
- - Il decreto legislativo 31 marzo 1998, n. 112](Conferimento%20di%20funzioni%20e%20compiti%20amministrativi%20dello%20Stato%20alle%20regioni%20ed%20agli%20enti%20locali%20in%20attuazione%20del%20capo%20I%20della%20legge%2015%20marzo%201997%20n.%2059.md) (Conferimento di funzioni e compiti amministrativi dello Stato alle regioni ed agli enti locali, in attuazione del capo I della [legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59)) e' stato pubblicato nella Gazzetta Ufficiale n. 92 del 21 aprile 1998, supplemento ordinario.
+ - Il decreto legislativo 31 marzo 1998, n. 112](Conferimento%20di%20funzioni%20e%20compiti%20amministrativi%20dello%20Stato%20alle%20regioni%20ed%20agli%20enti%20locali%20in%20attuazione%20del%20capo%20I%20della%20legge%2015%20marzo%201997%20n.%2059.md) (Conferimento di funzioni e compiti amministrativi dello Stato alle regioni ed agli enti locali, in attuazione del capo I della [legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md)) e' stato pubblicato nella Gazzetta Ufficiale n. 92 del 21 aprile 1998, supplemento ordinario.
 
 ## Art. 7. — Norme transitorie
 
@@ -186,12 +186,12 @@ In forza delle disposizioni dell'articolo 8, la regione, a decorrere dalla data 
 
 3.
 
-Con la legge statale che, ai sensi dell'[articolo 63, secondo comma, della legge costituzionale 31 gennaio 1963, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1963-01-31;1#art_63-com2) (Statuto speciale della regione autonoma Friuli-Venezia Giulia), modifichera' l'articolo 49 dello statuto, si provvedera', entro tre anni dalla data di entrata in vigore del presente decreto, a garantire in via definitiva il finanziamento delle funzioni trasferite.
+Con la legge statale che, ai sensi dell'[articolo 63, secondo comma, della legge costituzionale 31 gennaio 1963, n. 1](../Leggi%20costituzionali/Statuto%20speciale%20della%20Regione%20Friuli-Venezia%20Giulia.md) (Statuto speciale della regione autonoma Friuli-Venezia Giulia), modifichera' l'articolo 49 dello statuto, si provvedera', entro tre anni dalla data di entrata in vigore del presente decreto, a garantire in via definitiva il finanziamento delle funzioni trasferite.
 
 Note all'[art. 9:
  - Il decreto legislativo 31 marzo 1998, n. 112](Conferimento%20di%20funzioni%20e%20compiti%20amministrativi%20dello%20Stato%20alle%20regioni%20ed%20agli%20enti%20locali%20in%20attuazione%20del%20capo%20I%20della%20legge%2015%20marzo%201997%20n.%2059.md), e' citato nella nota all'art. 6.
  - La [legge 18 ottobre 1955, n. 908](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1955-10-18;908), e' citata nella nota all'art. 8.
- - Si riporta il testo del [secondo comma dell'art. 63 della legge costituzionale 31 gennaio 1963, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1963-01-31;1#art_63-com2) (Statuto speciale della regione autonoma Friuli-Venezia Giulia):
+ - Si riporta il testo del [secondo comma dell'art. 63 della legge costituzionale 31 gennaio 1963, n. 1](../Leggi%20costituzionali/Statuto%20speciale%20della%20Regione%20Friuli-Venezia%20Giulia.md) (Statuto speciale della regione autonoma Friuli-Venezia Giulia):
  "2. - Le disposizioni contenute nel titolo IV possono essere modificate con leggi ordinarie, su proposta di ciascun membro delle Camere, del Governo e della regione, e, in ogni caso, sentita la regione.".
  - Si riporta il testo dell'art. 49 dello statuto speciale della regione autonoma Friuli-Venezia Giulia:
  "Art. 49. - Sono devolute alle regioni le seguenti quote fisse dei sottoindicati proventi dello Stato, riscossi nel territorio della regione stessa;

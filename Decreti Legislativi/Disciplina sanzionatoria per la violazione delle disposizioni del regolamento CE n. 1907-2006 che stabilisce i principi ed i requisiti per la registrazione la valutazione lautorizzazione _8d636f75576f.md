@@ -385,7 +385,7 @@ La [L. 23 dicembre 2021, n. 238](../Atti%20di%20recepimento%20direttive%20UE/Dis
 
 ### Art. 17.
 
-ARTICOLO ABROGATO DAL [D.LGS. 27 OTTOBRE 2011, N. 186](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-10-27;186). 
+ARTICOLO ABROGATO DAL [D.LGS. 27 OTTOBRE 2011, N. 186](Disciplina%20sanzionatoria%20per%20la%20violazione%20delle%20disposizioni%20del%20regolamento%20CE%20n.%201272-2008%20relativo%20alla%20classificazione%20alletichettatura%20e%20allimballaggio%20di%20sostanze%20e%20miscele%20che%20mod_62ff72f61832.md). 
  ((2))
 
 --------------

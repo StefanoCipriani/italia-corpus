@@ -14,7 +14,7 @@ Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cos
 
 Vista la [direttiva n. 2003/17/CE del Parlamento europeo e del Consiglio, del 3 marzo 2003](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2003;17), recante modifica della [direttiva 98/70/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1998;70), relativa alla qualita' della benzina e del combustibile diesel, gia' modificata dalla [direttiva 2000/71/CE della Commissione, del 7 novembre 2000](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2000;71);
 
-Vista la [legge 31 ottobre 2003, n. 306](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-10-31;306), recante disposizioni per l'adempimento degli obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee (legge comunitaria 2003);
+Vista la [legge 31 ottobre 2003, n. 306](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%202003.md), recante disposizioni per l'adempimento degli obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee (legge comunitaria 2003);
 
 Visto l'[articolo 14 della legge 17 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-17;400#art_14);
 

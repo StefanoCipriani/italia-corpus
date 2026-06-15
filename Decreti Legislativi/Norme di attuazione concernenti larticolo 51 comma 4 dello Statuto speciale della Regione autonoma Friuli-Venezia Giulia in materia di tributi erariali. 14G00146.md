@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[articolo 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge costituzionale 31 gennaio 1963, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1963-01-31;1), recante lo Statuto speciale della Regione autonoma Friuli Venezia Giulia;
+Vista la [legge costituzionale 31 gennaio 1963, n. 1](../Leggi%20costituzionali/Statuto%20speciale%20della%20Regione%20Friuli-Venezia%20Giulia.md), recante lo Statuto speciale della Regione autonoma Friuli Venezia Giulia;
 
 Visto l'articolo 51, comma 4, lettera a), dello Statuto speciale;
 
@@ -38,7 +38,7 @@ Avvertenza:
  Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti qui trascritti. 
  Note alle premesse: 
  - L'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87) conferisce, tra l'altro, al Presidente della Repubblica il potere di promulgare le leggi e di emanare i decreti aventi valore di legge ed i regolamenti. 
- - La [legge costituzionale 31 gennaio 1963, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1963-01-31;1), recante lo Statuto speciale della Regione autonoma Friuli Venezia Giulia, e' pubblicata nella Gazzetta Ufficiale 1° febbraio 1963, n. 29. 
+ - La [legge costituzionale 31 gennaio 1963, n. 1](../Leggi%20costituzionali/Statuto%20speciale%20della%20Regione%20Friuli-Venezia%20Giulia.md), recante lo Statuto speciale della Regione autonoma Friuli Venezia Giulia, e' pubblicata nella Gazzetta Ufficiale 1° febbraio 1963, n. 29. 
  - L'art. 51, quarto comma, lettera a), dello Statuto speciale della regione Friuli Venezia Giulia e' il seguente: 
  «Nel rispetto delle norme dell'Unione europea sugli aiuti di Stato, la Regione puo': 
  a) con riferimento ai tributi erariali per i quali lo Stato ne prevede la possibilita', modificare le aliquote, in riduzione, oltre i limiti attualmente previsti e, in aumento, entro il livello massimo di imposizione stabilito dalla normativa statale, prevedere esenzioni dal pagamento, introdurre detrazioni di imposta e deduzioni dalla base imponibile». 

@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[articolo 87, quinto comma, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge costituzionale 31 gennaio 1963, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1963-01-31;1), recante lo Statuto speciale della Regione Friuli-Venezia Giulia e, in particolare, l'articolo 4, primo comma, numero 9);
+Vista la [legge costituzionale 31 gennaio 1963, n. 1](../Leggi%20costituzionali/Statuto%20speciale%20della%20Regione%20Friuli-Venezia%20Giulia.md), recante lo Statuto speciale della Regione Friuli-Venezia Giulia e, in particolare, l'articolo 4, primo comma, numero 9);
 
 Visto il [decreto legislativo 1° aprile 2004, n. 111](Norme%20di%20attuazione%20dello%20statuto%20speciale%20della%20regione%20Friuli-Venezia%20Giulia%20concernenti%20il%20trasferimento%20di%20funzioni%20in%20materia%20di%20viabilita%20e%20trasporti.md), recante «Norme di attuazione dello statuto speciale della regione Friuli-Venezia Giulia concernenti il trasferimento di funzioni in materia di viabilita' e trasporti»;
 
@@ -47,7 +47,7 @@ N O T E
  
  Note alle premesse: 
  - L'[art. 87, quinto comma, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5) conferisce al Presidente della Repubblica il potere di promulgare le leggi ed emanare i decreti aventi valore di legge e i regolamenti. 
- - Si riporta l'[articolo 4 della legge costituzionale 31 gennaio 1963, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1963-01-31;1#art_4) recante: «Statuto speciale per il Friuli Venezia Giulia», pubblicata nella Gazzetta Ufficiale n. 29 del 1° febbraio 1963: 
+ - Si riporta l'[articolo 4 della legge costituzionale 31 gennaio 1963, n. 1](../Leggi%20costituzionali/Statuto%20speciale%20della%20Regione%20Friuli-Venezia%20Giulia.md) recante: «Statuto speciale per il Friuli Venezia Giulia», pubblicata nella Gazzetta Ufficiale n. 29 del 1° febbraio 1963: 
  «In armonia con la Costituzione, con i principi generali dell'ordinamento giuridico della Repubblica, con le norme fondamentali delle riforme economico-sociali e con gli obblighi internazionali dello Stato, nonche' nel rispetto degli interessi nazionali e di quelli delle altre Regioni, la Regione ha potesta' legislativa nelle seguenti materie: 
  1) ordinamento degli Uffici e degli Enti dipendenti dalla Regione e stato giuridico ed economico del personale ad essi addetto; 
  1-bis) ordinamento degli enti locali e delle relative circoscrizioni; 
@@ -105,7 +105,7 @@ Ai sensi dell'[articolo 4, comma 2 del decreto legislativo 1° aprile 2004, n. 1
 
 Note all'art. 2: 
  - Si riporta il testo dell'articolo 4 del citato [decreto legislativo 1° aprile 2004, n. 111](Norme%20di%20attuazione%20dello%20statuto%20speciale%20della%20regione%20Friuli-Venezia%20Giulia%20concernenti%20il%20trasferimento%20di%20funzioni%20in%20materia%20di%20viabilita%20e%20trasporti.md): 
- «Art. 4 (Trasferimento delle strade di interesse regionale). - 1. Sono trasferiti al demanio della Regione le strade ed i tronchi di strade, gia' appartenenti al demanio statale ai sensi dell'[articolo 822 del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_822), indicati nell'elenco allegato sub A), con le pertinenze e gli accessori relativi, incluse le case cantoniere non dismesse, a norma dell'[articolo 44, comma 5, della legge 27 dicembre 1997, n. 449](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-12-27;449#art_44-com5), nello stato di fatto e di diritto in cui si trovano alla data di consegna, a condizione che ne siano accertati funzionalita' e ordinario stato di manutenzione. 
+ «Art. 4 (Trasferimento delle strade di interesse regionale). - 1. Sono trasferiti al demanio della Regione le strade ed i tronchi di strade, gia' appartenenti al demanio statale ai sensi dell'[articolo 822 del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_822), indicati nell'elenco allegato sub A), con le pertinenze e gli accessori relativi, incluse le case cantoniere non dismesse, a norma dell'[articolo 44, comma 5, della legge 27 dicembre 1997, n. 449](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20per%20la%20stabilizzazione%20della%20finanza%20pubblica.md), nello stato di fatto e di diritto in cui si trovano alla data di consegna, a condizione che ne siano accertati funzionalita' e ordinario stato di manutenzione. 
  2. Con successive norme di attuazione, ai sensi dell'[articolo 3, comma 1, del decreto legislativo 29 ottobre 1999, n. 461](Individuazione%20della%20rete%20autostradale%20e%20stradale%20nazionale%20a%20norma%20dellarticolo%2098%20comma%202%20del%20decreto%20legislativo%2031%20marzo%201998%20n.%20112.md), potranno essere modificati gli elenchi allegati sub A), B) e C), con i relativi beni e risorse strumentali, finanziarie, umane ed organizzative. 
  3. La Regione puo' trasferire i beni di cui al comma 1 al demanio degli enti locali. 
  4. Il trasferimento dei beni di cui al comma 1 decorre dalla data della consegna. Fino al predetto termine, restano affidati all'ANAS S.p.a. i compiti e le funzioni svolti sulla rete stradale gia' di competenza dello stesso ente. 

@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87, quinto comma, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge 14 febbraio 2003, n. 30](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-02-14;30), ed in particolare l'articolo 8;
+Vista la [legge 14 febbraio 2003, n. 30](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20in%20materia%20di%20occupazione%20e%20mercato%20del%20lavoro.md), ed in particolare l'articolo 8;
 
 Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella riunione del 29 gennaio 2004;
 
@@ -30,7 +30,7 @@ Capo I
 
 1.
 
-Il Ministero del lavoro e delle politiche sociali assume e coordina, nel rispetto delle competenze affidate alle regioni ed alle province autonome, le iniziative di contrasto del lavoro sommerso e irregolare, di vigilanza in materia di rapporti di lavoro e dei livelli essenziali delle prestazioni concernenti i diritti civili e sociali che devono essere garantiti su tutto il territorio nazionale, con particolare riferimento allo svolgimento delle attivita' di vigilanza mirate alla prevenzione e alla promozione dell'osservanza delle norme di legislazione sociale e del lavoro, ivi compresa l'applicazione dei contratti collettivi di lavoro e della disciplina previdenziale. Resta ferma la competenza del Ministero dell'interno in materia di coordinamento e di direzione dei servizi di ordine e sicurezza pubblica, di cui all'[articolo 1 della legge 1° aprile 1981, n. 121](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-04-01;121#art_1), e di cui all'[articolo 10 della legge 31 marzo 2000, n. 78](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-03-31;78#art_10), nonche' dei prefetti in sede. Resta altresi' ferma la competenza delle aziende sanitarie locali in materia di tutela e sicurezza nei luoghi di lavoro.
+Il Ministero del lavoro e delle politiche sociali assume e coordina, nel rispetto delle competenze affidate alle regioni ed alle province autonome, le iniziative di contrasto del lavoro sommerso e irregolare, di vigilanza in materia di rapporti di lavoro e dei livelli essenziali delle prestazioni concernenti i diritti civili e sociali che devono essere garantiti su tutto il territorio nazionale, con particolare riferimento allo svolgimento delle attivita' di vigilanza mirate alla prevenzione e alla promozione dell'osservanza delle norme di legislazione sociale e del lavoro, ivi compresa l'applicazione dei contratti collettivi di lavoro e della disciplina previdenziale. Resta ferma la competenza del Ministero dell'interno in materia di coordinamento e di direzione dei servizi di ordine e sicurezza pubblica, di cui all'[articolo 1 della legge 1° aprile 1981, n. 121](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-04-01;121#art_1), e di cui all'[articolo 10 della legge 31 marzo 2000, n. 78](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20in%20materia%20di%20riordino%20dellArma%20dei%20carabinieri%20del%20Corpo%20forestale%20dello%20Stato%20del%20Corpo%20della%20Guardia%20di%20finanza%20e%20della%20Polizia%20di%20Stato.%20Norme%20in%20materia%20di%20coordina_2b4843489113.md), nonche' dei prefetti in sede. Resta altresi' ferma la competenza delle aziende sanitarie locali in materia di tutela e sicurezza nei luoghi di lavoro.
 
 2.
 
@@ -41,7 +41,7 @@ Sono fatte salve le competenze riconosciute alle regioni a statuto speciale ed a
 
 AGGIORNAMENTO (7)
 
-Il [D.Lgs. 14 settembre 2015, n. 149](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-09-14;149), ha disposto (con l'art. 11, comma 1, lettera a)) l'abrogazione del presente articolo a decorrere dalla data indicata dai decreti di cui all'articolo 5, comma 1, del D.Lgs. medesimo.
+Il [D.Lgs. 14 settembre 2015, n. 149](Disposizioni%20per%20la%20razionalizzazione%20e%20la%20semplificazione%20dellattivita%20ispettiva%20in%20materia%20di%20lavoro%20e%20legislazione%20sociale%20in%20attuazione%20della%20legge%2010%20dicembre%202014%20n.%20183.%2015G00161.md), ha disposto (con l'art. 11, comma 1, lettera a)) l'abrogazione del presente articolo a decorrere dalla data indicata dai decreti di cui all'articolo 5, comma 1, del D.Lgs. medesimo.
 
 ### Art. 2. — Direzione generale con compiti di direzione e coordinamento delle attivita' ispettive
 
@@ -62,7 +62,7 @@ La direzione generale convoca, almeno quattro volte all'anno, i presidenti delle
 
 AGGIORNAMENTO (7)
 
-Il [D.Lgs. 14 settembre 2015, n. 149](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-09-14;149), ha disposto (con l'art. 11, comma 1, lettera a)) l'abrogazione del presente articolo a decorrere dalla data indicata dai decreti di cui all'articolo 5, comma 1, del D.Lgs. medesimo.
+Il [D.Lgs. 14 settembre 2015, n. 149](Disposizioni%20per%20la%20razionalizzazione%20e%20la%20semplificazione%20dellattivita%20ispettiva%20in%20materia%20di%20lavoro%20e%20legislazione%20sociale%20in%20attuazione%20della%20legge%2010%20dicembre%202014%20n.%20183.%2015G00161.md), ha disposto (con l'art. 11, comma 1, lettera a)) l'abrogazione del presente articolo a decorrere dalla data indicata dai decreti di cui all'articolo 5, comma 1, del D.Lgs. medesimo.
 
 ### Art. 3. — (( (Commissione centrale di coordinamento dell'attivita' di vigilanza). ))
 
@@ -98,7 +98,7 @@ La Corte costituzionale con sentenza 11-14 ottobre 2005, n.384 (in G.U. 1a s.s. 
 
 AGGIORNAMENTO (7)
 
-Il [D.Lgs. 14 settembre 2015, n. 149](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-09-14;149), ha disposto (con l'art. 11, comma 1, alinea) che la presente modifica decorre dalla data indicata dai decreti di cui all'articolo 5, comma 1, del D.Lgs. medesimo.
+Il [D.Lgs. 14 settembre 2015, n. 149](Disposizioni%20per%20la%20razionalizzazione%20e%20la%20semplificazione%20dellattivita%20ispettiva%20in%20materia%20di%20lavoro%20e%20legislazione%20sociale%20in%20attuazione%20della%20legge%2010%20dicembre%202014%20n.%20183.%2015G00161.md), ha disposto (con l'art. 11, comma 1, alinea) che la presente modifica decorre dalla data indicata dai decreti di cui all'articolo 5, comma 1, del D.Lgs. medesimo.
 
 ### Art. 4. — Coordinamento regionale dell'attivita' di vigilanza
 
@@ -134,7 +134,7 @@ La Corte costituzionale con sentenza 11-14 ottobre 2005, n. 384 (in G.U. 1a s.s.
 
 AGGIORNAMENTO (7)
 
-Il [D.Lgs. 14 settembre 2015, n. 149](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-09-14;149), ha disposto (con l'art. 11, comma 1, lettera a)) l'abrogazione del presente articolo a decorrere dalla data indicata dai decreti di cui all'articolo 5, comma 1, del D.Lgs. medesimo.
+Il [D.Lgs. 14 settembre 2015, n. 149](Disposizioni%20per%20la%20razionalizzazione%20e%20la%20semplificazione%20dellattivita%20ispettiva%20in%20materia%20di%20lavoro%20e%20legislazione%20sociale%20in%20attuazione%20della%20legge%2010%20dicembre%202014%20n.%20183.%2015G00161.md), ha disposto (con l'art. 11, comma 1, lettera a)) l'abrogazione del presente articolo a decorrere dalla data indicata dai decreti di cui all'articolo 5, comma 1, del D.Lgs. medesimo.
 
 ### Art. 5. — Coordinamento provinciale dell'attivita' di vigilanza
 
@@ -159,7 +159,7 @@ Ai componenti dei CLES, ed ai soggetti che eventualmente li integrano ai sensi d
 
 AGGIORNAMENTO (7)
 
-Il [D.Lgs. 14 settembre 2015, n. 149](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-09-14;149), ha disposto (con l'art. 11, comma 1, lettera a)) l'abrogazione del presente articolo a decorrere dalla data indicata dai decreti di cui all'articolo 5, comma 1, del D.Lgs. medesimo.
+Il [D.Lgs. 14 settembre 2015, n. 149](Disposizioni%20per%20la%20razionalizzazione%20e%20la%20semplificazione%20dellattivita%20ispettiva%20in%20materia%20di%20lavoro%20e%20legislazione%20sociale%20in%20attuazione%20della%20legge%2010%20dicembre%202014%20n.%20183.%2015G00161.md), ha disposto (con l'art. 11, comma 1, lettera a)) l'abrogazione del presente articolo a decorrere dalla data indicata dai decreti di cui all'articolo 5, comma 1, del D.Lgs. medesimo.
 
 ### Art. 6. — Personale ispettivo
 
@@ -239,7 +239,7 @@ L'adeguamento alle indicazioni fornite nelle risposte ai quesiti di cui al comma
 
 AGGIORNAMENTO (7)
 
-Il [D.Lgs. 14 settembre 2015, n. 149](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-09-14;149), ha disposto (con l'art. 11, comma 1, alinea) che la presente modifica decorre dalla data indicata dai decreti di cui all'articolo 5, comma 1 del D.Lgs. medesimo.
+Il [D.Lgs. 14 settembre 2015, n. 149](Disposizioni%20per%20la%20razionalizzazione%20e%20la%20semplificazione%20dellattivita%20ispettiva%20in%20materia%20di%20lavoro%20e%20legislazione%20sociale%20in%20attuazione%20della%20legge%2010%20dicembre%202014%20n.%20183.%2015G00161.md), ha disposto (con l'art. 11, comma 1, alinea) che la presente modifica decorre dalla data indicata dai decreti di cui all'articolo 5, comma 1 del D.Lgs. medesimo.
 
 ### Art. 10. — Razionalizzazione e coordinamento della attivita' ispettiva
 
@@ -385,7 +385,7 @@ Il potere di diffida di cui al comma 2 e' esteso agli ufficiali e agenti di poli
 
 AGGIORNAMENTO (7)
 
-Il [D.Lgs. 14 settembre 2015, n. 149](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-09-14;149), ha disposto (con l'art. 11, comma 1, alinea) che la presente modifica decorre dalla data indicata dai decreti di cui all'articolo 5, comma 1 del D.Lgs. medesimo.
+Il [D.Lgs. 14 settembre 2015, n. 149](Disposizioni%20per%20la%20razionalizzazione%20e%20la%20semplificazione%20dellattivita%20ispettiva%20in%20materia%20di%20lavoro%20e%20legislazione%20sociale%20in%20attuazione%20della%20legge%2010%20dicembre%202014%20n.%20183.%2015G00161.md), ha disposto (con l'art. 11, comma 1, alinea) che la presente modifica decorre dalla data indicata dai decreti di cui all'articolo 5, comma 1 del D.Lgs. medesimo.
 
 ### Art. 14. — (( (Disposizioni del personale ispettivo) ))
 
@@ -455,7 +455,7 @@ Al fine di garantire l'uniforme applicazione delle disposizioni in materia di la
 
 AGGIORNAMENTO (7)
 
-Il [D.Lgs. 14 settembre 2015, n. 149](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-09-14;149), ha disposto (con l'art. 11, comma 1, alinea) che la presente modifica decorre dalla data indicata dai decreti di cui all'articolo 5, comma 1 del D.Lgs. medesimo.
+Il [D.Lgs. 14 settembre 2015, n. 149](Disposizioni%20per%20la%20razionalizzazione%20e%20la%20semplificazione%20dellattivita%20ispettiva%20in%20materia%20di%20lavoro%20e%20legislazione%20sociale%20in%20attuazione%20della%20legge%2010%20dicembre%202014%20n.%20183.%2015G00161.md), ha disposto (con l'art. 11, comma 1, alinea) che la presente modifica decorre dalla data indicata dai decreti di cui all'articolo 5, comma 1 del D.Lgs. medesimo.
 
 ### Art. 17. — (( (Ricorso al Comitato per i rapporti di lavoro).))
 
@@ -474,20 +474,20 @@ Decorso inutilmente il termine previsto per la decisione il ricorso si intende r
 
 AGGIORNAMENTO (5)
 
-Il [D.Lgs. 1 settembre 2011, n. 150](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-09-01;150) ha disposto (con l'art. 36, commi 1 e 2) che "1. Le norme del presente decreto si applicano ai procedimenti instaurati successivamente alla data di entrata in vigore dello stesso. 
+Il [D.Lgs. 1 settembre 2011, n. 150](Disposizioni%20complementari%20al%20codice%20di%20procedura%20civile%20in%20materia%20di%20riduzione%20e%20semplificazione%20dei%20procedimenti%20civili%20di%20cognizione%20ai%20sensi%20dellarticolo%2054%20della%20legge%2018%20giugno%20200_79c74cc89038.md) ha disposto (con l'art. 36, commi 1 e 2) che "1. Le norme del presente decreto si applicano ai procedimenti instaurati successivamente alla data di entrata in vigore dello stesso. 
  2. Le norme abrogate o modificate dal presente decreto continuano ad applicarsi alle controversie pendenti alla data di entrata in vigore dello stesso."
 
 ---------------
 
 AGGIORNAMENTO (6)
 
-La Corte Costituzionale con sentenza 3 - 5 giugno 2013, n. 119 (in G.U. 1a s.s. 12/06/2013, n. 24) ha dichiarato l'illegittimita' costituzionale dell'[articolo 17, comma 3, del decreto legislativo 23 aprile 2004, n. 124](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004-04-23;124#art_17-com3), nel testo vigente prima dell'entrata in vigore del [decreto legislativo 1°settembre 2011, n. 150](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-09-01;150), nella parte in cui dispone che il ricorso al Comitato regionale per i rapporti di lavoro sospende anziche' interrompe il termine di cui all'[art. 22 della legge n. 689 del 1981](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981;689#art_22).
+La Corte Costituzionale con sentenza 3 - 5 giugno 2013, n. 119 (in G.U. 1a s.s. 12/06/2013, n. 24) ha dichiarato l'illegittimita' costituzionale dell'[articolo 17, comma 3, del decreto legislativo 23 aprile 2004, n. 124](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Razionalizzazione%20delle%20funzioni%20ispettive%20in%20materia%20di%20previdenza%20sociale%20e%20di%20lavoro%20a%20norma%20dellarticolo%208%20della%20legge%2014%20febbraio%202003%20n.%2030.md), nel testo vigente prima dell'entrata in vigore del [decreto legislativo 1°settembre 2011, n. 150](Disposizioni%20complementari%20al%20codice%20di%20procedura%20civile%20in%20materia%20di%20riduzione%20e%20semplificazione%20dei%20procedimenti%20civili%20di%20cognizione%20ai%20sensi%20dellarticolo%2054%20della%20legge%2018%20giugno%20200_79c74cc89038.md), nella parte in cui dispone che il ricorso al Comitato regionale per i rapporti di lavoro sospende anziche' interrompe il termine di cui all'[art. 22 della legge n. 689 del 1981](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981;689#art_22).
 
 ------------
 
 AGGIORNAMENTO (7)
 
-Il [D.Lgs. 14 settembre 2015, n. 149](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-09-14;149), ha disposto (con l'art. 11, comma 1, alinea) che la presente modifica decorre dalla data indicata dai decreti di cui all'articolo 5, comma 1 del D.Lgs. medesimo.
+Il [D.Lgs. 14 settembre 2015, n. 149](Disposizioni%20per%20la%20razionalizzazione%20e%20la%20semplificazione%20dellattivita%20ispettiva%20in%20materia%20di%20lavoro%20e%20legislazione%20sociale%20in%20attuazione%20della%20legge%2010%20dicembre%202014%20n.%20183.%2015G00161.md), ha disposto (con l'art. 11, comma 1, alinea) che la presente modifica decorre dalla data indicata dai decreti di cui all'articolo 5, comma 1 del D.Lgs. medesimo.
 
 ## DISPOSIZIONI FINALI
 

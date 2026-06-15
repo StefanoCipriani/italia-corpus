@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge 5 febbraio 1999, n. 25](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-02-05;25), ed in particolare l'allegato A);
+Vista la [legge 5 febbraio 1999, n. 25](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20legge%20comunitaria%201998.md), ed in particolare l'allegato A);
 
 Vista la [direttiva n. 98/18/CE del Consiglio, in data 17 marzo 1998](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1998;18), che istituisce un regime di sicurezza armonizzato per le navi da passeggeri adibite a viaggi nazionali;
 

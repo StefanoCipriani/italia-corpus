@@ -30,7 +30,7 @@ Visto il [decreto legislativo 24 febbraio 1998, n. 58](Testo%20unico%20delle%20d
 
 Vista la [legge 18 febbraio 1999, n. 28](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-02-18;28), recante: "Disposizioni in materia tributaria, di funzionamento dell'Amministrazione finanziaria e di revisione generale del catasto";
 
-Visto il [decreto legislativo 30 luglio 1999, n. 300](Riforma%20dellorganizzazione%20del%20Governo%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md), recante: "Riforma dell'organizzazione del Governo, a norma dell'[articolo 11 della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_11)";
+Visto il [decreto legislativo 30 luglio 1999, n. 300](Riforma%20dellorganizzazione%20del%20Governo%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md), recante: "Riforma dell'organizzazione del Governo, a norma dell'[articolo 11 della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md)";
 
 Vista la [legge 28 ottobre 1999, n. 410](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-10-28;410), recante: "Nuovo ordinamento dei consorzi agrari";
 
@@ -40,7 +40,7 @@ legislazione in materia cooperativistica, con particolare riferimento
 
 alla posizione del socio lavoratore", ed in particolare l'articolo 7;
 
-Vista la [legge 3 ottobre 2001, n. 366](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001-10-03;366), recante "Delega al Governo
+Vista la [legge 3 ottobre 2001, n. 366](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20riforma%20del%20diritto%20societario.md), recante "Delega al Governo
 
 per la riforma del diritto societario";
 
@@ -66,7 +66,7 @@ Titolo I
 
 1.
 
-La vigilanza su tutte le forme di societa' coope-rative e loro consorzi, gruppi cooperativi [ex articolo 5, comma 1, lettera f), legge 3 ottobre 2001, n. 366](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001-10-03;366#art_5-com1-letf), societa' di mutuo soccorso ed enti mutualistici di cui all'[articolo 2512 del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2512), consorzi agrari e piccole societa' cooperative, di seguito denominati enti cooperativi, e' attribuita al Ministero delle attivita' produttive, di seguito denominato Ministero, che la esercita mediante revisioni cooperative ed ispezioni straordi-narie come disciplinate dal presente decreto.
+La vigilanza su tutte le forme di societa' coope-rative e loro consorzi, gruppi cooperativi [ex articolo 5, comma 1, lettera f), legge 3 ottobre 2001, n. 366](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20riforma%20del%20diritto%20societario.md), societa' di mutuo soccorso ed enti mutualistici di cui all'[articolo 2512 del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2512), consorzi agrari e piccole societa' cooperative, di seguito denominati enti cooperativi, e' attribuita al Ministero delle attivita' produttive, di seguito denominato Ministero, che la esercita mediante revisioni cooperative ed ispezioni straordi-narie come disciplinate dal presente decreto.
 
 2.
 
@@ -133,7 +133,7 @@ Le Associazioni, alla scadenza del termine stabilito per l'esercizio della vigil
 Il mancato versamento del contributo biennale all'Associazione non esime quest'ultima dall'obbligo di effettuare la revisione fino quando l'ente cooperativo non e' cancellato dall'elenco degli aderenti.
 
 Note all'art. 2:
- - Si riporta il testo dell'[art. 11 del decreto legislativo 30 luglio 1999, n. 300](Riforma%20dellorganizzazione%20del%20Governo%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md), recante "Riforma della organizzazione del Governo, a norma dell'[art. 11 della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_11)", pubblicato nella Gazzetta Ufficiale n. 203 del 30 agosto 1999:
+ - Si riporta il testo dell'[art. 11 del decreto legislativo 30 luglio 1999, n. 300](Riforma%20dellorganizzazione%20del%20Governo%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md), recante "Riforma della organizzazione del Governo, a norma dell'[art. 11 della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md)", pubblicato nella Gazzetta Ufficiale n. 203 del 30 agosto 1999:
  "Art. 11 (L'ufficio territoriale del Governo). - 1. Le prefetture sono trasformate in uffici territoriali del Governo.
  2. Gli uffici territoriali del Governo mantengono tutte le funzioni di competenza delle prefetture, assumono quelle ad essi assegnate dal presente decreto e, in generale, sono titolari di tutte le attribuzioni dell'amministrazione periferica dello Stato non espressamente conferite ad altri uffici. Sono in ogni caso fatte salve le competenze spettanti alle regioni a statuto speciale e alle province autonome.
  3. Il prefetto preposto all'ufficio territoriale del Governo nel capoluogo della regione assume anche le funzioni di commissario del Governo.
@@ -205,7 +205,7 @@ Il revisore verifica l'eventuale esistenza del regolamento interno adottato dall
 
 AGGIORNAMENTO (3)
 
-Il [D.L. 18 ottobre 2012, n. 179](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-10-18;179), convertito, con modificazioni dalla [L. 17 dicembre 2012, n. 221](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2018%20ottobre%202012%20n.%20179%20recante%20ulteriori%20misure%20urgenti%20per%20la%20crescita%20del%20Paese.%2012G0244.md) ha disposto (con l'art. 23, comma 9) che "L'[articolo 4 del decreto legislativo 2 agosto 2002, n. 220](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2002-08-02;220#art_4) si interpreta nel senso che la vigilanza sugli enti cooperativi e loro consorzi esplica effetti ed e' diretta nei soli confronti delle pubbliche amministrazioni ai fini della legittimazione a beneficiare delle agevolazioni fiscali, previdenziali e di altra natura, nonche' per l' adozione dei provvedimenti previsti dall'articolo 12 del medesimo [decreto legislativo 2 agosto 2002, n. 220](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2002-08-02;220)".
+Il [D.L. 18 ottobre 2012, n. 179](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-10-18;179), convertito, con modificazioni dalla [L. 17 dicembre 2012, n. 221](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2018%20ottobre%202012%20n.%20179%20recante%20ulteriori%20misure%20urgenti%20per%20la%20crescita%20del%20Paese.%2012G0244.md) ha disposto (con l'art. 23, comma 9) che "L'[articolo 4 del decreto legislativo 2 agosto 2002, n. 220](Norme%20in%20materia%20di%20riordino%20della%20vigilanza%20sugli%20enti%20cooperativi%20ai%20sensi%20dellarticolo%207%20comma%201%20della%20legge%203%20aprile%202001%20n.%20142%20recante%20Revisione%20della%20legislazione%20in%20materia%20cooper_e919468a234a.md) si interpreta nel senso che la vigilanza sugli enti cooperativi e loro consorzi esplica effetti ed e' diretta nei soli confronti delle pubbliche amministrazioni ai fini della legittimazione a beneficiare delle agevolazioni fiscali, previdenziali e di altra natura, nonche' per l' adozione dei provvedimenti previsti dall'articolo 12 del medesimo [decreto legislativo 2 agosto 2002, n. 220](Norme%20in%20materia%20di%20riordino%20della%20vigilanza%20sugli%20enti%20cooperativi%20ai%20sensi%20dellarticolo%207%20comma%201%20della%20legge%203%20aprile%202001%20n.%20142%20recante%20Revisione%20della%20legislazione%20in%20materia%20cooper_e919468a234a.md)".
 
 ### Art. 5. — Conclusione della revisione cooperativa
 
@@ -456,13 +456,13 @@ Agli enti cooperativi che non ottemperino alla diffida impartita in sede di vigi
 
 5-ter.
 
-Lo scioglimento di un ente cooperativo e' comunicato, entro trenta giorni, dal Ministero dello sviluppo economico all'Agenzia delle entrate, anche ai fini dell'applicazione dell'[articolo 28, comma 4, del decreto legislativo 21 novembre 2014, n. 175](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014-11-21;175#art_28-com4).
+Lo scioglimento di un ente cooperativo e' comunicato, entro trenta giorni, dal Ministero dello sviluppo economico all'Agenzia delle entrate, anche ai fini dell'applicazione dell'[articolo 28, comma 4, del decreto legislativo 21 novembre 2014, n. 175](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Semplificazione%20fiscale%20e%20dichiarazione%20dei%20redditi%20precompilata.%2014G00190.md).
 
 ------------
 
 AGGIORNAMENTO (6)
 
-La Corte Costituzionale, con sentenza 10 giugno - 21 luglio 2025, n. 116 (in G.U. 1ª s.s. 23/7/2025, n. 30), ha dichiarato "l'illegittimita' costituzionale dell'art. 12, comma 3, secondo periodo, del [decreto legislativo 2 agosto 2002, n. 220](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2002-08-02;220) (Norme in materia di riordino della vigilanza sugli enti cooperativi, ai sensi dell'[articolo 7, comma 1, della legge 3 aprile 2001, n. 142](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001-04-03;142#art_7-com1), recante: «Revisione della legislazione in materia cooperativistica, con particolare riferimento alla posizione del socio lavoratore»), nella parte in cui prevede che agli enti cooperativi che si sottraggono all'attivita' di vigilanza «[s]i applica il provvedimento di scioglimento per atto dell'autorita' ai sensi dell'[articolo 2545-septiesdecies del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2545septdecies) e dell'articolo 223-septiesdecies delle disposizioni per l'attuazione del codice civile e disposizioni transitorie, di cui al [regio decreto 30 marzo 1942, n. 318](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;318), con conseguente obbligo di devoluzione del patrimonio ai sensi dell'[articolo 2514, primo comma, lettera d), del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2514-com1-letd)» anziche' prevedere che l'autorita' di vigilanza nomina un commissario ai sensi dell'[articolo 2545-sexiesdecies del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2545sexdecies), anche nella persona del legale rappresentante o di un componente dell'organo di controllo societario, che si sostituisce agli organi amministrativi dell'ente, limitatamente al compimento degli specifici adempimenti indicati".
+La Corte Costituzionale, con sentenza 10 giugno - 21 luglio 2025, n. 116 (in G.U. 1ª s.s. 23/7/2025, n. 30), ha dichiarato "l'illegittimita' costituzionale dell'art. 12, comma 3, secondo periodo, del [decreto legislativo 2 agosto 2002, n. 220](Norme%20in%20materia%20di%20riordino%20della%20vigilanza%20sugli%20enti%20cooperativi%20ai%20sensi%20dellarticolo%207%20comma%201%20della%20legge%203%20aprile%202001%20n.%20142%20recante%20Revisione%20della%20legislazione%20in%20materia%20cooper_e919468a234a.md) (Norme in materia di riordino della vigilanza sugli enti cooperativi, ai sensi dell'[articolo 7, comma 1, della legge 3 aprile 2001, n. 142](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001-04-03;142#art_7-com1), recante: «Revisione della legislazione in materia cooperativistica, con particolare riferimento alla posizione del socio lavoratore»), nella parte in cui prevede che agli enti cooperativi che si sottraggono all'attivita' di vigilanza «[s]i applica il provvedimento di scioglimento per atto dell'autorita' ai sensi dell'[articolo 2545-septiesdecies del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2545septdecies) e dell'articolo 223-septiesdecies delle disposizioni per l'attuazione del codice civile e disposizioni transitorie, di cui al [regio decreto 30 marzo 1942, n. 318](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;318), con conseguente obbligo di devoluzione del patrimonio ai sensi dell'[articolo 2514, primo comma, lettera d), del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2514-com1-letd)» anziche' prevedere che l'autorita' di vigilanza nomina un commissario ai sensi dell'[articolo 2545-sexiesdecies del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2545sexdecies), anche nella persona del legale rappresentante o di un componente dell'organo di controllo societario, che si sostituisce agli organi amministrativi dell'ente, limitatamente al compimento degli specifici adempimenti indicati".
 
 ## COLLEGIO SINDACALE
 
@@ -472,7 +472,7 @@ Titolo VI
 
 1.
 
-Fino all'emanazione dei decreti legislativi previsti dalla [legge 3 ottobre 2001, n. 366](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001-10-03;366), si applicano le disposizioni di cui ai commi 2 e 3.
+Fino all'emanazione dei decreti legislativi previsti dalla [legge 3 ottobre 2001, n. 366](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20riforma%20del%20diritto%20societario.md), si applicano le disposizioni di cui ai commi 2 e 3.
 
 2.
 
@@ -483,7 +483,7 @@ Agli enti cooperativi e loro consorzi si applicano le norme in materia di colleg
 Agli enti cooperativi e loro consorzi, soggetti obbligatoriamente alla certificazione del bilancio, che provvedono alla emissione di strumenti finanziari partecipativi e non partecipativi, si applicano le disposizioni contenute nel [decreto legislativo 24 febbraio 1998, n. 58](Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), in materia di funzioni e composizione del collegio sindacale.
 
 Note all'[art. 13:
- - La legge 3 ottobre 2001, n. 366](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001-10-03;366#art_13), reca: "Delega al Governo per la riforma del diritto societario" (pubblicata nella Gazzetta Ufficiale n. 234 dell'8 ottobre 2001).
+ - La legge 3 ottobre 2001, n. 366](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20riforma%20del%20diritto%20societario.md), reca: "Delega al Governo per la riforma del diritto societario" (pubblicata nella Gazzetta Ufficiale n. 234 dell'8 ottobre 2001).
  - Si riporta il testo dell'[art. 2448 del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2448):
  "Art. 2448 (Cause di scioglimento). - La societa' per azioni si scioglie:
  1) per il decorso del termine;
@@ -616,7 +616,7 @@ In caso di accertata violazione delle suddette disposizioni, gli uffici competen
 
 AGGIORNAMENTO (3)
 
-Il [D.L. 18 ottobre 2012, n. 179](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-10-18;179), convertito, con modificazioni, dalla [L. 17 dicembre 2012, n. 221](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2018%20ottobre%202012%20n.%20179%20recante%20ulteriori%20misure%20urgenti%20per%20la%20crescita%20del%20Paese.%2012G0244.md) ha disposto (con l'art. 23, comma 8) che "Il decreto di cui al [comma 2-ter dell'articolo 18 del decreto legislativo 2 agosto 2002, n. 220](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2002-08-02;220#art_18-com2ter), introdotto da comma 7, e' adottato entro 180 giorni dalla data di entrata in vigore della legge di conversione del presente decreto".
+Il [D.L. 18 ottobre 2012, n. 179](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-10-18;179), convertito, con modificazioni, dalla [L. 17 dicembre 2012, n. 221](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2018%20ottobre%202012%20n.%20179%20recante%20ulteriori%20misure%20urgenti%20per%20la%20crescita%20del%20Paese.%2012G0244.md) ha disposto (con l'art. 23, comma 8) che "Il decreto di cui al [comma 2-ter dell'articolo 18 del decreto legislativo 2 agosto 2002, n. 220](Norme%20in%20materia%20di%20riordino%20della%20vigilanza%20sugli%20enti%20cooperativi%20ai%20sensi%20dellarticolo%207%20comma%201%20della%20legge%203%20aprile%202001%20n.%20142%20recante%20Revisione%20della%20legislazione%20in%20materia%20cooper_e919468a234a.md), introdotto da comma 7, e' adottato entro 180 giorni dalla data di entrata in vigore della legge di conversione del presente decreto".
 
 ### Art. 19. — Norme transitorie
 

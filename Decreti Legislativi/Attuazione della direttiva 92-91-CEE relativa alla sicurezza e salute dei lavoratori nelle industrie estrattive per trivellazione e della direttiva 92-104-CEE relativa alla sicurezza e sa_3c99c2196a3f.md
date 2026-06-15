@@ -20,7 +20,7 @@ Vista la [legge 17 aprile 1989, n. 150](https://www.normattiva.it/uri-res/N2Ls?u
 
 Visto il [decreto legislativo 19 settembre 1994 n. 626](Attuazione%20delle%20direttive%2089-391-CEE%2089-654-CEE%2089-655-CEE%2089-656-CEE%2090-269-CEE%2090-270-CEE%2090-394-CEE%2090-679-CEE%2093-88-CEE%2095-63-CE%2097-42-CE%2098-24-CE%2099-38-CE%2099-92-CE%202001-45-CE%202003-1_b3516797bb41.md), come modificato dal [decreto legislativo 19 marzo 1996, n. 242](Modifiche%20ed%20integrazioni%20al%20decreto%20legislativo%2019%20settembre%201994%20n.%20626%20recante%20attuazione%20di%20direttive%20comunitarie%20riguardanti%20il%20miglioramento%20della%20sicurezza%20e%20della%20salute%20dei%20lavor_a49057a27589.md);
 
-Vista la [legge 22 febbraio 1994, n. 146](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-22;146), ed in particolare gli articoli 1 e 34 e gli allegato A e B;
+Vista la [legge 22 febbraio 1994, n. 146](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%201993.md), ed in particolare gli articoli 1 e 34 e gli allegato A e B;
 
 Vista la [legge 6 febbraio 1996, n. 52](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20legge%20comunitaria%201994.md), ed in particolare l'articolo 6, comma 3;
 

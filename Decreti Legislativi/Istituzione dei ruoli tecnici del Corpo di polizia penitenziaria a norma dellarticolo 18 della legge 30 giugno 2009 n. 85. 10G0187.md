@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge 30 giugno 2009, n. 85](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-06-30;85), recante adesione della Repubblica italiana al Trattato di Prüm per l'istituzione della banca dati nazionale del DNA e del laboratorio centrale per la banca dati nazionale del DNA;
+Vista la [legge 30 giugno 2009, n. 85](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Adesione%20della%20Repubblica%20italiana%20al%20Trattato%20concluso%20il%2027%20maggio%202005%20tra%20il%20Regno%20del%20Belgio%20la%20Repubblica%20federale%20di%20Germania%20il%20Regno%20di%20Spagna%20la%20Repubblica%20francese%20il%20Granducat_592dfd7eba11.md), recante adesione della Repubblica italiana al Trattato di Prüm per l'istituzione della banca dati nazionale del DNA e del laboratorio centrale per la banca dati nazionale del DNA;
 
 Vista la [legge 15 dicembre 1990, n. 395](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-12-15;395), recante istituzione del Corpo di polizia penitenziaria;
 
@@ -24,9 +24,9 @@ Vista la [legge 1° aprile 1981, n. 121](https://www.normattiva.it/uri-res/N2Ls?
 
 Visto il [decreto del Presidente della Repubblica 24 aprile 1982, n. 337](../DPR/Ordinamento%20del%20personale%20della%20Polizia%20di%20Stato%20che%20espleta%20attivita%20tecnico-scientifica%20o%20tecnica.md), recante ordinamento del personale della Polizia di Stato che espleta attivita' tecnico-scientifica o tecnica;
 
-Visto il [decreto legislativo 5 ottobre 2000, n. 334](Riordino%20dei%20ruoli%20del%20personale%20direttivo%20e%20dirigente%20della%20Polizia%20di%20Stato%20a%20norma%20dellarticolo%205%20comma%201%20della%20legge%2031%20marzo%202000%20n.%2078.md), recante il riordino dei ruoli del personale direttivo e dirigente della Polizia di Stato, a norma dell'[articolo 5, comma 1, della legge 31 marzo 2000, n. 78](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-03-31;78#art_5-com1), e successive modificazioni;
+Visto il [decreto legislativo 5 ottobre 2000, n. 334](Riordino%20dei%20ruoli%20del%20personale%20direttivo%20e%20dirigente%20della%20Polizia%20di%20Stato%20a%20norma%20dellarticolo%205%20comma%201%20della%20legge%2031%20marzo%202000%20n.%2078.md), recante il riordino dei ruoli del personale direttivo e dirigente della Polizia di Stato, a norma dell'[articolo 5, comma 1, della legge 31 marzo 2000, n. 78](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20in%20materia%20di%20riordino%20dellArma%20dei%20carabinieri%20del%20Corpo%20forestale%20dello%20Stato%20del%20Corpo%20della%20Guardia%20di%20finanza%20e%20della%20Polizia%20di%20Stato.%20Norme%20in%20materia%20di%20coordina_2b4843489113.md), e successive modificazioni;
 
-Visto il [decreto legislativo 21 maggio 2000, n. 146](Adeguamento%20delle%20strutture%20e%20degli%20organici%20dellAmministrazione%20penitenziaria%20e%20dellUfficio%20centrale%20per%20la%20giustizia%20minorile%20nonche%20istituzione%20dei%20ruoli%20direttivi%20ordinario%20e%20speciale_fa04bd0f7cba.md), recante adeguamento delle strutture e degli organici dell'Amministrazione penitenziaria e dell'Ufficio centrale per la giustizia minorile, nonche' istituzione dei ruoli direttivi ordinario e speciale del Corpo di polizia penitenziaria, a norma dell'[articolo 12 della legge 28 luglio 1999, n. 266](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-07-28;266#art_12);
+Visto il [decreto legislativo 21 maggio 2000, n. 146](Adeguamento%20delle%20strutture%20e%20degli%20organici%20dellAmministrazione%20penitenziaria%20e%20dellUfficio%20centrale%20per%20la%20giustizia%20minorile%20nonche%20istituzione%20dei%20ruoli%20direttivi%20ordinario%20e%20speciale_fa04bd0f7cba.md), recante adeguamento delle strutture e degli organici dell'Amministrazione penitenziaria e dell'Ufficio centrale per la giustizia minorile, nonche' istituzione dei ruoli direttivi ordinario e speciale del Corpo di polizia penitenziaria, a norma dell'[articolo 12 della legge 28 luglio 1999, n. 266](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20riordino%20delle%20carriere%20diplomatica%20e%20prefettizia%20nonche%20disposizioni%20per%20il%20restante%20personale%20del%20Ministero%20degli%20affari%20esteri%20per%20il%20personale%20militare%20del%20Mi_e5eff0d6dddc.md);
 
 Visto il [decreto legislativo 30 marzo 2001, n. 165](Norme%20generali%20sullordinamento%20del%20lavoro%20alle%20dipendenze%20delle%20amministrazioni%20pubbliche.md), e successive modificazioni;
 
@@ -46,7 +46,7 @@ Emana il seguente decreto legislativo:
 
 1.
 
-Per le attivita' del laboratorio centrale per la banca dati nazionale del DNA, cosi' come individuato ai sensi dell'[articolo 5 della legge 30 giugno 2009, n. 85](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-06-30;85#art_5), presso il Dipartimento dell'Amministrazione penitenziaria del Ministero della giustizia, sono istituiti, a decorrere dal 1° gennaio 2011, in relazione all'articolo 18 della medesima legge, i seguenti ruoli tecnici del personale del Corpo di polizia penitenziaria:
+Per le attivita' del laboratorio centrale per la banca dati nazionale del DNA, cosi' come individuato ai sensi dell'[articolo 5 della legge 30 giugno 2009, n. 85](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Adesione%20della%20Repubblica%20italiana%20al%20Trattato%20concluso%20il%2027%20maggio%202005%20tra%20il%20Regno%20del%20Belgio%20la%20Repubblica%20federale%20di%20Germania%20il%20Regno%20di%20Spagna%20la%20Repubblica%20francese%20il%20Granducat_592dfd7eba11.md), presso il Dipartimento dell'Amministrazione penitenziaria del Ministero della giustizia, sono istituiti, a decorrere dal 1° gennaio 2011, in relazione all'articolo 18 della medesima legge, i seguenti ruoli tecnici del personale del Corpo di polizia penitenziaria:
                         a)
                             ruolo degli agenti e assistenti tecnici;
                         b)
@@ -142,7 +142,7 @@ I vincitori del concorso sono nominati allievi agenti tecnici e sono destinati a
 
 4.
 
-Possono essere inoltre nominati allievi agenti tecnici, nell'ambito delle vacanze disponibili, ed ammessi a frequentare il primo corso di formazione utile il coniuge ed i figli superstiti, nonche' i fratelli, qualora unici superstiti, degli appartenenti alle Forze di polizia deceduti o resi permanentemente invalidi al servizio, con invalidita' non inferiore all'ottanta per cento della capacita' lavorativa, a causa di azioni criminose di cui all'[articolo 82, comma 1, della legge 23 dicembre 2000, n. 388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-23;388#art_82-com1), ovvero per effetto di ferite o lesioni riportate nell'espletamento di servizi di polizia o di soccorso pubblico i quali ne facciano richiesta, purche' siano in possesso dei requisiti di cui ai commi 1 e 2.
+Possono essere inoltre nominati allievi agenti tecnici, nell'ambito delle vacanze disponibili, ed ammessi a frequentare il primo corso di formazione utile il coniuge ed i figli superstiti, nonche' i fratelli, qualora unici superstiti, degli appartenenti alle Forze di polizia deceduti o resi permanentemente invalidi al servizio, con invalidita' non inferiore all'ottanta per cento della capacita' lavorativa, a causa di azioni criminose di cui all'[articolo 82, comma 1, della legge 23 dicembre 2000, n. 388](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202001.md), ovvero per effetto di ferite o lesioni riportate nell'espletamento di servizi di polizia o di soccorso pubblico i quali ne facciano richiesta, purche' siano in possesso dei requisiti di cui ai commi 1 e 2.
 
 5.
 
@@ -514,7 +514,7 @@ Le dotazioni organiche dei ruoli di cui al comma 1 sono indicate nella tabella A
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 5 ottobre 2018, n. 126](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2018-10-05;126) ha disposto (con l'art. 12, comma 1, lettera d)) che al "comma 1 le parole: «ruolo dei direttori tecnici» sono sostituite dalle seguenti: «ruolo dei funzionari tecnici»".
+Il [D.Lgs. 5 ottobre 2018, n. 126](Disposizioni%20integrative%20e%20correttive%20a%20norma%20dellarticolo%208%20comma%206%20della%20legge%207%20agosto%202015%20n.%20124%20al%20decreto%20legislativo%2029%20maggio%202017%20n.%2095%20recante%20Disposizioni%20in%20materia%20di%20revisi_794c07ffd40b.md) ha disposto (con l'art. 12, comma 1, lettera d)) che al "comma 1 le parole: «ruolo dei direttori tecnici» sono sostituite dalle seguenti: «ruolo dei funzionari tecnici»".
 
 ## Art. 25. — Funzioni del personale appartenente ai ruoli dei direttori tecnici
 
@@ -590,7 +590,7 @@ Al termine del corso, i commissari tecnici che hanno ottenuto il giudizio di ido
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 29 maggio 2017, n. 95](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-05-29;95), ha disposto (con l'art. 39, comma 1, lettera bb)) che "al comma 1 le parole: «l'Istituto superiore di studi penitenziari» sono sostituite dalle seguenti: «la Scuola superiore dell'esecuzione penale»".
+Il [D.Lgs. 29 maggio 2017, n. 95](Disposizioni%20in%20materia%20di%20revisione%20dei%20ruoli%20delle%20Forze%20di%20polizia%20ai%20sensi%20dellarticolo%208%20comma%201%20lettera%20a%20della%20legge%207%20agosto%202015%20n.%20124%20in%20materia%20di%20riorganizzazione%20delle%20ammin_5572a7d1051a.md), ha disposto (con l'art. 39, comma 1, lettera bb)) che "al comma 1 le parole: «l'Istituto superiore di studi penitenziari» sono sostituite dalle seguenti: «la Scuola superiore dell'esecuzione penale»".
 
 ## Art. 28.
 
@@ -664,7 +664,7 @@ Sulle questioni attinenti allo stato giuridico del personale dei ruoli tecnici n
 
 2.
 
-COMMA ABROGATO DAL [D.LGS. 29 MAGGIO 2017, N. 95](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-05-29;95).
+COMMA ABROGATO DAL [D.LGS. 29 MAGGIO 2017, N. 95](Disposizioni%20in%20materia%20di%20revisione%20dei%20ruoli%20delle%20Forze%20di%20polizia%20ai%20sensi%20dellarticolo%208%20comma%201%20lettera%20a%20della%20legge%207%20agosto%202015%20n.%20124%20in%20materia%20di%20riorganizzazione%20delle%20ammin_5572a7d1051a.md).
 
 3.
 
@@ -712,7 +712,7 @@ Note all'art. 35:
 
 1.
 
-Agli oneri derivanti dall'applicazione del presente decreto, valutati in euro 1.518.776,34 per ciascuno degli anni 2011 e 2012, euro 1.548.779,19 per ciascuno degli anni 2013, 2014 e 2015, euro 1.569.174,48 per ciascuno degli anni 2016 e 2017, euro 1.580.774,84 per ciascuno degli anni 2018, 2019 e 2020 ed euro 1.617.692,35 a decorrere dall'anno 2021, si provvede mediante riduzione dell'autorizzazione di spesa di cui all'[articolo 32, comma 2, della legge 30 giugno 2009 n. 85](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-06-30;85#art_32-com2).
+Agli oneri derivanti dall'applicazione del presente decreto, valutati in euro 1.518.776,34 per ciascuno degli anni 2011 e 2012, euro 1.548.779,19 per ciascuno degli anni 2013, 2014 e 2015, euro 1.569.174,48 per ciascuno degli anni 2016 e 2017, euro 1.580.774,84 per ciascuno degli anni 2018, 2019 e 2020 ed euro 1.617.692,35 a decorrere dall'anno 2021, si provvede mediante riduzione dell'autorizzazione di spesa di cui all'[articolo 32, comma 2, della legge 30 giugno 2009 n. 85](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Adesione%20della%20Repubblica%20italiana%20al%20Trattato%20concluso%20il%2027%20maggio%202005%20tra%20il%20Regno%20del%20Belgio%20la%20Repubblica%20federale%20di%20Germania%20il%20Regno%20di%20Spagna%20la%20Repubblica%20francese%20il%20Granducat_592dfd7eba11.md).
 
 2.
 
@@ -724,13 +724,13 @@ Ai sensi dell'[art. 17, comma 12, della legge 31 dicembre 2009, n. 196](https://
 
 Note all'art. 36: 
  - Si riporta il testo del comma 2 dell'articolo 32 della citata [legge n. 85 del 2009](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009;85): 
- «2. Agli oneri relativi al personale, valutati in euro 1.627.420 a decorrere dall'anno 2008, si provvede, per gli anni 2008 e 2009, mediante corrispondente riduzione dello stanziamento del fondo speciale di parte corrente iscritto, ai fini del bilancio triennale 2008-2010, nell'ambito del programma "Fondi di riserva e speciali" della missione "Fondi da ripartire" dello stato di previsione del Ministero dell'economia e delle finanze per l'anno 2008, allo scopo parzialmente utilizzando l'accantonamento relativo al Ministero della giustizia e, a decorrere dall'anno 2010, mediante riduzione dell'autorizzazione di spesa recata dall'[articolo 3, comma 151, della legge 24 dicembre 2003, n. 350](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-12-24;350#art_3-com151).». 
+ «2. Agli oneri relativi al personale, valutati in euro 1.627.420 a decorrere dall'anno 2008, si provvede, per gli anni 2008 e 2009, mediante corrispondente riduzione dello stanziamento del fondo speciale di parte corrente iscritto, ai fini del bilancio triennale 2008-2010, nell'ambito del programma "Fondi di riserva e speciali" della missione "Fondi da ripartire" dello stato di previsione del Ministero dell'economia e delle finanze per l'anno 2008, allo scopo parzialmente utilizzando l'accantonamento relativo al Ministero della giustizia e, a decorrere dall'anno 2010, mediante riduzione dell'autorizzazione di spesa recata dall'[articolo 3, comma 151, della legge 24 dicembre 2003, n. 350](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202004.md).». 
  - Si riporta il testo del [comma 12 dell'articolo 17, della legge 31 dicembre 2009, n. 196](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-12-31;196#art_17-com12) (Legge di contabilita' e finanza pubblica.): 
  «12. La clausola di salvaguardia di cui al comma 1 deve essere effettiva e automatica. Essa deve indicare le misure di riduzione delle spese o di aumenti di entrata, con esclusione del ricorso ai fondi di riserva, nel caso si verifichino o siano in procinto di verificarsi scostamenti rispetto alle previsioni indicate dalle leggi al fine della copertura finanziaria. In tal caso, sulla base di apposito monitoraggio, il Ministro dell'economia e delle finanze adotta, sentito il Ministro competente, le misure indicate nella clausola di salvaguardia e riferisce alle Camere con apposita relazione. La relazione espone le cause che hanno determinato gli scostamenti, anche ai fini della revisione dei dati e dei metodi utilizzati per la quantificazione degli oneri autorizzati dalle predette leggi.». 
  - Si riporta il testo il comma 3 dell'articolo 11 e il comma 5 dell'art. 21 della citata [legge n. 196 del 2009](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009;196): 
  «3. La legge di stabilita' contiene esclusivamente norme tese a realizzare effetti finanziari con decorrenza nel triennio considerato dal bilancio pluriennale. Essa non puo' contenere norme di delega o di carattere ordinamentale ovvero organizzatorio, ne' interventi di natura localistica o microsettoriale. In particolare, essa indica: 
  a) il livello massimo del ricorso al mercato finanziario e del saldo netto da finanziare in termini di competenza, per ciascuno degli anni considerati dal bilancio pluriennale, comprese le eventuali regolazioni contabili e debitorie pregresse specificamente indicate; 
- b) le variazioni delle aliquote, delle detrazioni e degli scaglioni, le altre misure che incidono sulla determinazione del quantum della prestazione, afferenti a imposte dirette e indirette, tasse, canoni, tariffe e contributi in vigore, con effetto di norma dal 1° gennaio dell'anno cui essa si riferisce, nonche' le correzioni delle imposte conseguenti all'andamento dell'inflazione. E' fatto salvo quanto previsto dalla [legge 5 maggio 2009, n. 42](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-05-05;42), con riferimento ai tributi, alle addizionali e alle compartecipazioni delle regioni e degli enti locali; 
+ b) le variazioni delle aliquote, delle detrazioni e degli scaglioni, le altre misure che incidono sulla determinazione del quantum della prestazione, afferenti a imposte dirette e indirette, tasse, canoni, tariffe e contributi in vigore, con effetto di norma dal 1° gennaio dell'anno cui essa si riferisce, nonche' le correzioni delle imposte conseguenti all'andamento dell'inflazione. E' fatto salvo quanto previsto dalla [legge 5 maggio 2009, n. 42](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20in%20materia%20di%20federalismo%20fiscale%20in%20attuazione%20dellarticolo%20119%20della%20Costituzione.%2009G0053.md), con riferimento ai tributi, alle addizionali e alle compartecipazioni delle regioni e degli enti locali; 
  c) gli importi dei fondi speciali previsti dall'articolo 18 e le corrispondenti tabelle; 
  d) gli importi, in apposita tabella, con le relative aggregazioni per programma e per missione, della quota da iscrivere nel bilancio di ciascuno degli anni considerati dal bilancio pluriennale per le leggi di spesa permanente, la cui quantificazione e' rinviata alla legge di stabilita', con esclusione delle spese obbligatorie; 
  e) gli importi, in apposita tabella, con le relative aggregazioni per programma e per missione, delle quote destinate a gravare su ciascuno degli anni considerati per le leggi che dispongono spese a carattere pluriennale in conto capitale, con distinta e analitica evidenziazione dei rifinanziamenti, delle riduzioni e delle rimodulazioni; 
@@ -739,7 +739,7 @@ Note all'art. 36:
  h) altre regolazioni meramente quantitative rinviate alla legge di stabilita' dalle leggi vigenti; 
  i) norme che comportano aumenti di entrata o riduzioni di spesa, restando escluse quelle a carattere ordinamentale ovvero organizzatorio, fatto salvo quanto previsto dalla lettera m); 
  l) norme recanti misure correttive degli effetti finanziari delle leggi di cui all'articolo 17, comma 13; 
- m) le norme eventualmente necessarie a garantire l'attuazione del Patto di stabilita' interno, come definito ai sensi degli articoli 8, comma 2, e 10, comma 2, lettera f), nonche' a realizzare il Patto di convergenza di cui all'[articolo 18 della legge 5 maggio 2009, n. 42](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-05-05;42#art_18), come modificato dall'articolo 51, comma 3, della presente legge.». 
+ m) le norme eventualmente necessarie a garantire l'attuazione del Patto di stabilita' interno, come definito ai sensi degli articoli 8, comma 2, e 10, comma 2, lettera f), nonche' a realizzare il Patto di convergenza di cui all'[articolo 18 della legge 5 maggio 2009, n. 42](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20in%20materia%20di%20federalismo%20fiscale%20in%20attuazione%20dellarticolo%20119%20della%20Costituzione.%2009G0053.md), come modificato dall'articolo 51, comma 3, della presente legge.». 
  «5. Nell'ambito di ciascun programma le spese si ripartiscono in: 
  a) spese non rimodulabili; 
  b) spese rimodulabili.».

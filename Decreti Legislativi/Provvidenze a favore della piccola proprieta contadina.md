@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4), con le modificazioni ad esso apportate dall'[art. 3, comma primo, del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98#art_3-com1);
+Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4), con le modificazioni ad esso apportate dall'[art. 3, comma primo, del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Viste le disposizioni transitorie I e XV della Costituzione;
 
@@ -36,7 +36,7 @@ Le compravendite e le concessioni in enfiteusi di fondi rustici, che si effettua
 
 AGGIORNAMENTO (3)
 
-La [L. 11 dicembre 1952, n. 2362](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-12-11;2362) ha disposto (con l'art. 1) che "Il termine di due anni previsto dall'[art. 1 del decreto legislativo 24 febbraio 1948, n. 114](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-02-24;114#art_1), prorogato di altri due anni con la legge di ratifica 22 marzo 1950, n. 144, e' ulteriormente prorogato di un triennio a decorrere dal 20 marzo 1932".
+La [L. 11 dicembre 1952, n. 2362](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-12-11;2362) ha disposto (con l'art. 1) che "Il termine di due anni previsto dall'[art. 1 del decreto legislativo 24 febbraio 1948, n. 114](Provvidenze%20a%20favore%20della%20piccola%20proprieta%20contadina.md), prorogato di altri due anni con la legge di ratifica 22 marzo 1950, n. 144, e' ulteriormente prorogato di un triennio a decorrere dal 20 marzo 1932".
 
 ## Art. 2.
 
@@ -91,7 +91,7 @@ Chi, prima che siano trascorsi dieci anni dall'acquisto fatto a termini del pres
 
 AGGIORNAMENTO (5)
 
-La [L. 1 febbraio 1956, n. 53](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-02-01;53) ha disposto (con l'art. 6, comma 1) che "Ferma restando ogni altra disposizione contenuta nell'[art. 9 del decreto legislativo 24 febbraio 1948, n. 114](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-02-24;114#art_9), e' ridotto da dieci a cinque anni il periodo di decadenza ivi prevista".
+La [L. 1 febbraio 1956, n. 53](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-02-01;53) ha disposto (con l'art. 6, comma 1) che "Ferma restando ogni altra disposizione contenuta nell'[art. 9 del decreto legislativo 24 febbraio 1948, n. 114](Provvidenze%20a%20favore%20della%20piccola%20proprieta%20contadina.md), e' ridotto da dieci a cinque anni il periodo di decadenza ivi prevista".
 
 ## Art. 10.
 
@@ -103,13 +103,13 @@ E' autorizzata la spesa di L. 5 miliardi, da servire:
 
 AGGIORNAMENTO (1a)
 
-La [L. 14 dicembre 1950, n. 1106](../Atti%20normativi%20abrogati%20%28in%20originale%29/Autorizzazione%20della%20spesa%20di%20lire%20600%20milioni%20per%20nuovo%20apporto%20statale%20alla%20Cassa%20per%20la%20formazione%20della%20piccola%20proprieta%20contadina.md) ha disposto (con l'art. 2) che "La spesa autorizzata con l'[art. 10 del decreto legislativo 24 febbraio 1948, n. 114](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-02-24;114#art_10), che prevede la concessione di sussidi a norma delle leggi di bonifica per opere di miglioramento fondiario nei fondi acquistati ai termini degli articoli 1, 3, 4 e 5 del decreto legislativo citato, viene ridotta di lire 600 milioni".
+La [L. 14 dicembre 1950, n. 1106](../Atti%20normativi%20abrogati%20%28in%20originale%29/Autorizzazione%20della%20spesa%20di%20lire%20600%20milioni%20per%20nuovo%20apporto%20statale%20alla%20Cassa%20per%20la%20formazione%20della%20piccola%20proprieta%20contadina.md) ha disposto (con l'art. 2) che "La spesa autorizzata con l'[art. 10 del decreto legislativo 24 febbraio 1948, n. 114](Provvidenze%20a%20favore%20della%20piccola%20proprieta%20contadina.md), che prevede la concessione di sussidi a norma delle leggi di bonifica per opere di miglioramento fondiario nei fondi acquistati ai termini degli articoli 1, 3, 4 e 5 del decreto legislativo citato, viene ridotta di lire 600 milioni".
 
 -----------------
 
 AGGIORNAMENTO (3)
 
-La [L. 11 dicembre 1952, n. 2362](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-12-11;2362) ha disposto (con l'art. 6) che "Lo stanziamento di lire 100 milioni, disposto con l'[art. 10, lettera a) del decreto legislativo 24 febbraio 1948, n. 114](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-02-24;114#art_10-leta), e' aumentato di lire 50 milioni all'anno a decorrere dall'esercizio finanziario 1952-53 e di ulteriori 150 milioni all'anno per trenta anni a decorrere dall'esercizio finanziario 1953-54, ad incremento del fondo per la concessione del concorso dello Stato nel pagamento degli interessi sui mutui da contrarsi per la formazione di nuove piccole proprieta' contadine".
+La [L. 11 dicembre 1952, n. 2362](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-12-11;2362) ha disposto (con l'art. 6) che "Lo stanziamento di lire 100 milioni, disposto con l'[art. 10, lettera a) del decreto legislativo 24 febbraio 1948, n. 114](Provvidenze%20a%20favore%20della%20piccola%20proprieta%20contadina.md), e' aumentato di lire 50 milioni all'anno a decorrere dall'esercizio finanziario 1952-53 e di ulteriori 150 milioni all'anno per trenta anni a decorrere dall'esercizio finanziario 1953-54, ad incremento del fondo per la concessione del concorso dello Stato nel pagamento degli interessi sui mutui da contrarsi per la formazione di nuove piccole proprieta' contadine".
 
 ## Art. 11.
 

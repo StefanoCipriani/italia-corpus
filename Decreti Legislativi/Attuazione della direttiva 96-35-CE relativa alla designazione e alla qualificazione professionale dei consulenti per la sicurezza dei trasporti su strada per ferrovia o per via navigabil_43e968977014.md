@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) ed [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge 5 febbraio 1999, n. 25](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-02-05;25);
+Vista la [legge 5 febbraio 1999, n. 25](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20legge%20comunitaria%201998.md);
 
 Vista la [direttiva 96/35/CE del Consiglio del 3 giugno 1996](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1996;35), relativa alla designazione e alla qualificazione professionale dei consulenti per la sicurezza dei trasporti su strada, per ferrovia o per via navigabile di merci pericolose;
 

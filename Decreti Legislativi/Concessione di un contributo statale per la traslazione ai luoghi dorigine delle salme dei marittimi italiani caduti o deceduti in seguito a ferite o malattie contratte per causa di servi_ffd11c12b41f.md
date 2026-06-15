@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4), con le modificazioni ad esso apportate dall'[art. 3, comma primo, del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98#art_3-com1);
+Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4), con le modificazioni ad esso apportate dall'[art. 3, comma primo, del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Viste le disposizioni transitorie I e XV della Costituzione;
 
@@ -33,7 +33,7 @@ Le domande di concessione del contributo devono essere presentate al Ministero d
 
 AGGIORNAMENTO (1)
 
-La [L. 1 dicembre 1949, n. 1035](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1949-12-01;1035) ha disposto (con l'articolo unico) che "E' prorogato al 30 giugno 1950 il termine stabilito dall'[art. 2 del decreto legislativo 27 gennaio 1948, n. 699](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-01-27;699#art_2), per la presentazione al Ministero della marina mercantile delle domande di contributo per la traslazione, ai luoghi d'origine, delle salme dei marittimi mercantili italiani, deceduti per causa di guerra, dopo il 10 giugno 1940 e sepolti nel territorio metropolitano."
+La [L. 1 dicembre 1949, n. 1035](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1949-12-01;1035) ha disposto (con l'articolo unico) che "E' prorogato al 30 giugno 1950 il termine stabilito dall'[art. 2 del decreto legislativo 27 gennaio 1948, n. 699](Concessione%20di%20un%20contributo%20statale%20per%20la%20traslazione%20ai%20luoghi%20dorigine%20delle%20salme%20dei%20marittimi%20italiani%20caduti%20o%20deceduti%20in%20seguito%20a%20ferite%20o%20malattie%20contratte%20per%20causa%20di%20servi_ffd11c12b41f.md), per la presentazione al Ministero della marina mercantile delle domande di contributo per la traslazione, ai luoghi d'origine, delle salme dei marittimi mercantili italiani, deceduti per causa di guerra, dopo il 10 giugno 1940 e sepolti nel territorio metropolitano."
 
 ## Art. 3.
 

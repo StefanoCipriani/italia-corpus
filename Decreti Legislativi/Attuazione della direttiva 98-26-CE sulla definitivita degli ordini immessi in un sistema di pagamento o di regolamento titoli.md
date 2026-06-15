@@ -86,7 +86,7 @@ Nel presente decreto legislativo si intendono per:
                         s)
                             "sistema italiano": uno dei sistemi indicati nell'allegato al presente decreto legislativo, nonche' uno dei sistemi designati ai sensi dell'articolo 10;
                         t)
-                            LETTERA SOPPRESSA DAL [D.LGS. 12 AGOSTO 2016, N. 176](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-08-12;176);
+                            LETTERA SOPPRESSA DAL [D.LGS. 12 AGOSTO 2016, N. 176](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Adeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20regolamento%20UE%20n.%20909-2014%20relativo%20al%20miglioramento%20del%20regolamento%20titoli%20nellUnione%20europea%20e%20ai%20depositari%20centrali%20di%20tito_4b43de464e70.md);
                         u)
                             "stanza di compensazione": il centro responsabile del calcolo delle posizioni nette dei partecipanti al sistema;
                         v)

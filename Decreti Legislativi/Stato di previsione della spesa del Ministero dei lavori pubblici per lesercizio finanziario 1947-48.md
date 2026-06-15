@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4), con le modificazioni ad esso apportate dall'[art. 3, comma primo, del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98#art_3-com1);
+Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4), con le modificazioni ad esso apportate dall'[art. 3, comma primo, del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Viste le disposizioni transitorie I e XV della Costituzione;
 
@@ -62,7 +62,7 @@ Sono stabiliti per l'esercizio 1947-48 i seguenti limiti di impegno:
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 7 maggio 1948, n. 816](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-05-07;816) ha disposto (con l'art. 1, comma 2) che "L'importo di L. 60.000.000 stabilito dal [n. 4 dell'art. 5 del decreto legislativo 25 marzo 1948, n. 185](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-03-25;185#art_5-num4), che approva lo stato di previsione della spesa del Ministero dei lavori pubblici per l'esercizio 1947-48, per annualita' occorrenti per contributi a favore dell'I.N.C.I.S. e degli istituti ed Enti autonomi per costruzioni di case popolari, e diminuito della corrispondente somma di L. 300.000".
+Il [D.Lgs. 7 maggio 1948, n. 816](Autorizzazione%20della%20spesa%20di%20L.%20300.000%20per%20la%20concessione%20del%20contributo%20in%20annualita%20in%20applicazione%20del%20decreto%20legislativo%20luogotenenziale%2016%20novembre%201944%20n.%20425%20concernente%20la%20deca_0afd4c976460.md) ha disposto (con l'art. 1, comma 2) che "L'importo di L. 60.000.000 stabilito dal [n. 4 dell'art. 5 del decreto legislativo 25 marzo 1948, n. 185](Stato%20di%20previsione%20della%20spesa%20del%20Ministero%20dei%20lavori%20pubblici%20per%20lesercizio%20finanziario%201947-48.md), che approva lo stato di previsione della spesa del Ministero dei lavori pubblici per l'esercizio 1947-48, per annualita' occorrenti per contributi a favore dell'I.N.C.I.S. e degli istituti ed Enti autonomi per costruzioni di case popolari, e diminuito della corrispondente somma di L. 300.000".
 
 ## Art. 6.
 

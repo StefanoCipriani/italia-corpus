@@ -64,7 +64,7 @@ A decorrere dal 1 gennaio 1999, l'importo della contribuzione da versare al Fond
 
 2.
 
-COMMA ABROGATO DALLA [L. 17 MAGGIO 1999, N. 144](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-05-17;144).
+COMMA ABROGATO DALLA [L. 17 MAGGIO 1999, N. 144](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Misure%20in%20materia%20di%20investimenti%20delega%20al%20Governo%20per%20il%20riordino%20degli%20incentivi%20alloccupazione%20e%20della%20normativa%20che%20disciplina%20lINAIL%20nonche%20disposizioni%20per%20il%20riordino%20degli%20enti%20previdenziali.md).
 
 3.
 

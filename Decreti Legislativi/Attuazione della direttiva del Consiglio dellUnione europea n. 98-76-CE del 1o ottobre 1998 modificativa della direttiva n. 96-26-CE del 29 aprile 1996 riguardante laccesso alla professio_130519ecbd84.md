@@ -57,7 +57,7 @@ Quest'ultima condizione non e' richiesta se la persona effettua un soggiorno in 
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 28 dicembre 2001, n. 478](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-12-28;478) ha disposto (con l'art. 22, comma 1) che le presenti modifiche hanno efficacia dal giorno della pubblicazione del suddetto decreto.
+Il [D.Lgs. 28 dicembre 2001, n. 478](Disposizioni%20integrative%20e%20correttive%20del%20decreto%20legislativo%2022%20dicembre%202000%20n.%20395%20in%20materia%20di%20accesso%20alla%20professione%20di%20trasportatore%20su%20strada%20di%20cose%20per%20conto%20terzi.md) ha disposto (con l'art. 22, comma 1) che le presenti modifiche hanno efficacia dal giorno della pubblicazione del suddetto decreto.
 
 ## Art. 2. — Esenzioni
 
@@ -73,13 +73,13 @@ Le disposizioni del presente decreto non si applicano alle imprese di cui all'ar
 
 3.
 
-COMMA ABROGATO DAL [D.LGS. 28 DICEMBRE 2001, N. 478](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-12-28;478).
+COMMA ABROGATO DAL [D.LGS. 28 DICEMBRE 2001, N. 478](Disposizioni%20integrative%20e%20correttive%20del%20decreto%20legislativo%2022%20dicembre%202000%20n.%20395%20in%20materia%20di%20accesso%20alla%20professione%20di%20trasportatore%20su%20strada%20di%20cose%20per%20conto%20terzi.md).
 
 ---------------
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 28 dicembre 2001, n. 478](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-12-28;478) ha disposto (con l'art. 22, comma 1) che le presenti modifiche hanno efficacia dal giorno della pubblicazione del suddetto decreto.
+Il [D.Lgs. 28 dicembre 2001, n. 478](Disposizioni%20integrative%20e%20correttive%20del%20decreto%20legislativo%2022%20dicembre%202000%20n.%20395%20in%20materia%20di%20accesso%20alla%20professione%20di%20trasportatore%20su%20strada%20di%20cose%20per%20conto%20terzi.md) ha disposto (con l'art. 22, comma 1) che le presenti modifiche hanno efficacia dal giorno della pubblicazione del suddetto decreto.
 
 ## Art. 3. — Direzione dell'attivita'
 
@@ -103,7 +103,7 @@ La persona di cui al comma 1 deve essere, alternativamente:
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 28 dicembre 2001, n. 478](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-12-28;478) ha disposto (con l'art. 22, comma 1) che le presenti modifiche hanno efficacia dal giorno della pubblicazione del suddetto decreto.
+Il [D.Lgs. 28 dicembre 2001, n. 478](Disposizioni%20integrative%20e%20correttive%20del%20decreto%20legislativo%2022%20dicembre%202000%20n.%20395%20in%20materia%20di%20accesso%20alla%20professione%20di%20trasportatore%20su%20strada%20di%20cose%20per%20conto%20terzi.md) ha disposto (con l'art. 22, comma 1) che le presenti modifiche hanno efficacia dal giorno della pubblicazione del suddetto decreto.
 
 ## Art. 4. — Requisiti
 
@@ -133,7 +133,7 @@ I requisiti di cui ai commi 1 e 3 devono permanere per il periodo di iscrizione 
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 28 dicembre 2001, n. 478](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-12-28;478) ha disposto (con l'art. 22, comma 1) che le presenti modifiche hanno efficacia dal giorno della pubblicazione del suddetto decreto.
+Il [D.Lgs. 28 dicembre 2001, n. 478](Disposizioni%20integrative%20e%20correttive%20del%20decreto%20legislativo%2022%20dicembre%202000%20n.%20395%20in%20materia%20di%20accesso%20alla%20professione%20di%20trasportatore%20su%20strada%20di%20cose%20per%20conto%20terzi.md) ha disposto (con l'art. 22, comma 1) che le presenti modifiche hanno efficacia dal giorno della pubblicazione del suddetto decreto.
 
 ## Art. 5. — Onorabilita'
 
@@ -205,7 +205,7 @@ Fermi restando gli effetti degli [articoli 166](../Codici/Approvazione%20del%20t
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 28 dicembre 2001, n. 478](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-12-28;478) ha disposto (con l'art. 22, comma 1) che le presenti modifiche hanno efficacia dal giorno della pubblicazione del suddetto decreto.
+Il [D.Lgs. 28 dicembre 2001, n. 478](Disposizioni%20integrative%20e%20correttive%20del%20decreto%20legislativo%2022%20dicembre%202000%20n.%20395%20in%20materia%20di%20accesso%20alla%20professione%20di%20trasportatore%20su%20strada%20di%20cose%20per%20conto%20terzi.md) ha disposto (con l'art. 22, comma 1) che le presenti modifiche hanno efficacia dal giorno della pubblicazione del suddetto decreto.
 
 ## Art. 6. — Requisito della capacita' finanziaria
 
@@ -235,7 +235,7 @@ La prova della sussistenza della capacita' finanziaria puo' essere fornita media
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 28 dicembre 2001, n. 478](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-12-28;478) ha disposto (con l'art. 22, comma 1) che le presenti modifiche hanno efficacia dal giorno della pubblicazione del suddetto decreto.
+Il [D.Lgs. 28 dicembre 2001, n. 478](Disposizioni%20integrative%20e%20correttive%20del%20decreto%20legislativo%2022%20dicembre%202000%20n.%20395%20in%20materia%20di%20accesso%20alla%20professione%20di%20trasportatore%20su%20strada%20di%20cose%20per%20conto%20terzi.md) ha disposto (con l'art. 22, comma 1) che le presenti modifiche hanno efficacia dal giorno della pubblicazione del suddetto decreto.
 
 ## Art. 7. — Requisito dell'idoneita' professionale
 
@@ -272,7 +272,7 @@ Per gli effetti del comma 4 l'esperienza pratica ivi contemplata:
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 28 dicembre 2001, n. 478](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-12-28;478) ha disposto (con l'art. 22, comma 1) che le presenti modifiche hanno efficacia dal giorno della pubblicazione del suddetto decreto.
+Il [D.Lgs. 28 dicembre 2001, n. 478](Disposizioni%20integrative%20e%20correttive%20del%20decreto%20legislativo%2022%20dicembre%202000%20n.%20395%20in%20materia%20di%20accesso%20alla%20professione%20di%20trasportatore%20su%20strada%20di%20cose%20per%20conto%20terzi.md) ha disposto (con l'art. 22, comma 1) che le presenti modifiche hanno efficacia dal giorno della pubblicazione del suddetto decreto.
 
 ## Art. 8. — Esame di idoneita' professionale
 
@@ -308,7 +308,7 @@ Possono partecipare alle prove d'esame di cui al comma 1 le persone, maggiori d'
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 28 dicembre 2001, n. 478](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-12-28;478) ha disposto (con l'art. 22, comma 1) che le presenti modifiche hanno efficacia dal giorno della pubblicazione del suddetto decreto.
+Il [D.Lgs. 28 dicembre 2001, n. 478](Disposizioni%20integrative%20e%20correttive%20del%20decreto%20legislativo%2022%20dicembre%202000%20n.%20395%20in%20materia%20di%20accesso%20alla%20professione%20di%20trasportatore%20su%20strada%20di%20cose%20per%20conto%20terzi.md) ha disposto (con l'art. 22, comma 1) che le presenti modifiche hanno efficacia dal giorno della pubblicazione del suddetto decreto.
 
 ## Art. 9. — Attestato di idoneita' professionale
  ed elenco degli idonei
@@ -331,7 +331,7 @@ Il Ministero delle infrastrutture e dei trasporti provvede, nei limiti delle ord
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 28 dicembre 2001, n. 478](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-12-28;478) ha disposto (con l'art. 22, comma 1) che le presenti modifiche hanno efficacia dal giorno della pubblicazione del suddetto decreto.
+Il [D.Lgs. 28 dicembre 2001, n. 478](Disposizioni%20integrative%20e%20correttive%20del%20decreto%20legislativo%2022%20dicembre%202000%20n.%20395%20in%20materia%20di%20accesso%20alla%20professione%20di%20trasportatore%20su%20strada%20di%20cose%20per%20conto%20terzi.md) ha disposto (con l'art. 22, comma 1) che le presenti modifiche hanno efficacia dal giorno della pubblicazione del suddetto decreto.
 
 ## Art. 10. — Proseguimento provvisorio dell'attivita'
 
@@ -355,7 +355,7 @@ Nei casi in cui ai sensi del presente articolo e' disposta la cancellazione dell
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 28 dicembre 2001, n. 478](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-12-28;478) ha disposto (con l'art. 22, comma 1) che la presente modifia ha efficacia dal giorno della pubblicazione del suddetto decreto.
+Il [D.Lgs. 28 dicembre 2001, n. 478](Disposizioni%20integrative%20e%20correttive%20del%20decreto%20legislativo%2022%20dicembre%202000%20n.%20395%20in%20materia%20di%20accesso%20alla%20professione%20di%20trasportatore%20su%20strada%20di%20cose%20per%20conto%20terzi.md) ha disposto (con l'art. 22, comma 1) che la presente modifia ha efficacia dal giorno della pubblicazione del suddetto decreto.
 
 ## Art. 11. — Perdita dell'onorabilita'
 
@@ -387,7 +387,7 @@ Nei casi in cui ai sensi del presente articolo e' disposta la sospensione o la c
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 28 dicembre 2001, n. 478](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-12-28;478) ha disposto (con l'art. 22, comma 1) che la presente modifia ha efficacia dal giorno della pubblicazione del suddetto decreto.
+Il [D.Lgs. 28 dicembre 2001, n. 478](Disposizioni%20integrative%20e%20correttive%20del%20decreto%20legislativo%2022%20dicembre%202000%20n.%20395%20in%20materia%20di%20accesso%20alla%20professione%20di%20trasportatore%20su%20strada%20di%20cose%20per%20conto%20terzi.md) ha disposto (con l'art. 22, comma 1) che la presente modifia ha efficacia dal giorno della pubblicazione del suddetto decreto.
 
 ## Art. 12. — Perdita della capacita' finanziaria
 
@@ -413,7 +413,7 @@ Nei casi in cui ai sensi del presente articolo e' disposta la cancellazione dell
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 28 dicembre 2001, n. 478](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-12-28;478) ha disposto (con l'art. 22, comma 1) che le presenti modifiche hanno efficacia dal giorno della pubblicazione del suddetto decreto.
+Il [D.Lgs. 28 dicembre 2001, n. 478](Disposizioni%20integrative%20e%20correttive%20del%20decreto%20legislativo%2022%20dicembre%202000%20n.%20395%20in%20materia%20di%20accesso%20alla%20professione%20di%20trasportatore%20su%20strada%20di%20cose%20per%20conto%20terzi.md) ha disposto (con l'art. 22, comma 1) che le presenti modifiche hanno efficacia dal giorno della pubblicazione del suddetto decreto.
 
 ## Art. 13. — Perdita dell'idoneita' professionale
 
@@ -432,7 +432,7 @@ Nei casi in cui ai sensi del presente articolo e' disposta la cancellazione dell
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 28 dicembre 2001, n. 478](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-12-28;478) ha disposto (con l'art. 22, comma 1) che la presente modifia ha efficacia dal giorno della pubblicazione del suddetto decreto.
+Il [D.Lgs. 28 dicembre 2001, n. 478](Disposizioni%20integrative%20e%20correttive%20del%20decreto%20legislativo%2022%20dicembre%202000%20n.%20395%20in%20materia%20di%20accesso%20alla%20professione%20di%20trasportatore%20su%20strada%20di%20cose%20per%20conto%20terzi.md) ha disposto (con l'art. 22, comma 1) che la presente modifia ha efficacia dal giorno della pubblicazione del suddetto decreto.
 
 ## Art. 13-bis. — (( (Partecipazione al procedimento). ))
 
@@ -443,7 +443,7 @@ Il [D.Lgs. 28 dicembre 2001, n. 478](https://www.normattiva.it/uri-res/N2Ls?urn:
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 28 dicembre 2001, n. 478](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-12-28;478) ha disposto (con l'art. 22, comma 1) che la presente modifia ha efficacia dal giorno della pubblicazione del suddetto decreto.
+Il [D.Lgs. 28 dicembre 2001, n. 478](Disposizioni%20integrative%20e%20correttive%20del%20decreto%20legislativo%2022%20dicembre%202000%20n.%20395%20in%20materia%20di%20accesso%20alla%20professione%20di%20trasportatore%20su%20strada%20di%20cose%20per%20conto%20terzi.md) ha disposto (con l'art. 22, comma 1) che la presente modifia ha efficacia dal giorno della pubblicazione del suddetto decreto.
 
 ## Articolo 14 — (Riconoscimento reciproco di atti in materia di onorabilita')
 
@@ -483,7 +483,7 @@ Per gli effetti dell'articolo 6, e' dato riconoscimento:
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 28 dicembre 2001, n. 478](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-12-28;478) ha disposto (con l'art. 22, comma 1) che la presente modifia hanno efficacia dal giorno della pubblicazione del suddetto decreto.
+Il [D.Lgs. 28 dicembre 2001, n. 478](Disposizioni%20integrative%20e%20correttive%20del%20decreto%20legislativo%2022%20dicembre%202000%20n.%20395%20in%20materia%20di%20accesso%20alla%20professione%20di%20trasportatore%20su%20strada%20di%20cose%20per%20conto%20terzi.md) ha disposto (con l'art. 22, comma 1) che la presente modifia hanno efficacia dal giorno della pubblicazione del suddetto decreto.
 
 ## Art. 16. — Riconoscimento reciproco di atti
  in materia di idoneita' professionale
@@ -501,7 +501,7 @@ L'attivita' non deve essere cessata da piu' di cinque anni alla data di presenta
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 28 dicembre 2001, n. 478](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-12-28;478) ha disposto (con l'art. 22, comma 1) che la presente modifica ha efficacia dal giorno della pubblicazione del suddetto decreto.
+Il [D.Lgs. 28 dicembre 2001, n. 478](Disposizioni%20integrative%20e%20correttive%20del%20decreto%20legislativo%2022%20dicembre%202000%20n.%20395%20in%20materia%20di%20accesso%20alla%20professione%20di%20trasportatore%20su%20strada%20di%20cose%20per%20conto%20terzi.md) ha disposto (con l'art. 22, comma 1) che la presente modifica ha efficacia dal giorno della pubblicazione del suddetto decreto.
 
 ## Art. 17. — Informazioni alle Autorita' di altri Stati membri
 
@@ -516,7 +516,7 @@ Con il regolamento di cui all'articolo 21 sono stabilite le modalita' della comu
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 28 dicembre 2001, n. 478](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-12-28;478) ha disposto (con l'art. 22, comma 1) che la presente modifica ha efficacia dal giorno della pubblicazione del suddetto decreto.
+Il [D.Lgs. 28 dicembre 2001, n. 478](Disposizioni%20integrative%20e%20correttive%20del%20decreto%20legislativo%2022%20dicembre%202000%20n.%20395%20in%20materia%20di%20accesso%20alla%20professione%20di%20trasportatore%20su%20strada%20di%20cose%20per%20conto%20terzi.md) ha disposto (con l'art. 22, comma 1) che la presente modifica ha efficacia dal giorno della pubblicazione del suddetto decreto.
 
 ## Art. 18. — Verifiche ed adeguamenti
 
@@ -538,7 +538,7 @@ Con il regolamento di cui all'articolo 21 sono determinate le modalita' per la v
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 28 dicembre 2001, n. 478](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-12-28;478) ha disposto (con l'art. 22, comma 1) che le presenti modifiche hanno efficacia dal giorno della pubblicazione del suddetto decreto.
+Il [D.Lgs. 28 dicembre 2001, n. 478](Disposizioni%20integrative%20e%20correttive%20del%20decreto%20legislativo%2022%20dicembre%202000%20n.%20395%20in%20materia%20di%20accesso%20alla%20professione%20di%20trasportatore%20su%20strada%20di%20cose%20per%20conto%20terzi.md) ha disposto (con l'art. 22, comma 1) che le presenti modifiche hanno efficacia dal giorno della pubblicazione del suddetto decreto.
 
 ## Articolo 19 — (Sanzioni)
 
@@ -573,7 +573,7 @@ Le sanzioni previste dal presente articolo sono applicate dall'autorita' compete
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 28 dicembre 2001, n. 478](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-12-28;478) ha disposto (con l'art. 22, comma 1) che la presente modifica ha efficacia dal giorno della pubblicazione del suddetto decreto.
+Il [D.Lgs. 28 dicembre 2001, n. 478](Disposizioni%20integrative%20e%20correttive%20del%20decreto%20legislativo%2022%20dicembre%202000%20n.%20395%20in%20materia%20di%20accesso%20alla%20professione%20di%20trasportatore%20su%20strada%20di%20cose%20per%20conto%20terzi.md) ha disposto (con l'art. 22, comma 1) che la presente modifica ha efficacia dal giorno della pubblicazione del suddetto decreto.
 
 ## Art. 21. — (( (Regolamento di attuazione). ))
 
@@ -584,7 +584,7 @@ Il [D.Lgs. 28 dicembre 2001, n. 478](https://www.normattiva.it/uri-res/N2Ls?urn:
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 28 dicembre 2001, n. 478](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-12-28;478) ha disposto (con l'art. 22, comma 1) che le presenti modifiche hanno efficacia dal giorno della pubblicazione del suddetto decreto.
+Il [D.Lgs. 28 dicembre 2001, n. 478](Disposizioni%20integrative%20e%20correttive%20del%20decreto%20legislativo%2022%20dicembre%202000%20n.%20395%20in%20materia%20di%20accesso%20alla%20professione%20di%20trasportatore%20su%20strada%20di%20cose%20per%20conto%20terzi.md) ha disposto (con l'art. 22, comma 1) che le presenti modifiche hanno efficacia dal giorno della pubblicazione del suddetto decreto.
 
 ## Art. 22. — Disposizioni transitorie
 
@@ -604,7 +604,7 @@ Fino all'entrata in vigore del regolamento di cui all'articolo 21 continuano ad 
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 28 dicembre 2001, n. 478](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-12-28;478) ha disposto (con l'art. 22, comma 1) che "Le disposizioni del presente decreto hanno efficacia dal giorno della pubblicazione".
+Il [D.Lgs. 28 dicembre 2001, n. 478](Disposizioni%20integrative%20e%20correttive%20del%20decreto%20legislativo%2022%20dicembre%202000%20n.%20395%20in%20materia%20di%20accesso%20alla%20professione%20di%20trasportatore%20su%20strada%20di%20cose%20per%20conto%20terzi.md) ha disposto (con l'art. 22, comma 1) che "Le disposizioni del presente decreto hanno efficacia dal giorno della pubblicazione".
 
 ## Articolo 23 — (Entrata in vigore)
 

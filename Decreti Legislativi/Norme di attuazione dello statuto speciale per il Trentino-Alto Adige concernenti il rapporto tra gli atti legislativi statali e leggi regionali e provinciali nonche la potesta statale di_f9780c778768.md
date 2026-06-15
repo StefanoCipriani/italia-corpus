@@ -53,7 +53,7 @@ Salvo quanto disposto nel comma 4, la legislazione regionale e provinciale deve 
 
 2.
 
-Decorso il termine di cui al comma 1, le disposizioni legisla- tive regionali e provinciali non adeguate in ottemperanza al comma medesimo possono essere impugnate davanti alla Corte costituzionale ai sensi dell'art. 97 dello statuto speciale per violazione di esso; si applicano altresi' la [legge costituzionale 9 febbraio 1948, n. 1, e l'art. 23](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1948-02-09;1#art_23) della [legge 11 marzo 1953, n. 87](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-03-11;87).
+Decorso il termine di cui al comma 1, le disposizioni legisla- tive regionali e provinciali non adeguate in ottemperanza al comma medesimo possono essere impugnate davanti alla Corte costituzionale ai sensi dell'art. 97 dello statuto speciale per violazione di esso; si applicano altresi' la [legge costituzionale 9 febbraio 1948, n. 1, e l'art. 23](../Leggi%20costituzionali/Norme%20sui%20giudizi%20di%20legittimita%20costituzionale%20e%20sulle%20garanzie%20dindipendenza%20della%20Corte%20Costituzionale.md) della [legge 11 marzo 1953, n. 87](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-03-11;87).
 
 3.
 

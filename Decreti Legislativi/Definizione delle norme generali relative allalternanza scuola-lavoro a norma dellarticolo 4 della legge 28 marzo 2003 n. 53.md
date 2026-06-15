@@ -12,17 +12,17 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76), [87](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87) e [117 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_117);
 
-Vista la [legge 28 marzo 2003, n. 53](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-03-28;53), recante delega al Governo per la definizione delle norme generali sull'istruzione e dei livelli essenziali delle prestazioni in materia di istruzione e formazione professionale, ed in particolare, l'articolo 4 che prevede l'emanazione di un apposito decreto legislativo per la definizione delle norme generali in materia di alternanza scuola-lavoro;
+Vista la [legge 28 marzo 2003, n. 53](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20definizione%20delle%20norme%20generali%20sullistruzione%20e%20dei%20livelli%20essenziali%20delle%20prestazioni%20in%20materia%20di%20istruzione%20e%20formazione%20professionale.md), recante delega al Governo per la definizione delle norme generali sull'istruzione e dei livelli essenziali delle prestazioni in materia di istruzione e formazione professionale, ed in particolare, l'articolo 4 che prevede l'emanazione di un apposito decreto legislativo per la definizione delle norme generali in materia di alternanza scuola-lavoro;
 
 Vista la [legge 20 marzo 2000, n. 62](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-03-20;62), recante norme per la parita' scolastica e disposizioni sul diritto allo studio e all'istruzione;
 
-Vista la [legge 14 febbraio 2003, n. 30](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-02-14;30), recante delega al Governo in materia di occupazione e del mercato del lavoro;
+Vista la [legge 14 febbraio 2003, n. 30](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20in%20materia%20di%20occupazione%20e%20mercato%20del%20lavoro.md), recante delega al Governo in materia di occupazione e del mercato del lavoro;
 
 Visto il [decreto legislativo 10 settembre 2003, n. 276](Attuazione%20delle%20deleghe%20in%20materia%20di%20occupazione%20e%20mercato%20del%20lavoro%20di%20cui%20alla%20legge%2014%20febbraio%202003%20n.%2030.md);
 
 Visto il [decreto legislativo 16 aprile 1994, n. 297](Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md), e successive modificazioni;
 
-Vista la [legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59), e successive modificazioni, ed in particolare l'articolo 21;
+Vista la [legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), e successive modificazioni, ed in particolare l'articolo 21;
 
 Vista la [legge 24 giugno 1997, n. 196](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-06-24;196), che fissa norme in materia di promozione dell'occupazione;
 
@@ -36,7 +36,7 @@ Sentite le Associazioni maggiormente rappresentative dei datori di lavoro;
 
 Considerato che, nella seduta del 14 ottobre 2004, la Conferenza unificata, di cui al [decreto legislativo 28 agosto 1997, n. 281](Definizione%20ed%20ampliamento%20delle%20attribuzioni%20della%20Conferenza%20permanente%20per%20i%20rapporti%20tra%20lo%20Stato%20le%20regioni%20e%20le%20province%20autonome%20di%20Trento%20e%20Bolzano%20ed%20unificazione%20per%20le%20materie%20_0f948c71aa72.md), ha espresso la mancata intesa;
 
-Ritenuto necessario, al fine di dare concreta attuazione alla delega prevista dalla [legge 28 marzo 2003, n. 53](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-03-28;53), attivare la procedura di cui all'[articolo 3, comma 3 del decreto legislativo 28 agosto 1997, n. 281](Definizione%20ed%20ampliamento%20delle%20attribuzioni%20della%20Conferenza%20permanente%20per%20i%20rapporti%20tra%20lo%20Stato%20le%20regioni%20e%20le%20province%20autonome%20di%20Trento%20e%20Bolzano%20ed%20unificazione%20per%20le%20materie%20_0f948c71aa72.md);
+Ritenuto necessario, al fine di dare concreta attuazione alla delega prevista dalla [legge 28 marzo 2003, n. 53](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20definizione%20delle%20norme%20generali%20sullistruzione%20e%20dei%20livelli%20essenziali%20delle%20prestazioni%20in%20materia%20di%20istruzione%20e%20formazione%20professionale.md), attivare la procedura di cui all'[articolo 3, comma 3 del decreto legislativo 28 agosto 1997, n. 281](Definizione%20ed%20ampliamento%20delle%20attribuzioni%20della%20Conferenza%20permanente%20per%20i%20rapporti%20tra%20lo%20Stato%20le%20regioni%20e%20le%20province%20autonome%20di%20Trento%20e%20Bolzano%20ed%20unificazione%20per%20le%20materie%20_0f948c71aa72.md);
 
 Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella riunione dell'11 novembre 2004;
 
@@ -177,7 +177,7 @@ I percorsi in alternanza sono oggetto di verifica e valutazione da parte dell'is
 
 2.
 
-Fermo restando quanto previsto all'[articolo 4 della legge 28 marzo 2003, n. 53](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-03-28;53#art_4), e dalle norme vigenti in materia, l'istituzione scolastica o formativa, tenuto conto delle indicazioni fornite dal tutor formativo esterno, valuta gli apprendimenti degli studenti in alternanza e certifica, sulla base del modello di cui all'articolo 3, comma 3, lettera e), le competenze da essi acquisite, che costituiscono crediti, sia ai fini della prosecuzione del percorso scolastico o formativo per il conseguimento del diploma o della qualifica, sia per gli eventuali passaggi tra i sistemi, ivi compresa l'eventuale transizione nei percorsi di apprendistato.
+Fermo restando quanto previsto all'[articolo 4 della legge 28 marzo 2003, n. 53](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20definizione%20delle%20norme%20generali%20sullistruzione%20e%20dei%20livelli%20essenziali%20delle%20prestazioni%20in%20materia%20di%20istruzione%20e%20formazione%20professionale.md), e dalle norme vigenti in materia, l'istituzione scolastica o formativa, tenuto conto delle indicazioni fornite dal tutor formativo esterno, valuta gli apprendimenti degli studenti in alternanza e certifica, sulla base del modello di cui all'articolo 3, comma 3, lettera e), le competenze da essi acquisite, che costituiscono crediti, sia ai fini della prosecuzione del percorso scolastico o formativo per il conseguimento del diploma o della qualifica, sia per gli eventuali passaggi tra i sistemi, ivi compresa l'eventuale transizione nei percorsi di apprendistato.
 
 3.
 
@@ -188,9 +188,9 @@ La valutazione e la certificazione delle competenze acquisite dai disabili che f
 Le istituzioni scolastiche o formative rilasciano, a conclusione dei percorsi in alternanza, in aggiunta alla certificazione prevista dall'[articolo 3, comma 1, lettera a), della legge n. 53 del 2003](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003;53#art_3-com1-leta), una certificazione relativa alle competenze acquisite nei periodi di apprendimento mediante esperienze di lavoro.
 
 Note all'art. 6:
- - Per il testo dell'[art. 4 della legge 28 marzo 2003, n. 53](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-03-28;53#art_4), si vedano le note al preambolo.
+ - Per il testo dell'[art. 4 della legge 28 marzo 2003, n. 53](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20definizione%20delle%20norme%20generali%20sullistruzione%20e%20dei%20livelli%20essenziali%20delle%20prestazioni%20in%20materia%20di%20istruzione%20e%20formazione%20professionale.md), si vedano le note al preambolo.
  - La [legge 5 febbraio 1992, n. 104](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-05;104), reca: «Legge-quadro per l'assistenza, l'integrazione sociale e i diritti delle persone handicappate».
- - Si riporta il testo dell'[art. 3, comma 1, lettera a) della legge 28 marzo 2003, n. 53](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-03-28;53#art_3-com1-leta):
+ - Si riporta il testo dell'[art. 3, comma 1, lettera a) della legge 28 marzo 2003, n. 53](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20definizione%20delle%20norme%20generali%20sullistruzione%20e%20dei%20livelli%20essenziali%20delle%20prestazioni%20in%20materia%20di%20istruzione%20e%20formazione%20professionale.md):
  «Art. 3 (Valutazione degli apprendimenti e della qualita' del sistema educativo di istruzione e di formazione). - 1. Con i decreti di cui all'art. 1 sono dettate le norme generali sulla valutazione del sistema educativo di istruzione e di formazione e degli apprendimenti degli studenti, con l'osservanza dei seguenti principi e criteri direttivi:
  a) la valutazione, periodica e annuale, degli apprendimenti e del comportamento degli studenti del sistema educativo di istruzione e di formazione, e la certificazione delle competenze da essi acquisite, sono affidate ai docenti delle istituzioni di istruzione e formazione frequentate; agli stessi docenti e' affidata la valutazione dei periodi didattici ai fini del passaggio al periodo successivo; il miglioramento dei processi di apprendimento e della relativa valutazione, nonche' la continuita' didattica, sono assicurati anche attraverso una congrua permanenza dei docenti nella sede di titolarita';».
 
@@ -204,16 +204,16 @@ Le istituzioni scolastiche, a domanda degli interessati e d'intesa con le region
 
 1.
 
-Sono fatte salve le competenze delle regioni a statuto speciale e delle province autonome di Trento e di Bolzano, in conformita' ai rispettivi statuti ed alle relative norme di attuazione, nonche' alla [legge costituzionale 18 ottobre 2001, n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:2001-10-18;3).
+Sono fatte salve le competenze delle regioni a statuto speciale e delle province autonome di Trento e di Bolzano, in conformita' ai rispettivi statuti ed alle relative norme di attuazione, nonche' alla [legge costituzionale 18 ottobre 2001, n. 3](../Leggi%20costituzionali/Modifiche%20al%20titolo%20V%20della%20parte%20seconda%20della%20Costituzione.md).
 
 Nota all'[art. 8:
- - La legge costituzionale 18 ottobre 2001, n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:2001-10-18;3#art_8), reca: «Modifiche al titolo V della parte seconda della Costituzione».
+ - La legge costituzionale 18 ottobre 2001, n. 3](../Leggi%20costituzionali/Modifiche%20al%20titolo%20V%20della%20parte%20seconda%20della%20Costituzione.md), reca: «Modifiche al titolo V della parte seconda della Costituzione».
 
 ## Art. 9. — Risorse
 
 1.
 
-All'onere derivante dall'attuazione degli interventi del presente decreto nel sistema dell'istruzione, nel limite massimo di 10 milioni di euro per l'anno 2005 e di 30 milioni di euro a decorrere dall'anno 2006, si provvede a valere sull'autorizzazione di spesa di cui all'[articolo 4 della legge 18 dicembre 1997, n. 440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-12-18;440#art_4), come determinata dalla tabella C, allegata alla [legge 30 dicembre 2004, n. 311](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-12-30;311).
+All'onere derivante dall'attuazione degli interventi del presente decreto nel sistema dell'istruzione, nel limite massimo di 10 milioni di euro per l'anno 2005 e di 30 milioni di euro a decorrere dall'anno 2006, si provvede a valere sull'autorizzazione di spesa di cui all'[articolo 4 della legge 18 dicembre 1997, n. 440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-12-18;440#art_4), come determinata dalla tabella C, allegata alla [legge 30 dicembre 2004, n. 311](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202005.md).
 
 2.
 
@@ -221,14 +221,14 @@ Nell'ambito delle risorse di cui al comma 1, per il funzionamento del Comitato p
 
 3.
 
-Per la realizzazione degli interventi di cui al presente decreto nel sistema dell'istruzione e formazione professionale concorrono, nella percentuale stabilita nella programmazione regionale, le risorse destinate ai percorsi di formazione professionale a valere sugli stanziamenti previsti dall'[articolo 68, comma 4, lettera a), della legge 17 maggio 1999, n. 144](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-05-17;144#art_68-com4-leta), e successive modificazioni.
+Per la realizzazione degli interventi di cui al presente decreto nel sistema dell'istruzione e formazione professionale concorrono, nella percentuale stabilita nella programmazione regionale, le risorse destinate ai percorsi di formazione professionale a valere sugli stanziamenti previsti dall'[articolo 68, comma 4, lettera a), della legge 17 maggio 1999, n. 144](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Misure%20in%20materia%20di%20investimenti%20delega%20al%20Governo%20per%20il%20riordino%20degli%20incentivi%20alloccupazione%20e%20della%20normativa%20che%20disciplina%20lINAIL%20nonche%20disposizioni%20per%20il%20riordino%20degli%20enti%20previdenziali.md), e successive modificazioni.
 
 Note all'art. 9:
  - Si riporta il testo dell'[art. 4 della legge 18 dicembre 1997, n. 440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-12-18;440#art_4):
  «Art. 4 (Dotazione del fondo). - 1. La dotazione del fondo di cui all'art. 1 e' determinata in lire 100 miliardi per l'anno 1997, in lire 400 miliardi per l'anno 1998 e in lire 345 miliardi annue a decorrere dall'anno 1999.
  All'onere relativo agli anni 1997, 1998 e 1999 si provvede mediante corrispondente riduzione dello stanziamento iscritto, ai fini del bilancio triennale 1997-1999, al capitolo 6856 dello stato di previsione del Ministero del tesoro per l'anno 1997, all'uopo parzialmente utilizzando, per lire 100 miliardi per ciascuno degli anni 1997, 1998 e 1999, l'accantonamento relativo al Ministero della pubblica istruzione e per lire 300 miliardi per l'anno 1998 e lire 245 miliardi per l'anno 1999, l'accantonamento relativo alla Presidenza del Consiglio dei Ministri.
  2. Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.».
- - Si riporta il testo dell'[art. 68, comma 4, lettera a) della legge 17 maggio 1999, n. 144](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-05-17;144#art_68-com4-leta):
+ - Si riporta il testo dell'[art. 68, comma 4, lettera a) della legge 17 maggio 1999, n. 144](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Misure%20in%20materia%20di%20investimenti%20delega%20al%20Governo%20per%20il%20riordino%20degli%20incentivi%20alloccupazione%20e%20della%20normativa%20che%20disciplina%20lINAIL%20nonche%20disposizioni%20per%20il%20riordino%20degli%20enti%20previdenziali.md):
  «4. Agli oneri derivanti dall'intervento di cui al comma 1 si provvede:
  a) a carico del Fondo di cui all'[art. 1, comma 7, del decreto-legge 20 maggio 1993, n. 148](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-05-20;148#art_1-com7), convertito, con modificazioni, dalla [legge 19 luglio 1993, n. 236](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2020%20maggio%201993%20n.%20148%20recante%20interventi%20urgenti%20a%20sostegno%20delloccupazione.md), per i seguenti importi: lire 200 miliardi per l'anno 1999, lire 430 miliardi per il 2000, lire 562 miliardi per il 2001 e fino a lire 590 miliardi a decorrere dall'anno 2002;».
 
@@ -247,14 +247,14 @@ Nota all'art. 10:
 
 1.
 
-Fino all'emanazione dei decreti legislativi di cui all'[articolo 2, comma 1, lettera g), della legge 28 marzo 2003, n. 53](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-03-28;53#art_2-com1-letg), i percorsi in alternanza di cui all'articolo 1 possono essere realizzati negli istituti di istruzione secondaria superiore secondo l'ordinamento vigente.
+Fino all'emanazione dei decreti legislativi di cui all'[articolo 2, comma 1, lettera g), della legge 28 marzo 2003, n. 53](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20definizione%20delle%20norme%20generali%20sullistruzione%20e%20dei%20livelli%20essenziali%20delle%20prestazioni%20in%20materia%20di%20istruzione%20e%20formazione%20professionale.md), i percorsi in alternanza di cui all'articolo 1 possono essere realizzati negli istituti di istruzione secondaria superiore secondo l'ordinamento vigente.
 
 2.
 
 Fino all'emanazione dei decreti legislativi di cui al comma 1, le regioni e le province autonome definiscono le modalita' per l'attuazione di eventuali sperimentazioni di percorsi in alternanza nell'ambito del sistema di formazione professionale.
 
 Nota all'art. 11:
- - Si riporta il testo dell'[art. 2, comma 1, lettera g), della legge 28 marzo 2003, n. 53](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-03-28;53#art_2-com1-letg):
+ - Si riporta il testo dell'[art. 2, comma 1, lettera g), della legge 28 marzo 2003, n. 53](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20definizione%20delle%20norme%20generali%20sullistruzione%20e%20dei%20livelli%20essenziali%20delle%20prestazioni%20in%20materia%20di%20istruzione%20e%20formazione%20professionale.md):
  «Art. 2 (Sistema educativo di istruzione e di formazione). - 1. I decreti di cui all'art. 1 definiscono il sistema educativo di istruzione e di formazione, con l'osservanza dei seguenti principi e criteri direttivi:
  d) - f) (omissis);
  g) il secondo ciclo, finalizzato alla crescita educativa, culturale e professionale dei giovani attraverso il sapere, il fare e l'agire, e la riflessione critica su di essi, e' finalizzato a sviluppare l'autonoma capacita' di giudizio e l'esercizio della responsabilita' personale e sociale; in tale ambito, viene anche curato lo sviluppo delle conoscenze relative all'uso delle nuove tecnologie; il secondo ciclo e' costituito dal sistema dei licei e dal sistema dell'istruzione e della formazione professionale; dal compimento del quindicesimo anno di eta' i diplomi e le qualifiche si possono conseguire in alternanza scuola-lavoro o attraverso l'apprendistato; il sistema dei licei comprende i licei artistico, classico, economico, linguistico, musicale e coreutico, scientifico, tecnologico, delle scienze umane; i licei artistico, economico e tecnologico si articolano in indirizzi per corrispondere ai diversi fabbisogni formativi; i licei hanno durata quinquennale; l'attivita' didattica si sviluppa in due periodi biennali e in un quinto anno che prioritariamente completa il percorso disciplinare e prevede altresi' l'approfondimento delle conoscenze e delle abilita' caratterizzanti il profilo educativo, culturale e professionale del corso di studi; i licei si concludono con un esame di Stato il cui superamento rappresenta titolo necessario per l'accesso all'universita' e all'alta formazione artistica, musicale e coreutica; l'ammissione al quinto anno da' accesso all'istruzione e formazione tecnica superiore;».

@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4), con le modificazioni ad esso apportate dall'[art. 3, comma primo, del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98#art_3-com1);
+Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4), con le modificazioni ad esso apportate dall'[art. 3, comma primo, del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Viste le disposizioni transitorie I e XV della Costituzione;
 
@@ -35,7 +35,7 @@ ARTICOLO SOPPRESSO DALLA [L. 9 GENNAIO 1951, N. 7](../DL%20e%20leggi%20di%20conv
 
 AGGIORNAMENTO (2)
 
-La [L. 24 dicembre 1951, n. 1638](../Atti%20normativi%20abrogati%20%28in%20originale%29/Organici%20degli%20ufficiali%20dellEsercito%20e%20limiti%20di%20eta%20per%20la%20cessazione%20dal%20servizio%20permanente.md) ha disposto (con l'art. 6) che "L'abrogazione dell'[art. 2 del decreto legislativo 7 maggio 1948, n. 727](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-05-07;727#art_2), disposta dall'[art. 2 dalla legge 9 gennaio 1951, n. 7](../DL%20e%20leggi%20di%20conversione/Ratifica%20con%20modificazioni%20del%20decreto%20legislativo%207%20maggio%201948%20n.%20727%20contenente%20norme%20in%20materia%20di%20stato%20e%20di%20avanzamento%20degli%20ufficiali%20dellEsercito.md), ha effetto dal 1 gennaio 1951."
+La [L. 24 dicembre 1951, n. 1638](../Atti%20normativi%20abrogati%20%28in%20originale%29/Organici%20degli%20ufficiali%20dellEsercito%20e%20limiti%20di%20eta%20per%20la%20cessazione%20dal%20servizio%20permanente.md) ha disposto (con l'art. 6) che "L'abrogazione dell'[art. 2 del decreto legislativo 7 maggio 1948, n. 727](Norme%20in%20materia%20di%20stato%20e%20di%20avanzamento%20degli%20ufficiali%20dellEsercito.md), disposta dall'[art. 2 dalla legge 9 gennaio 1951, n. 7](../DL%20e%20leggi%20di%20conversione/Ratifica%20con%20modificazioni%20del%20decreto%20legislativo%207%20maggio%201948%20n.%20727%20contenente%20norme%20in%20materia%20di%20stato%20e%20di%20avanzamento%20degli%20ufficiali%20dellEsercito.md), ha effetto dal 1 gennaio 1951."
 
 ## Art. 3.
 

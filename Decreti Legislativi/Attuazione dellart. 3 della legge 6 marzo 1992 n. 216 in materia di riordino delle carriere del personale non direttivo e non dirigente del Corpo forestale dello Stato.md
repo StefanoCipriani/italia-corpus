@@ -14,7 +14,7 @@ Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cos
 
 Vista la [legge 6 marzo 1992, n. 216](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%207%20gennaio%201992%20n.%205%20recante%20autorizzazione%20di%20spesa%20per%20la%20perequazione%20del%20trattamento%20economico%20dei%20sottufficiali%20dellArma%20dei%20c_54831fc6293c.md), di conversione, con modificazioni, del [decreto-legge 7 gennaio 1992, n. 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-01-07;5), ed in particolare l'art. 3;
 
-Vista la [legge 29 aprile 1995, n. 130](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-04-29;130);
+Vista la [legge 29 aprile 1995, n. 130](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20in%20materia%20di%20procedure%20per%20la%20disciplina%20del%20rapporto%20dimpiego%20e%20per%20il%20riordino%20delle%20carriere%20delle%20attribuzioni%20e%20dei%20trattamenti%20economici%20delle%20Forze%20di%20polizia%20e%20_5f3cd1dee5c8.md);
 
 Acquisiti i pareri delle organizzazioni sindacali del personale interessato maggiormente rappresentative sul piano nazionale;
 
@@ -62,7 +62,7 @@ AVVERTENZA:
  - L'[art. 76 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) regola la delega al Governo dell'esercizio della funzione legislativa e stabilisce che essa non puo' avvenire se non con determinazione di principi e criteri direttivi e soltanto per tempo limitato e per oggetti definiti.
  - L'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87) conferisce al Presidente della Repubblica il potere di promulgare le leggi e di emanare i decreti aventi valore di legge e i regolamenti.
  - La [legge 6 marzo 1992, n. 216](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%207%20gennaio%201992%20n.%205%20recante%20autorizzazione%20di%20spesa%20per%20la%20perequazione%20del%20trattamento%20economico%20dei%20sottufficiali%20dellArma%20dei%20c_54831fc6293c.md), reca: "Conversione in legge, con modificazioni, del [decreto-legge 7 gennaio 1992, n. 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-01-07;5), recante autorizzazione di spesa per la perequazione del trattamento economico dei sottufficiali dell'Arma dei carabinieri in relazione alla sentenza della Corte costituzionale n. 277 del 3-12 giugno 1991 e all'esecuzione di giudicati, nonche' perequazione dei trattamenti economici relativi al personale della altre Forze di polizia. Delega al Governo per disciplinare i contenuti del rapporto d'impiego delle Forze di polizia e del personale delle Forze armate nonche' per il riordino delle relative carriere, attribuzione e trattamento economici".
- - La [legge 29 aprile 1995, n. 130](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-04-29;130), reca: "Delega al Governo in materia di procedure per la disciplina del rapporto d'impiego e per il riordino delle carriere, delle attribuzioni e dei trattamenti economici delle Forze di polizia e delle Forze armate".
+ - La [legge 29 aprile 1995, n. 130](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20in%20materia%20di%20procedure%20per%20la%20disciplina%20del%20rapporto%20dimpiego%20e%20per%20il%20riordino%20delle%20carriere%20delle%20attribuzioni%20e%20dei%20trattamenti%20economici%20delle%20Forze%20di%20polizia%20e%20_5f3cd1dee5c8.md), reca: "Delega al Governo in materia di procedure per la disciplina del rapporto d'impiego e per il riordino delle carriere, delle attribuzioni e dei trattamenti economici delle Forze di polizia e delle Forze armate".
  Nota all'art. 1:
  - La tabella A allegata alla [legge 7 giugno 1990, n. 149](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-06-07;149) (Adeguamento delle dotazioni organiche del Corpo forestale dello Stato) determina il ruolo dei sottufficiali e delle guardie del Corpo forestale dello Stato nei seguenti termini:
  "TABELLA A RUOLO DEI SOTTUFFICIALI E DELLE GUARDIE DEL CORPO FORESTALE DELLO
@@ -138,7 +138,7 @@ Sono altresi' nominati allievi agenti del Corpo forestale dello Stato i volontar
 
 4-ter.
 
-Nell'ambito delle vacanze disponibili e con le modalita' da stabilire con regolamento da emanarsi ai sensi dell'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3), possono essere inoltre nominati allievi agenti ed ammessi a frequentare il primo di corso di formazione utile il coniuge ed i figli superstiti, nonche' i fratelli, qualora unici superstiti, degli appartenenti alle Forze polizia deceduti o resi permanentemente invalidi al servizio, con invalidita' non inferiore all'ottanta per cento della capacita' lavorativa, a causa di azioni criminose di cui all'[articolo 82, comma 1, della legge 23 dicembre 2000, n. 388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-23;388#art_82-com1), (( ovvero per effetto di ferite o lesioni riportate nell'espletamento di servizi di polizia, di soccorso pubblico o durante i controlli nei settori agroalimentare e forestale, )) i quali ne facciano richiesta, purche' siano in possesso dei requisiti previsti dal comma 1 e non si trovino nelle condizioni di cui al comma 2.
+Nell'ambito delle vacanze disponibili e con le modalita' da stabilire con regolamento da emanarsi ai sensi dell'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3), possono essere inoltre nominati allievi agenti ed ammessi a frequentare il primo di corso di formazione utile il coniuge ed i figli superstiti, nonche' i fratelli, qualora unici superstiti, degli appartenenti alle Forze polizia deceduti o resi permanentemente invalidi al servizio, con invalidita' non inferiore all'ottanta per cento della capacita' lavorativa, a causa di azioni criminose di cui all'[articolo 82, comma 1, della legge 23 dicembre 2000, n. 388](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202001.md), (( ovvero per effetto di ferite o lesioni riportate nell'espletamento di servizi di polizia, di soccorso pubblico o durante i controlli nei settori agroalimentare e forestale, )) i quali ne facciano richiesta, purche' siano in possesso dei requisiti previsti dal comma 1 e non si trovino nelle condizioni di cui al comma 2.
 
 4-quater.
 
@@ -190,7 +190,7 @@ I provvedimenti di dimissione e di espulsione dal corso sono adottati con decret
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. 28 febbraio 2001, n. 87](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-02-28;87) ha disposto (con l'art. 32, comma 3) che l'espressione "direttore generale della Direzione generale delle risorse forestali, montane e idriche", di cui al presente comma, deve intendersi riferita al "Capo del Corpo forestale dello Stato".
+Il [D.Lgs. 28 febbraio 2001, n. 87](Disposizioni%20integrative%20e%20correttive%20del%20decreto%20legislativo%2012%20maggio%201995%20n.%20201%20in%20materia%20di%20riordino%20delle%20carriere%20del%20personale%20non%20direttivo%20e%20non%20dirigente%20del%20Corpo%20forestale%20dello%20Stato.md) ha disposto (con l'art. 32, comma 3) che l'espressione "direttore generale della Direzione generale delle risorse forestali, montane e idriche", di cui al presente comma, deve intendersi riferita al "Capo del Corpo forestale dello Stato".
 
 ### Art. 6. — Promozioni
 
@@ -278,7 +278,7 @@ Il personale che non supera il corso permane nella qualifica rivestita senza det
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. 28 febbraio 2001, n. 87](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-02-28;87) ha disposto (con l'art. 32, comma 3) che l'espressione "direttore generale della Direzione generale delle risorse forestali, montane e idriche", di cui al presente comma, deve intendersi riferita al "Capo del Corpo forestale dello Stato".
+Il [D.Lgs. 28 febbraio 2001, n. 87](Disposizioni%20integrative%20e%20correttive%20del%20decreto%20legislativo%2012%20maggio%201995%20n.%20201%20in%20materia%20di%20riordino%20delle%20carriere%20del%20personale%20non%20direttivo%20e%20non%20dirigente%20del%20Corpo%20forestale%20dello%20Stato.md) ha disposto (con l'art. 32, comma 3) che l'espressione "direttore generale della Direzione generale delle risorse forestali, montane e idriche", di cui al presente comma, deve intendersi riferita al "Capo del Corpo forestale dello Stato".
 
 ### Art. 11. — Promozione a sovrintendente
 
@@ -418,7 +418,7 @@ I vice ispettori in prova sono assegnati, sulla base dei risultati della selezio
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. 28 febbraio 2001, n. 87](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-02-28;87) ha disposto (con l'art. 32, comma 3) che l'espressione "direttore generale della Direzione generale delle risorse forestali, montane e idriche", di cui al presente comma, deve intendersi riferita al "Capo del Corpo forestale dello Stato".
+Il [D.Lgs. 28 febbraio 2001, n. 87](Disposizioni%20integrative%20e%20correttive%20del%20decreto%20legislativo%2012%20maggio%201995%20n.%20201%20in%20materia%20di%20riordino%20delle%20carriere%20del%20personale%20non%20direttivo%20e%20non%20dirigente%20del%20Corpo%20forestale%20dello%20Stato.md) ha disposto (con l'art. 32, comma 3) che l'espressione "direttore generale della Direzione generale delle risorse forestali, montane e idriche", di cui al presente comma, deve intendersi riferita al "Capo del Corpo forestale dello Stato".
 
 ### Art. 19. — Promozione a ispettore
 
@@ -509,7 +509,7 @@ Un'ulteriore promozione per merito straordinario non puo' essere conferita se no
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. 28 febbraio 2001, n. 87](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-02-28;87) ha disposto (con l'art. 32, comma 3) che l'espressione "direttore generale della Direzione generale delle risorse forestali, montane e idriche", di cui al presente comma, deve intendersi riferita al "Capo del Corpo forestale dello Stato".
+Il [D.Lgs. 28 febbraio 2001, n. 87](Disposizioni%20integrative%20e%20correttive%20del%20decreto%20legislativo%2012%20maggio%201995%20n.%20201%20in%20materia%20di%20riordino%20delle%20carriere%20del%20personale%20non%20direttivo%20e%20non%20dirigente%20del%20Corpo%20forestale%20dello%20Stato.md) ha disposto (con l'art. 32, comma 3) che l'espressione "direttore generale della Direzione generale delle risorse forestali, montane e idriche", di cui al presente comma, deve intendersi riferita al "Capo del Corpo forestale dello Stato".
 
 ### Art. 23-bis.
 
@@ -575,7 +575,7 @@ Ogni qualifica di ciascuno dei ruoli di cui al comma 1 comprende piu' profili pr
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. 28 febbraio 2001, n. 87](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-02-28;87) ha disposto (con l'art. 13, comma 2) che il personale del soppresso ruolo degli aiuto operatori di cui alla lettera a) del presente articolo e' inquadrato nella qualifica di operatore del ruolo degli operatori e dei collaboratori di cui all'articolo 30 del presente decreto legislativo, secondo l'ordine di ruolo.
+Il [D.Lgs. 28 febbraio 2001, n. 87](Disposizioni%20integrative%20e%20correttive%20del%20decreto%20legislativo%2012%20maggio%201995%20n.%20201%20in%20materia%20di%20riordino%20delle%20carriere%20del%20personale%20non%20direttivo%20e%20non%20dirigente%20del%20Corpo%20forestale%20dello%20Stato.md) ha disposto (con l'art. 13, comma 2) che il personale del soppresso ruolo degli aiuto operatori di cui alla lettera a) del presente articolo e' inquadrato nella qualifica di operatore del ruolo degli operatori e dei collaboratori di cui all'articolo 30 del presente decreto legislativo, secondo l'ordine di ruolo.
 
 ### Art. 26.
 
@@ -631,7 +631,7 @@ Non sono ammessi al concorso coloro che sono stati esclusi dall'elettorato polit
 
 3.
 
-(COMMA SOPPRESSO DAL [D.LGS. 28 FEBBRAIO 2001, N. 87](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-02-28;87))
+(COMMA SOPPRESSO DAL [D.LGS. 28 FEBBRAIO 2001, N. 87](Disposizioni%20integrative%20e%20correttive%20del%20decreto%20legislativo%2012%20maggio%201995%20n.%20201%20in%20materia%20di%20riordino%20delle%20carriere%20del%20personale%20non%20direttivo%20e%20non%20dirigente%20del%20Corpo%20forestale%20dello%20Stato.md))
 
 4.
 
@@ -652,7 +652,7 @@ I vincitori del concorso sono nominati allievi operatori e sono destinati a freq
 
 7-bis.
 
-Nell'ambito delle vacanze disponibili e con le modalita' da stabilire con regolamento da emanarsi ai sensi dell'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3), possono essere inoltre nominati allievi operatori ed ammessi a frequentare il primo corso di formazione utile il coniuge ed i figli superstiti, nonche' i fratelli, qualora unici superstiti, degli appartenenti alle Forze di Polizia deceduti o resi permanentemente invalidi al servizio, con invalidita' non inferiore all'ottanta per cento della capacita' lavorativa, a causa di azioni criminose di cui all'[articolo 82, comma 1, della legge 23 dicembre 2000, n. 388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-23;388#art_82-com1), (( ovvero per effetto di ferite o lesioni riportate nell'espletamento di servizi di polizia, di soccorso pubblico o durante i controlli nei settori agroalimentare e forestale, )) i quali ne facciano richiesta, purche' siano in possesso dei requisiti previsti dal comma 1 e non si trovino nelle condizioni di cui al comma 2.
+Nell'ambito delle vacanze disponibili e con le modalita' da stabilire con regolamento da emanarsi ai sensi dell'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3), possono essere inoltre nominati allievi operatori ed ammessi a frequentare il primo corso di formazione utile il coniuge ed i figli superstiti, nonche' i fratelli, qualora unici superstiti, degli appartenenti alle Forze di Polizia deceduti o resi permanentemente invalidi al servizio, con invalidita' non inferiore all'ottanta per cento della capacita' lavorativa, a causa di azioni criminose di cui all'[articolo 82, comma 1, della legge 23 dicembre 2000, n. 388](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202001.md), (( ovvero per effetto di ferite o lesioni riportate nell'espletamento di servizi di polizia, di soccorso pubblico o durante i controlli nei settori agroalimentare e forestale, )) i quali ne facciano richiesta, purche' siano in possesso dei requisiti previsti dal comma 1 e non si trovino nelle condizioni di cui al comma 2.
 
 7-ter.
 
@@ -676,7 +676,7 @@ Gli allievi operatori che superano gli esami di fine corso sono nominati operato
 
 12.
 
-(COMMA SOPPRESSO DAL [D.LGS. 28 FEBBRAIO 2001, N. 87](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-02-28;87))
+(COMMA SOPPRESSO DAL [D.LGS. 28 FEBBRAIO 2001, N. 87](Disposizioni%20integrative%20e%20correttive%20del%20decreto%20legislativo%2012%20maggio%201995%20n.%20201%20in%20materia%20di%20riordino%20delle%20carriere%20del%20personale%20non%20direttivo%20e%20non%20dirigente%20del%20Corpo%20forestale%20dello%20Stato.md))
 
 ### Art. 33. — Promozione ad operatore scelto, collaboratore e collaboratore capo
 
@@ -943,7 +943,7 @@ Le modalita' di svolgimento del concorso di cui al comma 1, lettera b), la deter
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 28 febbraio 2001, n. 87](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-02-28;87) ha disposto (con l'art. 25) che all'articolo 47, comma 3, le parole "nonche', ove sia previsto, dall'abilitazione all'esercizio dell'attivita' inerente al profilo professionale per il quale si concorre" sono soppresse."
+Il [D.Lgs. 28 febbraio 2001, n. 87](Disposizioni%20integrative%20e%20correttive%20del%20decreto%20legislativo%2012%20maggio%201995%20n.%20201%20in%20materia%20di%20riordino%20delle%20carriere%20del%20personale%20non%20direttivo%20e%20non%20dirigente%20del%20Corpo%20forestale%20dello%20Stato.md) ha disposto (con l'art. 25) che all'articolo 47, comma 3, le parole "nonche', ove sia previsto, dall'abilitazione all'esercizio dell'attivita' inerente al profilo professionale per il quale si concorre" sono soppresse."
 
 ### Art. 47-bis.
 
@@ -982,7 +982,7 @@ Ai periti superiori "scelti" possono essere affidate, nell'ambito delle funzioni
 
 AGGIORNAMENTO (5)
 
-Il [D. Lgs. 30 maggio 2003, n. 193](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-05-30;193) ha disposto (con l'art. 12, comma 6, lettera a)) che la modifica apportata al comma 1 del presente articolo ha effetto a decorrere dal 1° gennaio 2005.
+Il [D. Lgs. 30 maggio 2003, n. 193](Sistema%20dei%20parametri%20stipendiali%20per%20il%20personale%20non%20dirigente%20delle%20Forze%20di%20polizia%20e%20delle%20Forze%20armate%20a%20norma%20dellarticolo%207%20della%20legge%2029%20marzo%202001%20n.%2086.md) ha disposto (con l'art. 12, comma 6, lettera a)) che la modifica apportata al comma 1 del presente articolo ha effetto a decorrere dal 1° gennaio 2005.
 
 ### Art. 47-quater.
 
@@ -1162,7 +1162,7 @@ I vincitori del concorso in atto per la nomina alla previgente qualifica di vice
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. 28 febbraio 2001, n. 87](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-02-28;87) ha disposto (con l'art. 29, comma 1) che il disposto di cui comma 1 del presente articolo 53, in ordine al mantenimento del trattamento economico in godimento, si interpreta nel senso che al personale interessato si applica il [comma 57 dell'articolo 3 della legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537#art_3-com57).
+Il [D.Lgs. 28 febbraio 2001, n. 87](Disposizioni%20integrative%20e%20correttive%20del%20decreto%20legislativo%2012%20maggio%201995%20n.%20201%20in%20materia%20di%20riordino%20delle%20carriere%20del%20personale%20non%20direttivo%20e%20non%20dirigente%20del%20Corpo%20forestale%20dello%20Stato.md) ha disposto (con l'art. 29, comma 1) che il disposto di cui comma 1 del presente articolo 53, in ordine al mantenimento del trattamento economico in godimento, si interpreta nel senso che al personale interessato si applica il [comma 57 dell'articolo 3 della legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md).
 
 ### Art. 54. — Inquadramento nel ruolo degli aiuto operatori
 
@@ -1236,7 +1236,7 @@ I vincitori del concorso pubblico per esami di assistente amministrativo del Cor
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. 28 febbraio 2001, n. 87](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-02-28;87) ha disposto (con l'art. 29, comma 1) che il disposto di cui comma 2 del presente articolo 57, in ordine al mantenimento del trattamento economico in godimento, si interpreta nel senso che al personale interessato si applica il [comma 57 dell'articolo 3 della legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537#art_3-com57).
+Il [D.Lgs. 28 febbraio 2001, n. 87](Disposizioni%20integrative%20e%20correttive%20del%20decreto%20legislativo%2012%20maggio%201995%20n.%20201%20in%20materia%20di%20riordino%20delle%20carriere%20del%20personale%20non%20direttivo%20e%20non%20dirigente%20del%20Corpo%20forestale%20dello%20Stato.md) ha disposto (con l'art. 29, comma 1) che il disposto di cui comma 2 del presente articolo 57, in ordine al mantenimento del trattamento economico in godimento, si interpreta nel senso che al personale interessato si applica il [comma 57 dell'articolo 3 della legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md).
 
 ### Art. 58. — Inquadramenti
 
@@ -1262,7 +1262,7 @@ Le disposizioni del presente decreto legislativo si applicano con decorrenza dal
 
 1.
 
-All'onere derivante dall'applicazione del presente decreto si provvede ai sensi dell'[art. 1 della legge 29 aprile 1995, n. 130](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-04-29;130#art_1).
+All'onere derivante dall'applicazione del presente decreto si provvede ai sensi dell'[art. 1 della legge 29 aprile 1995, n. 130](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20in%20materia%20di%20procedure%20per%20la%20disciplina%20del%20rapporto%20dimpiego%20e%20per%20il%20riordino%20delle%20carriere%20delle%20attribuzioni%20e%20dei%20trattamenti%20economici%20delle%20Forze%20di%20polizia%20e%20_5f3cd1dee5c8.md).
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

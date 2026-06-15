@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto l'[articolo 3, comma 133, lettera q), della legge 23 dicembre 1996, n. 662](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;662#art_3-com133-letq), recante delega al Governo per l'emanazione di uno o piu' decreti legislativi per l'adeguamento delle disposizioni sanzionatorie, attualmente contenute nelle singole leggi di imposta, ai principi e criteri direttivi stabiliti con il decreto legislativo recante i principi generali della revisione organica e del completamento della disciplina delle sanzioni tributarie non penali;
+Visto l'[articolo 3, comma 133, lettera q), della legge 23 dicembre 1996, n. 662](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_3.md), recante delega al Governo per l'emanazione di uno o piu' decreti legislativi per l'adeguamento delle disposizioni sanzionatorie, attualmente contenute nelle singole leggi di imposta, ai principi e criteri direttivi stabiliti con il decreto legislativo recante i principi generali della revisione organica e del completamento della disciplina delle sanzioni tributarie non penali;
 
 Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella riunione del 30 luglio 1997;
 
@@ -277,7 +277,7 @@ Note all'art. 6:
 
 1.
 
-Al [decreto del Presidente della Repubblica 26 ottobre 1972, n. 640](../DPR/Imposta%20sugli%20spettacoli.md), come modificato dal [decreto legislativo 26 febbraio 1999, n. 60](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-02-26;60), concernente l'imposta sugli intrattenimenti, sono apportate le seguenti modificazioni:
+Al [decreto del Presidente della Repubblica 26 ottobre 1972, n. 640](../DPR/Imposta%20sugli%20spettacoli.md), come modificato dal [decreto legislativo 26 febbraio 1999, n. 60](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Istituzione%20dellimposta%20sugli%20intrattenimenti%20in%20attuazione%20della%20legge%203%20agosto%201998%20n.%20288%20nonche%20modifiche%20alla%20disciplina%20dellimposta%20sugli%20spettacoli%20di%20cui%20ai%20decreti%20del%20Presidente_b541acdbe1db.md), concernente l'imposta sugli intrattenimenti, sono apportate le seguenti modificazioni:
                             a)
                                 l'articolo 32 e' sostituito dal seguente: 
  "Art. 32 (Sanzioni amministrative per violazioni concernenti la fatturazione e l'annotazione delle operazioni, nonche' la presentazione della dichiarazione e il rilascio di titoli di accesso). - 1. Per l'omessa fatturazione o annotazione delle operazioni indicate nell'[articolo 1, comma 1, del decreto del Presidente della Repubblica 30 dicembre 1999, n. 544](../DPR/Regolamento%20recante%20norme%20per%20la%20semplificazione%20degli%20adempimenti%20dei%20contribuenti%20in%20materia%20di%20imposta%20sugli%20intrattenimenti.md), si applica la sanzione compresa fra il cento e il duecento per cento dell'imposta relativa all'imponibile non correttamente documentato o registrato, con un minimo di lire un milione. Alla stessa sanzione, commisurata all'imposta, e' soggetto chi indica nella documentazione o nell'annotazione un'imposta inferiore a quella dovuta. 
@@ -310,7 +310,7 @@ Restano ferme le sanzioni amministrative applicabili in materia di imposta sugli
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 30 marzo 2000, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-03-30;99) ha disposto (con l'art. 4, comma 1) che la presente modifica ha effetto dal 1° aprile 1998.
+Il [D.Lgs. 30 marzo 2000, n. 99](Disposizioni%20integrative%20e%20correttive%20dei%20decreti%20legislativi%2018%20dicembre%201997%20numeri%20471%20472%20e%20473%20in%20materia%20di%20sanzioni%20amministrative%20tributarie_2.md) ha disposto (con l'art. 4, comma 1) che la presente modifica ha effetto dal 1° aprile 1998.
 
 ### Art. 8. — Sanzioni in materia di tasse sulle concessioni governative
 
@@ -476,7 +476,7 @@ lo smaltimento dei rifiuti solidi interni, e' sostituito dal seguente:
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 30 marzo 2000, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-03-30;99) ha disposto (con l'art. 4, comma 1) che la presente modifica ha effetto dal 1° aprile 1998.
+Il [D.Lgs. 30 marzo 2000, n. 99](Disposizioni%20integrative%20e%20correttive%20dei%20decreti%20legislativi%2018%20dicembre%201997%20numeri%20471%20472%20e%20473%20in%20materia%20di%20sanzioni%20amministrative%20tributarie_2.md) ha disposto (con l'art. 4, comma 1) che la presente modifica ha effetto dal 1° aprile 1998.
 
 ### Art. 13. — Sanzioni in materia di imposta comunale per l'esercizio di imprese e di arti e professioni
 
@@ -492,13 +492,13 @@ Al [decreto-legge 2 marzo 1989, n. 66](https://www.normattiva.it/uri-res/N2Ls?ur
  3. Se l'omissione o l'errore attengono ad elementi non incidenti sull'ammontare dell'imposta, si applica la sanzione amministrativa da lire centomila a lire cinquecentomila. La stessa sanzione si applica per le violazioni concernenti la mancata esibizione o trasmissione di atti e documenti, ovvero per la mancata restituzione di questionari nei sessanta giorni dalla richiesta o per la loro mancata compilazione o compilazione incompleta o infedele. 
  4. Le sanzioni indicate nei commi 1, 2 e 3 sono ridotte ad un quarto se, entro il termine per ricorrere alle commissioni tributarie, interviene adesione del contribuente con il pagamento del tributo, se dovuto, e della sanzione. 
  5. La contestazione della violazione non collegata all'ammontare del tributo deve avvenire, a pena di decadenza, entro il 31 dicembre del quinto anno successivo a quello in cui e' commessa la violazione. 
- 6. Sulle somme doute per imposta si applicano gli interessi di mora nella misura prevista dall'[articolo 7, comma 3, della legge 11 marzo 1988, n. 67](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-03-11;67#art_7-com3).".
+ 6. Sulle somme doute per imposta si applicano gli interessi di mora nella misura prevista dall'[articolo 7, comma 3, della legge 11 marzo 1988, n. 67](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201988.md).".
 
 ---------------
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 30 marzo 2000, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-03-30;99) ha disposto (con l'art. 4, comma 1) che la presente modifica ha effetto dal 1° aprile 1998.
+Il [D.Lgs. 30 marzo 2000, n. 99](Disposizioni%20integrative%20e%20correttive%20dei%20decreti%20legislativi%2018%20dicembre%201997%20numeri%20471%20472%20e%20473%20in%20materia%20di%20sanzioni%20amministrative%20tributarie_2.md) ha disposto (con l'art. 4, comma 1) che la presente modifica ha effetto dal 1° aprile 1998.
 
 ### Art. 14. — Sanzioni in materia di imposta comunale sugli immobili
 

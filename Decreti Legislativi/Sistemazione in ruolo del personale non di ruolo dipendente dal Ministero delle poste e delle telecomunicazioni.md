@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4), con le modificazioni ad esso apportati dall'[art. 3, comma primo, del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98#art_3-com1);
+Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4), con le modificazioni ad esso apportati dall'[art. 3, comma primo, del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Viste le disposizioni transitorie I e XV della Costituzione;
 
@@ -81,7 +81,7 @@ Con separato provvedimento saranno stabilite le nuove tabelle organiche per il r
 
 AGGIORNAMENTO (5)
 
-La [L. 4 aprile 1953, n. 322](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-04;322) ha disposto (con l'art. 1) che "I posti del ruolo del personale di gruppo C dell'Azienda di Stato per i servizi telefonici, previsti dall'[art. 10 del decreto legislativo 13 aprile 1948, n. 592](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-04-13;592#art_10), sono stabiliti in 3450 unita', di cui 2820 attribuiti al quadro I e 630 al quadro II del citato ruolo di gruppo C".
+La [L. 4 aprile 1953, n. 322](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-04;322) ha disposto (con l'art. 1) che "I posti del ruolo del personale di gruppo C dell'Azienda di Stato per i servizi telefonici, previsti dall'[art. 10 del decreto legislativo 13 aprile 1948, n. 592](Sistemazione%20in%20ruolo%20del%20personale%20non%20di%20ruolo%20dipendente%20dal%20Ministero%20delle%20poste%20e%20delle%20telecomunicazioni.md), sono stabiliti in 3450 unita', di cui 2820 attribuiti al quadro I e 630 al quadro II del citato ruolo di gruppo C".
 
 ## Art. 11.
 

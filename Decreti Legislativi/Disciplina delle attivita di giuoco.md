@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4), con le modificazioni ad esso apportate dall'[art. 3, comma primo, del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98#art_3-com1);
+Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4), con le modificazioni ad esso apportate dall'[art. 3, comma primo, del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Viste le disposizioni transitorie I e XV della Costituzione;
 
@@ -51,13 +51,13 @@ E' riservato rispettivamente al Comitato olimpico nazionale italiano e all'Union
 
 AGGIORNAMENTO (1)
 
-La [L. 22 dicembre 1951, n.1379](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20di%20una%20imposta%20unica%20sui%20giuochi%20di%20abilita%20e%20sui%20concorsi%20pronostici%20disciplinati%20dal%20decreto%20legislativo%2014%20aprile%201948%20n.%20496.md) ha disposto (con l'art. 1, comma 1) che "La tassa prevista dall'[art. 6 del decreto legislativo 14 aprile 1948, n. 496](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-04-14;496#art_6), che assume la denominazione di imposta unica sui giuochi di abilita' e sui concorsi pronostici, e' elevata al 23 per cento."
+La [L. 22 dicembre 1951, n.1379](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20di%20una%20imposta%20unica%20sui%20giuochi%20di%20abilita%20e%20sui%20concorsi%20pronostici%20disciplinati%20dal%20decreto%20legislativo%2014%20aprile%201948%20n.%20496.md) ha disposto (con l'art. 1, comma 1) che "La tassa prevista dall'[art. 6 del decreto legislativo 14 aprile 1948, n. 496](Disciplina%20delle%20attivita%20di%20giuoco.md), che assume la denominazione di imposta unica sui giuochi di abilita' e sui concorsi pronostici, e' elevata al 23 per cento."
 
 ---------------
 
 AGGIORNAMENTO (3)
 
-Il [D. Lgs. 23 dicembre 1998, n.504](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-12-23;504) ha disposto (con l'art. 1, comma 1) che "La tassa di cui all'[articolo 6 del decreto legislativo 14 aprile 1948, n. 496](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-04-14;496#art_6), assume la denominazione di imposta unica ed e' dovuta per i concorsi pronostici e le scommesse di qualunque tipo, relativi a qualunque evento, anche se svolto all'estero, nel rispetto delle disposizioni contenute nell'[articolo 24, comma 27, della legge 27 dicembre 1997, n. 449](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-12-27;449#art_24-com27), e nell'[articolo 88 del testo unico delle leggi di pubblica sicurezza](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773#art_88) approvato con [regio decreto 18 giugno 1931, n. 773](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773)."
+Il [D. Lgs. 23 dicembre 1998, n.504](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20dellimposta%20unica%20sui%20concorsi%20pronostici%20e%20sulle%20scommesse%20a%20norma%20dellarticolo%201%20comma%202%20della%20legge%203%20agosto%201998%20n.%20288.md) ha disposto (con l'art. 1, comma 1) che "La tassa di cui all'[articolo 6 del decreto legislativo 14 aprile 1948, n. 496](Disciplina%20delle%20attivita%20di%20giuoco.md), assume la denominazione di imposta unica ed e' dovuta per i concorsi pronostici e le scommesse di qualunque tipo, relativi a qualunque evento, anche se svolto all'estero, nel rispetto delle disposizioni contenute nell'[articolo 24, comma 27, della legge 27 dicembre 1997, n. 449](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20per%20la%20stabilizzazione%20della%20finanza%20pubblica.md), e nell'[articolo 88 del testo unico delle leggi di pubblica sicurezza](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773#art_88) approvato con [regio decreto 18 giugno 1931, n. 773](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773)."
 
 ## Art. 7.
 

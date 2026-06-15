@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge 18 aprile 2005, n. 62](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-04-18;62), recante disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee. Legge comunitaria 2004;
+Vista la [legge 18 aprile 2005, n. 62](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%202004.md), recante disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee. Legge comunitaria 2004;
 
 Visto il nuovo [codice della strada](Nuovo%20codice%20della%20strada.md) di cui al [decreto legislativo 30 aprile 1992, n. 285](Nuovo%20codice%20della%20strada.md), ed in particolare gli articoli 172, 126-bis e 169;
 
@@ -63,7 +63,7 @@ Avvertenza:
  Note alle premesse:
  - L'[art. 76 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) stabilisce che l'esercizio della funzione legislativa non puo' essere delegato al Governo se non con determinazione di principi e criteri direttivi e soltanto per tempo limitato e per oggetti definiti.
  - L'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87) conferisce, tra l'altro, al Presidente della Repubblica il potere di promulgare le leggi e di emanare i decreti aventi valore di legge ed i regolamenti.
- - La [legge 18 aprile 2005, n. 62](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-04-18;62), e' pubblicata nella Gazzetta Ufficiale del 27 aprile 2005, n. 96, supplemento ordinario.
+ - La [legge 18 aprile 2005, n. 62](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%202004.md), e' pubblicata nella Gazzetta Ufficiale del 27 aprile 2005, n. 96, supplemento ordinario.
  - Il [decreto legislativo 30 aprile 1992, n. 285](Nuovo%20codice%20della%20strada.md), recante: «Nuovo [codice della strada](Nuovo%20codice%20della%20strada.md)», e' pubblicato nella Gazzetta Ufficiale 18 maggio 1992, n. 114, supplemento ordinario.
  - Si riporta il testo dell'[art. 172](Nuovo%20codice%20della%20strada.md) e degli [articoli 126-bis](Nuovo%20codice%20della%20strada.md) e [169 del decreto legislativo 30 aprile 1992, n. 285](Nuovo%20codice%20della%20strada.md), come modificati, dal presente decreto, cosi' recitano:
  «Art. 172 (Uso delle cinture di sicurezza e sistemi di ritenuta). - 1. Il conducente ed i passeggeri dei veicoli delle categorie:

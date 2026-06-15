@@ -14,7 +14,7 @@ Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cos
 
 Vista la [direttiva 2004/113/CE del 13 dicembre 2004, del Consiglio](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2004;113), che attua il principio della parita' di trattamento tra uomini e donne per quanto riguarda l'accesso a beni e servizi e la loro fornitura;
 
-Vista la [legge 25 gennaio 2006, n. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-01-25;29), recante disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee - legge comunitaria 2005, ed in particolare gli articoli 1, 3 e l'allegato B;
+Vista la [legge 25 gennaio 2006, n. 29](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%202005.md), recante disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee - legge comunitaria 2005, ed in particolare gli articoli 1, 3 e l'allegato B;
 
 Visto il [decreto legislativo 11 aprile 2006, n. 198](Codice%20delle%20pari%20opportunita%20tra%20uomo%20e%20donna%20a%20norma%20dellarticolo%206%20della%20legge%2028%20novembre%202005%20n.%20246.md), recante [Codice delle pari opportunita' tra uomo e donna](Codice%20delle%20pari%20opportunita%20tra%20uomo%20e%20donna%20a%20norma%20dellarticolo%206%20della%20legge%2028%20novembre%202005%20n.%20246.md);
 

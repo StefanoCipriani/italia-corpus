@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[articolo 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge costituzionale 31 gennaio 1963, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1963-01-31;1), che ha approvato lo Statuto speciale della regione Friuli-Venezia Giulia;
+Vista la [legge costituzionale 31 gennaio 1963, n. 1](../Leggi%20costituzionali/Statuto%20speciale%20della%20Regione%20Friuli-Venezia%20Giulia.md), che ha approvato lo Statuto speciale della regione Friuli-Venezia Giulia;
 
 Sentita la Commissione paritetica, prevista dall'articolo 65 dello Statuto speciale;
 
@@ -45,7 +45,7 @@ Avvertenza:
  Note all'[art. 1:
  - Il decreto del Presidente della Repubblica 25 novembre 1975, n. 902](../DPR/Adeguamento%20ed%20integrazione%20delle%20norme%20di%20attuazione%20dello%20statuto%20speciale%20della%20regione%20Friuli-Venezia%20Giulia.md) e' pubblicato nella Gazzetta Ufficiale n. 57 del 3 marzo 1976.
  - Il [decreto del Presidente della Repubblica 15 gennaio 1987, n. 469](../DPR/Norme%20integrative%20di%20attuazione%20dello%20statuto%20speciale%20della%20regione%20Friuli-Venezia%20Giulia.md) e' pubblicato nella Gazzetta Ufficiale n. 268 del 16 novembre 1987.
- - Il [decreto legislativo 22 gennaio 2004, n. 42](Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md) ([Codice dei beni culturali e del paesaggio](Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md), ai sensi dell'[art. 10 della legge 6 luglio 2002, n. 137](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-07-06;137#art_10)), e' pubblicato nella Gazzetta Ufficiale n. 45, supplemento ordinario del 24 febbraio 2004).
+ - Il [decreto legislativo 22 gennaio 2004, n. 42](Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md) ([Codice dei beni culturali e del paesaggio](Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md), ai sensi dell'[art. 10 della legge 6 luglio 2002, n. 137](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20per%20la%20riforma%20dellorganizzazione%20del%20Governo%20e%20della%20Presidenza%20del%20Consiglio%20dei%20Ministri%20nonche%20di%20enti%20pubblici.md)), e' pubblicato nella Gazzetta Ufficiale n. 45, supplemento ordinario del 24 febbraio 2004).
 
 ## Art. 2. — Comitato paritetico permanente per la valorizzazione del patrimonio culturale del Friuli-Venezia Giulia
 
@@ -70,7 +70,7 @@ Nell'ambito dei programmi di cui al comma 3 sono definiti gli obiettivi, gli str
 Il Comitato e' dotato di una segreteria paritetica composta da due funzionari appartenenti, rispettivamente, all'Amministrazione statale ed a quella regionale. Le attivita' di segreteria non comportano oneri aggiuntivi per la finanza pubblica.
 
 Nota all'art. 2:
- - Il testo degli articoli 102, 112 e 115 del citato [decreto legislativo 22 gennaio 2004, n. 42](Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md) ([Codice dei beni culturali e del paesaggio](Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md), ai sensi dell'[art. 10 della legge 6 luglio 2002, n. 137](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-07-06;137#art_10)), pubblicato nella Gazzetta Ufficiale n. 45, supplemento ordinario del 24 febbraio 2004), e' il seguente:
+ - Il testo degli articoli 102, 112 e 115 del citato [decreto legislativo 22 gennaio 2004, n. 42](Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md) ([Codice dei beni culturali e del paesaggio](Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md), ai sensi dell'[art. 10 della legge 6 luglio 2002, n. 137](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20per%20la%20riforma%20dellorganizzazione%20del%20Governo%20e%20della%20Presidenza%20del%20Consiglio%20dei%20Ministri%20nonche%20di%20enti%20pubblici.md)), pubblicato nella Gazzetta Ufficiale n. 45, supplemento ordinario del 24 febbraio 2004), e' il seguente:
  «Art. 102. (Fruizione degli istituti e dei luoghi della cultura di appartenenza pubblica). - 1. Lo Stato, le regioni, gli altri enti pubblici territoriali ed ogni altro ente ed istituto pubblico, assicurano la fruizione dei beni presenti negli istituti e nei luoghi indicati all'art. 101, nel rispetto dei principi fondamentali fissati dal presente codice.
  2. Nel rispetto dei principi richiamati al comma 1, la legislazione regionale disciplina la fruizione dei beni presenti negli istituti e nei luoghi della cultura non appartenenti allo Stato o dei quali lo Stato abbia trasferito la disponibilita' sulla base della normativa vigente.
  3. La fruizione dei beni culturali pubblici al di fuori degli istituti e dei luoghi di cui all'art. 101 e' assicurata, secondo le disposizioni del presente Titolo, compatibilmente con lo svolgimento degli scopi istituzionali cui detti beni sono destinati.
@@ -134,14 +134,14 @@ In coerenza con il principio di leale collaborazione e nel rispetto delle vigent
 
 1.
 
-Al finanziamento delle funzioni e dei compiti spettanti alla regione ai sensi del presente decreto si provvedera' con legge statale di modifica del Titolo IV della [legge costituzionale 31 gennaio 1963, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1963-01-31;1) (Statuto speciale della regione autonoma Friuli-Venezia Giulia), ai sensi del quinto comma dell'articolo 63 della legge costituzionale medesima.
+Al finanziamento delle funzioni e dei compiti spettanti alla regione ai sensi del presente decreto si provvedera' con legge statale di modifica del Titolo IV della [legge costituzionale 31 gennaio 1963, n. 1](../Leggi%20costituzionali/Statuto%20speciale%20della%20Regione%20Friuli-Venezia%20Giulia.md) (Statuto speciale della regione autonoma Friuli-Venezia Giulia), ai sensi del quinto comma dell'articolo 63 della legge costituzionale medesima.
 
 2.
 
 Alla copertura finanziaria degli oneri per l'attuazione degli interventi di cui al comma 3 dell'articolo 2, si provvede con fondi messi a disposizione dallo Stato e dalla regione.
 
 Nota all'art. 5:
- - Il quinto comma dell'art. 63 della citata [legge costituzionale 31 gennaio 1963, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1963-01-31;1), recita; «Le disposizioni contenute nel titolo IV possono essere modificate con leggi ordinarie, su proposta di ciascun membro delle Camere, del Governo e della Regione, e, in ogni caso, sentita la Regione».
+ - Il quinto comma dell'art. 63 della citata [legge costituzionale 31 gennaio 1963, n. 1](../Leggi%20costituzionali/Statuto%20speciale%20della%20Regione%20Friuli-Venezia%20Giulia.md), recita; «Le disposizioni contenute nel titolo IV possono essere modificate con leggi ordinarie, su proposta di ciascun membro delle Camere, del Governo e della Regione, e, in ogni caso, sentita la Regione».
 
 ## Art. 6. — Disposizioni transitorie e finali
 

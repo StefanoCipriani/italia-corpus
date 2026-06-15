@@ -60,7 +60,7 @@ b) pagamenti effettuati a titolo di risarcimento del danno, compresi i pagamenti
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 9 novembre 2012, n. 192](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2012-11-09;192) ha disposto (con l'art. 3, comma 1) che "Le disposizioni di cui al presente decreto legislativo si applicano alle transazioni commerciali concluse a decorrere dal 1° gennaio 2013".
+Il [D.Lgs. 9 novembre 2012, n. 192](Modifiche%20al%20decreto%20legislativo%209%20ottobre%202002%20n.%20231%20per%20lintegrale%20recepimento%20della%20direttiva%202011-7-UE%20relativa%20alla%20lotta%20contro%20i%20ritardi%20di%20pagamento%20nelle%20transazioni%20commerciali_ab1a66f54876.md) ha disposto (con l'art. 3, comma 1) che "Le disposizioni di cui al presente decreto legislativo si applicano alle transazioni commerciali concluse a decorrere dal 1° gennaio 2013".
 
 ## Art. 2. — (Definizioni).
 
@@ -87,13 +87,13 @@ Ai fini del presente decreto si intende per:
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 9 novembre 2012, n. 192](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2012-11-09;192) ha disposto (con l'art. 3, comma 1) che "Le disposizioni di cui al presente decreto legislativo si applicano alle transazioni commerciali concluse a decorrere dal 1° gennaio 2013".
+Il [D.Lgs. 9 novembre 2012, n. 192](Modifiche%20al%20decreto%20legislativo%209%20ottobre%202002%20n.%20231%20per%20lintegrale%20recepimento%20della%20direttiva%202011-7-UE%20relativa%20alla%20lotta%20contro%20i%20ritardi%20di%20pagamento%20nelle%20transazioni%20commerciali_ab1a66f54876.md) ha disposto (con l'art. 3, comma 1) che "Le disposizioni di cui al presente decreto legislativo si applicano alle transazioni commerciali concluse a decorrere dal 1° gennaio 2013".
 
 -------------
 
 AGGIORNAMENTO (3)
 
-La [L. 30 ottobre 2014, n. 161](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20degli%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20allUnione%20europea%20-%20Legge%20europea%202013-bis.%2014G00174.md) ha disposto (con l'art. 24, comma 1) che "L'[articolo 2, comma 1, lettera a), del decreto legislativo 9 ottobre 2002, n. 231](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202000-35-CE%20relativa%20alla%20lotta%20contro%20i%20ritardi%20di%20pagamento%20nelle%20transazioni%20commerciali.md), come sostituito dall'[articolo 1, comma 1, lettera b), del decreto legislativo 9 novembre 2012, n. 192](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2012-11-09;192#art_1-com1-letb), si interpreta nel senso che le transazioni commerciali ivi considerate comprendono anche i contratti previsti dall'articolo 3, comma 3, del codice di cui al [decreto legislativo 12 aprile 2006, n. 163](../Codici/Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20direttive%202004-17-CE%20e%202004-18-CE.md)".
+La [L. 30 ottobre 2014, n. 161](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20degli%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20allUnione%20europea%20-%20Legge%20europea%202013-bis.%2014G00174.md) ha disposto (con l'art. 24, comma 1) che "L'[articolo 2, comma 1, lettera a), del decreto legislativo 9 ottobre 2002, n. 231](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%202000-35-CE%20relativa%20alla%20lotta%20contro%20i%20ritardi%20di%20pagamento%20nelle%20transazioni%20commerciali.md), come sostituito dall'[articolo 1, comma 1, lettera b), del decreto legislativo 9 novembre 2012, n. 192](Modifiche%20al%20decreto%20legislativo%209%20ottobre%202002%20n.%20231%20per%20lintegrale%20recepimento%20della%20direttiva%202011-7-UE%20relativa%20alla%20lotta%20contro%20i%20ritardi%20di%20pagamento%20nelle%20transazioni%20commerciali_ab1a66f54876.md), si interpreta nel senso che le transazioni commerciali ivi considerate comprendono anche i contratti previsti dall'articolo 3, comma 3, del codice di cui al [decreto legislativo 12 aprile 2006, n. 163](../Codici/Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20direttive%202004-17-CE%20e%202004-18-CE.md)".
 
 ## Art. 3. — Responsabilita' del debitore
 
@@ -105,7 +105,7 @@ Il creditore ha diritto alla corresponsione degli interessi moratori ((sull'impo
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 9 novembre 2012, n. 192](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2012-11-09;192) ha disposto (con l'art. 3, comma 1) che "Le disposizioni di cui al presente decreto legislativo si applicano alle transazioni commerciali concluse a decorrere dal 1° gennaio 2013".
+Il [D.Lgs. 9 novembre 2012, n. 192](Modifiche%20al%20decreto%20legislativo%209%20ottobre%202002%20n.%20231%20per%20lintegrale%20recepimento%20della%20direttiva%202011-7-UE%20relativa%20alla%20lotta%20contro%20i%20ritardi%20di%20pagamento%20nelle%20transazioni%20commerciali_ab1a66f54876.md) ha disposto (con l'art. 3, comma 1) che "Le disposizioni di cui al presente decreto legislativo si applicano alle transazioni commerciali concluse a decorrere dal 1° gennaio 2013".
 
 ## Art. 4. — Termini di pagamento
 
@@ -162,7 +162,7 @@ Le anticipazioni di cui al comma 7-bis sono concesse, per gli enti locali, entro
 
 7-quater.
 
-Con riferimento alle anticipazioni non costituenti indebitamento ai sensi dell'[articolo 3, comma 17, della legge 24 dicembre 2003, n. 350](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-12-24;350#art_3-com17), fatto salvo l'obbligo per gli enti richiedenti di adeguare le relative iscrizioni nel bilancio di previsione successivamente al perfezionamento delle anticipazioni, non trovano applicazione le disposizioni di cui all'articolo 203, comma 1, lettera b), e all'articolo 204 del testo unico di cui al [decreto legislativo 18 agosto 2000, n. 267, nonche' di cui all'articolo 62](Testo%20unico%20delle%20leggi%20sullordinamento%20degli%20enti%20locali.md) del [decreto legislativo 23 giugno 2011, n. 118](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-06-23;118).
+Con riferimento alle anticipazioni non costituenti indebitamento ai sensi dell'[articolo 3, comma 17, della legge 24 dicembre 2003, n. 350](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202004.md), fatto salvo l'obbligo per gli enti richiedenti di adeguare le relative iscrizioni nel bilancio di previsione successivamente al perfezionamento delle anticipazioni, non trovano applicazione le disposizioni di cui all'articolo 203, comma 1, lettera b), e all'articolo 204 del testo unico di cui al [decreto legislativo 18 agosto 2000, n. 267, nonche' di cui all'articolo 62](Testo%20unico%20delle%20leggi%20sullordinamento%20degli%20enti%20locali.md) del [decreto legislativo 23 giugno 2011, n. 118](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20in%20materia%20di%20armonizzazione%20dei%20sistemi%20contabili%20e%20degli%20schemi%20di%20bilancio%20delle%20Regioni%20degli%20enti%20locali%20e%20dei%20loro%20organismi%20a%20norma%20degli%20articoli%201%20e%202%20della%20legge%205%20_d31410e5ac35.md).
 
 7-quinquies.
 
@@ -186,7 +186,7 @@ Le anticipazioni di liquidita' sono rimborsate entro il termine del 30 dicembre 
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 9 novembre 2012, n. 192](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2012-11-09;192) ha disposto (con l'art. 3, comma 1) che "Le disposizioni di cui al presente decreto legislativo si applicano alle transazioni commerciali concluse a decorrere dal 1° gennaio 2013".
+Il [D.Lgs. 9 novembre 2012, n. 192](Modifiche%20al%20decreto%20legislativo%209%20ottobre%202002%20n.%20231%20per%20lintegrale%20recepimento%20della%20direttiva%202011-7-UE%20relativa%20alla%20lotta%20contro%20i%20ritardi%20di%20pagamento%20nelle%20transazioni%20commerciali_ab1a66f54876.md) ha disposto (con l'art. 3, comma 1) che "Le disposizioni di cui al presente decreto legislativo si applicano alle transazioni commerciali concluse a decorrere dal 1° gennaio 2013".
 
 ## Art. 5. — (( (Saggio degli interessi). ))
 
@@ -212,7 +212,7 @@ Il tasso di riferimento e' cosi' determinato:
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 9 novembre 2012, n. 192](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2012-11-09;192) ha disposto (con l'art. 3, comma 1) che "Le disposizioni di cui al presente decreto legislativo si applicano alle transazioni commerciali concluse a decorrere dal 1° gennaio 2013".
+Il [D.Lgs. 9 novembre 2012, n. 192](Modifiche%20al%20decreto%20legislativo%209%20ottobre%202002%20n.%20231%20per%20lintegrale%20recepimento%20della%20direttiva%202011-7-UE%20relativa%20alla%20lotta%20contro%20i%20ritardi%20di%20pagamento%20nelle%20transazioni%20commerciali_ab1a66f54876.md) ha disposto (con l'art. 3, comma 1) che "Le disposizioni di cui al presente decreto legislativo si applicano alle transazioni commerciali concluse a decorrere dal 1° gennaio 2013".
 
 ## Art. 6. — (( (Risarcimento delle spese di recupero). ))
 
@@ -230,7 +230,7 @@ Nei casi previsti dall'articolo 3, il creditore ha diritto anche al rimborso dei
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 9 novembre 2012, n. 192](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2012-11-09;192) ha disposto (con l'art. 3, comma 1) che "Le disposizioni di cui al presente decreto legislativo si applicano alle transazioni commerciali concluse a decorrere dal 1° gennaio 2013".
+Il [D.Lgs. 9 novembre 2012, n. 192](Modifiche%20al%20decreto%20legislativo%209%20ottobre%202002%20n.%20231%20per%20lintegrale%20recepimento%20della%20direttiva%202011-7-UE%20relativa%20alla%20lotta%20contro%20i%20ritardi%20di%20pagamento%20nelle%20transazioni%20commerciali_ab1a66f54876.md) ha disposto (con l'art. 3, comma 1) che "Le disposizioni di cui al presente decreto legislativo si applicano alle transazioni commerciali concluse a decorrere dal 1° gennaio 2013".
 
 ## Art. 7. — (Nullita').
 
@@ -261,7 +261,7 @@ Nelle transazioni commerciali in cui il debitore e' una pubblica amministrazione
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 9 novembre 2012, n. 192](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2012-11-09;192) ha disposto (con l'art. 3, comma 1) che "Le disposizioni di cui al presente decreto legislativo si applicano alle transazioni commerciali concluse a decorrere dal 1° gennaio 2013".
+Il [D.Lgs. 9 novembre 2012, n. 192](Modifiche%20al%20decreto%20legislativo%209%20ottobre%202002%20n.%20231%20per%20lintegrale%20recepimento%20della%20direttiva%202011-7-UE%20relativa%20alla%20lotta%20contro%20i%20ritardi%20di%20pagamento%20nelle%20transazioni%20commerciali_ab1a66f54876.md) ha disposto (con l'art. 3, comma 1) che "Le disposizioni di cui al presente decreto legislativo si applicano alle transazioni commerciali concluse a decorrere dal 1° gennaio 2013".
 
 ## Art. 7-bis. — (( (Prassi inique). ))
 
@@ -307,7 +307,7 @@ In caso di inadempimento degli obblighi stabiliti dal provvedimento reso nel giu
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 9 novembre 2012, n. 192](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2012-11-09;192) ha disposto (con l'art. 3, comma 1) che "Le disposizioni di cui al presente decreto legislativo si applicano alle transazioni commerciali concluse a decorrere dal 1° gennaio 2013".
+Il [D.Lgs. 9 novembre 2012, n. 192](Modifiche%20al%20decreto%20legislativo%209%20ottobre%202002%20n.%20231%20per%20lintegrale%20recepimento%20della%20direttiva%202011-7-UE%20relativa%20alla%20lotta%20contro%20i%20ritardi%20di%20pagamento%20nelle%20transazioni%20commerciali_ab1a66f54876.md) ha disposto (con l'art. 3, comma 1) che "Le disposizioni di cui al presente decreto legislativo si applicano alle transazioni commerciali concluse a decorrere dal 1° gennaio 2013".
 
 ## Art. 9. — Modifiche al codice di procedura civile
 

@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[articolo 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge costituzionale 31 gennaio 1963, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1963-01-31;1),
+Vista la [legge costituzionale 31 gennaio 1963, n. 1](../Leggi%20costituzionali/Statuto%20speciale%20della%20Regione%20Friuli-Venezia%20Giulia.md),
 
 recante Statuto speciale della Regione Friuli-Venezia Giulia;
 
@@ -24,7 +24,7 @@ Visto il [decreto legislativo 25 maggio 2001, n. 265](Norme%20di%20attuazione%20
 
 suolo, e in particolare, gli articoli 1, 2 e 6;
 
-Sentita la Commissione paritetica prevista dall'articolo 65 della citata [legge costituzionale 31 gennaio 1963, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1963-01-31;1);
+Sentita la Commissione paritetica prevista dall'articolo 65 della citata [legge costituzionale 31 gennaio 1963, n. 1](../Leggi%20costituzionali/Statuto%20speciale%20della%20Regione%20Friuli-Venezia%20Giulia.md);
 
 Vista la deliberazione del Consiglio dei ministri, adottata nella riunione del 21 marzo 2018;
 
@@ -100,8 +100,8 @@ N O T E
  Note alle premesse: 
  
  - L'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87) disciplina le funzioni del Presidente della Repubblica. In particolare, il comma 5, conferisce al il potere di promulgare le leggi e di emanare i decreti aventi valore di legge ed i regolamenti. 
- - La [legge costituzionale 31 gennaio 1963, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1963-01-31;1), recante «Statuto speciale della Regione Friuli-Venezia Giulia.», e' pubblicata nella Gazzetta Ufficiale 1° febbraio 1963, n. 29. 
- - Si riporta, di seguito, il testo vigente dell'articolo 5 della citata [legge costituzionale 31 gennaio 1963, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1963-01-31;1): 
+ - La [legge costituzionale 31 gennaio 1963, n. 1](../Leggi%20costituzionali/Statuto%20speciale%20della%20Regione%20Friuli-Venezia%20Giulia.md), recante «Statuto speciale della Regione Friuli-Venezia Giulia.», e' pubblicata nella Gazzetta Ufficiale 1° febbraio 1963, n. 29. 
+ - Si riporta, di seguito, il testo vigente dell'articolo 5 della citata [legge costituzionale 31 gennaio 1963, n. 1](../Leggi%20costituzionali/Statuto%20speciale%20della%20Regione%20Friuli-Venezia%20Giulia.md): 
  «Art. 5. - Con l'osservanza dei limiti generali indicati nell'art. 4 ed in armonia con i principi fondamentali stabiliti dalle leggi dello Stato nelle singole materie, la Regione ha potesta' legislativa nelle seguenti materie: 
  1); 
  2) disciplina del referendum previsto negli artt. 7 e 33; 
@@ -126,7 +126,7 @@ N O T E
  21) annona; 
  22) opere di prevenzione e soccorso per calamita' naturali.". 
  - Per i riferimenti al [decreto legislativo 25 maggio 2001, n. 265](Norme%20di%20attuazione%20dello%20Statuto%20speciale%20della%20regione%20Friuli-Venezia%20Giulia%20per%20il%20trasferimento%20di%20beni%20del%20demanio%20idrico%20e%20marittimo%20nonche%20di%20funzioni%20in%20materia%20di%20risorse%20idriche_15c0795136f5.md), si veda nella nota al titolo. 
- - Si riporta, di seguito, il testo vigente dell'articolo 65 della citata [legge costituzionale 31 gennaio 1963, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1963-01-31;1): 
+ - Si riporta, di seguito, il testo vigente dell'articolo 65 della citata [legge costituzionale 31 gennaio 1963, n. 1](../Leggi%20costituzionali/Statuto%20speciale%20della%20Regione%20Friuli-Venezia%20Giulia.md): 
  «Art. 65. - Con decreti legislativi, sentita una Commissione paritetica di sei membri, nominati tre dal Governo della Repubblica e tre dal Consiglio regionale, saranno stabilite le norme di attuazione del presente Statuto e quelle relative al trasferimento all'Amministrazione regionale degli uffici statali che nel Friuli-Venezia Giulia adempiono a funzioni attribuite alla Regione.». 
  
  Note all'[art. 1: 
@@ -174,11 +174,11 @@ Note all'[art. 2:
 
 1.
 
-Le disposizioni del presente decreto hanno effetto dal giorno successivo alla data di entrata in vigore della legge o delle leggi statali che, ai sensi dell'[articolo 63, quinto comma, della legge costituzionale 31 gennaio 1963, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1963-01-31;1#art_63-com5) (Statuto speciale della Regione autonoma Friuli-Venezia Giulia), modificano il Titolo IV dello Statuto speciale.
+Le disposizioni del presente decreto hanno effetto dal giorno successivo alla data di entrata in vigore della legge o delle leggi statali che, ai sensi dell'[articolo 63, quinto comma, della legge costituzionale 31 gennaio 1963, n. 1](../Leggi%20costituzionali/Statuto%20speciale%20della%20Regione%20Friuli-Venezia%20Giulia.md) (Statuto speciale della Regione autonoma Friuli-Venezia Giulia), modificano il Titolo IV dello Statuto speciale.
 
 Note all'art. 3: 
  
- - Si riporta il testo vigente dell'articolo 63, comma quinto, della citata [legge costituzionale 31 gennaio 1963, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1963-01-31;1): 
+ - Si riporta il testo vigente dell'articolo 63, comma quinto, della citata [legge costituzionale 31 gennaio 1963, n. 1](../Leggi%20costituzionali/Statuto%20speciale%20della%20Regione%20Friuli-Venezia%20Giulia.md): 
  «Art. 63. - (Omissis). 
  Le disposizioni contenute nel titolo IV possono essere modificate con leggi ordinarie, su proposta di ciascun membro delle Camere, del Governo e della Regione, e, in ogni caso, sentita la Regione.».
 

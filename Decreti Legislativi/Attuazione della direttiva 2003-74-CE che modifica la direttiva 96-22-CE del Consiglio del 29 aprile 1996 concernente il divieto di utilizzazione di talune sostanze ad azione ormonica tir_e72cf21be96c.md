@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge 18 aprile 2005, n. 62](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-04-18;62) (legge comunitaria 2004), ed in particolare l'articolo 1, commi 1 e 2, l'articolo 5 e l'allegato B;
+Vista la [legge 18 aprile 2005, n. 62](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%202004.md) (legge comunitaria 2004), ed in particolare l'articolo 1, commi 1 e 2, l'articolo 5 e l'allegato B;
 
 Visto il [decreto legislativo 4 agosto 1999, n. 336](Attuazione%20delle%20direttive%2096-22-CE%20e%2096-23-CE%20concernenti%20il%20divieto%20di%20utilizzazione%20di%20talune%20sostanze%20ad%20azione%20ormonica%20tireostatica%20e%20delle%20sostanze%20ssagoniste%20nelle%20produzioni%20di%20a_18b232d5023b.md), recante attuazione delle [direttive 96/22/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1996;22) e [96/23/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1996;23), concernenti il divieto di utilizzazione di talune sostanze ad azione ormonica, tireostatica e delle sostanze beta-agoniste nelle produzioni di animali e le misure di controllo su talune sostanze e sui loro residui negli animali vivi e nei loro prodotti;
 

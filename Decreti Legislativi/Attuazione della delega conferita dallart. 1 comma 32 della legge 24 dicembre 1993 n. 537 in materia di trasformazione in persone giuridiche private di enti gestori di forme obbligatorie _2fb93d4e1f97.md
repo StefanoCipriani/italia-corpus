@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto l'[art. 1, comma 32, della legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537#art_1-com32);
+Visto l'[art. 1, comma 32, della legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md);
 
 Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella riunione del 30 marzo 1994;
 
@@ -54,7 +54,7 @@ AVVERTENZA:
  Note alle premesse:
  - L'[art. 76 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) regola la delega al Governo dell'esercizio della funzione legislativa e stabilisce che essa non puo' avvenire se non con determinazione di principi e criteri direttivi e soltanto per tempo limitato e per soggetti definiti.
  - L'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5), conferisce al Presidente della Repubblica il potere di promulgare le leggi e di emanare i decreti aventi valore di legge e i regolamenti.
- - Il [comma 32 dell'art. 1 della legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537#art_1-com32) (Interventi correttivi di finanza pubblica): prevede che "Il Governo e' delegato ad emanare, entro sei mesi dalla data di entrata in vigore della presente legge, uno o piu' decreti legislativi diretti a riordinare o sopprimere enti pubblici di previdenza e assistenza". Nota all'[art. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_1):
+ - Il [comma 32 dell'art. 1 della legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md) (Interventi correttivi di finanza pubblica): prevede che "Il Governo e' delegato ad emanare, entro sei mesi dalla data di entrata in vigore della presente legge, uno o piu' decreti legislativi diretti a riordinare o sopprimere enti pubblici di previdenza e assistenza". Nota all'[art. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_1):
  - Gli [articoli 12 e seguenti del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_12) cosi' recitano:
  "Art. 12 (Persone giuridiche private). - Le associazioni, le fondazioni e le altre istituzioni di carattere privato acquistano la personalita' giuridica mediante il riconoscimento concesso con decreto del Presidente della Repubblica.
  Per determinate categorie di enti che esercitano la loro attivita' nell'ambito della provincia, il Governo puo' delegare ai prefetti la facolta' di riconoscerli con loro decreto.
@@ -128,7 +128,7 @@ Le associazioni o le fondazioni hanno autonomia gestionale, organizzativa e cont
 
 1-bis.
 
-Le associazioni e le fondazioni, comprese quelle di cui al [decreto legislativo 10 febbraio 1996, n. 103](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1996-02-10;103), sono titolari dei valori e delle disponibilita' conferiti in gestione, restando peraltro in facolta' delle stesse di concludere, in tema di titolarita', diversi accordi con i gestori a cio' abilitati nel caso di gestione accompagnata dalla garanzia di restituzione del capitale.
+Le associazioni e le fondazioni, comprese quelle di cui al [decreto legislativo 10 febbraio 1996, n. 103](Attuazione%20della%20delega%20conferita%20dallart.%202%20comma%2025%20della%20legge%208%20agosto%201995%20n.%20335%20in%20materia%20di%20tutela%20previdenziale%20obbligatoria%20dei%20soggetti%20che%20svolgono%20attivita%20autonoma%20di%20libera%20professione.md), sono titolari dei valori e delle disponibilita' conferiti in gestione, restando peraltro in facolta' delle stesse di concludere, in tema di titolarita', diversi accordi con i gestori a cio' abilitati nel caso di gestione accompagnata dalla garanzia di restituzione del capitale.
 I valori e le disponibilita' affidati ai gestori secondo le modalita' e i criteri stabiliti nelle convenzioni costituiscono in ogni caso patrimonio separato e autonomo e non possono essere distratti dal fine al quale sono stati destinati, ne' formare oggetto di esecuzione sia da parte dei creditori dei soggetti gestori, sia da parte di rappresentanti dei creditori stessi, ne' possono essere coinvolti nelle procedure concorsuali che riguardano il gestore. Le associazioni e le fondazioni sono legittimate a proporre la domanda di rivendicazione di cui all'[articolo 103 del regio decreto 16 marzo 1942, n. 267](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;267#art_103). Possono essere rivendicati tutti i valori conferiti in gestione, anche se non individualmente determinati o individuati e anche se depositati presso terzi, diversi dal soggetto gestore. Per l'accertamento dei valori oggetto della domanda e' ammessa ogni prova documentale, compresi i rendiconti redatti dal gestore o dai terzi depositari. Sulle somme di denaro e sugli strumenti finanziari delle associazioni o delle fondazioni depositati a qualsiasi titolo presso un depositario non sono ammesse azioni dei creditori del depositario, del sub-depositario o nell'interesse degli stessi.
 
 2.
@@ -155,7 +155,7 @@ Nel caso in cui gli organi di amministrazione e di rappresentanza si rendessero 
 
 AGGIORNAMENTO (4)
 
-La [L. 30 dicembre 2021, n. 234](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2021-12-30;234), ha disposto (con l'art. 1, comma 118) che "Fino al 30 giugno 2022 e' sospesa, con riferimento alla sola gestione sostitutiva dell'assicurazione generale obbligatoria dell'INPGI, l'efficacia delle disposizioni del [comma 4 dell'articolo 2 del decreto legislativo 30 giugno 1994, n. 509](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1994-06-30;509#art_2-com4)".
+La [L. 30 dicembre 2021, n. 234](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202022%20e%20bilancio%20pluriennale%20per%20il%20triennio%202022-2024.%2021G00256.md), ha disposto (con l'art. 1, comma 118) che "Fino al 30 giugno 2022 e' sospesa, con riferimento alla sola gestione sostitutiva dell'assicurazione generale obbligatoria dell'INPGI, l'efficacia delle disposizioni del [comma 4 dell'articolo 2 del decreto legislativo 30 giugno 1994, n. 509](Attuazione%20della%20delega%20conferita%20dallart.%201%20comma%2032%20della%20legge%2024%20dicembre%201993%20n.%20537%20in%20materia%20di%20trasformazione%20in%20persone%20giuridiche%20private%20di%20enti%20gestori%20di%20forme%20obbligatorie%20_2fb93d4e1f97.md)".
 
 ## Art. 3. — Vigilanza
 
@@ -200,7 +200,7 @@ Entro un anno dall'avvenuta trasformazione prevista dall'art. 1, i lavoratori gi
 
 1.
 
-Entro tre mesi dalla stipulazione del primo contratto collettivo di lavoro, ovvero dalla sua sottoscrizione, il personale degli enti di cui all'elenco A puo' optare perla permanenza nel pubblico impiego. Ad esso si applicano le norme della [legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537), e del [decreto legislativo 3 febbraio 1993, n. 29](Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni.
+Entro tre mesi dalla stipulazione del primo contratto collettivo di lavoro, ovvero dalla sua sottoscrizione, il personale degli enti di cui all'elenco A puo' optare perla permanenza nel pubblico impiego. Ad esso si applicano le norme della [legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md), e del [decreto legislativo 3 febbraio 1993, n. 29](Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni.
 
 ))
 

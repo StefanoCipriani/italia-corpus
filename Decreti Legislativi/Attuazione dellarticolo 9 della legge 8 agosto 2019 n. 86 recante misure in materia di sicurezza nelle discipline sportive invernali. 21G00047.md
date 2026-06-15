@@ -142,11 +142,11 @@ Le regioni a statuto ordinario esercitano nelle materie disciplinate dal present
 
 3.
 
-Le disposizioni del presente decreto sono applicabili nelle regioni a statuto speciale e nelle Province autonome di Trento e di Bolzano compatibilmente con i rispettivi statuti e le relative norme di attuazione, anche con riferimento alla [legge costituzionale 18 ottobre 2001, n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:2001-10-18;3).
+Le disposizioni del presente decreto sono applicabili nelle regioni a statuto speciale e nelle Province autonome di Trento e di Bolzano compatibilmente con i rispettivi statuti e le relative norme di attuazione, anche con riferimento alla [legge costituzionale 18 ottobre 2001, n. 3](../Leggi%20costituzionali/Modifiche%20al%20titolo%20V%20della%20parte%20seconda%20della%20Costituzione.md).
 
 Note all'art. 3: 
  - Per i riferimenti normativi dell'[articolo 117 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_117) e della [legge 8 agosto 2019, n. 86](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2019-08-08;86), si veda nelle note alle premesse. 
- - La [legge costituzionale 18 ottobre 2001, n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:2001-10-18;3), recante «Modifiche al titolo V della parte seconda della Costituzione», e' pubblicata nella Gazzetta Ufficiale 24 ottobre 2001, n. 248.
+ - La [legge costituzionale 18 ottobre 2001, n. 3](../Leggi%20costituzionali/Modifiche%20al%20titolo%20V%20della%20parte%20seconda%20della%20Costituzione.md), recante «Modifiche al titolo V della parte seconda della Costituzione», e' pubblicata nella Gazzetta Ufficiale 24 ottobre 2001, n. 248.
 
 ## Gestione delle aree sciabili attrezzate
 

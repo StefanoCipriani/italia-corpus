@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[articolo 87, quinto comma, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Visto il [regio decreto legislativo 15 maggio 1946, n. 455](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legislativo:1946-05-15;455), recante «Approvazione Statuto della Regione Siciliana», convertito in legge costituzionale dalla [legge costituzionale 26 febbraio 1948, n. 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1948-02-26;2);
+Visto il [regio decreto legislativo 15 maggio 1946, n. 455](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legislativo:1946-05-15;455), recante «Approvazione Statuto della Regione Siciliana», convertito in legge costituzionale dalla [legge costituzionale 26 febbraio 1948, n. 2](../Leggi%20costituzionali/Conversione%20in%20legge%20costituzionale%20dello%20Statuto%20della%20Regione%20siciliana%20approvato%20col%20decreto%20legislativo%2015%20maggio%201946%20n.%20455.md);
 
 Visto il [decreto del Presidente della Repubblica 26 luglio 1965, n. 1074](../DPR/Norme%20di%20attuazione%20dello%20Statuto%20della%20Regione%20siciliana%20in%20materia%20finanziaria.md), recante «Norme di attuazione dello Statuto della Regione Siciliana in materia finanziaria», e in particolare gli articoli 2 e 7;
 

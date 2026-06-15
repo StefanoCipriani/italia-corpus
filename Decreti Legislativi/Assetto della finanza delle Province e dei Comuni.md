@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4), con le modificazioni ad esso apportate dall'art. 3, comma, primo, del [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4), con le modificazioni ad esso apportate dall'art. 3, comma, primo, del [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Viste le disposizioni transitorie I e XV della Costituzione;
 
@@ -186,7 +186,7 @@ Per le Province i cui bilanci per l'esercizio 1947 abbiano conseguito il pareggi
 
 AGGIORNAMENTO (1)
 
-La [L. 30 luglio 1950, n. 574](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-07-30;574) ha disposto (con l'art. 1) che "Le disposizioni di cui all'[art. 22 del decreto legislativo 26 marzo 1948, n. 261](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-03-26;261#art_22), concernenti l'intervento dello Stato per il pareggio economico dei bilanci delle province gravemente deficitarie, hanno effetto anche per l'anno 1949."
+La [L. 30 luglio 1950, n. 574](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-07-30;574) ha disposto (con l'art. 1) che "Le disposizioni di cui all'[art. 22 del decreto legislativo 26 marzo 1948, n. 261](Assetto%20della%20finanza%20delle%20Province%20e%20dei%20Comuni.md), concernenti l'intervento dello Stato per il pareggio economico dei bilanci delle province gravemente deficitarie, hanno effetto anche per l'anno 1949."
 
 ## Art. 23.
 
@@ -212,7 +212,7 @@ Per i Comuni della provincia di Gorizia che non possono raggiungere il pareggio 
 
 AGGIORNAMENTO (2)
 
-La [L. 9 dicembre 1950, n. 1115](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-12-09;1115) ha disposto (con l'art. 1, comma 1) che "Le disposizioni dell'[art. 27 del decreto legislativo 26 marzo 1948, n. 261](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-03-26;261#art_27), concernenti l'intervento dello Stato per il pareggio economico dei bilanci dei Comuni della provincia di Gorizia hanno effetto anche per l'anno 1949."
+La [L. 9 dicembre 1950, n. 1115](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-12-09;1115) ha disposto (con l'art. 1, comma 1) che "Le disposizioni dell'[art. 27 del decreto legislativo 26 marzo 1948, n. 261](Assetto%20della%20finanza%20delle%20Province%20e%20dei%20Comuni.md), concernenti l'intervento dello Stato per il pareggio economico dei bilanci dei Comuni della provincia di Gorizia hanno effetto anche per l'anno 1949."
 
 ## Art. 28.
 

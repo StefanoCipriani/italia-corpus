@@ -14,7 +14,7 @@ Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cos
 
 Visto l'articolo 1, commi 1, lettera c), 2, lettere e), h), i), l) e v), 44, 45 e 46, della [legge 23 agosto 2004, n. 243](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-08-23;243), recante norme in materia pensionistica e deleghe al Governo nel settore della previdenza pubblica, per il sostegno alla previdenza complementare e all'occupazione stabile e per il riordino degli enti di previdenza ed assistenza obbligatoria;
 
-Visto il [decreto legislativo 21 aprile 1993, n. 124](Disciplina%20delle%20forme%20pensionistiche%20complementari%20a%20norma%20dellart.%203%20comma%201%20lettera%20v%20della%20legge%2023%20ottobre%201992%20n.%20421.md), recante disciplina delle forme pensionistiche complementari, a norma dell'[articolo 3, comma 1, lettera v), della legge 23 ottobre 1992, n. 421](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-10-23;421#art_3-com1-letv);
+Visto il [decreto legislativo 21 aprile 1993, n. 124](Disciplina%20delle%20forme%20pensionistiche%20complementari%20a%20norma%20dellart.%203%20comma%201%20lettera%20v%20della%20legge%2023%20ottobre%201992%20n.%20421.md), recante disciplina delle forme pensionistiche complementari, a norma dell'[articolo 3, comma 1, lettera v), della legge 23 ottobre 1992, n. 421](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20razionalizzazione%20e%20la%20revisione%20delle%20discipline%20in%20materia%20di%20sanita%20di%20pubblico%20impiego%20di%20previdenza%20e%20di%20finanza%20territoriale.md);
 
 Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella riunione del 1° luglio 2005;
 
@@ -190,7 +190,7 @@ La COVIP disciplina le ipotesi di decadenza dall'autorizzazione quando il fondo 
 
 1.
 
-I fondi pensione istituiti ai sensi dell'articolo 4, comma 1, nonche' quelli gia' istituiti alla data di entrata in vigore della [legge 23 ottobre 1992, n. 421](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-10-23;421), aventi soggettivita' giuridica, si dotano di un sistema efficace di governo che assicuri una gestione sana e prudente della loro attivita'. Tale sistema prevede una struttura organizzativa trasparente e adeguata, con una chiara attribuzione e un'appropriata separazione delle responsabilita' e un sistema efficace per garantire la trasmissione delle informazioni.
+I fondi pensione istituiti ai sensi dell'articolo 4, comma 1, nonche' quelli gia' istituiti alla data di entrata in vigore della [legge 23 ottobre 1992, n. 421](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20razionalizzazione%20e%20la%20revisione%20delle%20discipline%20in%20materia%20di%20sanita%20di%20pubblico%20impiego%20di%20previdenza%20e%20di%20finanza%20territoriale.md), aventi soggettivita' giuridica, si dotano di un sistema efficace di governo che assicuri una gestione sana e prudente della loro attivita'. Tale sistema prevede una struttura organizzativa trasparente e adeguata, con una chiara attribuzione e un'appropriata separazione delle responsabilita' e un sistema efficace per garantire la trasmissione delle informazioni.
 
 2.
 
@@ -331,7 +331,7 @@ COMMA ABROGATO DAL [D.LGS. 6 FEBBRAIO 2007, N. 28](../Atti%20di%20recepimento%20
 
 1.
 
-I fondi pensione di cui all'articolo 4, comma 1, nonche' quelli gia' istituiti alla data di entrata in vigore della [legge 23 ottobre 1992, n. 421](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-10-23;421), aventi soggettivita' giuridica, si dotano delle seguenti funzioni fondamentali: una funzione di gestione dei rischi, una funzione di revisione interna e, laddove ricorrano le condizioni previste dall'articolo 5-quinquies, una funzione attuariale. I fondi pensione assicurano ai titolari di funzioni fondamentali la sussistenza delle condizioni necessarie ad un efficace svolgimento delle proprie mansioni che sia obiettivo, equo e indipendente.
+I fondi pensione di cui all'articolo 4, comma 1, nonche' quelli gia' istituiti alla data di entrata in vigore della [legge 23 ottobre 1992, n. 421](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20razionalizzazione%20e%20la%20revisione%20delle%20discipline%20in%20materia%20di%20sanita%20di%20pubblico%20impiego%20di%20previdenza%20e%20di%20finanza%20territoriale.md), aventi soggettivita' giuridica, si dotano delle seguenti funzioni fondamentali: una funzione di gestione dei rischi, una funzione di revisione interna e, laddove ricorrano le condizioni previste dall'articolo 5-quinquies, una funzione attuariale. I fondi pensione assicurano ai titolari di funzioni fondamentali la sussistenza delle condizioni necessarie ad un efficace svolgimento delle proprie mansioni che sia obiettivo, equo e indipendente.
 
 2.
 
@@ -373,7 +373,7 @@ Fuori dei casi di responsabilita' a titolo di calunnia o diffamazione ovvero dei
 
 1.
 
-I fondi pensione di cui all'articolo 4, comma 1, nonche' quelli gia' istituiti alla data di entrata in vigore della [legge 23 ottobre 1992, n. 421](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-10-23;421), aventi soggettivita' giuridica, si dotano, in modo proporzionato alle loro dimensioni e all'organizzazione interna nonche' alla dimensione, alla natura, alla portata e alla complessita' delle loro attivita', di un sistema efficace di gestione dei rischi.
+I fondi pensione di cui all'articolo 4, comma 1, nonche' quelli gia' istituiti alla data di entrata in vigore della [legge 23 ottobre 1992, n. 421](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20razionalizzazione%20e%20la%20revisione%20delle%20discipline%20in%20materia%20di%20sanita%20di%20pubblico%20impiego%20di%20previdenza%20e%20di%20finanza%20territoriale.md), aventi soggettivita' giuridica, si dotano, in modo proporzionato alle loro dimensioni e all'organizzazione interna nonche' alla dimensione, alla natura, alla portata e alla complessita' delle loro attivita', di un sistema efficace di gestione dei rischi.
 
 2.
 
@@ -417,7 +417,7 @@ I fondi pensione di cui al comma 1 istituiscono una funzione di gestione dei ris
 
 1.
 
-I fondi pensione di cui all'articolo 4, comma 1, nonche' quelli gia' istituiti alla data di entrata in vigore della [legge 23 ottobre 1992, n. 421](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-10-23;421), aventi soggettivita' giuridica, dispongono, in modo proporzionato alle loro dimensioni e all'organizzazione interna nonche' alla dimensione, alla natura, alla portata e alla complessita' delle loro attivita', di una efficace funzione di revisione interna e ne garantiscono l'autonomia di giudizio e l'indipendenza rispetto alle funzioni operative.
+I fondi pensione di cui all'articolo 4, comma 1, nonche' quelli gia' istituiti alla data di entrata in vigore della [legge 23 ottobre 1992, n. 421](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20razionalizzazione%20e%20la%20revisione%20delle%20discipline%20in%20materia%20di%20sanita%20di%20pubblico%20impiego%20di%20previdenza%20e%20di%20finanza%20territoriale.md), aventi soggettivita' giuridica, dispongono, in modo proporzionato alle loro dimensioni e all'organizzazione interna nonche' alla dimensione, alla natura, alla portata e alla complessita' delle loro attivita', di una efficace funzione di revisione interna e ne garantiscono l'autonomia di giudizio e l'indipendenza rispetto alle funzioni operative.
 
 2.
 
@@ -435,7 +435,7 @@ La funzione di revisione interna riferisce all'organo di amministrazione.
 
 1.
 
-I fondi pensione di cui all'articolo 4, comma 1, nonche' quelli gia' istituiti alla data di entrata in vigore della [legge 23 ottobre 1992, n. 421](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-10-23;421), aventi soggettivita' giuridica, che direttamente coprono rischi biometrici o garantiscono un rendimento degli investimenti o un determinato livello di prestazioni nominano almeno una persona indipendente, interna o esterna, titolare della funzione attuariale che in modo efficace:
+I fondi pensione di cui all'articolo 4, comma 1, nonche' quelli gia' istituiti alla data di entrata in vigore della [legge 23 ottobre 1992, n. 421](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20razionalizzazione%20e%20la%20revisione%20delle%20discipline%20in%20materia%20di%20sanita%20di%20pubblico%20impiego%20di%20previdenza%20e%20di%20finanza%20territoriale.md), aventi soggettivita' giuridica, che direttamente coprono rischi biometrici o garantiscono un rendimento degli investimenti o un determinato livello di prestazioni nominano almeno una persona indipendente, interna o esterna, titolare della funzione attuariale che in modo efficace:
                         a)
                             coordina e supervisiona il calcolo delle riserve tecniche;
                         b)
@@ -479,7 +479,7 @@ I componenti dell'organismo di rappresentanza di cui all'articolo 5, comma 5, e 
 
 3.
 
-Gli organi di amministrazione dei fondi pensione di cui all'articolo 4, comma 1, di quelli gia' istituiti alla data di entrata in vigore della [legge 23 ottobre 1992, n. 421](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-10-23;421), aventi soggettivita' giuridica, nonche' delle societa' istitutrici delle forme di cui agli articoli 12 e 13 e delle societa' o enti che hanno fondi pensione interni, per quanto di rispettiva competenza, accertano che i soggetti indicati ai commi 1 e 2 sono in possesso dei requisiti di cui al decreto previsto dal comma 1 e ne danno comunicazione alla COVIP nelle modalita' dalla stessa definite.
+Gli organi di amministrazione dei fondi pensione di cui all'articolo 4, comma 1, di quelli gia' istituiti alla data di entrata in vigore della [legge 23 ottobre 1992, n. 421](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20razionalizzazione%20e%20la%20revisione%20delle%20discipline%20in%20materia%20di%20sanita%20di%20pubblico%20impiego%20di%20previdenza%20e%20di%20finanza%20territoriale.md), aventi soggettivita' giuridica, nonche' delle societa' istitutrici delle forme di cui agli articoli 12 e 13 e delle societa' o enti che hanno fondi pensione interni, per quanto di rispettiva competenza, accertano che i soggetti indicati ai commi 1 e 2 sono in possesso dei requisiti di cui al decreto previsto dal comma 1 e ne danno comunicazione alla COVIP nelle modalita' dalla stessa definite.
 
 ))
 
@@ -489,7 +489,7 @@ Gli organi di amministrazione dei fondi pensione di cui all'articolo 4, comma 1,
 
 1.
 
-I fondi pensione di cui all'articolo 4, comma 1, nonche' quelli gia' istituiti alla data di entrata in vigore della [legge 23 ottobre 1992, n. 421](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-10-23;421), aventi soggettivita' giuridica, possono esternalizzare funzioni o altre attivita', comprese le funzioni fondamentali. La responsabilita' finale delle attivita' e delle funzioni esternalizzate rimane in capo all'organo di amministrazione del fondo pensione, inclusa quella relativa all'osservanza degli obblighi derivanti da disposizioni normative nazionali, nonche' di quelli derivanti da disposizioni dell'Unione europea direttamente applicabili.
+I fondi pensione di cui all'articolo 4, comma 1, nonche' quelli gia' istituiti alla data di entrata in vigore della [legge 23 ottobre 1992, n. 421](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20razionalizzazione%20e%20la%20revisione%20delle%20discipline%20in%20materia%20di%20sanita%20di%20pubblico%20impiego%20di%20previdenza%20e%20di%20finanza%20territoriale.md), aventi soggettivita' giuridica, possono esternalizzare funzioni o altre attivita', comprese le funzioni fondamentali. La responsabilita' finale delle attivita' e delle funzioni esternalizzate rimane in capo all'organo di amministrazione del fondo pensione, inclusa quella relativa all'osservanza degli obblighi derivanti da disposizioni normative nazionali, nonche' di quelli derivanti da disposizioni dell'Unione europea direttamente applicabili.
 
 2.
 
@@ -527,7 +527,7 @@ La COVIP puo' effettuare ispezioni nei locali del fornitore delle attivita' este
 
 1.
 
-I fondi pensione di cui all'articolo 4, comma 1, nonche' quelli gia' istituiti alla data di entrata in vigore della [legge 23 ottobre 1992, n. 421](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-10-23;421), aventi soggettivita' giuridica, definiscono, in modo proporzionato all'organizzazione interna nonche' alla dimensione, alla natura, alla portata e alla complessita' delle loro attivita', una sana politica di remunerazione di tutte le persone che amministrano effettivamente il fondo, dei componenti dell'organo di controllo, del responsabile, di coloro che svolgono funzioni fondamentali e delle altre categorie di personale le cui attivita' hanno un impatto rilevante sul profilo di rischio del fondo.
+I fondi pensione di cui all'articolo 4, comma 1, nonche' quelli gia' istituiti alla data di entrata in vigore della [legge 23 ottobre 1992, n. 421](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20razionalizzazione%20e%20la%20revisione%20delle%20discipline%20in%20materia%20di%20sanita%20di%20pubblico%20impiego%20di%20previdenza%20e%20di%20finanza%20territoriale.md), aventi soggettivita' giuridica, definiscono, in modo proporzionato all'organizzazione interna nonche' alla dimensione, alla natura, alla portata e alla complessita' delle loro attivita', una sana politica di remunerazione di tutte le persone che amministrano effettivamente il fondo, dei componenti dell'organo di controllo, del responsabile, di coloro che svolgono funzioni fondamentali e delle altre categorie di personale le cui attivita' hanno un impatto rilevante sul profilo di rischio del fondo.
 
 2.
 
@@ -795,7 +795,7 @@ I fondi pensione che coprono rischi biometrici, che garantiscono un rendimento d
 
 2.
 
-Con regolamento del Ministero dell'economia e delle finanze, sentita la COVIP, la Banca d'Italia e l'ISVAP, sono definiti i principi per la determinazione dei mezzi patrimoniali adeguati in conformita' con quanto previsto dalle disposizioni comunitarie e dall'[articolo 29-bis, comma 3, lettera a), numero 3), della legge 18 aprile 2005, n. 62](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-04-18;62#art_29bis-com3-leta-num3). Nel regolamento sono, inoltre, definite le condizioni alle quali una forma pensionistica puo', per un periodo limitato, detenere attivita' insufficienti.
+Con regolamento del Ministero dell'economia e delle finanze, sentita la COVIP, la Banca d'Italia e l'ISVAP, sono definiti i principi per la determinazione dei mezzi patrimoniali adeguati in conformita' con quanto previsto dalle disposizioni comunitarie e dall'[articolo 29-bis, comma 3, lettera a), numero 3), della legge 18 aprile 2005, n. 62](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%202004.md). Nel regolamento sono, inoltre, definite le condizioni alle quali una forma pensionistica puo', per un periodo limitato, detenere attivita' insufficienti.
 
 2-bis.
 
@@ -900,14 +900,14 @@ Gli statuti e i regolamenti disciplinano, secondo i criteri stabiliti dalla COVI
 
 AGGIORNAMENTO (19)
 
-La [L. 27 dicembre 2017, n. 205](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-12-27;205) ha disposto (con l'art. 1, comma 176, lettera a)) che "Con efficacia dalla data di decorrenza determinata con il decreto di cui al [comma 173](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-12-05;252#art_com173): 
- a) all'[articolo 8, comma 7, lettera b), numero 3), del decreto legislativo 5 dicembre 2005, n. 252](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-12-05;252#art_8-com7-letb-num3), le parole: « alla forma pensionistica complementare istituita presso l'INPS » sono sostituite dalle seguenti: « alla forma pensionistica complementare individuata con decreto del Ministro del lavoro e delle politiche sociali, di concerto con il Ministro dell'economia e delle finanze, sentite le organizzazioni dei datori di lavoro e dei lavoratori comparativamente piu' rappresentative sul piano nazionale dei diversi comparti del settore privato »".
+La [L. 27 dicembre 2017, n. 205](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202018%20e%20bilancio%20pluriennale%20per%20il%20triennio%202018-2020.%2017G00222.md) ha disposto (con l'art. 1, comma 176, lettera a)) che "Con efficacia dalla data di decorrenza determinata con il decreto di cui al [comma 173](Disciplina%20delle%20forme%20pensionistiche%20complementari.md): 
+ a) all'[articolo 8, comma 7, lettera b), numero 3), del decreto legislativo 5 dicembre 2005, n. 252](Disciplina%20delle%20forme%20pensionistiche%20complementari.md), le parole: « alla forma pensionistica complementare istituita presso l'INPS » sono sostituite dalle seguenti: « alla forma pensionistica complementare individuata con decreto del Ministro del lavoro e delle politiche sociali, di concerto con il Ministro dell'economia e delle finanze, sentite le organizzazioni dei datori di lavoro e dei lavoratori comparativamente piu' rappresentative sul piano nazionale dei diversi comparti del settore privato »".
 
 ---------------
 
 AGGIORNAMENTO (26)
 
-La [L. 30 dicembre 2025, n. 199](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-12-30;199) ha disposto (con l'art. 1, comma 202) che le presenti disposizioni si applicano a decorrere dal 1° luglio 2026 ed entro la medesima data la Commissione di vigilanza sui fondi pensione (COVIP) adegua le proprie istruzioni. 
+La [L. 30 dicembre 2025, n. 199](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202026%20e%20bilancio%20pluriennale%20per%20il%20triennio%202026-2028.%2025G00212.md) ha disposto (con l'art. 1, comma 202) che le presenti disposizioni si applicano a decorrere dal 1° luglio 2026 ed entro la medesima data la Commissione di vigilanza sui fondi pensione (COVIP) adegua le proprie istruzioni. 
  Ha inoltre disposto (con l'art. 1, comma 205) che le presenti disposizioni si applicano a decorrere dal 1° luglio 2026 ed entro la medesima data la COVIP adegua le proprie istruzioni.
 
 ## Art. 9. — Istituzione e disciplina della forma pensionistica complementare residuale presso l'INPS
@@ -929,12 +929,12 @@ La posizione individuale costituita presso la forma pensionistica di cui al pres
 
 AGGIORNAMENTO (19)
 
-La [L. 27 dicembre 2017, n. 205](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-12-27;205) ha disposto (con l'art. 1, comma 173) che "La forma pensionistica complementare residuale istituita presso l'INPS, di cui all'[articolo 9 del decreto legislativo 5 dicembre 2005, n. 252](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-12-05;252#art_9), e' soppressa, con decorrenza dalla data determinata con decreto del Ministro del lavoro e delle politiche sociali, di concerto con il Ministro dell'economia e delle finanze, emanato ai sensi dell'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3)". 
+La [L. 27 dicembre 2017, n. 205](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202018%20e%20bilancio%20pluriennale%20per%20il%20triennio%202018-2020.%2017G00222.md) ha disposto (con l'art. 1, comma 173) che "La forma pensionistica complementare residuale istituita presso l'INPS, di cui all'[articolo 9 del decreto legislativo 5 dicembre 2005, n. 252](Disciplina%20delle%20forme%20pensionistiche%20complementari.md), e' soppressa, con decorrenza dalla data determinata con decreto del Ministro del lavoro e delle politiche sociali, di concerto con il Ministro dell'economia e delle finanze, emanato ai sensi dell'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3)". 
  Ha inoltre disposto (con l'art. 1, comma 176, lettera b)) che "Con efficacia dalla data di decorrenza determinata con il decreto di cui al comma 173: 
  [...] 
  b) sono abrogati: 
- 1) l'[articolo 9 del decreto legislativo 5 dicembre 2005, n. 252](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-12-05;252#art_9)". 
- Il regolamento di cui all'art. 1, comma 176, alinea della [L. 27 dicembre 2017, n. 205](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-12-27;205) e' stato emanato con Decreto 31 marzo 2020, n. 85, pubblicato in G.U. 30/07/2020, n. 190.
+ 1) l'[articolo 9 del decreto legislativo 5 dicembre 2005, n. 252](Disciplina%20delle%20forme%20pensionistiche%20complementari.md)". 
+ Il regolamento di cui all'art. 1, comma 176, alinea della [L. 27 dicembre 2017, n. 205](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202018%20e%20bilancio%20pluriennale%20per%20il%20triennio%202018-2020.%2017G00222.md) e' stato emanato con Decreto 31 marzo 2020, n. 85, pubblicato in G.U. 30/07/2020, n. 190.
 
 ## Art. 10. — Misure compensative per le imprese
 
@@ -1036,7 +1036,7 @@ Gli aderenti alle forme pensionistiche complementari possono richiedere un'antic
                             in qualsiasi momento, per un importo non superiore al 75 per cento, per spese sanitarie a seguito di gravissime situazioni relative a se', al coniuge e ai figli per terapie e interventi straordinari riconosciuti dalle competenti strutture pubbliche.
 Sull'importo erogato, al netto dei redditi gia' assoggettati ad imposta, e' applicata una ritenuta a titolo d'imposta con l'aliquota del 15 per cento ridotta di una quota pari a 0,30 punti percentuali per ogni anno eccedente il quindicesimo anno di partecipazione a forme pensionistiche complementari con un limite massimo di riduzione di 6 punti percentuali;
                         b)
-                            decorsi otto anni di iscrizione, per un importo non superiore al 75 per cento, per l'acquisto della prima casa di abitazione per se' o per i figli, documentato con atto notarile, o per la realizzazione degli interventi di cui alle lettere a), b), c), e d) del [comma 1 dell'articolo 3 del testo unico delle disposizioni legislative e regolamentari in materia edilizia](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20edilizia.%20Testo%20A.md) di cui al [decreto del Presidente della Repubblica 6 giugno 2001, n. 380](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20edilizia.%20Testo%20A.md), relativamente alla prima casa di abitazione, documentati come previsto dalla normativa stabilita ai sensi dell'[articolo 1, comma 3, della legge 27 dicembre 1997, n. 449](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-12-27;449#art_1-com3). Sull'importo erogato, al netto dei redditi gia' assoggettati ad imposta, si applica una ritenuta a titolo di imposta del 23 per cento;
+                            decorsi otto anni di iscrizione, per un importo non superiore al 75 per cento, per l'acquisto della prima casa di abitazione per se' o per i figli, documentato con atto notarile, o per la realizzazione degli interventi di cui alle lettere a), b), c), e d) del [comma 1 dell'articolo 3 del testo unico delle disposizioni legislative e regolamentari in materia edilizia](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20edilizia.%20Testo%20A.md) di cui al [decreto del Presidente della Repubblica 6 giugno 2001, n. 380](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20edilizia.%20Testo%20A.md), relativamente alla prima casa di abitazione, documentati come previsto dalla normativa stabilita ai sensi dell'[articolo 1, comma 3, della legge 27 dicembre 1997, n. 449](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20per%20la%20stabilizzazione%20della%20finanza%20pubblica.md). Sull'importo erogato, al netto dei redditi gia' assoggettati ad imposta, si applica una ritenuta a titolo di imposta del 23 per cento;
                         c)
                             decorsi otto anni di iscrizione, per un importo non superiore al 30 per cento, per ulteriori esigenze degli aderenti. Sull'importo erogato, al netto dei redditi gia' assoggettati ad imposta, si applica una ritenuta a titolo di imposta del 23 per cento;
                         d)
@@ -1058,7 +1058,7 @@ Ai fini della determinazione dell'anzianita' necessaria per la richiesta delle a
 
 AGGIORNAMENTO (26)
 
-La [L. 30 dicembre 2025, n. 199](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-12-30;199) ha disposto (con l'art. 1, comma 202) che le presenti disposizioni si applicano a decorrere dal 1° luglio 2026 ed entro la medesima data la Commissione di vigilanza sui fondi pensione (COVIP) adegua le proprie istruzioni.
+La [L. 30 dicembre 2025, n. 199](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202026%20e%20bilancio%20pluriennale%20per%20il%20triennio%202026-2028.%2025G00212.md) ha disposto (con l'art. 1, comma 202) che le presenti disposizioni si applicano a decorrere dal 1° luglio 2026 ed entro la medesima data la Commissione di vigilanza sui fondi pensione (COVIP) adegua le proprie istruzioni.
 
 ## Art. 12. — Fondi pensione aperti
 
@@ -1290,7 +1290,7 @@ Ove vengano meno i requisiti di partecipazione alla forma pensionistica compleme
                         b)
                             il riscatto parziale, nella misura del 50 per cento della posizione individuale maturata, nei casi di cessazione dell'attivita' lavorativa che comporti l'inoccupazione per un periodo di tempo non inferiore a 12 mesi e non superiore a 48 mesi, ovvero in caso di ricorso da parte del datore di lavoro a procedure di mobilita', cassa integrazione guadagni ordinaria o straordinaria;
                         c)
-                            il riscatto totale della posizione individuale maturata per i casi di invalidita' permanente che comporti la riduzione della capacita' di lavoro a meno di un terzo e a seguito di cessazione dell'attivita' lavorativa che comporti l'inoccupazione per un periodo di tempo superiore a 48 mesi. PERIODO SOPPRESSO DALLA [L. 27 DICEMBRE 2017, N. 205](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-12-27;205).
+                            il riscatto totale della posizione individuale maturata per i casi di invalidita' permanente che comporti la riduzione della capacita' di lavoro a meno di un terzo e a seguito di cessazione dell'attivita' lavorativa che comporti l'inoccupazione per un periodo di tempo superiore a 48 mesi. PERIODO SOPPRESSO DALLA [L. 27 DICEMBRE 2017, N. 205](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202018%20e%20bilancio%20pluriennale%20per%20il%20triennio%202018-2020.%2017G00222.md).
                         c-bis)
                             il mantenimento della posizione individuale in gestione presso la forma pensionistica complementare anche in assenza di ulteriore contribuzione. Tale opzione trova automatica applicazione in difetto di diversa scelta da parte dell'iscritto e fatta salva l'ipotesi di valore della posizione individuale maturata, non superiore all'importo di una mensilita' dell'assegno sociale di cui all'[articolo 3, comma 6, della legge 8 agosto 1995, n. 335](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-08-08;335#art_3-com6); in questo caso le forme pensionistiche complementari informano l'iscritto, conformemente alle istruzioni impartite dalla COVIP, della facolta' di esercitare il trasferimento ad altra forma pensionistica complementare ovvero di richiedere il riscatto con le modalita' di cui al comma 5.
 
@@ -1324,7 +1324,7 @@ Gli adempimenti a carico delle forme pensionistiche complementari conseguenti al
 
 AGGIORNAMENTO (26)
 
-La [L. 30 dicembre 2025, n. 199](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-12-30;199) ha disposto (con l'art. 1, comma 202) che la presente disposizione si applica a decorrere dal 1° luglio 2026 ed entro la medesima data la Commissione di vigilanza sui fondi pensione (COVIP) adegua le proprie istruzioni.
+La [L. 30 dicembre 2025, n. 199](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202026%20e%20bilancio%20pluriennale%20per%20il%20triennio%202026-2028.%2025G00212.md) ha disposto (con l'art. 1, comma 202) che la presente disposizione si applica a decorrere dal 1° luglio 2026 ed entro la medesima data la Commissione di vigilanza sui fondi pensione (COVIP) adegua le proprie istruzioni.
 
 ## Art. 14-bis. — (( (Trasferimento transfrontaliero a un fondo di un altro Stato membro). ))
 
@@ -1332,7 +1332,7 @@ La [L. 30 dicembre 2025, n. 199](https://www.normattiva.it/uri-res/N2Ls?urn:nir:
 
 1.
 
-I fondi pensione di cui all'articolo 4, comma 1, i fondi pensione aperti, nonche' quelli gia' istituiti alla data di entrata in vigore della [legge 23 ottobre 1992, n. 421](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-10-23;421), aventi soggettivita' giuridica ed operanti secondo il principio della capitalizzazione, che risultino iscritti all'Albo tenuto a cura della COVIP possono trasferire tutte o parte delle passivita', delle riserve tecniche e delle altre obbligazioni e diritti, nonche' le attivita' corrispondenti o il relativo equivalente in contanti di uno schema pensionistico a un fondo pensione ricevente registrato o autorizzato in un altro Stato membro dell'Unione europea e rientrante nell'ambito di applicazione della [direttiva (UE) 2016/2341](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2016;2341).
+I fondi pensione di cui all'articolo 4, comma 1, i fondi pensione aperti, nonche' quelli gia' istituiti alla data di entrata in vigore della [legge 23 ottobre 1992, n. 421](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20razionalizzazione%20e%20la%20revisione%20delle%20discipline%20in%20materia%20di%20sanita%20di%20pubblico%20impiego%20di%20previdenza%20e%20di%20finanza%20territoriale.md), aventi soggettivita' giuridica ed operanti secondo il principio della capitalizzazione, che risultino iscritti all'Albo tenuto a cura della COVIP possono trasferire tutte o parte delle passivita', delle riserve tecniche e delle altre obbligazioni e diritti, nonche' le attivita' corrispondenti o il relativo equivalente in contanti di uno schema pensionistico a un fondo pensione ricevente registrato o autorizzato in un altro Stato membro dell'Unione europea e rientrante nell'ambito di applicazione della [direttiva (UE) 2016/2341](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2016;2341).
 
 2.
 
@@ -1374,7 +1374,7 @@ All'attivita' transfrontaliera di cui al comma 5 trovano applicazione le disposi
 
 1.
 
-I fondi pensione di cui all'articolo 4, comma 1, i fondi pensione aperti, nonche' quelli gia' istituiti alla data di entrata in vigore della [legge 23 ottobre 1992, n. 421](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-10-23;421), aventi soggettivita' giuridica ed operanti secondo il principio della capitalizzazione, che risultino iscritti all'Albo tenuto a cura della COVIP possono ricevere tutte o parte delle passivita', delle riserve tecniche e delle altre obbligazioni e diritti, nonche' le attivita' corrispondenti o il relativo equivalente in contanti di uno schema pensionistico di un fondo pensione trasferente registrato o autorizzato in un altro Stato membro dell'Unione europea e rientrante nell'ambito di applicazione della [direttiva (UE) 2016/2341](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2016;2341).
+I fondi pensione di cui all'articolo 4, comma 1, i fondi pensione aperti, nonche' quelli gia' istituiti alla data di entrata in vigore della [legge 23 ottobre 1992, n. 421](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20razionalizzazione%20e%20la%20revisione%20delle%20discipline%20in%20materia%20di%20sanita%20di%20pubblico%20impiego%20di%20previdenza%20e%20di%20finanza%20territoriale.md), aventi soggettivita' giuridica ed operanti secondo il principio della capitalizzazione, che risultino iscritti all'Albo tenuto a cura della COVIP possono ricevere tutte o parte delle passivita', delle riserve tecniche e delle altre obbligazioni e diritti, nonche' le attivita' corrispondenti o il relativo equivalente in contanti di uno schema pensionistico di un fondo pensione trasferente registrato o autorizzato in un altro Stato membro dell'Unione europea e rientrante nell'ambito di applicazione della [direttiva (UE) 2016/2341](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2016;2341).
 
 2.
 
@@ -1467,7 +1467,7 @@ Ai fondi pensione si applica esclusivamente la disciplina dell'amministrazione s
 
 1.
 
-I fondi pensione di cui all'articolo 4, comma 1, i fondi pensione aperti, nonche' quelli gia' istituiti alla data di entrata in vigore della [legge 23 ottobre 1992, n. 421](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-10-23;421), aventi soggettivita' giuridica ed operanti secondo il principio della capitalizzazione, che risultino iscritti all'Albo tenuto a cura della COVIP e siano stati dalla COVIP previamente autorizzati allo svolgimento dell'attivita' transfrontaliera, possono operare con riferimento ai datori di lavoro o ai lavoratori residenti in uno Stato membro dell'Unione europea.
+I fondi pensione di cui all'articolo 4, comma 1, i fondi pensione aperti, nonche' quelli gia' istituiti alla data di entrata in vigore della [legge 23 ottobre 1992, n. 421](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20razionalizzazione%20e%20la%20revisione%20delle%20discipline%20in%20materia%20di%20sanita%20di%20pubblico%20impiego%20di%20previdenza%20e%20di%20finanza%20territoriale.md), aventi soggettivita' giuridica ed operanti secondo il principio della capitalizzazione, che risultino iscritti all'Albo tenuto a cura della COVIP e siano stati dalla COVIP previamente autorizzati allo svolgimento dell'attivita' transfrontaliera, possono operare con riferimento ai datori di lavoro o ai lavoratori residenti in uno Stato membro dell'Unione europea.
 
 2.
 
@@ -1655,7 +1655,7 @@ A valere sul gettito del contributo di solidarieta' di cui al comma 1:
                         a)
                             e' finanziato, attraverso l'applicazione di una aliquota pari all'1 per cento, l'apposito fondo di garanzia istituito, mediante evidenza contabile nell'ambito della gestione delle prestazioni temporanee dell'INPS, contro il rischio derivante dall'omesso o insufficiente versamento da parte dei datori di lavoro sottoposti a procedura di fallimento, di concordato preventivo, di liquidazione coatta amministrativa ovvero di amministrazione controllata, come previsto ai sensi dell'[articolo 5 del decreto legislativo 27 gennaio 1992, n. 80](Attuazione%20della%20direttiva%2080-987-CEE%20in%20materia%20di%20tutela%20dei%20lavoratori%20subordinati%20in%20caso%20di%20insolvenza%20del%20datore%20di%20lavoro.md);
                         b)
-                            e' destinato al finanziamento della COVIP l'importo di ulteriori 3 milioni di euro annui a decorrere dall'anno 2005, a incremento dell'importo previsto dall'[articolo 13, comma 2, della legge 8 agosto 1995, n. 335](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-08-08;335#art_13-com2), come integrato dall'[articolo 59, comma 39, della legge 27 dicembre 1997, n. 449](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-12-27;449#art_59-com39); a tale fine e' autorizzata, a decorrere dall'anno 2005, la spesa di 3 milioni di euro annui a favore dell'INPS.
+                            e' destinato al finanziamento della COVIP l'importo di ulteriori 3 milioni di euro annui a decorrere dall'anno 2005, a incremento dell'importo previsto dall'[articolo 13, comma 2, della legge 8 agosto 1995, n. 335](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-08-08;335#art_13-com2), come integrato dall'[articolo 59, comma 39, della legge 27 dicembre 1997, n. 449](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20per%20la%20stabilizzazione%20della%20finanza%20pubblica.md); a tale fine e' autorizzata, a decorrere dall'anno 2005, la spesa di 3 milioni di euro annui a favore dell'INPS.
 
 Note all'art. 16:
  - Il testo dell'[art. 12 della legge 30 aprile 1969, n. 153](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-04-30;153#art_12) (Revisione degli ordinamenti pensionistici e norme in materia di sicurezza sociale), e' il seguente:
@@ -1751,7 +1751,7 @@ Il [D.L. 13 agosto 2011, n. 138](https://www.normattiva.it/uri-res/N2Ls?urn:nir:
 
 AGGIORNAMENTO (11)
 
-Il [D.L. 24 aprile 2014, n. 66](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2014-04-24;66), convertito con modificazioni dalla [L. 23 giugno 2014, n. 89](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2024%20aprile%202014%20n.%2066%20recante%20misure%20urgenti%20per%20la%20competitivita%20e%20la%20giustizia%20sociale.%20Deleghe%20al%20Governo%20per%20il%20completamento%20d_83bebe792254.md), ha disposto (con l'art. 4, comma 6-ter) che "Per l'anno 2014 l'aliquota prevista dall'[articolo 17, comma 1, del decreto legislativo 5 dicembre 2005, n. 252](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-12-05;252#art_17-com1), e' elevata all'11,50 per cento".
+Il [D.L. 24 aprile 2014, n. 66](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2014-04-24;66), convertito con modificazioni dalla [L. 23 giugno 2014, n. 89](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2024%20aprile%202014%20n.%2066%20recante%20misure%20urgenti%20per%20la%20competitivita%20e%20la%20giustizia%20sociale.%20Deleghe%20al%20Governo%20per%20il%20completamento%20d_83bebe792254.md), ha disposto (con l'art. 4, comma 6-ter) che "Per l'anno 2014 l'aliquota prevista dall'[articolo 17, comma 1, del decreto legislativo 5 dicembre 2005, n. 252](Disciplina%20delle%20forme%20pensionistiche%20complementari.md), e' elevata all'11,50 per cento".
 
 -----------
 
@@ -1763,7 +1763,7 @@ Successivamente la Corte Costituzionale, con sentenza 24 giugno - 16 luglio 2015
 
 AGGIORNAMENTO (12)
 
-La [L. 23 dicembre 2014, n. 190](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-12-23;190), ha disposto (con l'art. 1, comma 624) che la modifica di cui al comma 1 del presente articolo si applica dal periodo d'imposta successivo a quello in corso al 31 dicembre 2014.
+La [L. 23 dicembre 2014, n. 190](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202015.%2014G00203.md), ha disposto (con l'art. 1, comma 624) che la modifica di cui al comma 1 del presente articolo si applica dal periodo d'imposta successivo a quello in corso al 31 dicembre 2014.
 
 ## Art. 17-bis. — (( (Bilanci e rendiconti). ))
 
@@ -1771,7 +1771,7 @@ La [L. 23 dicembre 2014, n. 190](https://www.normattiva.it/uri-res/N2Ls?urn:nir:
 
 1.
 
-I fondi pensione di cui all'articolo 4, comma 1, nonche' quelli gia' istituiti alla data di entrata in vigore della [legge 23 ottobre 1992, n. 421](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-10-23;421), aventi soggettivita' giuridica, redigono e rendono pubblici, i propri bilanci e le relazioni ai predetti documenti.
+I fondi pensione di cui all'articolo 4, comma 1, nonche' quelli gia' istituiti alla data di entrata in vigore della [legge 23 ottobre 1992, n. 421](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20razionalizzazione%20e%20la%20revisione%20delle%20discipline%20in%20materia%20di%20sanita%20di%20pubblico%20impiego%20di%20previdenza%20e%20di%20finanza%20territoriale.md), aventi soggettivita' giuridica, redigono e rendono pubblici, i propri bilanci e le relazioni ai predetti documenti.
 
 2.
 
@@ -1946,7 +1946,7 @@ I dipendenti e gli esperti addetti alla COVIP, nell'esercizio delle funzioni di 
 
 AGGIORNAMENTO (26)
 
-La [L. 30 dicembre 2025, n. 199](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-12-30;199) ha disposto (con l'art. 1, comma 202) che le presenti disposizioni si applicano a decorrere dal 1° luglio 2026 ed entro la medesima data la Commissione di vigilanza sui fondi pensione (COVIP) adegua le proprie istruzioni.
+La [L. 30 dicembre 2025, n. 199](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202026%20e%20bilancio%20pluriennale%20per%20il%20triennio%202026-2028.%2025G00212.md) ha disposto (con l'art. 1, comma 202) che le presenti disposizioni si applicano a decorrere dal 1° luglio 2026 ed entro la medesima data la Commissione di vigilanza sui fondi pensione (COVIP) adegua le proprie istruzioni.
 
 ## Art. 19-bis. — (( (Abusiva attivita' di forma pensionistica). ))
 
@@ -1988,11 +1988,11 @@ I soggetti di cui al comma 2 che, in relazione alle rispettive competenze:
                         a)
                             non osservano le disposizioni di cui agli articoli 5, 6, paragrafi 1, 2, 3, 4, 5, 6, 7 e 8, 7, 8, 9, 10, 11, paragrafi 1, 2, 3, 4, 5, 6, 7, 8, 9 e 10, 12, 13, 14, 16, paragrafi 1 e 2, 17, 18, paragrafi 1 e 2, 19, paragrafi 1, 3 e 4, 24, 25, 26, paragrafi 1, 2, 3, 4, 5, 6, 7 e 8, 27, 28, paragrafi 2, 3, 4, 5, 6, 7 e 8, 29, 30, paragrafi 1, 2, 3 e 4, e 31, paragrafo 12, del regolamento (UE) 2022/2554, del Parlamento europeo e del Consiglio, del 14 dicembre 2022, e delle relative norme tecniche di regolamentazione e attuazione, sono puniti con la sanzione amministrativa pecuniaria di cui al comma 2, lettera b);
                         b)
-                            omettono di collaborare o di dare seguito nell'ambito di un'indagine, di un'ispezione o di una richiesta ai sensi dell'articolo 8 del decreto legislativo adottato in attuazione dell'[articolo 16 della legge 21 febbraio 2024, n. 15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2024-02-21;15#art_16), sono puniti con la sanzione amministrativa di cui al comma 2, lettera a).
+                            omettono di collaborare o di dare seguito nell'ambito di un'indagine, di un'ispezione o di una richiesta ai sensi dell'articolo 8 del decreto legislativo adottato in attuazione dell'[articolo 16 della legge 21 febbraio 2024, n. 15](../Leggi%20di%20delegazione%20europea/Delega%20al%20Governo%20per%20il%20recepimento%20delle%20direttive%20europee%20e%20lattuazione%20di%20altri%20atti%20dellUnione%20europea%20-%20Legge%20di%20delegazione%20europea%202022-2023.%2024G00027.md), sono puniti con la sanzione amministrativa di cui al comma 2, lettera a).
 
 2-ter.
 
-Alle sanzioni di cui al comma 2-bis si applicano i commi 3, 4, a eccezione del secondo periodo, e 4-bis dell'[articolo 19-quater del decreto legislativo 5 dicembre 2005, n. 252](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-12-05;252#art_19quater).
+Alle sanzioni di cui al comma 2-bis si applicano i commi 3, 4, a eccezione del secondo periodo, e 4-bis dell'[articolo 19-quater del decreto legislativo 5 dicembre 2005, n. 252](Disciplina%20delle%20forme%20pensionistiche%20complementari.md).
 
 3.
 
@@ -2065,13 +2065,13 @@ La COVIP determina, con proprio regolamento, nel rispetto dei principi, delle pr
 
 3.
 
-Per le controversie disciplinate dal regolamento di cui al comma 2, il ricorso al sistema di risoluzione delle controversie di cui al comma 1 e' alternativo all'esperimento della procedura prevista dall'[articolo 5, comma 1, del decreto legislativo 4 marzo 2010, n. 28](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-04;28#art_5-com1), e non pregiudica il ricorso ad ogni altro strumento di tutela previsto dall'ordinamento.
+Per le controversie disciplinate dal regolamento di cui al comma 2, il ricorso al sistema di risoluzione delle controversie di cui al comma 1 e' alternativo all'esperimento della procedura prevista dall'[articolo 5, comma 1, del decreto legislativo 4 marzo 2010, n. 28](Attuazione%20dellarticolo%2060%20della%20legge%2018%20giugno%202009%20n.%2069%20in%20materia%20di%20mediazione%20finalizzata%20alla%20conciliazione%20delle%20controversie%20civili%20e%20commerciali.%2010G0050.md), e non pregiudica il ricorso ad ogni altro strumento di tutela previsto dall'ordinamento.
 
 ## Art. 20. — Forme pensionistiche complementari istituite alla data di entrata in vigore della legge 23 ottobre 1992, n. 421
 
 1.
 
-Fino alla emanazione del decreto di cui al comma 2, alle forme pensionistiche complementari che risultano istituite alla data di entrata in vigore della [legge 23 ottobre 1992, n. 421](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-10-23;421), non si applicano gli articoli 4, comma 5, e 6, commi 1, 3 e 5. Salvo quanto previsto al comma 3, dette forme, se gia' configurate ai sensi dell'[articolo 2117 del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2117) ed indipendentemente dalla natura giuridica del datore di lavoro, devono essere dotate di strutture gestionali amministrative e contabili separate.
+Fino alla emanazione del decreto di cui al comma 2, alle forme pensionistiche complementari che risultano istituite alla data di entrata in vigore della [legge 23 ottobre 1992, n. 421](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20razionalizzazione%20e%20la%20revisione%20delle%20discipline%20in%20materia%20di%20sanita%20di%20pubblico%20impiego%20di%20previdenza%20e%20di%20finanza%20territoriale.md), non si applicano gli articoli 4, comma 5, e 6, commi 1, 3 e 5. Salvo quanto previsto al comma 3, dette forme, se gia' configurate ai sensi dell'[articolo 2117 del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2117) ed indipendentemente dalla natura giuridica del datore di lavoro, devono essere dotate di strutture gestionali amministrative e contabili separate.
 
 2.
 
@@ -2118,10 +2118,10 @@ Le deliberazioni assembleari delle forme di cui al comma 1 continuano a essere v
 1.
 
 La [lettera d) del comma 1 dell'articolo 52 del TUIR](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md) e' sostituita dalla seguente: 
- "d) per le prestazioni pensionistiche di cui alla lettera h-bis) del comma 1 dell'articolo 50, comunque erogate, si applicano le disposizioni dell'articolo 11 e quelle di cui all'[articolo 23, comma 6, del decreto legislativo 5 dicembre 2005, n. 252](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-12-05;252#art_23-com6)".
+ "d) per le prestazioni pensionistiche di cui alla lettera h-bis) del comma 1 dell'articolo 50, comunque erogate, si applicano le disposizioni dell'articolo 11 e quelle di cui all'[articolo 23, comma 6, del decreto legislativo 5 dicembre 2005, n. 252](Disciplina%20delle%20forme%20pensionistiche%20complementari.md)".
 
 ((2. La lettera e-bis) del comma 1 dell'articolo 10 del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), e' sostituita dalla seguente: 
- "e-bis) i contributi versati alle forme pensionistiche complementari di cui al [decreto legislativo 5 dicembre 2005, n. 252](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-12-05;252), alle condizioni e nei limiti previsti dall'articolo 8 del medesimo decreto. Alle medesime condizioni ed entro gli stessi limiti sono deducibili i contributi versati alle forme pensionistiche complementari istituite negli Stati membri dell'Unione europea e negli Stati aderenti all'Accordo sullo spazio economico europeo che sono inclusi nella lista di cui al decreto del Ministro delle finanze 4 settembre 1996, pubblicato nella Gazzetta Ufficiale n. 220 del 19 settembre 1996, e successive modificazioni, emanato in attuazione dell'[articolo 11, comma 4, lettera c), del decreto legislativo 1° aprile 1996, n. 239](Modificazioni%20al%20regime%20fiscale%20degli%20interessi%20premi%20ed%20altri%20frutti%20delle%20obbligazioni%20e%20titoli%20similari%20pubblici%20e%20privati.md)"))
+ "e-bis) i contributi versati alle forme pensionistiche complementari di cui al [decreto legislativo 5 dicembre 2005, n. 252](Disciplina%20delle%20forme%20pensionistiche%20complementari.md), alle condizioni e nei limiti previsti dall'articolo 8 del medesimo decreto. Alle medesime condizioni ed entro gli stessi limiti sono deducibili i contributi versati alle forme pensionistiche complementari istituite negli Stati membri dell'Unione europea e negli Stati aderenti all'Accordo sullo spazio economico europeo che sono inclusi nella lista di cui al decreto del Ministro delle finanze 4 settembre 1996, pubblicato nella Gazzetta Ufficiale n. 220 del 19 settembre 1996, e successive modificazioni, emanato in attuazione dell'[articolo 11, comma 4, lettera c), del decreto legislativo 1° aprile 1996, n. 239](Modificazioni%20al%20regime%20fiscale%20degli%20interessi%20premi%20ed%20altri%20frutti%20delle%20obbligazioni%20e%20titoli%20similari%20pubblici%20e%20privati.md)"))
 
 3.
 
@@ -2137,12 +2137,12 @@ Sono abrogate le seguenti disposizioni del [TUIR](../DPR/Approvazione%20del%20te
 
 4.
 
-Il [comma 3 dell'articolo 105 del TUIR](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md) e' sostituito dal seguente: "3. L'ammontare del TFR annualmente destinato a forme pensionistiche complementari e' deducibile nella misura prevista dall'[articolo 10, comma 1, del decreto legislativo 5 dicembre 2005, n. 252](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-12-05;252#art_10-com1)".
+Il [comma 3 dell'articolo 105 del TUIR](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md) e' sostituito dal seguente: "3. L'ammontare del TFR annualmente destinato a forme pensionistiche complementari e' deducibile nella misura prevista dall'[articolo 10, comma 1, del decreto legislativo 5 dicembre 2005, n. 252](Disciplina%20delle%20forme%20pensionistiche%20complementari.md)".
 
 5.
 
 All'[articolo 24 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600](../DPR/Disposizioni%20comuni%20in%20materia%20di%20accertamento%20delle%20imposte%20sui%20redditi.md), e' aggiunto, in fine, il seguente comma: 
- "1-quater. Sulla parte imponibile delle prestazioni pensionistiche complementari di cui all'[articolo 50, comma 1, lettera h-bis) del TUIR](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md) e' operata una ritenuta con l'aliquota stabilita dagli [articoli 11](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-12-05;252#art_11) e [14 del decreto legislativo 5 dicembre 2005, n. 252](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-12-05;252#art_14)".
+ "1-quater. Sulla parte imponibile delle prestazioni pensionistiche complementari di cui all'[articolo 50, comma 1, lettera h-bis) del TUIR](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md) e' operata una ritenuta con l'aliquota stabilita dagli [articoli 11](Disciplina%20delle%20forme%20pensionistiche%20complementari.md) e [14 del decreto legislativo 5 dicembre 2005, n. 252](Disciplina%20delle%20forme%20pensionistiche%20complementari.md)".
 
 6.
 
@@ -2169,7 +2169,7 @@ All'onere derivante dall'attuazione del presente decreto legislativo, per gli an
 Note all'art. 22:
  - Il testo dell'[art. 13, comma 1, del decreto-legge 14 marzo 2005, n. 35](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2005-03-14;35#art_13-com1) (Disposizioni urgenti nell'ambito del Piano di azione per lo sviluppo economico, sociale e territoriale), convertito, con modificazioni, dalla [legge 14 maggio 2005, n. 80](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2014%20marzo%202005%20n.%2035%20recante%20disposizioni%20urgenti%20nellambito%20del%20Piano%20di%20azione%20per%20lo%20sviluppo%20economico%20sociale%20e%20territoriale.%20_2088e331563c.md), e' il seguente:
  "Art. 13. Disposizioni in materia di previdenza complementare, per il potenziamento degli ammortizzatori sociali e degli incentivi al reimpiego nonche' conferma dell'indennizzabilita' della disoccupazione nei casi di sospensione dell'attivita' lavorativa.
- 1. Al fine di sostenere l'apparato produttivo anche attraverso la graduale attuazione delle deleghe legislative in materia di previdenza complementare previste dall'[art. 1, comma 2, della legge 23 agosto 2004, n. 243](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-08-23;243#art_1-com2), e' autorizzata, ai sensi dell'art. 1, comma 42, della medesima legge, la spesa di 20 milioni di euro per l'anno 2005, 200 milioni di euro per l'anno 2006 e 530 milioni di euro a decorrere dall'anno 2007. Al relativo onere si provvede, quanto a 20 milioni di euro per l'anno 2005, 200 milioni di euro per l'anno 2006 e 506 milioni di euro per l'anno 2007, mediante corrispondente riduzione dello stanziamento iscritto, ai fini del bilancio triennale 2005-2007, nell'ambito dell'unita' previsionale di base di parte corrente "Fondo speciale" dello stato di previsione del Ministero dell'economia e delle finanze allo scopo parzialmente utilizzando l'accantonamento relativo al Ministero del lavoro e delle politiche sociali, quanto a 14 milioni di euro per l'anno 2007, mediante utilizzo di parte delle maggiori entrate derivanti dall'attuazione dell'art. 7, comma 3, quanto a 10 milioni di euro per l'anno 2007, mediante corrispondente riduzione dell'autorizzazione di spesa di cui all'[art. 9-ter della legge 5 agosto 1978, n. 468](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riforma%20di%20alcune%20norme%20di%20contabilita%20generale%20dello%20Stato%20in%20materia%20di%20bilancio.md), come determinata dalla tabella C della [legge 30 dicembre 2004, n. 311](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-12-30;311).".
+ 1. Al fine di sostenere l'apparato produttivo anche attraverso la graduale attuazione delle deleghe legislative in materia di previdenza complementare previste dall'[art. 1, comma 2, della legge 23 agosto 2004, n. 243](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-08-23;243#art_1-com2), e' autorizzata, ai sensi dell'art. 1, comma 42, della medesima legge, la spesa di 20 milioni di euro per l'anno 2005, 200 milioni di euro per l'anno 2006 e 530 milioni di euro a decorrere dall'anno 2007. Al relativo onere si provvede, quanto a 20 milioni di euro per l'anno 2005, 200 milioni di euro per l'anno 2006 e 506 milioni di euro per l'anno 2007, mediante corrispondente riduzione dello stanziamento iscritto, ai fini del bilancio triennale 2005-2007, nell'ambito dell'unita' previsionale di base di parte corrente "Fondo speciale" dello stato di previsione del Ministero dell'economia e delle finanze allo scopo parzialmente utilizzando l'accantonamento relativo al Ministero del lavoro e delle politiche sociali, quanto a 14 milioni di euro per l'anno 2007, mediante utilizzo di parte delle maggiori entrate derivanti dall'attuazione dell'art. 7, comma 3, quanto a 10 milioni di euro per l'anno 2007, mediante corrispondente riduzione dell'autorizzazione di spesa di cui all'[art. 9-ter della legge 5 agosto 1978, n. 468](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riforma%20di%20alcune%20norme%20di%20contabilita%20generale%20dello%20Stato%20in%20materia%20di%20bilancio.md), come determinata dalla tabella C della [legge 30 dicembre 2004, n. 311](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202005.md).".
 
 ## Art. 23. — Entrata in vigore e norme transitorie
 
@@ -2201,7 +2201,7 @@ A decorrere dal l° gennaio 2007, le forme pensionistiche complementari che hann
 
 4-bis.
 
-Le forme pensionistiche complementari istituite alla data di entrata in vigore della [legge 23 ottobre 1992, n. 421](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-10-23;421), possono ricevere nuove adesioni anche con riferimento al finanziamento tramite conferimento del TFR a far data dal 1° gennaio 2007. Tali forme, ai fini del conferimento del TFR, devono adeguarsi, in conformita' delle disposizioni emanate in attuazione dell' articolo 20, comma 2, del presente decreto legislativo, entro il 31 maggio 2007.
+Le forme pensionistiche complementari istituite alla data di entrata in vigore della [legge 23 ottobre 1992, n. 421](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20razionalizzazione%20e%20la%20revisione%20delle%20discipline%20in%20materia%20di%20sanita%20di%20pubblico%20impiego%20di%20previdenza%20e%20di%20finanza%20territoriale.md), possono ricevere nuove adesioni anche con riferimento al finanziamento tramite conferimento del TFR a far data dal 1° gennaio 2007. Tali forme, ai fini del conferimento del TFR, devono adeguarsi, in conformita' delle disposizioni emanate in attuazione dell' articolo 20, comma 2, del presente decreto legislativo, entro il 31 maggio 2007.
 
 5.
 
@@ -2213,7 +2213,7 @@ Fino all'emanazione del decreto legislativo di attuazione dell'[articolo 1, comm
 
 7.
 
-Per i lavoratori assunti antecedentemente al 29 aprile 1993 e che entro tale data risultino iscritti a forme pensionistiche complementari istituite alla data di entrata in vigore dalla [legge 23 ottobre 1992, n. 421](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-10-23;421):
+Per i lavoratori assunti antecedentemente al 29 aprile 1993 e che entro tale data risultino iscritti a forme pensionistiche complementari istituite alla data di entrata in vigore dalla [legge 23 ottobre 1992, n. 421](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20razionalizzazione%20e%20la%20revisione%20delle%20discipline%20in%20materia%20di%20sanita%20di%20pubblico%20impiego%20di%20previdenza%20e%20di%20finanza%20territoriale.md):
                         a)
                             alle contribuzioni versate dalla data di entrata in vigore del presente decreto si applicano le disposizioni di cui ai commi 4 e 5 dell'articolo 8;
                         b)
@@ -2233,7 +2233,7 @@ Ai lavoratori assunti prima della data di entrata in vigore del presente decreto
 
 AGGIORNAMENTO (23)
 
-La Corte Costituzionale, con sentenza 15 luglio - 3 ottobre 2019, n. 218 (in G.U. 1ª s.s. 09/10/2019, n. 41), ha dichiarato "l'illegittimita' costituzionale dell'[art. 23, comma 6, del decreto legislativo 5 dicembre 2005, n. 252](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-12-05;252#art_23-com6) (Disciplina delle forme pensionistiche complementari), nella parte in cui prevede che il riscatto della posizione individuale sia assoggettato a imposta ai sensi dell'[art. 52, comma 1, lettera d-ter), del decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md) (Approvazione del testo unico delle imposte sui redditi), anziche' ai sensi dell'art. 14, commi 4 e 5, dello stesso [d.lgs. n. 252 del 2005](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005;252)".
+La Corte Costituzionale, con sentenza 15 luglio - 3 ottobre 2019, n. 218 (in G.U. 1ª s.s. 09/10/2019, n. 41), ha dichiarato "l'illegittimita' costituzionale dell'[art. 23, comma 6, del decreto legislativo 5 dicembre 2005, n. 252](Disciplina%20delle%20forme%20pensionistiche%20complementari.md) (Disciplina delle forme pensionistiche complementari), nella parte in cui prevede che il riscatto della posizione individuale sia assoggettato a imposta ai sensi dell'[art. 52, comma 1, lettera d-ter), del decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md) (Approvazione del testo unico delle imposte sui redditi), anziche' ai sensi dell'art. 14, commi 4 e 5, dello stesso [d.lgs. n. 252 del 2005](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005;252)".
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4), con le modificazioni ad esso apportate dall'[art. 3, comma primo, del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98#art_3-com1);
+Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4), con le modificazioni ad esso apportate dall'[art. 3, comma primo, del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](../Decreti%20legislativi%20luogotenenziali/Integrazioni%20e%20modifiche%20al%20decreto-legge%20Luogotenenziale%2025%20giugno%201944%20n.%20151%20relativo%20allAssemblea%20per%20la%20nuova%20costituzione%20dello%20Stato%20al%20giuramento%20dei%20Membri%20del%20Governo%20ed%20alla%20fa_0a32c5615e2d.md);
 
 Viste le disposizioni transitorie I e XV della Costituzione;
 
@@ -94,7 +94,7 @@ Per i vice avvocati, per i sostituti avvocati o per i procuratori dello Stato e'
 
 AGGIORNAMENTO (3)
 
-La [L. 3 aprile 1979, n. 103](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-04-03;103) ha disposto (con l'art. 3, ultimo comma) che "E' soppresso per gli avvocati dello Stato il rapporto informativo di cui all'[articolo 9 del decreto legislativo 2 marzo 1948, n. 155](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-03-02;155#art_9)."
+La [L. 3 aprile 1979, n. 103](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-04-03;103) ha disposto (con l'art. 3, ultimo comma) che "E' soppresso per gli avvocati dello Stato il rapporto informativo di cui all'[articolo 9 del decreto legislativo 2 marzo 1948, n. 155](Modificazioni%20dellordinamento%20dellAvvocatura%20dello%20Stato.md)."
  La stessa legge ha inoltre disposto (con l'art. 36) che la presente modifica ha effetto dal 10 gennaio 1979.
 
 ## Art. 10.

@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge 25 gennaio 2006, n. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-01-25;29), recante disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee ed in particolare l'articolo 1, commi 1, 3 e 4 e l'allegato B;
+Vista la [legge 25 gennaio 2006, n. 29](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%202005.md), recante disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee ed in particolare l'articolo 1, commi 1, 3 e 4 e l'allegato B;
 
 Vista la [direttiva n. 2005/36/CE del Parlamento europeo e del Consiglio, del 7 settembre 2005](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2005;36), relativa al riconoscimento delle qualifiche professionali;
 
@@ -38,7 +38,7 @@ Vista la [legge 18 dicembre 1980, n. 905](https://www.normattiva.it/uri-res/N2Ls
 
 Vista la [legge 8 novembre 1984, n. 750](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-11-08;750), relativa al diritto di stabilimento e libera prestazione di servizi da parte dei veterinari cittadini degli Stati membri della Comunita' economica europea;
 
-Visto il [decreto legislativo 8 agosto 1991, n. 258](Attuazione%20delle%20direttive%20n.%2085-432-CEE%20n.%2085-433-CEE%20e%20n.%2085-584-CEE%20in%20materia%20di%20formazione%20e%20diritto%20di%20stabilimento%20dei%20farmacisti%20a%20norma%20dellart.%206%20della%20legge%2030%20luglio%201990%20n.%20212.md), relativo alla attuazione delle [direttive 85/432/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1985;432), [n. 85/433/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1985;433) e [n. 85/584/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1985;584), in materia di formazione e diritto di stabilimento dei farmacisti a norma dell'[articolo 6 della legge 30 luglio 1990, n. 212](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-07-30;212#art_6);
+Visto il [decreto legislativo 8 agosto 1991, n. 258](Attuazione%20delle%20direttive%20n.%2085-432-CEE%20n.%2085-433-CEE%20e%20n.%2085-584-CEE%20in%20materia%20di%20formazione%20e%20diritto%20di%20stabilimento%20dei%20farmacisti%20a%20norma%20dellart.%206%20della%20legge%2030%20luglio%201990%20n.%20212.md), relativo alla attuazione delle [direttive 85/432/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1985;432), [n. 85/433/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1985;433) e [n. 85/584/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1985;584), in materia di formazione e diritto di stabilimento dei farmacisti a norma dell'[articolo 6 della legge 30 luglio 1990, n. 212](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20lattuazione%20di%20direttive%20delle%20Comunita%20europee%20in%20materia%20di%20sanita%20e%20di%20protezione%20dei%20lavoratori.md);
 
 Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella riunione del 27 luglio 2007;
 

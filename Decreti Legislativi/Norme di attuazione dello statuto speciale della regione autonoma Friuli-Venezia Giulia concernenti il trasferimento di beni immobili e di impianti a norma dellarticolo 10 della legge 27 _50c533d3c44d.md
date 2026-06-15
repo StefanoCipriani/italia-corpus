@@ -12,11 +12,11 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 87, quinto comma](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5), e [119, sesto comma, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_119-com6);
 
-Vista la [legge costituzionale 31 gennaio 1963, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1963-01-31;1), che ha approvato lo Statuto speciale della regione Friuli-Venezia Giulia;
+Vista la [legge costituzionale 31 gennaio 1963, n. 1](../Leggi%20costituzionali/Statuto%20speciale%20della%20Regione%20Friuli-Venezia%20Giulia.md), che ha approvato lo Statuto speciale della regione Friuli-Venezia Giulia;
 
 Visto l'[articolo 10 della legge 27 ottobre 1966, n. 910](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966-10-27;910#art_10);
 
-Visto l'[articolo 10 della legge costituzionale 18 ottobre 2001, n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:2001-10-18;3#art_10);
+Visto l'[articolo 10 della legge costituzionale 18 ottobre 2001, n. 3](../Leggi%20costituzionali/Modifiche%20al%20titolo%20V%20della%20parte%20seconda%20della%20Costituzione.md);
 
 Sentita la Commissione paritetica prevista dall'articolo 65 dello Statuto speciale;
 
@@ -61,7 +61,7 @@ Avvertenza:
  - Il testo dell'art. 65 dello statuto speciale approvato con la legge costituzionale 31 gennaio 1963, n. 17 e pubblicata nella Gazzetta Ufficiale n. 29 del 1° febbraio 1963, e' il seguente: 
  «Art. 65 - Con decreti legislativi, sentita una commissione paritetica di sei membri, nominati tre dal Governo della Repubblica e tre consiglio regionale, saranno stabilite le norme di attuazione del presente statuto e quelle relative al trasferimento all'amministrazione regionale degli uffici statali che nel Friuli Venezia Giulia adempiono a funzioni attribuite alla regione.». 
  - L'[art. 10 della legge 27 ottobre 1966, n. 910](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966-10-27;910#art_10) e' riportato nella nota al titolo. 
- - Si riporta il testo dell'[art. 10 della legge costituzionale 18 ottobre 2001, n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:2001-10-18;3#art_10) (Modifiche al titolo V della parte seconda della Costituzione) pubblicata nella Gazzetta Ufficiale 24 ottobre 2001, n. 248: 
+ - Si riporta il testo dell'[art. 10 della legge costituzionale 18 ottobre 2001, n. 3](../Leggi%20costituzionali/Modifiche%20al%20titolo%20V%20della%20parte%20seconda%20della%20Costituzione.md) (Modifiche al titolo V della parte seconda della Costituzione) pubblicata nella Gazzetta Ufficiale 24 ottobre 2001, n. 248: 
  «Art. 10 - 1. Sino all'adeguamento dei rispettivi statuti, le disposizioni della presente legge costituzionale si applicano anche alle Regioni a statuto speciale ed alle province autonome di Trento e di Bolzano per le parti in cui prevedono forme di autonomia piu' ampie rispetto a quelle gia' attribuite.». 
  Note all'[art. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966-10-27;910#art_1): 
  - L'[art. 10 della legge 27 ottobre 1966, n. 910](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966-10-27;910#art_10) e' riportato nella nota al titolo.

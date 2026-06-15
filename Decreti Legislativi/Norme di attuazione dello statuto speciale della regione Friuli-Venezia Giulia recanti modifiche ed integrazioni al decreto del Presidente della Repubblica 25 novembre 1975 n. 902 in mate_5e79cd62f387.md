@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[articolo 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Vista la [legge costituzionale 31 gennaio 1963, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1963-01-31;1), che ha approvato lo statuto speciale della regione Friuli-Venezia Giulia;
+Vista la [legge costituzionale 31 gennaio 1963, n. 1](../Leggi%20costituzionali/Statuto%20speciale%20della%20Regione%20Friuli-Venezia%20Giulia.md), che ha approvato lo statuto speciale della regione Friuli-Venezia Giulia;
 
 Visto il [decreto del Presidente della Repubblica 25 novembre 1975, n. 902](../DPR/Adeguamento%20ed%20integrazione%20delle%20norme%20di%20attuazione%20dello%20statuto%20speciale%20della%20regione%20Friuli-Venezia%20Giulia.md);
 
@@ -38,8 +38,8 @@ Avvertenza:
  - Il [decreto del Presidente della Repubblica 25 novembre 1975, n. 902](../DPR/Adeguamento%20ed%20integrazione%20delle%20norme%20di%20attuazione%20dello%20statuto%20speciale%20della%20regione%20Friuli-Venezia%20Giulia.md) (Adeguamento ed integrazione delle norme di attuazione dello statuto speciale della regione Friuli-Venezia Giulia) e' stato pubblicato della Gazzetta Ufficiale n. 57 del 3 marzo 1976.
  Note alle premesse:
  - L'[art. 87, comma quinto, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5), conferisce al Presidente della Repubblica il potere di promulgare leggi e di emanare i decreti aventi valore di leggi e regolamenti.
- - La [legge costituzionale 31 gennaio 1963, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1963-01-31;1), e' stata pubblicata nella Gazzetta Ufficiale n. 29 del 1° febbraio 1963.
- - Si riporta, per completezza di informazione, il testo dell'art. 65 dello statuto speciale per la regione Friuli-Venezia Giulia, approvato con [legge Costituzionale 31 gennaio 1963, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1963-01-31;1) (pubblicata nella Gazzetta Ufficiale n. 29 del 1° febbraio l963):
+ - La [legge costituzionale 31 gennaio 1963, n. 1](../Leggi%20costituzionali/Statuto%20speciale%20della%20Regione%20Friuli-Venezia%20Giulia.md), e' stata pubblicata nella Gazzetta Ufficiale n. 29 del 1° febbraio 1963.
+ - Si riporta, per completezza di informazione, il testo dell'art. 65 dello statuto speciale per la regione Friuli-Venezia Giulia, approvato con [legge Costituzionale 31 gennaio 1963, n. 1](../Leggi%20costituzionali/Statuto%20speciale%20della%20Regione%20Friuli-Venezia%20Giulia.md) (pubblicata nella Gazzetta Ufficiale n. 29 del 1° febbraio l963):
  «Art. 65. - Con decreti legislativi, sentita una commissione paritetica di sei membri, nominati tre dal Governo della Repubblica e tre dal consiglio regionale, saranno stabilite le norme di attuazione del presente statuto e quelle relative al trasferimento all'amministrazione regionale degli uffici statali che nel Friuli-Venezia Giulia adempiono a funzioni attribuite alla regione.».
  Nota all'[art. 1:
  - Il decreto del Presidente della Repubblica 25 novembre 1975, n. 902](../DPR/Adeguamento%20ed%20integrazione%20delle%20norme%20di%20attuazione%20dello%20statuto%20speciale%20della%20regione%20Friuli-Venezia%20Giulia.md) e' citato nella nota al titolo.
