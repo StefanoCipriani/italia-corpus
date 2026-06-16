@@ -34,7 +34,7 @@ L'armamento degli appartenenti al Corpo Nazionale dei vigili del fuoco e' costit
 
 AGGIORNAMENTO (1)
 
-Il [Regio Decreto 16 marzo 1942, n. 699](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;699), ha disposto (con l'art. 102, comma 1) che "La spesa per l'armamento previsto dal [R. decreto 5 novembre 1937, n. 2678](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1937-11-05;2678), e' a carico del Corpo. L'armamento stesso rimane di proprieta' del Corpo". 
+Il [Regio Decreto 16 marzo 1942, n. 699](Norme%20sullo%20stato%20giuridico%20e%20sul%20trattamento%20economico%20del%20personale%20non%20statale%20del%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco.%20042U0699.md), ha disposto (con l'art. 102, comma 1) che "La spesa per l'armamento previsto dal [R. decreto 5 novembre 1937, n. 2678](Armamento%20degli%20appartenenti%20al%20Corpo%20nazionale%20dei%20vigili%20del%20fuoco.%20037U2678.md), e' a carico del Corpo. L'armamento stesso rimane di proprieta' del Corpo". 
  Ha inoltre disposto (con l'art. 172, comma 1) che la presente modifica ha "effetto dal giorno della sua pubblicazione nella Gazzetta Ufficiale del Regno".
 
 ## Art. 2.

@@ -59,7 +59,7 @@ Le prove delle materie complementari negli esami di licenza superiore dei Regi c
 
 AGGIORNAMENTO (2)
 
-Il [Regio Decreto 11 dicembre 1930, n. 1945](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-12-11;1945) ha disposto (con l'art. 12, comma 1) che "La disposizione dell'[art. 5 del R. decreto 17 maggio 1928, n. 1596](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-05-17;1596#art_5), e' estesa anche agli esami di compimento del periodo anteriore all'ultimo".
+Il [Regio Decreto 11 dicembre 1930, n. 1945](Norme%20per%20lordinamento%20dellistruzione%20musicale%20ed%20approvazione%20dei%20nuovi%20programmi%20di%20esame.%20030U1945.md) ha disposto (con l'art. 12, comma 1) che "La disposizione dell'[art. 5 del R. decreto 17 maggio 1928, n. 1596](Provvedimenti%20per%20il%20personale%20degli%20istituti%20di%20istruzione%20artistica.%20028U1596.md), e' estesa anche agli esami di compimento del periodo anteriore all'ultimo".
 
 ## Art. 6.
 

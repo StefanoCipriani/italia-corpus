@@ -33,7 +33,7 @@ E' concessa amnistia per tutti i reati, quando il fine che li ha determinati sia
 
 AGGIORNAMENTO (2)
 
-Il [Decreto Luogotenenziale 8 giugno 1945, n. 455](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-06-08;455) ha disposto (con l'art. 1, comma 1) che "Le disposizioni degli [articoli 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1944-04-05;96#art_1) e [2 del R. decreto 5 aprile 1944, n. 96](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1944-04-05;96#art_2), che ha concesso amnistia e indulto si applicano nei territori liberati dal nemico dopo il 4 aprile 1944, ai reati ivi commessi non oltre il giorno in cui ha avuto inizio, per ciascun territorio, la amministrazione alleata".
+Il [Decreto Luogotenenziale 8 giugno 1945, n. 455](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-06-08;455) ha disposto (con l'art. 1, comma 1) che "Le disposizioni degli [articoli 1](Amnistia%20e%20indulto%20per%20reati%20comuni%20militari%20ed%20annonari.%20044U0096.md) e [2 del R. decreto 5 aprile 1944, n. 96](Amnistia%20e%20indulto%20per%20reati%20comuni%20militari%20ed%20annonari.%20044U0096.md), che ha concesso amnistia e indulto si applicano nei territori liberati dal nemico dopo il 4 aprile 1944, ai reati ivi commessi non oltre il giorno in cui ha avuto inizio, per ciascun territorio, la amministrazione alleata".
 
 ## Art. 2.
 
@@ -51,7 +51,7 @@ E' pure concessa amnistia per i reati punibili con pena detentiva non superiore 
 
 AGGIORNAMENTO (2)
 
-Il [Decreto Luogotenenziale 8 giugno 1945, n. 455](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-06-08;455) ha disposto (con l'art. 1, comma 1) che "Le disposizioni degli [articoli 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1944-04-05;96#art_1) e [2 del R. decreto 5 aprile 1944, n. 96](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1944-04-05;96#art_2), che ha concesso amnistia e indulto si applicano nei territori liberati dal nemico dopo il 4 aprile 1944, ai reati ivi commessi non oltre il giorno in cui ha avuto inizio, per ciascun territorio, la amministrazione alleata".
+Il [Decreto Luogotenenziale 8 giugno 1945, n. 455](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-06-08;455) ha disposto (con l'art. 1, comma 1) che "Le disposizioni degli [articoli 1](Amnistia%20e%20indulto%20per%20reati%20comuni%20militari%20ed%20annonari.%20044U0096.md) e [2 del R. decreto 5 aprile 1944, n. 96](Amnistia%20e%20indulto%20per%20reati%20comuni%20militari%20ed%20annonari.%20044U0096.md), che ha concesso amnistia e indulto si applicano nei territori liberati dal nemico dopo il 4 aprile 1944, ai reati ivi commessi non oltre il giorno in cui ha avuto inizio, per ciascun territorio, la amministrazione alleata".
 
 ## Art. 3.
 

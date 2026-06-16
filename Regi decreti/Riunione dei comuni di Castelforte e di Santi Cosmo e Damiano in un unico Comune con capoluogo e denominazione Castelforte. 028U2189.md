@@ -43,4 +43,4 @@ VITTORIO EMANUELE III
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. del Capo Provvisorio dello Stato 27 marzo 1947, n. 333](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-03-27;333) ha disposto (con l'art. 1, comma 1) che "Il comune dei Santi Cosmo e Damiano, aggregato a quello di Castelforte con [regio decreto 20 settembre 1928, n. 2189](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-09-20;2189), e' ricostituito con la circoscrizione preesistente all'entrata in vigore del decreto medesimo".
+Il [D.Lgs. del Capo Provvisorio dello Stato 27 marzo 1947, n. 333](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-03-27;333) ha disposto (con l'art. 1, comma 1) che "Il comune dei Santi Cosmo e Damiano, aggregato a quello di Castelforte con [regio decreto 20 settembre 1928, n. 2189](Riunione%20dei%20comuni%20di%20Castelforte%20e%20di%20Santi%20Cosmo%20e%20Damiano%20in%20un%20unico%20Comune%20con%20capoluogo%20e%20denominazione%20Castelforte.%20028U2189.md), e' ricostituito con la circoscrizione preesistente all'entrata in vigore del decreto medesimo".

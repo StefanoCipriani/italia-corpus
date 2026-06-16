@@ -18,7 +18,7 @@ IMPERATORE D'ETIOPIA
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con R. decreto 31 agosto 1933-XI, n. 1592;
 
-Veduto il [testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265), approvato con R. decreto 27 luglio 1934-XII, n. 1265;
+Veduto il [testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), approvato con R. decreto 27 luglio 1934-XII, n. 1265;
 
 Veduto il R. decreto-legge 15 ottobre 1936-XIV, n. 2128;
 

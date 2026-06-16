@@ -30,7 +30,7 @@ I comuni di Arosio, eccettuata la frazione Bigoncio, e di Carugo sono riuniti in
 
 AGGIORNAMENTO (1)
 
-La [L. 13 marzo 1950, n. 113](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-03-13;113) ha disposto (con l'art. 4, comma 1) che "I comuni di Corugo e di Arosio, esclusa la frazione Bigoncio, sono ricostituiti con le rispettive circoscrizioni preesistenti all'entrata in vigore del [regio decreto 25 marzo 1929, n. 563](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-03-25;563)".
+La [L. 13 marzo 1950, n. 113](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-03-13;113) ha disposto (con l'art. 4, comma 1) che "I comuni di Corugo e di Arosio, esclusa la frazione Bigoncio, sono ricostituiti con le rispettive circoscrizioni preesistenti all'entrata in vigore del [regio decreto 25 marzo 1929, n. 563](Riunione%20dei%20comuni%20di%20Arosio%20eccettuata%20la%20frazione%20Bigoncio%20e%20di%20Carugo%20in%20un%20unico%20Comune%20denominato%20Carugo%20con%20Arosio%20con%20sede%20del%20capoluogo%20a%20Carugo%20e%20riunione%20dei%20comuni%20di%20Cremnago_3de6f2a798bc.md)".
 
 ## Art. 2.
 

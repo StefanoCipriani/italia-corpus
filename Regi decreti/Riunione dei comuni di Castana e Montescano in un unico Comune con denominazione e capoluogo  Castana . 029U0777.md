@@ -43,4 +43,4 @@ VITTORIO EMANUELE III
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 11 febbraio 1948, n. 87](../Decreti%20Legislativi/Ricostituzione%20del%20comune%20di%20Montescano%20Pavia.md) ha disposto (con l'art. 1, comma 1) che "Il comune di Montesacano, aggregato a quello di Castana col [regio decreto 28 marzo 1929, n. 777](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-03-28;777), e' ricostituito con la circoscrizione preesistente all'entrata in vigore del decreto medesimo".
+Il [D.Lgs. 11 febbraio 1948, n. 87](../Decreti%20Legislativi/Ricostituzione%20del%20comune%20di%20Montescano%20Pavia.md) ha disposto (con l'art. 1, comma 1) che "Il comune di Montesacano, aggregato a quello di Castana col [regio decreto 28 marzo 1929, n. 777](Riunione%20dei%20comuni%20di%20Castana%20e%20Montescano%20in%20un%20unico%20Comune%20con%20denominazione%20e%20capoluogo%20%20Castana%20.%20029U0777.md), e' ricostituito con la circoscrizione preesistente all'entrata in vigore del decreto medesimo".

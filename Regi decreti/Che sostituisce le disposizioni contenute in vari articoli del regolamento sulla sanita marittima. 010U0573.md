@@ -14,7 +14,7 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Veduto l'[art. 43 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_43) approvato con [R. decreto 1° agosto 1907, n. 636](Che%20approva%20lunito%20testo%20unico%20delle%20leggi%20sanitarie.%20007U0636.md);
+Veduto l'[art. 43 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) approvato con [R. decreto 1° agosto 1907, n. 636](Che%20approva%20lunito%20testo%20unico%20delle%20leggi%20sanitarie.%20007U0636.md);
 
 Veduto il regolamento sulla sanita' marittima approvato con [R. decreto 29 settembre 1895, n. 636](Che%20approva%20il%20Regolamento%20per%20la%20sanita%20marittima.%20095U0636.md);
 

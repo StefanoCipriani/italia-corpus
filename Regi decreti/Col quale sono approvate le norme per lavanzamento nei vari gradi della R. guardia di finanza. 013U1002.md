@@ -34,7 +34,7 @@ Sulla proposta del Nostro ministro, segretario di Stato per le finanze; Abbiamo 
 
 AGGIORNAMENTO (1)
 
-Il [Decreto Luogotenenziale 18 novembre 1915, n. 1762](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-11-18;1762) ha disposto (con l'art. 3, comma 1) che "Il conferimento dei posti di cui al precedente articolo 2 sara' deferito inappellabilmente alla Commissione centrale d'avanzamento istituita col [R. decreto 1° agosto 1913, n. 1002](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-08-01;1002); alla quale saranno aggiunti due altri componenti scelti dal ministro delle finanze tra i colonnelli del corpo o i funzionari superiori dell'Amministrazione finanziaria".
+Il [Decreto Luogotenenziale 18 novembre 1915, n. 1762](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-11-18;1762) ha disposto (con l'art. 3, comma 1) che "Il conferimento dei posti di cui al precedente articolo 2 sara' deferito inappellabilmente alla Commissione centrale d'avanzamento istituita col [R. decreto 1° agosto 1913, n. 1002](Col%20quale%20sono%20approvate%20le%20norme%20per%20lavanzamento%20nei%20vari%20gradi%20della%20R.%20guardia%20di%20finanza.%20013U1002.md); alla quale saranno aggiunti due altri componenti scelti dal ministro delle finanze tra i colonnelli del corpo o i funzionari superiori dell'Amministrazione finanziaria".
 
 ## Art. 2.
 

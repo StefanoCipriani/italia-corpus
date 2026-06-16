@@ -44,4 +44,4 @@ VITTORIO EMANUELE III
 
 AGGIORNAMENTO (1)
 
-Il [Regio Decreto 28 marzo 1929, n. 632](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-03-28;632), ha disposto (con l'art. 1, comma 1) che "E' ricostituito il comune di Ranzanico col territorio ad esso appartenente prima dell'emanazione del Nostro decreto 7 giugno 1928, n. 1519".
+Il [Regio Decreto 28 marzo 1929, n. 632](Ricostituzione%20del%20comune%20di%20Ranzanico.%20029U0632.md), ha disposto (con l'art. 1, comma 1) che "E' ricostituito il comune di Ranzanico col territorio ad esso appartenente prima dell'emanazione del Nostro decreto 7 giugno 1928, n. 1519".

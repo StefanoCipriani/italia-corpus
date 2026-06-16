@@ -158,7 +158,7 @@ Il direttore dell'Azienda di Stato per i servizi telefonici, sentito il parere d
 
 AGGIORNAMENTO (2)
 
-Il [Decreto del Capo Provvisorio dello Stato 6 dicembre 1946, n. 618](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1946-12-06;618) ha disposto (con l'articolo unico, comma 1) che "Nei casi previsti dagli articoli 10, 12, comma secondo, e 18 del [regio decreto 16 giugno 1938, n. 1274](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-06-16;1274), non occorre sentire il parere del Consiglio di amministrazione delle poste e delle telecomunicazioni".
+Il [Decreto del Capo Provvisorio dello Stato 6 dicembre 1946, n. 618](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1946-12-06;618) ha disposto (con l'articolo unico, comma 1) che "Nei casi previsti dagli articoli 10, 12, comma secondo, e 18 del [regio decreto 16 giugno 1938, n. 1274](Norme%20e%20condizioni%20di%20trattamento%20al%20personale%20dellAzienda%20di%20Stato%20per%20i%20servizi%20telefonici%20nei%20casi%20di%20infortuni%20in%20servizio.%20038U1274.md), non occorre sentire il parere del Consiglio di amministrazione delle poste e delle telecomunicazioni".
 
 ## Art. 11.
 
@@ -175,7 +175,7 @@ Il [Decreto del Capo Provvisorio dello Stato 6 dicembre 1946, n. 618](https://ww
 
 AGGIORNAMENTO (2)
 
-Il [Decreto del Capo Provvisorio dello Stato 6 dicembre 1946, n. 618](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1946-12-06;618) ha disposto (con l'articolo unico, comma 1) che "Nei casi previsti dagli articoli 10, 12, comma secondo, e 18 del [regio decreto 16 giugno 1938, n. 1274](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-06-16;1274), non occorre sentire il parere del Consiglio di amministrazione delle poste e delle telecomunicazioni".
+Il [Decreto del Capo Provvisorio dello Stato 6 dicembre 1946, n. 618](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1946-12-06;618) ha disposto (con l'articolo unico, comma 1) che "Nei casi previsti dagli articoli 10, 12, comma secondo, e 18 del [regio decreto 16 giugno 1938, n. 1274](Norme%20e%20condizioni%20di%20trattamento%20al%20personale%20dellAzienda%20di%20Stato%20per%20i%20servizi%20telefonici%20nei%20casi%20di%20infortuni%20in%20servizio.%20038U1274.md), non occorre sentire il parere del Consiglio di amministrazione delle poste e delle telecomunicazioni".
 
 ## Art. 13.
 
@@ -217,7 +217,7 @@ E' di competenza del direttore dell'Azienda di Stato per i servizi telefonici, s
 
 AGGIORNAMENTO (2)
 
-Il [Decreto del Capo Provvisorio dello Stato 6 dicembre 1946, n. 618](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1946-12-06;618) ha disposto (con l'articolo unico, comma 1) che "Nei casi previsti dagli articoli 10, 12, comma secondo, e 18 del [regio decreto 16 giugno 1938, n. 1274](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-06-16;1274), non occorre sentire il parere del Consiglio di amministrazione delle poste e delle telecomunicazioni".
+Il [Decreto del Capo Provvisorio dello Stato 6 dicembre 1946, n. 618](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1946-12-06;618) ha disposto (con l'articolo unico, comma 1) che "Nei casi previsti dagli articoli 10, 12, comma secondo, e 18 del [regio decreto 16 giugno 1938, n. 1274](Norme%20e%20condizioni%20di%20trattamento%20al%20personale%20dellAzienda%20di%20Stato%20per%20i%20servizi%20telefonici%20nei%20casi%20di%20infortuni%20in%20servizio.%20038U1274.md), non occorre sentire il parere del Consiglio di amministrazione delle poste e delle telecomunicazioni".
 
 ## Art. 19.
 

@@ -48,4 +48,4 @@ VITTORIO EMANUELE III
 
 AGGIORNAMENTO (1)
 
-Il [Regio Decreto 4 novembre 1926, n. 1858](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;1858) ha disposto (con l'art. 1, comma 1) che "Ai Comuni aggregati a quello di Trento col suindicato Nostro decreto 16 settembre 1926, n. 1798, e' aggiunto quello di Sopramonte".
+Il [Regio Decreto 4 novembre 1926, n. 1858](Aggregazione%20del%20comune%20di%20Sopramonte%20a%20quello%20di%20Trento.%20026U1858.md) ha disposto (con l'art. 1, comma 1) che "Ai Comuni aggregati a quello di Trento col suindicato Nostro decreto 16 settembre 1926, n. 1798, e' aggiunto quello di Sopramonte".

@@ -32,7 +32,7 @@ I confini tra i due comuni suddetti sono stabiliti in conformita' della pianta p
 
 AGGIORNAMENTO (1)
 
-Il [Regio Decreto 18 dicembre 1933, n. 2351](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-12-18;2351) ha disposto (con l'art. 1, comma 1) che "Alla pianta planimetrica richiamata nell'[art. 2 del R. decreto 11 novembre 1927, n. 2199](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-11-11;2199#art_2), e' sostituita la pianta planimetrica predisposta in data 23 giugno 1933, dall'ufficio del Genio civile di Novara, la quale, vidimata, d'ordine Nostro, dal Ministro proponente, fara' parte integrante del presente decreto".
+Il [Regio Decreto 18 dicembre 1933, n. 2351](Delimitazione%20del%20confine%20tra%20i%20comuni%20di%20Ghiffa%20e%20di%20Premeno%20Novara.%20033U2351.md) ha disposto (con l'art. 1, comma 1) che "Alla pianta planimetrica richiamata nell'[art. 2 del R. decreto 11 novembre 1927, n. 2199](Distacco%20della%20frazione%20Pollino%20dal%20comune%20di%20Ghiffa%20ed%20aggregazione%20di%20essa%20al%20comune%20di%20Premeno.%20027U2199.md), e' sostituita la pianta planimetrica predisposta in data 23 giugno 1933, dall'ufficio del Genio civile di Novara, la quale, vidimata, d'ordine Nostro, dal Ministro proponente, fara' parte integrante del presente decreto".
 
 ## Art. 3.
 

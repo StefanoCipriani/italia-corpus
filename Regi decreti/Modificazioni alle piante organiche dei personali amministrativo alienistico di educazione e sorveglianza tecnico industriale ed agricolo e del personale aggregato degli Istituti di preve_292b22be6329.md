@@ -126,7 +126,7 @@ Le materie degli esami scritti nel concorso per ammissione in carriera del perso
  
  5° legge e regolamento sulle istituzioni pubbliche di assistenza e beneficenza; 
  
- 6° [testo unico della Sanita'](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265) pubblica; 
+ 6° [testo unico della Sanita'](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) pubblica; 
  
  7° legislazione dell'Opera nazionale per la protezione ed assistenza della maternita' e dell'infanzia; 
  
@@ -213,7 +213,7 @@ Le prove dell'esame di concorso per l'ammissione al grado iniziale di ispettore 
  
  5° legge e regolamento sulle istituzioni pubbliche di assistenza e beneficenza; 
  
- 6° [testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265); 
+ 6° [testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md); 
  
  7° legislazione dell'Opera nazionale per la protezione e l'assistenza della maternita' e dell'infanzia; 
  

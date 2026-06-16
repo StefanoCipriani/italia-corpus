@@ -112,7 +112,7 @@ Scuola di chitarra. ((3))
 
 AGGIORNAMENTO (3)
 
-Il [D.Lgs. 16 aprile 1994, n. 297](../Decreti%20Legislativi/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md) ha disposto (con l'art. 240, comma 2) che "All'elenco delle scuole di cui all'[articolo 1, primo comma del regio decreto 11 dicembre 1930, n. 1945](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-12-11;1945#art_1-com1) e' aggiunta la scuola di chitarra".
+Il [D.Lgs. 16 aprile 1994, n. 297](../Decreti%20Legislativi/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md) ha disposto (con l'art. 240, comma 2) che "All'elenco delle scuole di cui all'[articolo 1, primo comma del regio decreto 11 dicembre 1930, n. 1945](Norme%20per%20lordinamento%20dellistruzione%20musicale%20ed%20approvazione%20dei%20nuovi%20programmi%20di%20esame.%20030U1945.md) e' aggiunta la scuola di chitarra".
 
 ## Art. 2.
 
@@ -302,7 +302,7 @@ I candidati estranei che nell'anno scolastico precedente a quello in cui entrera
 
 AGGIORNAMENTO (1)
 
-Il [Regio Decreto 13 agosto 1932, n. 1167](../Atti%20normativi%20abrogati%20%28in%20originale%29/Deroga%20allart.%2023%20del%20R.%20decreto%2011%20dicembre%201930%20n.%201945%20concernente%20lordinamento%20degli%20studi%20negli%20Istituti%20distruzione%20musicale%20ed%20i%20programmi%20di%20esame.%20032U1167.md), ha disposto (con l'articolo unico, comma 1) che "A parziale deroga dell'[art. 23 del R. decreto 11 dicembre 1930, n. 1945](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-12-11;1945#art_23), e' consentito anche a coloro che non abbiano iniziato gli esami di licenza normale in una delle due sessioni dell'anno scolastico 1930-31 di sostenere, presso gli Istituti d'istruzione musicale Regi o pareggiati, al termine dell'anno scolastico 1931-32, gli esami di compimento del corrispondente periodo sulla base dei programmi prescritti precedentemente all'entrata in vigore del citato Regio decreto".
+Il [Regio Decreto 13 agosto 1932, n. 1167](../Atti%20normativi%20abrogati%20%28in%20originale%29/Deroga%20allart.%2023%20del%20R.%20decreto%2011%20dicembre%201930%20n.%201945%20concernente%20lordinamento%20degli%20studi%20negli%20Istituti%20distruzione%20musicale%20ed%20i%20programmi%20di%20esame.%20032U1167.md), ha disposto (con l'articolo unico, comma 1) che "A parziale deroga dell'[art. 23 del R. decreto 11 dicembre 1930, n. 1945](Norme%20per%20lordinamento%20dellistruzione%20musicale%20ed%20approvazione%20dei%20nuovi%20programmi%20di%20esame.%20030U1945.md), e' consentito anche a coloro che non abbiano iniziato gli esami di licenza normale in una delle due sessioni dell'anno scolastico 1930-31 di sostenere, presso gli Istituti d'istruzione musicale Regi o pareggiati, al termine dell'anno scolastico 1931-32, gli esami di compimento del corrispondente periodo sulla base dei programmi prescritti precedentemente all'entrata in vigore del citato Regio decreto".
 
 ### Art. 24.
 

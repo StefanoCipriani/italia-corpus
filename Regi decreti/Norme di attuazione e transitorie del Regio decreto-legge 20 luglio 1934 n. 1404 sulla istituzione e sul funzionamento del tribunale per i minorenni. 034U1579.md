@@ -37,14 +37,14 @@ I magistrati che compongono i tribunali per i minorenni e le sezioni di corte d'
 
 AGGIORNAMENTO (1)
 
-La [L. 12 marzo 1968, n. 181](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-03-12;181) ha disposto (con l'articolo unico, comma 1) che "Nei tribunali per i minorenni indicati nella tabella A) allegata alla presente legge e nelle procure della Repubblica presso gli stessi tribunali non si applicano le disposizioni di cui all'[articolo 1 del regio decreto 20 settembre 1934, n. 1579](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-09-20;1579#art_1)". 
+La [L. 12 marzo 1968, n. 181](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-03-12;181) ha disposto (con l'articolo unico, comma 1) che "Nei tribunali per i minorenni indicati nella tabella A) allegata alla presente legge e nelle procure della Repubblica presso gli stessi tribunali non si applicano le disposizioni di cui all'[articolo 1 del regio decreto 20 settembre 1934, n. 1579](Norme%20di%20attuazione%20e%20transitorie%20del%20Regio%20decreto-legge%2020%20luglio%201934%20n.%201404%20sulla%20istituzione%20e%20sul%20funzionamento%20del%20tribunale%20per%20i%20minorenni.%20034U1579.md)". 
  Ha inoltre disposto (con l'articolo unico, comma 2) che "Nei tribunali per i minorenni indicati nella tabella B) allegata alla presente legge e nelle procure della Repubblica presso gli stessi tribunali le dette disposizioni non si applicano nei soli confronti del presidente del tribunale e del procuratore della Repubblica".
 
 -----------
 
 AGGIORNAMENTO (3)
 
-La [L. 9 marzo 1971, n. 35](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-03-09;35), ha disposto (con l'art. 4, comma 1) che "Le disposizioni contenute nell'[articolo 1 del regio decreto 20 settembre 1934, n. 1579](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-09-20;1579#art_1), e nell'articolo 98 dell'Ordinamento giudiziario approvato con [regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12), non si applicano ai magistrati addetti ai tribunali per i minorenni e alle procure della Repubblica presso gli stessi tribunali".
+La [L. 9 marzo 1971, n. 35](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-03-09;35), ha disposto (con l'art. 4, comma 1) che "Le disposizioni contenute nell'[articolo 1 del regio decreto 20 settembre 1934, n. 1579](Norme%20di%20attuazione%20e%20transitorie%20del%20Regio%20decreto-legge%2020%20luglio%201934%20n.%201404%20sulla%20istituzione%20e%20sul%20funzionamento%20del%20tribunale%20per%20i%20minorenni.%20034U1579.md), e nell'articolo 98 dell'Ordinamento giudiziario approvato con [regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12), non si applicano ai magistrati addetti ai tribunali per i minorenni e alle procure della Repubblica presso gli stessi tribunali".
 
 ### Art. 2. — Sostituzione dei magistrati assegnati.
 

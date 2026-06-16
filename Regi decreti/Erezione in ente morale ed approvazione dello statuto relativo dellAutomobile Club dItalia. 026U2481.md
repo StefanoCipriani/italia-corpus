@@ -33,7 +33,7 @@ L'Automobile Club d'Italia, con le norme di cui allo statuto annesso al presente
 
 AGGIORNAMENTO (3)
 
-Il [D.P.R. 8 settembre 1950, n. 881](../DPR/Norme%20concernenti%20lAutomobile%20Club%20dItalia%20A.C.I.%20ed%20approvazione%20del%20nuovo%20statuto.md), ha disposto (con l'art. 1, comma 1) che "L'Automobile Club d'Italia "A.C.I." con sede in Roma, eretto in ente morale con il [regio decreto 14 novembre 1926, n. 2481](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-14;2481), e' posto sotto la vigilanza della Presidenza del Consiglio dei Ministri - Commissariato per il turismo".
+Il [D.P.R. 8 settembre 1950, n. 881](../DPR/Norme%20concernenti%20lAutomobile%20Club%20dItalia%20A.C.I.%20ed%20approvazione%20del%20nuovo%20statuto.md), ha disposto (con l'art. 1, comma 1) che "L'Automobile Club d'Italia "A.C.I." con sede in Roma, eretto in ente morale con il [regio decreto 14 novembre 1926, n. 2481](Erezione%20in%20ente%20morale%20ed%20approvazione%20dello%20statuto%20relativo%20dellAutomobile%20Club%20dItalia.%20026U2481.md), e' posto sotto la vigilanza della Presidenza del Consiglio dei Ministri - Commissariato per il turismo".
 
 ## Art. 2.
 

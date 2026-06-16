@@ -26,7 +26,7 @@ Il comune di Tufino e' aggregato a quello di Roccarainola, tranne la frazione Sc
 
 AGGIORNAMENTO (1)
 
-Il [Regio D.L. 17 maggio 1946, n. 548](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1946-05-17;548) ha disposto (con l'art. 1, comma 1) che "Il comune di Tufino, soppresso con [R. decreto 27 luglio 1928, n. 1925](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-07-27;1925), ed aggregato al comune di Roccarainola, ad eccezione della frazione Schiava aggregati al comune di Casamarciano, e' ricostituito con la circoscrizione preesistente all'entrata in vigore del decreto medesimo".
+Il [Regio D.L. 17 maggio 1946, n. 548](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1946-05-17;548) ha disposto (con l'art. 1, comma 1) che "Il comune di Tufino, soppresso con [R. decreto 27 luglio 1928, n. 1925](Ripartizione%20del%20territorio%20del%20comune%20di%20Tufino%20fra%20i%20comuni%20di%20Roccarainola%20e%20Casamarciano.%20028U1925.md), ed aggregato al comune di Roccarainola, ad eccezione della frazione Schiava aggregati al comune di Casamarciano, e' ricostituito con la circoscrizione preesistente all'entrata in vigore del decreto medesimo".
 
 ## Art. 2.
 

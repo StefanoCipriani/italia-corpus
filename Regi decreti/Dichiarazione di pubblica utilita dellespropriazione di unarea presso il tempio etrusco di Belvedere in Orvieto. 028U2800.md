@@ -52,4 +52,4 @@ E' dichiarata di pubblica utilita' l'espropriazione a favore del Ministero della
 
 AGGIORNAMENTO (1)
 
-Il [Regio Decreto 23 dicembre 1929, n. 2306](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-12-23;2306) ha disposto (con l'art. 1, comma 1) che "Il termine per la espropriazione e i lavori relativi al tempio etrusco di Belvedere in Orvieto e' prorogato al 31 dicembre 1930".
+Il [Regio Decreto 23 dicembre 1929, n. 2306](Proroga%20del%20termine%20per%20la%20espropriazione%20ed%20i%20lavori%20relativi%20al%20tempio%20etrusco%20di%20Belvedere%20in%20Orvieto.%20029U2306.md) ha disposto (con l'art. 1, comma 1) che "Il termine per la espropriazione e i lavori relativi al tempio etrusco di Belvedere in Orvieto e' prorogato al 31 dicembre 1930".

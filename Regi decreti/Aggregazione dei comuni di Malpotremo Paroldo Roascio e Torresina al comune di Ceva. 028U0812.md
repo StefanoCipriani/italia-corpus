@@ -43,10 +43,10 @@ VITTORIO EMANUELE III
 
 AGGIORNAMENTO (1)
 
-Il [D. Lgs. del Capo Provvisorio dello Stato 20 settembre 1946, n. 282](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1946-09-20;282) ha disposto (con l'art. 1, comma 1) che "Il comune di Paroldo, aggregato al comune di Ceva con [regio decreto 22 marzo 1928, n. 812](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-03-22;812), e' ricostituito con la circoscrizione preesistente all'entrata in vigore del decreto medesimo".
+Il [D. Lgs. del Capo Provvisorio dello Stato 20 settembre 1946, n. 282](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1946-09-20;282) ha disposto (con l'art. 1, comma 1) che "Il comune di Paroldo, aggregato al comune di Ceva con [regio decreto 22 marzo 1928, n. 812](Aggregazione%20dei%20comuni%20di%20Malpotremo%20Paroldo%20Roascio%20e%20Torresina%20al%20comune%20di%20Ceva.%20028U0812.md), e' ricostituito con la circoscrizione preesistente all'entrata in vigore del decreto medesimo".
 
 ---------------
 
 AGGIORNAMENTO (2)
 
-Il [D. Lgs. del Capo Provvisorio dello Stato 13 dicembre 1946, n. 539](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1946-12-13;539) ha disposto (con l'art. 1, comma 1) che " I comuni di Torresina e Roascio, aggregati con [regio decreto 22 marzo 1928, n. 812](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-03-22;812), al comune di Ceva, sono ricostituiti con le circoscrizioni preesistenti all'entrata in vigore del decreto medesimo".
+Il [D. Lgs. del Capo Provvisorio dello Stato 13 dicembre 1946, n. 539](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1946-12-13;539) ha disposto (con l'art. 1, comma 1) che " I comuni di Torresina e Roascio, aggregati con [regio decreto 22 marzo 1928, n. 812](Aggregazione%20dei%20comuni%20di%20Malpotremo%20Paroldo%20Roascio%20e%20Torresina%20al%20comune%20di%20Ceva.%20028U0812.md), al comune di Ceva, sono ricostituiti con le circoscrizioni preesistenti all'entrata in vigore del decreto medesimo".

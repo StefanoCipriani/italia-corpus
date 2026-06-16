@@ -63,7 +63,7 @@ Il [Regio Decreto 3 luglio 1879, n. 4972](../Atti%20normativi%20abrogati%20%28in
 
 AGGIORNAMENTO (3)
 
-Il [Regio Decreto 27 ottobre 1880, n. 5712](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1880-10-27;5712) ha disposto (con l'art. 2, comma 1) che "Le parole «borro contermine» dell'articolo 5 del Regio decreto 26 luglio 1865 stanno a indicare il solo borro omonimo della Romola, distinto dagli altri borri detti Fosso Grande, Emellino e Sugana".
+Il [Regio Decreto 27 ottobre 1880, n. 5712](Che%20modifica%20i%20confini%20territoriali%20dei%20due%20comuni%20di%20Casellina%20e%20Torri%20e%20San%20Casciano%20in%20Val%20di%20Pesa%20Firenze.%20080U5712.md) ha disposto (con l'art. 2, comma 1) che "Le parole «borro contermine» dell'articolo 5 del Regio decreto 26 luglio 1865 stanno a indicare il solo borro omonimo della Romola, distinto dagli altri borri detti Fosso Grande, Emellino e Sugana".
 
 ## Art. 6.
 

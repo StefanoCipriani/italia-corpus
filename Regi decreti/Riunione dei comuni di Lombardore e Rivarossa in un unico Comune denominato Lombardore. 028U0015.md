@@ -43,4 +43,4 @@ VITTORIO EMANUELE III
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. del Capo Provvisorio dello Stato 20 settembre 1946, n. 252](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1946-09-20;252) ha disposto (con l'art. 1, comma 1) che "Il comune di Rivarossa, aggregato con [regio decreto 5 gennaio 1928, n. 15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-01-05;15), al comune di Lombardore, e' ricostituito con la circoscrizione preesistente all'entrata in vigore del decreto medesimo".
+Il [D.Lgs. del Capo Provvisorio dello Stato 20 settembre 1946, n. 252](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1946-09-20;252) ha disposto (con l'art. 1, comma 1) che "Il comune di Rivarossa, aggregato con [regio decreto 5 gennaio 1928, n. 15](Riunione%20dei%20comuni%20di%20Lombardore%20e%20Rivarossa%20in%20un%20unico%20Comune%20denominato%20Lombardore.%20028U0015.md), al comune di Lombardore, e' ricostituito con la circoscrizione preesistente all'entrata in vigore del decreto medesimo".

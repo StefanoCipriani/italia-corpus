@@ -258,7 +258,7 @@ I concorsi per l'assunzione nei ruoli degli istitutori, dei maestri elementari e
 
 AGGIORNAMENTO (5)
 
-Il [D.P.R. 27 giugno 1962, n. 1437](../DPR/Approvazione%20del%20regolamento%20per%20lo%20svolgimento%20dei%20concorsi%20per%20laccesso%20alla%20carriera%20di%20concetto%20dei%20convitti%20nazionali%20e%20degli%20educandati%20femminili%20dello%20Stato.md) ha disposto (con l'art. 6, comma 1) che "Sono abrogate le disposizioni del titolo secondo, capi secondo e terzo, del [regio decreto 1 settembre 1925, n. 2009](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-09-01;2009), nella parte relativa al personale di economato dei convitti nazionali".
+Il [D.P.R. 27 giugno 1962, n. 1437](../DPR/Approvazione%20del%20regolamento%20per%20lo%20svolgimento%20dei%20concorsi%20per%20laccesso%20alla%20carriera%20di%20concetto%20dei%20convitti%20nazionali%20e%20degli%20educandati%20femminili%20dello%20Stato.md) ha disposto (con l'art. 6, comma 1) che "Sono abrogate le disposizioni del titolo secondo, capi secondo e terzo, del [regio decreto 1 settembre 1925, n. 2009](Regolamento%20per%20i%20Convitti%20nazionali.%20025U2009.md), nella parte relativa al personale di economato dei convitti nazionali".
 
 ### Art. 27.
 
@@ -269,7 +269,7 @@ Ai concorsi sono ammessi esclusivamente gli uomini, quando si tratti di posti in
 
 AGGIORNAMENTO (5)
 
-Il [D.P.R. 27 giugno 1962, n. 1437](../DPR/Approvazione%20del%20regolamento%20per%20lo%20svolgimento%20dei%20concorsi%20per%20laccesso%20alla%20carriera%20di%20concetto%20dei%20convitti%20nazionali%20e%20degli%20educandati%20femminili%20dello%20Stato.md) ha disposto (con l'art. 6, comma 1) che "Sono abrogate le disposizioni del titolo secondo, capi secondo e terzo, del [regio decreto 1 settembre 1925, n. 2009](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-09-01;2009), nella parte relativa al personale di economato dei convitti nazionali".
+Il [D.P.R. 27 giugno 1962, n. 1437](../DPR/Approvazione%20del%20regolamento%20per%20lo%20svolgimento%20dei%20concorsi%20per%20laccesso%20alla%20carriera%20di%20concetto%20dei%20convitti%20nazionali%20e%20degli%20educandati%20femminili%20dello%20Stato.md) ha disposto (con l'art. 6, comma 1) che "Sono abrogate le disposizioni del titolo secondo, capi secondo e terzo, del [regio decreto 1 settembre 1925, n. 2009](Regolamento%20per%20i%20Convitti%20nazionali.%20025U2009.md), nella parte relativa al personale di economato dei convitti nazionali".
 
 ### Art. 28.
 
@@ -282,7 +282,7 @@ Il limite minimo di eta' per l'ammissione ai concorsi e' di 18 anni; il limite m
 
 AGGIORNAMENTO (5)
 
-Il [D.P.R. 27 giugno 1962, n. 1437](../DPR/Approvazione%20del%20regolamento%20per%20lo%20svolgimento%20dei%20concorsi%20per%20laccesso%20alla%20carriera%20di%20concetto%20dei%20convitti%20nazionali%20e%20degli%20educandati%20femminili%20dello%20Stato.md) ha disposto (con l'art. 6, comma 1) che "Sono abrogate le disposizioni del titolo secondo, capi secondo e terzo, del [regio decreto 1 settembre 1925, n. 2009](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-09-01;2009), nella parte relativa al personale di economato dei convitti nazionali".
+Il [D.P.R. 27 giugno 1962, n. 1437](../DPR/Approvazione%20del%20regolamento%20per%20lo%20svolgimento%20dei%20concorsi%20per%20laccesso%20alla%20carriera%20di%20concetto%20dei%20convitti%20nazionali%20e%20degli%20educandati%20femminili%20dello%20Stato.md) ha disposto (con l'art. 6, comma 1) che "Sono abrogate le disposizioni del titolo secondo, capi secondo e terzo, del [regio decreto 1 settembre 1925, n. 2009](Regolamento%20per%20i%20Convitti%20nazionali.%20025U2009.md), nella parte relativa al personale di economato dei convitti nazionali".
 
 ### Art. 29.
 
@@ -299,7 +299,7 @@ I titoli di studio occorrenti per l'ammissione, giusta l'[articolo 16 del R. dec
 
 AGGIORNAMENTO (5)
 
-Il [D.P.R. 27 giugno 1962, n. 1437](../DPR/Approvazione%20del%20regolamento%20per%20lo%20svolgimento%20dei%20concorsi%20per%20laccesso%20alla%20carriera%20di%20concetto%20dei%20convitti%20nazionali%20e%20degli%20educandati%20femminili%20dello%20Stato.md) ha disposto (con l'art. 6, comma 1) che "Sono abrogate le disposizioni del titolo secondo, capi secondo e terzo, del [regio decreto 1 settembre 1925, n. 2009](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-09-01;2009), nella parte relativa al personale di economato dei convitti nazionali".
+Il [D.P.R. 27 giugno 1962, n. 1437](../DPR/Approvazione%20del%20regolamento%20per%20lo%20svolgimento%20dei%20concorsi%20per%20laccesso%20alla%20carriera%20di%20concetto%20dei%20convitti%20nazionali%20e%20degli%20educandati%20femminili%20dello%20Stato.md) ha disposto (con l'art. 6, comma 1) che "Sono abrogate le disposizioni del titolo secondo, capi secondo e terzo, del [regio decreto 1 settembre 1925, n. 2009](Regolamento%20per%20i%20Convitti%20nazionali.%20025U2009.md), nella parte relativa al personale di economato dei convitti nazionali".
 
 ### Art. 30.
 
@@ -314,7 +314,7 @@ Le tasse d'ammissione sono:
 
 AGGIORNAMENTO (5)
 
-Il [D.P.R. 27 giugno 1962, n. 1437](../DPR/Approvazione%20del%20regolamento%20per%20lo%20svolgimento%20dei%20concorsi%20per%20laccesso%20alla%20carriera%20di%20concetto%20dei%20convitti%20nazionali%20e%20degli%20educandati%20femminili%20dello%20Stato.md) ha disposto (con l'art. 6, comma 1) che "Sono abrogate le disposizioni del titolo secondo, capi secondo e terzo, del [regio decreto 1 settembre 1925, n. 2009](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-09-01;2009), nella parte relativa al personale di economato dei convitti nazionali".
+Il [D.P.R. 27 giugno 1962, n. 1437](../DPR/Approvazione%20del%20regolamento%20per%20lo%20svolgimento%20dei%20concorsi%20per%20laccesso%20alla%20carriera%20di%20concetto%20dei%20convitti%20nazionali%20e%20degli%20educandati%20femminili%20dello%20Stato.md) ha disposto (con l'art. 6, comma 1) che "Sono abrogate le disposizioni del titolo secondo, capi secondo e terzo, del [regio decreto 1 settembre 1925, n. 2009](Regolamento%20per%20i%20Convitti%20nazionali.%20025U2009.md), nella parte relativa al personale di economato dei convitti nazionali".
 
 ### Art. 31.
 
@@ -325,7 +325,7 @@ La domanda di ammissione, diretta al Ministro della pubblica istruzione, deve pe
 
 AGGIORNAMENTO (5)
 
-Il [D.P.R. 27 giugno 1962, n. 1437](../DPR/Approvazione%20del%20regolamento%20per%20lo%20svolgimento%20dei%20concorsi%20per%20laccesso%20alla%20carriera%20di%20concetto%20dei%20convitti%20nazionali%20e%20degli%20educandati%20femminili%20dello%20Stato.md) ha disposto (con l'art. 6, comma 1) che "Sono abrogate le disposizioni del titolo secondo, capi secondo e terzo, del [regio decreto 1 settembre 1925, n. 2009](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-09-01;2009), nella parte relativa al personale di economato dei convitti nazionali".
+Il [D.P.R. 27 giugno 1962, n. 1437](../DPR/Approvazione%20del%20regolamento%20per%20lo%20svolgimento%20dei%20concorsi%20per%20laccesso%20alla%20carriera%20di%20concetto%20dei%20convitti%20nazionali%20e%20degli%20educandati%20femminili%20dello%20Stato.md) ha disposto (con l'art. 6, comma 1) che "Sono abrogate le disposizioni del titolo secondo, capi secondo e terzo, del [regio decreto 1 settembre 1925, n. 2009](Regolamento%20per%20i%20Convitti%20nazionali.%20025U2009.md), nella parte relativa al personale di economato dei convitti nazionali".
 
 ### Art. 32.
 
@@ -358,7 +358,7 @@ Alla domanda di ammissione devono essere uniti i documenti seguenti:
 
 AGGIORNAMENTO (5)
 
-Il [D.P.R. 27 giugno 1962, n. 1437](../DPR/Approvazione%20del%20regolamento%20per%20lo%20svolgimento%20dei%20concorsi%20per%20laccesso%20alla%20carriera%20di%20concetto%20dei%20convitti%20nazionali%20e%20degli%20educandati%20femminili%20dello%20Stato.md) ha disposto (con l'art. 6, comma 1) che "Sono abrogate le disposizioni del titolo secondo, capi secondo e terzo, del [regio decreto 1 settembre 1925, n. 2009](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-09-01;2009), nella parte relativa al personale di economato dei convitti nazionali".
+Il [D.P.R. 27 giugno 1962, n. 1437](../DPR/Approvazione%20del%20regolamento%20per%20lo%20svolgimento%20dei%20concorsi%20per%20laccesso%20alla%20carriera%20di%20concetto%20dei%20convitti%20nazionali%20e%20degli%20educandati%20femminili%20dello%20Stato.md) ha disposto (con l'art. 6, comma 1) che "Sono abrogate le disposizioni del titolo secondo, capi secondo e terzo, del [regio decreto 1 settembre 1925, n. 2009](Regolamento%20per%20i%20Convitti%20nazionali.%20025U2009.md), nella parte relativa al personale di economato dei convitti nazionali".
 
 ### Art. 33.
 
@@ -368,7 +368,7 @@ I documenti specificati nel precedente articolo con le lettere da a) ad f) e la 
 
 AGGIORNAMENTO (5)
 
-Il [D.P.R. 27 giugno 1962, n. 1437](../DPR/Approvazione%20del%20regolamento%20per%20lo%20svolgimento%20dei%20concorsi%20per%20laccesso%20alla%20carriera%20di%20concetto%20dei%20convitti%20nazionali%20e%20degli%20educandati%20femminili%20dello%20Stato.md) ha disposto (con l'art. 6, comma 1) che "Sono abrogate le disposizioni del titolo secondo, capi secondo e terzo, del [regio decreto 1 settembre 1925, n. 2009](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-09-01;2009), nella parte relativa al personale di economato dei convitti nazionali".
+Il [D.P.R. 27 giugno 1962, n. 1437](../DPR/Approvazione%20del%20regolamento%20per%20lo%20svolgimento%20dei%20concorsi%20per%20laccesso%20alla%20carriera%20di%20concetto%20dei%20convitti%20nazionali%20e%20degli%20educandati%20femminili%20dello%20Stato.md) ha disposto (con l'art. 6, comma 1) che "Sono abrogate le disposizioni del titolo secondo, capi secondo e terzo, del [regio decreto 1 settembre 1925, n. 2009](Regolamento%20per%20i%20Convitti%20nazionali.%20025U2009.md), nella parte relativa al personale di economato dei convitti nazionali".
 
 ### Art. 34.
 
@@ -379,7 +379,7 @@ Sono dispensati dal presentare i documenti di cui alle lettere a), b), c), d), e
 
 AGGIORNAMENTO (5)
 
-Il [D.P.R. 27 giugno 1962, n. 1437](../DPR/Approvazione%20del%20regolamento%20per%20lo%20svolgimento%20dei%20concorsi%20per%20laccesso%20alla%20carriera%20di%20concetto%20dei%20convitti%20nazionali%20e%20degli%20educandati%20femminili%20dello%20Stato.md) ha disposto (con l'art. 6, comma 1) che "Sono abrogate le disposizioni del titolo secondo, capi secondo e terzo, del [regio decreto 1 settembre 1925, n. 2009](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-09-01;2009), nella parte relativa al personale di economato dei convitti nazionali".
+Il [D.P.R. 27 giugno 1962, n. 1437](../DPR/Approvazione%20del%20regolamento%20per%20lo%20svolgimento%20dei%20concorsi%20per%20laccesso%20alla%20carriera%20di%20concetto%20dei%20convitti%20nazionali%20e%20degli%20educandati%20femminili%20dello%20Stato.md) ha disposto (con l'art. 6, comma 1) che "Sono abrogate le disposizioni del titolo secondo, capi secondo e terzo, del [regio decreto 1 settembre 1925, n. 2009](Regolamento%20per%20i%20Convitti%20nazionali.%20025U2009.md), nella parte relativa al personale di economato dei convitti nazionali".
 
 ### Art. 35.
 
@@ -392,7 +392,7 @@ Ai documenti indicati nell'art. 32 i concorrenti possono unire tutti gli altri t
 
 AGGIORNAMENTO (5)
 
-Il [D.P.R. 27 giugno 1962, n. 1437](../DPR/Approvazione%20del%20regolamento%20per%20lo%20svolgimento%20dei%20concorsi%20per%20laccesso%20alla%20carriera%20di%20concetto%20dei%20convitti%20nazionali%20e%20degli%20educandati%20femminili%20dello%20Stato.md) ha disposto (con l'art. 6, comma 1) che "Sono abrogate le disposizioni del titolo secondo, capi secondo e terzo, del [regio decreto 1 settembre 1925, n. 2009](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-09-01;2009), nella parte relativa al personale di economato dei convitti nazionali".
+Il [D.P.R. 27 giugno 1962, n. 1437](../DPR/Approvazione%20del%20regolamento%20per%20lo%20svolgimento%20dei%20concorsi%20per%20laccesso%20alla%20carriera%20di%20concetto%20dei%20convitti%20nazionali%20e%20degli%20educandati%20femminili%20dello%20Stato.md) ha disposto (con l'art. 6, comma 1) che "Sono abrogate le disposizioni del titolo secondo, capi secondo e terzo, del [regio decreto 1 settembre 1925, n. 2009](Regolamento%20per%20i%20Convitti%20nazionali.%20025U2009.md), nella parte relativa al personale di economato dei convitti nazionali".
 
 ### Art. 36.
 
@@ -405,7 +405,7 @@ L'esame delle domande ai fini dell'ammissione o dell'esclusione dal concorso e' 
 
 AGGIORNAMENTO (5)
 
-Il [D.P.R. 27 giugno 1962, n. 1437](../DPR/Approvazione%20del%20regolamento%20per%20lo%20svolgimento%20dei%20concorsi%20per%20laccesso%20alla%20carriera%20di%20concetto%20dei%20convitti%20nazionali%20e%20degli%20educandati%20femminili%20dello%20Stato.md) ha disposto (con l'art. 6, comma 1) che "Sono abrogate le disposizioni del titolo secondo, capi secondo e terzo, del [regio decreto 1 settembre 1925, n. 2009](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-09-01;2009), nella parte relativa al personale di economato dei convitti nazionali".
+Il [D.P.R. 27 giugno 1962, n. 1437](../DPR/Approvazione%20del%20regolamento%20per%20lo%20svolgimento%20dei%20concorsi%20per%20laccesso%20alla%20carriera%20di%20concetto%20dei%20convitti%20nazionali%20e%20degli%20educandati%20femminili%20dello%20Stato.md) ha disposto (con l'art. 6, comma 1) che "Sono abrogate le disposizioni del titolo secondo, capi secondo e terzo, del [regio decreto 1 settembre 1925, n. 2009](Regolamento%20per%20i%20Convitti%20nazionali.%20025U2009.md), nella parte relativa al personale di economato dei convitti nazionali".
 
 ### Art. 37.
 
@@ -416,7 +416,7 @@ S'intende ammesso il candidato che non abbia ricevuto alcuna diretta comunicazio
 
 AGGIORNAMENTO (5)
 
-Il [D.P.R. 27 giugno 1962, n. 1437](../DPR/Approvazione%20del%20regolamento%20per%20lo%20svolgimento%20dei%20concorsi%20per%20laccesso%20alla%20carriera%20di%20concetto%20dei%20convitti%20nazionali%20e%20degli%20educandati%20femminili%20dello%20Stato.md) ha disposto (con l'art. 6, comma 1) che "Sono abrogate le disposizioni del titolo secondo, capi secondo e terzo, del [regio decreto 1 settembre 1925, n. 2009](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-09-01;2009), nella parte relativa al personale di economato dei convitti nazionali".
+Il [D.P.R. 27 giugno 1962, n. 1437](../DPR/Approvazione%20del%20regolamento%20per%20lo%20svolgimento%20dei%20concorsi%20per%20laccesso%20alla%20carriera%20di%20concetto%20dei%20convitti%20nazionali%20e%20degli%20educandati%20femminili%20dello%20Stato.md) ha disposto (con l'art. 6, comma 1) che "Sono abrogate le disposizioni del titolo secondo, capi secondo e terzo, del [regio decreto 1 settembre 1925, n. 2009](Regolamento%20per%20i%20Convitti%20nazionali.%20025U2009.md), nella parte relativa al personale di economato dei convitti nazionali".
 
 ### Art. 38.
 
@@ -429,7 +429,7 @@ Non sono ammessi al concorso i candidati che abbiano presentato la domanda oltre
 
 AGGIORNAMENTO (5)
 
-Il [D.P.R. 27 giugno 1962, n. 1437](../DPR/Approvazione%20del%20regolamento%20per%20lo%20svolgimento%20dei%20concorsi%20per%20laccesso%20alla%20carriera%20di%20concetto%20dei%20convitti%20nazionali%20e%20degli%20educandati%20femminili%20dello%20Stato.md) ha disposto (con l'art. 6, comma 1) che "Sono abrogate le disposizioni del titolo secondo, capi secondo e terzo, del [regio decreto 1 settembre 1925, n. 2009](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-09-01;2009), nella parte relativa al personale di economato dei convitti nazionali".
+Il [D.P.R. 27 giugno 1962, n. 1437](../DPR/Approvazione%20del%20regolamento%20per%20lo%20svolgimento%20dei%20concorsi%20per%20laccesso%20alla%20carriera%20di%20concetto%20dei%20convitti%20nazionali%20e%20degli%20educandati%20femminili%20dello%20Stato.md) ha disposto (con l'art. 6, comma 1) che "Sono abrogate le disposizioni del titolo secondo, capi secondo e terzo, del [regio decreto 1 settembre 1925, n. 2009](Regolamento%20per%20i%20Convitti%20nazionali.%20025U2009.md), nella parte relativa al personale di economato dei convitti nazionali".
 
 ### Art. 39.
 
@@ -440,7 +440,7 @@ Il provvedimento del Ministero con cui e' negata l'ammissione e' definitivo.
 
 AGGIORNAMENTO (5)
 
-Il [D.P.R. 27 giugno 1962, n. 1437](../DPR/Approvazione%20del%20regolamento%20per%20lo%20svolgimento%20dei%20concorsi%20per%20laccesso%20alla%20carriera%20di%20concetto%20dei%20convitti%20nazionali%20e%20degli%20educandati%20femminili%20dello%20Stato.md) ha disposto (con l'art. 6, comma 1) che "Sono abrogate le disposizioni del titolo secondo, capi secondo e terzo, del [regio decreto 1 settembre 1925, n. 2009](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-09-01;2009), nella parte relativa al personale di economato dei convitti nazionali".
+Il [D.P.R. 27 giugno 1962, n. 1437](../DPR/Approvazione%20del%20regolamento%20per%20lo%20svolgimento%20dei%20concorsi%20per%20laccesso%20alla%20carriera%20di%20concetto%20dei%20convitti%20nazionali%20e%20degli%20educandati%20femminili%20dello%20Stato.md) ha disposto (con l'art. 6, comma 1) che "Sono abrogate le disposizioni del titolo secondo, capi secondo e terzo, del [regio decreto 1 settembre 1925, n. 2009](Regolamento%20per%20i%20Convitti%20nazionali.%20025U2009.md), nella parte relativa al personale di economato dei convitti nazionali".
 
 ### Art. 40.
 
@@ -459,7 +459,7 @@ Le Commissioni giudicatrici dei concorsi sono nominate dal Ministro per l'educaz
 
 AGGIORNAMENTO (5)
 
-Il [D.P.R. 27 giugno 1962, n. 1437](../DPR/Approvazione%20del%20regolamento%20per%20lo%20svolgimento%20dei%20concorsi%20per%20laccesso%20alla%20carriera%20di%20concetto%20dei%20convitti%20nazionali%20e%20degli%20educandati%20femminili%20dello%20Stato.md) ha disposto (con l'art. 6, comma 1) che "Sono abrogate le disposizioni del titolo secondo, capi secondo e terzo, del [regio decreto 1 settembre 1925, n. 2009](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-09-01;2009), nella parte relativa al personale di economato dei convitti nazionali".
+Il [D.P.R. 27 giugno 1962, n. 1437](../DPR/Approvazione%20del%20regolamento%20per%20lo%20svolgimento%20dei%20concorsi%20per%20laccesso%20alla%20carriera%20di%20concetto%20dei%20convitti%20nazionali%20e%20degli%20educandati%20femminili%20dello%20Stato.md) ha disposto (con l'art. 6, comma 1) che "Sono abrogate le disposizioni del titolo secondo, capi secondo e terzo, del [regio decreto 1 settembre 1925, n. 2009](Regolamento%20per%20i%20Convitti%20nazionali.%20025U2009.md), nella parte relativa al personale di economato dei convitti nazionali".
 
 ### Art. 41.
 
@@ -470,7 +470,7 @@ I concorsi per posti di istitutore e di vice-economo sono per titoli ed esame. I
 
 AGGIORNAMENTO (5)
 
-Il [D.P.R. 27 giugno 1962, n. 1437](../DPR/Approvazione%20del%20regolamento%20per%20lo%20svolgimento%20dei%20concorsi%20per%20laccesso%20alla%20carriera%20di%20concetto%20dei%20convitti%20nazionali%20e%20degli%20educandati%20femminili%20dello%20Stato.md) ha disposto (con l'art. 6, comma 1) che "Sono abrogate le disposizioni del titolo secondo, capi secondo e terzo, del [regio decreto 1 settembre 1925, n. 2009](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-09-01;2009), nella parte relativa al personale di economato dei convitti nazionali".
+Il [D.P.R. 27 giugno 1962, n. 1437](../DPR/Approvazione%20del%20regolamento%20per%20lo%20svolgimento%20dei%20concorsi%20per%20laccesso%20alla%20carriera%20di%20concetto%20dei%20convitti%20nazionali%20e%20degli%20educandati%20femminili%20dello%20Stato.md) ha disposto (con l'art. 6, comma 1) che "Sono abrogate le disposizioni del titolo secondo, capi secondo e terzo, del [regio decreto 1 settembre 1925, n. 2009](Regolamento%20per%20i%20Convitti%20nazionali.%20025U2009.md), nella parte relativa al personale di economato dei convitti nazionali".
 
 ### Art. 42.
 
@@ -481,7 +481,7 @@ Nel concorso per posti di istitutore, l'esame consta di una prova scritta, di un
 
 AGGIORNAMENTO (5)
 
-Il [D.P.R. 27 giugno 1962, n. 1437](../DPR/Approvazione%20del%20regolamento%20per%20lo%20svolgimento%20dei%20concorsi%20per%20laccesso%20alla%20carriera%20di%20concetto%20dei%20convitti%20nazionali%20e%20degli%20educandati%20femminili%20dello%20Stato.md) ha disposto (con l'art. 6, comma 1) che "Sono abrogate le disposizioni del titolo secondo, capi secondo e terzo, del [regio decreto 1 settembre 1925, n. 2009](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-09-01;2009), nella parte relativa al personale di economato dei convitti nazionali".
+Il [D.P.R. 27 giugno 1962, n. 1437](../DPR/Approvazione%20del%20regolamento%20per%20lo%20svolgimento%20dei%20concorsi%20per%20laccesso%20alla%20carriera%20di%20concetto%20dei%20convitti%20nazionali%20e%20degli%20educandati%20femminili%20dello%20Stato.md) ha disposto (con l'art. 6, comma 1) che "Sono abrogate le disposizioni del titolo secondo, capi secondo e terzo, del [regio decreto 1 settembre 1925, n. 2009](Regolamento%20per%20i%20Convitti%20nazionali.%20025U2009.md), nella parte relativa al personale di economato dei convitti nazionali".
 
 ### Art. 43.
 
@@ -492,7 +492,7 @@ I programmi d'esame sono stabiliti con decreto del Ministro della pubblica istru
 
 AGGIORNAMENTO (5)
 
-Il [D.P.R. 27 giugno 1962, n. 1437](../DPR/Approvazione%20del%20regolamento%20per%20lo%20svolgimento%20dei%20concorsi%20per%20laccesso%20alla%20carriera%20di%20concetto%20dei%20convitti%20nazionali%20e%20degli%20educandati%20femminili%20dello%20Stato.md) ha disposto (con l'art. 6, comma 1) che "Sono abrogate le disposizioni del titolo secondo, capi secondo e terzo, del [regio decreto 1 settembre 1925, n. 2009](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-09-01;2009), nella parte relativa al personale di economato dei convitti nazionali".
+Il [D.P.R. 27 giugno 1962, n. 1437](../DPR/Approvazione%20del%20regolamento%20per%20lo%20svolgimento%20dei%20concorsi%20per%20laccesso%20alla%20carriera%20di%20concetto%20dei%20convitti%20nazionali%20e%20degli%20educandati%20femminili%20dello%20Stato.md) ha disposto (con l'art. 6, comma 1) che "Sono abrogate le disposizioni del titolo secondo, capi secondo e terzo, del [regio decreto 1 settembre 1925, n. 2009](Regolamento%20per%20i%20Convitti%20nazionali.%20025U2009.md), nella parte relativa al personale di economato dei convitti nazionali".
 
 ### Art. 44.
 
@@ -503,7 +503,7 @@ Tutte le prove d'esame hanno luogo in Roma, nei locali che sono designati dal Mi
 
 AGGIORNAMENTO (5)
 
-Il [D.P.R. 27 giugno 1962, n. 1437](../DPR/Approvazione%20del%20regolamento%20per%20lo%20svolgimento%20dei%20concorsi%20per%20laccesso%20alla%20carriera%20di%20concetto%20dei%20convitti%20nazionali%20e%20degli%20educandati%20femminili%20dello%20Stato.md) ha disposto (con l'art. 6, comma 1) che "Sono abrogate le disposizioni del titolo secondo, capi secondo e terzo, del [regio decreto 1 settembre 1925, n. 2009](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-09-01;2009), nella parte relativa al personale di economato dei convitti nazionali".
+Il [D.P.R. 27 giugno 1962, n. 1437](../DPR/Approvazione%20del%20regolamento%20per%20lo%20svolgimento%20dei%20concorsi%20per%20laccesso%20alla%20carriera%20di%20concetto%20dei%20convitti%20nazionali%20e%20degli%20educandati%20femminili%20dello%20Stato.md) ha disposto (con l'art. 6, comma 1) che "Sono abrogate le disposizioni del titolo secondo, capi secondo e terzo, del [regio decreto 1 settembre 1925, n. 2009](Regolamento%20per%20i%20Convitti%20nazionali.%20025U2009.md), nella parte relativa al personale di economato dei convitti nazionali".
 
 ### Art. 45.
 
@@ -524,7 +524,7 @@ Per i concorsi a posti di istitutore e di vice-economo, ognuno dei commissari di
 
 AGGIORNAMENTO (5)
 
-Il [D.P.R. 27 giugno 1962, n. 1437](../DPR/Approvazione%20del%20regolamento%20per%20lo%20svolgimento%20dei%20concorsi%20per%20laccesso%20alla%20carriera%20di%20concetto%20dei%20convitti%20nazionali%20e%20degli%20educandati%20femminili%20dello%20Stato.md) ha disposto (con l'art. 6, comma 1) che "Sono abrogate le disposizioni del titolo secondo, capi secondo e terzo, del [regio decreto 1 settembre 1925, n. 2009](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-09-01;2009), nella parte relativa al personale di economato dei convitti nazionali".
+Il [D.P.R. 27 giugno 1962, n. 1437](../DPR/Approvazione%20del%20regolamento%20per%20lo%20svolgimento%20dei%20concorsi%20per%20laccesso%20alla%20carriera%20di%20concetto%20dei%20convitti%20nazionali%20e%20degli%20educandati%20femminili%20dello%20Stato.md) ha disposto (con l'art. 6, comma 1) che "Sono abrogate le disposizioni del titolo secondo, capi secondo e terzo, del [regio decreto 1 settembre 1925, n. 2009](Regolamento%20per%20i%20Convitti%20nazionali.%20025U2009.md), nella parte relativa al personale di economato dei convitti nazionali".
 
 ### Art. 46.
 
@@ -535,7 +535,7 @@ Per il concorso ai posti di maestro elementare, ogni commissario dispone comples
 
 AGGIORNAMENTO (5)
 
-Il [D.P.R. 27 giugno 1962, n. 1437](../DPR/Approvazione%20del%20regolamento%20per%20lo%20svolgimento%20dei%20concorsi%20per%20laccesso%20alla%20carriera%20di%20concetto%20dei%20convitti%20nazionali%20e%20degli%20educandati%20femminili%20dello%20Stato.md) ha disposto (con l'art. 6, comma 1) che "Sono abrogate le disposizioni del titolo secondo, capi secondo e terzo, del [regio decreto 1 settembre 1925, n. 2009](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-09-01;2009), nella parte relativa al personale di economato dei convitti nazionali".
+Il [D.P.R. 27 giugno 1962, n. 1437](../DPR/Approvazione%20del%20regolamento%20per%20lo%20svolgimento%20dei%20concorsi%20per%20laccesso%20alla%20carriera%20di%20concetto%20dei%20convitti%20nazionali%20e%20degli%20educandati%20femminili%20dello%20Stato.md) ha disposto (con l'art. 6, comma 1) che "Sono abrogate le disposizioni del titolo secondo, capi secondo e terzo, del [regio decreto 1 settembre 1925, n. 2009](Regolamento%20per%20i%20Convitti%20nazionali.%20025U2009.md), nella parte relativa al personale di economato dei convitti nazionali".
 
 ### Art. 47.
 
@@ -548,7 +548,7 @@ La scelta del tema per la prova scritta e' rimessa alla commissione esaminatrice
 
 AGGIORNAMENTO (5)
 
-Il [D.P.R. 27 giugno 1962, n. 1437](../DPR/Approvazione%20del%20regolamento%20per%20lo%20svolgimento%20dei%20concorsi%20per%20laccesso%20alla%20carriera%20di%20concetto%20dei%20convitti%20nazionali%20e%20degli%20educandati%20femminili%20dello%20Stato.md) ha disposto (con l'art. 6, comma 1) che "Sono abrogate le disposizioni del titolo secondo, capi secondo e terzo, del [regio decreto 1 settembre 1925, n. 2009](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-09-01;2009), nella parte relativa al personale di economato dei convitti nazionali".
+Il [D.P.R. 27 giugno 1962, n. 1437](../DPR/Approvazione%20del%20regolamento%20per%20lo%20svolgimento%20dei%20concorsi%20per%20laccesso%20alla%20carriera%20di%20concetto%20dei%20convitti%20nazionali%20e%20degli%20educandati%20femminili%20dello%20Stato.md) ha disposto (con l'art. 6, comma 1) che "Sono abrogate le disposizioni del titolo secondo, capi secondo e terzo, del [regio decreto 1 settembre 1925, n. 2009](Regolamento%20per%20i%20Convitti%20nazionali.%20025U2009.md), nella parte relativa al personale di economato dei convitti nazionali".
 
 ### Art. 48.
 
@@ -559,7 +559,7 @@ I candidati debbono dimostrare la loro identita' personale, al momento di ognuna
 
 AGGIORNAMENTO (5)
 
-Il [D.P.R. 27 giugno 1962, n. 1437](../DPR/Approvazione%20del%20regolamento%20per%20lo%20svolgimento%20dei%20concorsi%20per%20laccesso%20alla%20carriera%20di%20concetto%20dei%20convitti%20nazionali%20e%20degli%20educandati%20femminili%20dello%20Stato.md) ha disposto (con l'art. 6, comma 1) che "Sono abrogate le disposizioni del titolo secondo, capi secondo e terzo, del [regio decreto 1 settembre 1925, n. 2009](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-09-01;2009), nella parte relativa al personale di economato dei convitti nazionali".
+Il [D.P.R. 27 giugno 1962, n. 1437](../DPR/Approvazione%20del%20regolamento%20per%20lo%20svolgimento%20dei%20concorsi%20per%20laccesso%20alla%20carriera%20di%20concetto%20dei%20convitti%20nazionali%20e%20degli%20educandati%20femminili%20dello%20Stato.md) ha disposto (con l'art. 6, comma 1) che "Sono abrogate le disposizioni del titolo secondo, capi secondo e terzo, del [regio decreto 1 settembre 1925, n. 2009](Regolamento%20per%20i%20Convitti%20nazionali.%20025U2009.md), nella parte relativa al personale di economato dei convitti nazionali".
 
 ### Art. 49.
 
@@ -571,7 +571,7 @@ Commissari speciali per la vigilanza possono essere aggregati dal Ministro alla 
 
 AGGIORNAMENTO (5)
 
-Il [D.P.R. 27 giugno 1962, n. 1437](../DPR/Approvazione%20del%20regolamento%20per%20lo%20svolgimento%20dei%20concorsi%20per%20laccesso%20alla%20carriera%20di%20concetto%20dei%20convitti%20nazionali%20e%20degli%20educandati%20femminili%20dello%20Stato.md) ha disposto (con l'art. 6, comma 1) che "Sono abrogate le disposizioni del titolo secondo, capi secondo e terzo, del [regio decreto 1 settembre 1925, n. 2009](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-09-01;2009), nella parte relativa al personale di economato dei convitti nazionali".
+Il [D.P.R. 27 giugno 1962, n. 1437](../DPR/Approvazione%20del%20regolamento%20per%20lo%20svolgimento%20dei%20concorsi%20per%20laccesso%20alla%20carriera%20di%20concetto%20dei%20convitti%20nazionali%20e%20degli%20educandati%20femminili%20dello%20Stato.md) ha disposto (con l'art. 6, comma 1) che "Sono abrogate le disposizioni del titolo secondo, capi secondo e terzo, del [regio decreto 1 settembre 1925, n. 2009](Regolamento%20per%20i%20Convitti%20nazionali.%20025U2009.md), nella parte relativa al personale di economato dei convitti nazionali".
 
 ### Art. 50.
 
@@ -582,7 +582,7 @@ Cosi' la minuta della prova scritta come la buona copia debbono essere stese su 
 
 AGGIORNAMENTO (5)
 
-Il [D.P.R. 27 giugno 1962, n. 1437](../DPR/Approvazione%20del%20regolamento%20per%20lo%20svolgimento%20dei%20concorsi%20per%20laccesso%20alla%20carriera%20di%20concetto%20dei%20convitti%20nazionali%20e%20degli%20educandati%20femminili%20dello%20Stato.md) ha disposto (con l'art. 6, comma 1) che "Sono abrogate le disposizioni del titolo secondo, capi secondo e terzo, del [regio decreto 1 settembre 1925, n. 2009](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-09-01;2009), nella parte relativa al personale di economato dei convitti nazionali".
+Il [D.P.R. 27 giugno 1962, n. 1437](../DPR/Approvazione%20del%20regolamento%20per%20lo%20svolgimento%20dei%20concorsi%20per%20laccesso%20alla%20carriera%20di%20concetto%20dei%20convitti%20nazionali%20e%20degli%20educandati%20femminili%20dello%20Stato.md) ha disposto (con l'art. 6, comma 1) che "Sono abrogate le disposizioni del titolo secondo, capi secondo e terzo, del [regio decreto 1 settembre 1925, n. 2009](Regolamento%20per%20i%20Convitti%20nazionali.%20025U2009.md), nella parte relativa al personale di economato dei convitti nazionali".
 
 ### Art. 51.
 
@@ -599,7 +599,7 @@ Compiuto il proprio lavoro, ciascun concorrente, senza apporvi la propria firma 
 
 AGGIORNAMENTO (5)
 
-Il [D.P.R. 27 giugno 1962, n. 1437](../DPR/Approvazione%20del%20regolamento%20per%20lo%20svolgimento%20dei%20concorsi%20per%20laccesso%20alla%20carriera%20di%20concetto%20dei%20convitti%20nazionali%20e%20degli%20educandati%20femminili%20dello%20Stato.md) ha disposto (con l'art. 6, comma 1) che "Sono abrogate le disposizioni del titolo secondo, capi secondo e terzo, del [regio decreto 1 settembre 1925, n. 2009](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-09-01;2009), nella parte relativa al personale di economato dei convitti nazionali".
+Il [D.P.R. 27 giugno 1962, n. 1437](../DPR/Approvazione%20del%20regolamento%20per%20lo%20svolgimento%20dei%20concorsi%20per%20laccesso%20alla%20carriera%20di%20concetto%20dei%20convitti%20nazionali%20e%20degli%20educandati%20femminili%20dello%20Stato.md) ha disposto (con l'art. 6, comma 1) che "Sono abrogate le disposizioni del titolo secondo, capi secondo e terzo, del [regio decreto 1 settembre 1925, n. 2009](Regolamento%20per%20i%20Convitti%20nazionali.%20025U2009.md), nella parte relativa al personale di economato dei convitti nazionali".
 
 ### Art. 52.
 
@@ -612,7 +612,7 @@ Il presidente della commissione esaminatrice dispone tutto cio' che e' necessari
 
 AGGIORNAMENTO (5)
 
-Il [D.P.R. 27 giugno 1962, n. 1437](../DPR/Approvazione%20del%20regolamento%20per%20lo%20svolgimento%20dei%20concorsi%20per%20laccesso%20alla%20carriera%20di%20concetto%20dei%20convitti%20nazionali%20e%20degli%20educandati%20femminili%20dello%20Stato.md) ha disposto (con l'art. 6, comma 1) che "Sono abrogate le disposizioni del titolo secondo, capi secondo e terzo, del [regio decreto 1 settembre 1925, n. 2009](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-09-01;2009), nella parte relativa al personale di economato dei convitti nazionali".
+Il [D.P.R. 27 giugno 1962, n. 1437](../DPR/Approvazione%20del%20regolamento%20per%20lo%20svolgimento%20dei%20concorsi%20per%20laccesso%20alla%20carriera%20di%20concetto%20dei%20convitti%20nazionali%20e%20degli%20educandati%20femminili%20dello%20Stato.md) ha disposto (con l'art. 6, comma 1) che "Sono abrogate le disposizioni del titolo secondo, capi secondo e terzo, del [regio decreto 1 settembre 1925, n. 2009](Regolamento%20per%20i%20Convitti%20nazionali.%20025U2009.md), nella parte relativa al personale di economato dei convitti nazionali".
 
 ### Art. 53.
 
@@ -623,7 +623,7 @@ In caso di gravi trasgressioni alle norme del presente regolamento, il president
 
 AGGIORNAMENTO (5)
 
-Il [D.P.R. 27 giugno 1962, n. 1437](../DPR/Approvazione%20del%20regolamento%20per%20lo%20svolgimento%20dei%20concorsi%20per%20laccesso%20alla%20carriera%20di%20concetto%20dei%20convitti%20nazionali%20e%20degli%20educandati%20femminili%20dello%20Stato.md) ha disposto (con l'art. 6, comma 1) che "Sono abrogate le disposizioni del titolo secondo, capi secondo e terzo, del [regio decreto 1 settembre 1925, n. 2009](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-09-01;2009), nella parte relativa al personale di economato dei convitti nazionali".
+Il [D.P.R. 27 giugno 1962, n. 1437](../DPR/Approvazione%20del%20regolamento%20per%20lo%20svolgimento%20dei%20concorsi%20per%20laccesso%20alla%20carriera%20di%20concetto%20dei%20convitti%20nazionali%20e%20degli%20educandati%20femminili%20dello%20Stato.md) ha disposto (con l'art. 6, comma 1) che "Sono abrogate le disposizioni del titolo secondo, capi secondo e terzo, del [regio decreto 1 settembre 1925, n. 2009](Regolamento%20per%20i%20Convitti%20nazionali.%20025U2009.md), nella parte relativa al personale di economato dei convitti nazionali".
 
 ### Art. 54.
 
@@ -636,7 +636,7 @@ La commissione esaminatrice nel giorno in cui si raduna per iniziare la revision
 
 AGGIORNAMENTO (5)
 
-Il [D.P.R. 27 giugno 1962, n. 1437](../DPR/Approvazione%20del%20regolamento%20per%20lo%20svolgimento%20dei%20concorsi%20per%20laccesso%20alla%20carriera%20di%20concetto%20dei%20convitti%20nazionali%20e%20degli%20educandati%20femminili%20dello%20Stato.md) ha disposto (con l'art. 6, comma 1) che "Sono abrogate le disposizioni del titolo secondo, capi secondo e terzo, del [regio decreto 1 settembre 1925, n. 2009](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-09-01;2009), nella parte relativa al personale di economato dei convitti nazionali".
+Il [D.P.R. 27 giugno 1962, n. 1437](../DPR/Approvazione%20del%20regolamento%20per%20lo%20svolgimento%20dei%20concorsi%20per%20laccesso%20alla%20carriera%20di%20concetto%20dei%20convitti%20nazionali%20e%20degli%20educandati%20femminili%20dello%20Stato.md) ha disposto (con l'art. 6, comma 1) che "Sono abrogate le disposizioni del titolo secondo, capi secondo e terzo, del [regio decreto 1 settembre 1925, n. 2009](Regolamento%20per%20i%20Convitti%20nazionali.%20025U2009.md), nella parte relativa al personale di economato dei convitti nazionali".
 
 ### Art. 55.
 
@@ -647,7 +647,7 @@ I concorrenti che non raggiungano almeno i sette decimi dei voti assegnati alla 
 
 AGGIORNAMENTO (5)
 
-Il [D.P.R. 27 giugno 1962, n. 1437](../DPR/Approvazione%20del%20regolamento%20per%20lo%20svolgimento%20dei%20concorsi%20per%20laccesso%20alla%20carriera%20di%20concetto%20dei%20convitti%20nazionali%20e%20degli%20educandati%20femminili%20dello%20Stato.md) ha disposto (con l'art. 6, comma 1) che "Sono abrogate le disposizioni del titolo secondo, capi secondo e terzo, del [regio decreto 1 settembre 1925, n. 2009](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-09-01;2009), nella parte relativa al personale di economato dei convitti nazionali".
+Il [D.P.R. 27 giugno 1962, n. 1437](../DPR/Approvazione%20del%20regolamento%20per%20lo%20svolgimento%20dei%20concorsi%20per%20laccesso%20alla%20carriera%20di%20concetto%20dei%20convitti%20nazionali%20e%20degli%20educandati%20femminili%20dello%20Stato.md) ha disposto (con l'art. 6, comma 1) che "Sono abrogate le disposizioni del titolo secondo, capi secondo e terzo, del [regio decreto 1 settembre 1925, n. 2009](Regolamento%20per%20i%20Convitti%20nazionali.%20025U2009.md), nella parte relativa al personale di economato dei convitti nazionali".
 
 ### Art. 56.
 
@@ -660,7 +660,7 @@ La Commissione stabilisce l'ordine con cui sono chiamati alla prova orale e alla
 
 AGGIORNAMENTO (5)
 
-Il [D.P.R. 27 giugno 1962, n. 1437](../DPR/Approvazione%20del%20regolamento%20per%20lo%20svolgimento%20dei%20concorsi%20per%20laccesso%20alla%20carriera%20di%20concetto%20dei%20convitti%20nazionali%20e%20degli%20educandati%20femminili%20dello%20Stato.md) ha disposto (con l'art. 6, comma 1) che "Sono abrogate le disposizioni del titolo secondo, capi secondo e terzo, del [regio decreto 1 settembre 1925, n. 2009](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-09-01;2009), nella parte relativa al personale di economato dei convitti nazionali".
+Il [D.P.R. 27 giugno 1962, n. 1437](../DPR/Approvazione%20del%20regolamento%20per%20lo%20svolgimento%20dei%20concorsi%20per%20laccesso%20alla%20carriera%20di%20concetto%20dei%20convitti%20nazionali%20e%20degli%20educandati%20femminili%20dello%20Stato.md) ha disposto (con l'art. 6, comma 1) che "Sono abrogate le disposizioni del titolo secondo, capi secondo e terzo, del [regio decreto 1 settembre 1925, n. 2009](Regolamento%20per%20i%20Convitti%20nazionali.%20025U2009.md), nella parte relativa al personale di economato dei convitti nazionali".
 
 ### Art. 57. — null
 
@@ -670,7 +670,7 @@ Il [D.P.R. 27 giugno 1962, n. 1437](../DPR/Approvazione%20del%20regolamento%20pe
 
 AGGIORNAMENTO (5)
 
-Il [D.P.R. 27 giugno 1962, n. 1437](../DPR/Approvazione%20del%20regolamento%20per%20lo%20svolgimento%20dei%20concorsi%20per%20laccesso%20alla%20carriera%20di%20concetto%20dei%20convitti%20nazionali%20e%20degli%20educandati%20femminili%20dello%20Stato.md) ha disposto (con l'art. 6, comma 1) che "Sono abrogate le disposizioni del titolo secondo, capi secondo e terzo, del [regio decreto 1 settembre 1925, n. 2009](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-09-01;2009), nella parte relativa al personale di economato dei convitti nazionali".
+Il [D.P.R. 27 giugno 1962, n. 1437](../DPR/Approvazione%20del%20regolamento%20per%20lo%20svolgimento%20dei%20concorsi%20per%20laccesso%20alla%20carriera%20di%20concetto%20dei%20convitti%20nazionali%20e%20degli%20educandati%20femminili%20dello%20Stato.md) ha disposto (con l'art. 6, comma 1) che "Sono abrogate le disposizioni del titolo secondo, capi secondo e terzo, del [regio decreto 1 settembre 1925, n. 2009](Regolamento%20per%20i%20Convitti%20nazionali.%20025U2009.md), nella parte relativa al personale di economato dei convitti nazionali".
 
 ### Art. 58.
 
@@ -687,7 +687,7 @@ Compiuta la valutazione delle prove d'esame e dei titoli, la commissione forma l
 
 AGGIORNAMENTO (5)
 
-Il [D.P.R. 27 giugno 1962, n. 1437](../DPR/Approvazione%20del%20regolamento%20per%20lo%20svolgimento%20dei%20concorsi%20per%20laccesso%20alla%20carriera%20di%20concetto%20dei%20convitti%20nazionali%20e%20degli%20educandati%20femminili%20dello%20Stato.md) ha disposto (con l'art. 6, comma 1) che "Sono abrogate le disposizioni del titolo secondo, capi secondo e terzo, del [regio decreto 1 settembre 1925, n. 2009](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-09-01;2009), nella parte relativa al personale di economato dei convitti nazionali".
+Il [D.P.R. 27 giugno 1962, n. 1437](../DPR/Approvazione%20del%20regolamento%20per%20lo%20svolgimento%20dei%20concorsi%20per%20laccesso%20alla%20carriera%20di%20concetto%20dei%20convitti%20nazionali%20e%20degli%20educandati%20femminili%20dello%20Stato.md) ha disposto (con l'art. 6, comma 1) che "Sono abrogate le disposizioni del titolo secondo, capi secondo e terzo, del [regio decreto 1 settembre 1925, n. 2009](Regolamento%20per%20i%20Convitti%20nazionali.%20025U2009.md), nella parte relativa al personale di economato dei convitti nazionali".
 
 ### Art. 59. — null
 
@@ -700,7 +700,7 @@ Il decreto ministeriale che approva e rende esecutiva la graduatoria e' pubblica
 
 AGGIORNAMENTO (5)
 
-Il [D.P.R. 27 giugno 1962, n. 1437](../DPR/Approvazione%20del%20regolamento%20per%20lo%20svolgimento%20dei%20concorsi%20per%20laccesso%20alla%20carriera%20di%20concetto%20dei%20convitti%20nazionali%20e%20degli%20educandati%20femminili%20dello%20Stato.md) ha disposto (con l'art. 6, comma 1) che "Sono abrogate le disposizioni del titolo secondo, capi secondo e terzo, del [regio decreto 1 settembre 1925, n. 2009](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-09-01;2009), nella parte relativa al personale di economato dei convitti nazionali".
+Il [D.P.R. 27 giugno 1962, n. 1437](../DPR/Approvazione%20del%20regolamento%20per%20lo%20svolgimento%20dei%20concorsi%20per%20laccesso%20alla%20carriera%20di%20concetto%20dei%20convitti%20nazionali%20e%20degli%20educandati%20femminili%20dello%20Stato.md) ha disposto (con l'art. 6, comma 1) che "Sono abrogate le disposizioni del titolo secondo, capi secondo e terzo, del [regio decreto 1 settembre 1925, n. 2009](Regolamento%20per%20i%20Convitti%20nazionali.%20025U2009.md), nella parte relativa al personale di economato dei convitti nazionali".
 
 ### Art. 60.
 
@@ -711,7 +711,7 @@ Le nomine dei vincitori ai posti rispettivamente disponibili di istitutori, di v
 
 AGGIORNAMENTO (5)
 
-Il [D.P.R. 27 giugno 1962, n. 1437](../DPR/Approvazione%20del%20regolamento%20per%20lo%20svolgimento%20dei%20concorsi%20per%20laccesso%20alla%20carriera%20di%20concetto%20dei%20convitti%20nazionali%20e%20degli%20educandati%20femminili%20dello%20Stato.md) ha disposto (con l'art. 6, comma 1) che "Sono abrogate le disposizioni del titolo secondo, capi secondo e terzo, del [regio decreto 1 settembre 1925, n. 2009](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-09-01;2009), nella parte relativa al personale di economato dei convitti nazionali".
+Il [D.P.R. 27 giugno 1962, n. 1437](../DPR/Approvazione%20del%20regolamento%20per%20lo%20svolgimento%20dei%20concorsi%20per%20laccesso%20alla%20carriera%20di%20concetto%20dei%20convitti%20nazionali%20e%20degli%20educandati%20femminili%20dello%20Stato.md) ha disposto (con l'art. 6, comma 1) che "Sono abrogate le disposizioni del titolo secondo, capi secondo e terzo, del [regio decreto 1 settembre 1925, n. 2009](Regolamento%20per%20i%20Convitti%20nazionali.%20025U2009.md), nella parte relativa al personale di economato dei convitti nazionali".
 
 ### Art. 61.
 
@@ -724,7 +724,7 @@ Il vincitore ha diritto ad una sola offerta di nomina. Gli effetti dei concorsi 
 
 AGGIORNAMENTO (5)
 
-Il [D.P.R. 27 giugno 1962, n. 1437](../DPR/Approvazione%20del%20regolamento%20per%20lo%20svolgimento%20dei%20concorsi%20per%20laccesso%20alla%20carriera%20di%20concetto%20dei%20convitti%20nazionali%20e%20degli%20educandati%20femminili%20dello%20Stato.md) ha disposto (con l'art. 6, comma 1) che "Sono abrogate le disposizioni del titolo secondo, capi secondo e terzo, del [regio decreto 1 settembre 1925, n. 2009](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-09-01;2009), nella parte relativa al personale di economato dei convitti nazionali".
+Il [D.P.R. 27 giugno 1962, n. 1437](../DPR/Approvazione%20del%20regolamento%20per%20lo%20svolgimento%20dei%20concorsi%20per%20laccesso%20alla%20carriera%20di%20concetto%20dei%20convitti%20nazionali%20e%20degli%20educandati%20femminili%20dello%20Stato.md) ha disposto (con l'art. 6, comma 1) che "Sono abrogate le disposizioni del titolo secondo, capi secondo e terzo, del [regio decreto 1 settembre 1925, n. 2009](Regolamento%20per%20i%20Convitti%20nazionali.%20025U2009.md), nella parte relativa al personale di economato dei convitti nazionali".
 
 ### Art. 62.
 
@@ -735,7 +735,7 @@ L'accettazione della nomina non puo' essere in nessun modo condizionata. Il vinc
 
 AGGIORNAMENTO (5)
 
-Il [D.P.R. 27 giugno 1962, n. 1437](../DPR/Approvazione%20del%20regolamento%20per%20lo%20svolgimento%20dei%20concorsi%20per%20laccesso%20alla%20carriera%20di%20concetto%20dei%20convitti%20nazionali%20e%20degli%20educandati%20femminili%20dello%20Stato.md) ha disposto (con l'art. 6, comma 1) che "Sono abrogate le disposizioni del titolo secondo, capi secondo e terzo, del [regio decreto 1 settembre 1925, n. 2009](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-09-01;2009), nella parte relativa al personale di economato dei convitti nazionali".
+Il [D.P.R. 27 giugno 1962, n. 1437](../DPR/Approvazione%20del%20regolamento%20per%20lo%20svolgimento%20dei%20concorsi%20per%20laccesso%20alla%20carriera%20di%20concetto%20dei%20convitti%20nazionali%20e%20degli%20educandati%20femminili%20dello%20Stato.md) ha disposto (con l'art. 6, comma 1) che "Sono abrogate le disposizioni del titolo secondo, capi secondo e terzo, del [regio decreto 1 settembre 1925, n. 2009](Regolamento%20per%20i%20Convitti%20nazionali.%20025U2009.md), nella parte relativa al personale di economato dei convitti nazionali".
 
 ### Art. 63.
 
@@ -746,7 +746,7 @@ L'assegnazione della sede e' fatta, d'ufficio, nell'atto stesso in cui si offre 
 
 AGGIORNAMENTO (5)
 
-Il [D.P.R. 27 giugno 1962, n. 1437](../DPR/Approvazione%20del%20regolamento%20per%20lo%20svolgimento%20dei%20concorsi%20per%20laccesso%20alla%20carriera%20di%20concetto%20dei%20convitti%20nazionali%20e%20degli%20educandati%20femminili%20dello%20Stato.md) ha disposto (con l'art. 6, comma 1) che "Sono abrogate le disposizioni del titolo secondo, capi secondo e terzo, del [regio decreto 1 settembre 1925, n. 2009](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-09-01;2009), nella parte relativa al personale di economato dei convitti nazionali".
+Il [D.P.R. 27 giugno 1962, n. 1437](../DPR/Approvazione%20del%20regolamento%20per%20lo%20svolgimento%20dei%20concorsi%20per%20laccesso%20alla%20carriera%20di%20concetto%20dei%20convitti%20nazionali%20e%20degli%20educandati%20femminili%20dello%20Stato.md) ha disposto (con l'art. 6, comma 1) che "Sono abrogate le disposizioni del titolo secondo, capi secondo e terzo, del [regio decreto 1 settembre 1925, n. 2009](Regolamento%20per%20i%20Convitti%20nazionali.%20025U2009.md), nella parte relativa al personale di economato dei convitti nazionali".
 
 ### Art. 64.
 
@@ -759,7 +759,7 @@ I vincitori, che accettano la nomina, sono assunti rispettivamente ai posti di i
 
 AGGIORNAMENTO (5)
 
-Il [D.P.R. 27 giugno 1962, n. 1437](../DPR/Approvazione%20del%20regolamento%20per%20lo%20svolgimento%20dei%20concorsi%20per%20laccesso%20alla%20carriera%20di%20concetto%20dei%20convitti%20nazionali%20e%20degli%20educandati%20femminili%20dello%20Stato.md) ha disposto (con l'art. 6, comma 1) che "Sono abrogate le disposizioni del titolo secondo, capi secondo e terzo, del [regio decreto 1 settembre 1925, n. 2009](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-09-01;2009), nella parte relativa al personale di economato dei convitti nazionali".
+Il [D.P.R. 27 giugno 1962, n. 1437](../DPR/Approvazione%20del%20regolamento%20per%20lo%20svolgimento%20dei%20concorsi%20per%20laccesso%20alla%20carriera%20di%20concetto%20dei%20convitti%20nazionali%20e%20degli%20educandati%20femminili%20dello%20Stato.md) ha disposto (con l'art. 6, comma 1) che "Sono abrogate le disposizioni del titolo secondo, capi secondo e terzo, del [regio decreto 1 settembre 1925, n. 2009](Regolamento%20per%20i%20Convitti%20nazionali.%20025U2009.md), nella parte relativa al personale di economato dei convitti nazionali".
 
 ### Art. 65.
 
@@ -772,7 +772,7 @@ Allo scadere del periodo di prova il rettore del Convitto nazionale invia una pa
 
 AGGIORNAMENTO (5)
 
-Il [D.P.R. 27 giugno 1962, n. 1437](../DPR/Approvazione%20del%20regolamento%20per%20lo%20svolgimento%20dei%20concorsi%20per%20laccesso%20alla%20carriera%20di%20concetto%20dei%20convitti%20nazionali%20e%20degli%20educandati%20femminili%20dello%20Stato.md) ha disposto (con l'art. 6, comma 1) che "Sono abrogate le disposizioni del titolo secondo, capi secondo e terzo, del [regio decreto 1 settembre 1925, n. 2009](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-09-01;2009), nella parte relativa al personale di economato dei convitti nazionali".
+Il [D.P.R. 27 giugno 1962, n. 1437](../DPR/Approvazione%20del%20regolamento%20per%20lo%20svolgimento%20dei%20concorsi%20per%20laccesso%20alla%20carriera%20di%20concetto%20dei%20convitti%20nazionali%20e%20degli%20educandati%20femminili%20dello%20Stato.md) ha disposto (con l'art. 6, comma 1) che "Sono abrogate le disposizioni del titolo secondo, capi secondo e terzo, del [regio decreto 1 settembre 1925, n. 2009](Regolamento%20per%20i%20Convitti%20nazionali.%20025U2009.md), nella parte relativa al personale di economato dei convitti nazionali".
 
 ### Art. 66.
 
@@ -783,7 +783,7 @@ Per quant'altro non sia espressamente disposto nei precedenti articoli, si appli
 
 AGGIORNAMENTO (5)
 
-Il [D.P.R. 27 giugno 1962, n. 1437](../DPR/Approvazione%20del%20regolamento%20per%20lo%20svolgimento%20dei%20concorsi%20per%20laccesso%20alla%20carriera%20di%20concetto%20dei%20convitti%20nazionali%20e%20degli%20educandati%20femminili%20dello%20Stato.md) ha disposto (con l'art. 6, comma 1) che "Sono abrogate le disposizioni del titolo secondo, capi secondo e terzo, del [regio decreto 1 settembre 1925, n. 2009](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-09-01;2009), nella parte relativa al personale di economato dei convitti nazionali".
+Il [D.P.R. 27 giugno 1962, n. 1437](../DPR/Approvazione%20del%20regolamento%20per%20lo%20svolgimento%20dei%20concorsi%20per%20laccesso%20alla%20carriera%20di%20concetto%20dei%20convitti%20nazionali%20e%20degli%20educandati%20femminili%20dello%20Stato.md) ha disposto (con l'art. 6, comma 1) che "Sono abrogate le disposizioni del titolo secondo, capi secondo e terzo, del [regio decreto 1 settembre 1925, n. 2009](Regolamento%20per%20i%20Convitti%20nazionali.%20025U2009.md), nella parte relativa al personale di economato dei convitti nazionali".
 
 ### Art. 67.
 
@@ -794,7 +794,7 @@ Compiuto favorevolmente il periodo di prova, gli straordinari sono assunti defin
 
 AGGIORNAMENTO (5)
 
-Il [D.P.R. 27 giugno 1962, n. 1437](../DPR/Approvazione%20del%20regolamento%20per%20lo%20svolgimento%20dei%20concorsi%20per%20laccesso%20alla%20carriera%20di%20concetto%20dei%20convitti%20nazionali%20e%20degli%20educandati%20femminili%20dello%20Stato.md) ha disposto (con l'art. 6, comma 1) che "Sono abrogate le disposizioni del titolo secondo, capi secondo e terzo, del [regio decreto 1 settembre 1925, n. 2009](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-09-01;2009), nella parte relativa al personale di economato dei convitti nazionali".
+Il [D.P.R. 27 giugno 1962, n. 1437](../DPR/Approvazione%20del%20regolamento%20per%20lo%20svolgimento%20dei%20concorsi%20per%20laccesso%20alla%20carriera%20di%20concetto%20dei%20convitti%20nazionali%20e%20degli%20educandati%20femminili%20dello%20Stato.md) ha disposto (con l'art. 6, comma 1) che "Sono abrogate le disposizioni del titolo secondo, capi secondo e terzo, del [regio decreto 1 settembre 1925, n. 2009](Regolamento%20per%20i%20Convitti%20nazionali.%20025U2009.md), nella parte relativa al personale di economato dei convitti nazionali".
 
 ### Art. 68.
 
@@ -805,7 +805,7 @@ Gli straordinari al momento dell'immissione in servizio e appena ottenuta la nom
 
 AGGIORNAMENTO (5)
 
-Il [D.P.R. 27 giugno 1962, n. 1437](../DPR/Approvazione%20del%20regolamento%20per%20lo%20svolgimento%20dei%20concorsi%20per%20laccesso%20alla%20carriera%20di%20concetto%20dei%20convitti%20nazionali%20e%20degli%20educandati%20femminili%20dello%20Stato.md) ha disposto (con l'art. 6, comma 1) che "Sono abrogate le disposizioni del titolo secondo, capi secondo e terzo, del [regio decreto 1 settembre 1925, n. 2009](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-09-01;2009), nella parte relativa al personale di economato dei convitti nazionali".
+Il [D.P.R. 27 giugno 1962, n. 1437](../DPR/Approvazione%20del%20regolamento%20per%20lo%20svolgimento%20dei%20concorsi%20per%20laccesso%20alla%20carriera%20di%20concetto%20dei%20convitti%20nazionali%20e%20degli%20educandati%20femminili%20dello%20Stato.md) ha disposto (con l'art. 6, comma 1) che "Sono abrogate le disposizioni del titolo secondo, capi secondo e terzo, del [regio decreto 1 settembre 1925, n. 2009](Regolamento%20per%20i%20Convitti%20nazionali.%20025U2009.md), nella parte relativa al personale di economato dei convitti nazionali".
 
 ## Delle promozioni.
 
@@ -822,7 +822,7 @@ Le note di qualifica per il personale direttivi, educativo e contabile addetto a
 
 AGGIORNAMENTO (5)
 
-Il [D.P.R. 27 giugno 1962, n. 1437](../DPR/Approvazione%20del%20regolamento%20per%20lo%20svolgimento%20dei%20concorsi%20per%20laccesso%20alla%20carriera%20di%20concetto%20dei%20convitti%20nazionali%20e%20degli%20educandati%20femminili%20dello%20Stato.md) ha disposto (con l'art. 6, comma 1) che "Sono abrogate le disposizioni del titolo secondo, capi secondo e terzo, del [regio decreto 1 settembre 1925, n. 2009](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-09-01;2009), nella parte relativa al personale di economato dei convitti nazionali".
+Il [D.P.R. 27 giugno 1962, n. 1437](../DPR/Approvazione%20del%20regolamento%20per%20lo%20svolgimento%20dei%20concorsi%20per%20laccesso%20alla%20carriera%20di%20concetto%20dei%20convitti%20nazionali%20e%20degli%20educandati%20femminili%20dello%20Stato.md) ha disposto (con l'art. 6, comma 1) che "Sono abrogate le disposizioni del titolo secondo, capi secondo e terzo, del [regio decreto 1 settembre 1925, n. 2009](Regolamento%20per%20i%20Convitti%20nazionali.%20025U2009.md), nella parte relativa al personale di economato dei convitti nazionali".
 
 ### Art. 70.
 
@@ -833,7 +833,7 @@ Tutte le promozioni nel personale direttivo, educativo e contabile dei Convitti 
 
 AGGIORNAMENTO (5)
 
-Il [D.P.R. 27 giugno 1962, n. 1437](../DPR/Approvazione%20del%20regolamento%20per%20lo%20svolgimento%20dei%20concorsi%20per%20laccesso%20alla%20carriera%20di%20concetto%20dei%20convitti%20nazionali%20e%20degli%20educandati%20femminili%20dello%20Stato.md) ha disposto (con l'art. 6, comma 1) che "Sono abrogate le disposizioni del titolo secondo, capi secondo e terzo, del [regio decreto 1 settembre 1925, n. 2009](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-09-01;2009), nella parte relativa al personale di economato dei convitti nazionali".
+Il [D.P.R. 27 giugno 1962, n. 1437](../DPR/Approvazione%20del%20regolamento%20per%20lo%20svolgimento%20dei%20concorsi%20per%20laccesso%20alla%20carriera%20di%20concetto%20dei%20convitti%20nazionali%20e%20degli%20educandati%20femminili%20dello%20Stato.md) ha disposto (con l'art. 6, comma 1) che "Sono abrogate le disposizioni del titolo secondo, capi secondo e terzo, del [regio decreto 1 settembre 1925, n. 2009](Regolamento%20per%20i%20Convitti%20nazionali.%20025U2009.md), nella parte relativa al personale di economato dei convitti nazionali".
 
 ### Art. 71.
 
@@ -844,7 +844,7 @@ Le promozioni al grado di maestro elementare di 1ª classe si conferiscono ai ma
 
 AGGIORNAMENTO (5)
 
-Il [D.P.R. 27 giugno 1962, n. 1437](../DPR/Approvazione%20del%20regolamento%20per%20lo%20svolgimento%20dei%20concorsi%20per%20laccesso%20alla%20carriera%20di%20concetto%20dei%20convitti%20nazionali%20e%20degli%20educandati%20femminili%20dello%20Stato.md) ha disposto (con l'art. 6, comma 1) che "Sono abrogate le disposizioni del titolo secondo, capi secondo e terzo, del [regio decreto 1 settembre 1925, n. 2009](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-09-01;2009), nella parte relativa al personale di economato dei convitti nazionali".
+Il [D.P.R. 27 giugno 1962, n. 1437](../DPR/Approvazione%20del%20regolamento%20per%20lo%20svolgimento%20dei%20concorsi%20per%20laccesso%20alla%20carriera%20di%20concetto%20dei%20convitti%20nazionali%20e%20degli%20educandati%20femminili%20dello%20Stato.md) ha disposto (con l'art. 6, comma 1) che "Sono abrogate le disposizioni del titolo secondo, capi secondo e terzo, del [regio decreto 1 settembre 1925, n. 2009](Regolamento%20per%20i%20Convitti%20nazionali.%20025U2009.md), nella parte relativa al personale di economato dei convitti nazionali".
 
 ### Art. 72.
 
@@ -855,7 +855,7 @@ Le promozioni ai gradi di istitutore di 1ª classe e di vice-economo di 1ª clas
 
 AGGIORNAMENTO (5)
 
-Il [D.P.R. 27 giugno 1962, n. 1437](../DPR/Approvazione%20del%20regolamento%20per%20lo%20svolgimento%20dei%20concorsi%20per%20laccesso%20alla%20carriera%20di%20concetto%20dei%20convitti%20nazionali%20e%20degli%20educandati%20femminili%20dello%20Stato.md) ha disposto (con l'art. 6, comma 1) che "Sono abrogate le disposizioni del titolo secondo, capi secondo e terzo, del [regio decreto 1 settembre 1925, n. 2009](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-09-01;2009), nella parte relativa al personale di economato dei convitti nazionali".
+Il [D.P.R. 27 giugno 1962, n. 1437](../DPR/Approvazione%20del%20regolamento%20per%20lo%20svolgimento%20dei%20concorsi%20per%20laccesso%20alla%20carriera%20di%20concetto%20dei%20convitti%20nazionali%20e%20degli%20educandati%20femminili%20dello%20Stato.md) ha disposto (con l'art. 6, comma 1) che "Sono abrogate le disposizioni del titolo secondo, capi secondo e terzo, del [regio decreto 1 settembre 1925, n. 2009](Regolamento%20per%20i%20Convitti%20nazionali.%20025U2009.md), nella parte relativa al personale di economato dei convitti nazionali".
 
 ### Art. 73.
 
@@ -868,7 +868,7 @@ Salvo quanto e' prescritto dall'[art. 45 del R. decreto 11 novembre 1923, n. 239
 
 AGGIORNAMENTO (5)
 
-Il [D.P.R. 27 giugno 1962, n. 1437](../DPR/Approvazione%20del%20regolamento%20per%20lo%20svolgimento%20dei%20concorsi%20per%20laccesso%20alla%20carriera%20di%20concetto%20dei%20convitti%20nazionali%20e%20degli%20educandati%20femminili%20dello%20Stato.md) ha disposto (con l'art. 6, comma 1) che "Sono abrogate le disposizioni del titolo secondo, capi secondo e terzo, del [regio decreto 1 settembre 1925, n. 2009](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-09-01;2009), nella parte relativa al personale di economato dei convitti nazionali".
+Il [D.P.R. 27 giugno 1962, n. 1437](../DPR/Approvazione%20del%20regolamento%20per%20lo%20svolgimento%20dei%20concorsi%20per%20laccesso%20alla%20carriera%20di%20concetto%20dei%20convitti%20nazionali%20e%20degli%20educandati%20femminili%20dello%20Stato.md) ha disposto (con l'art. 6, comma 1) che "Sono abrogate le disposizioni del titolo secondo, capi secondo e terzo, del [regio decreto 1 settembre 1925, n. 2009](Regolamento%20per%20i%20Convitti%20nazionali.%20025U2009.md), nella parte relativa al personale di economato dei convitti nazionali".
 
 ### Art. 74.
 
@@ -881,7 +881,7 @@ Le prove scritte ed orali degli esami di cui al precedente articolo hanno luogo 
 
 AGGIORNAMENTO (5)
 
-Il [D.P.R. 27 giugno 1962, n. 1437](../DPR/Approvazione%20del%20regolamento%20per%20lo%20svolgimento%20dei%20concorsi%20per%20laccesso%20alla%20carriera%20di%20concetto%20dei%20convitti%20nazionali%20e%20degli%20educandati%20femminili%20dello%20Stato.md) ha disposto (con l'art. 6, comma 1) che "Sono abrogate le disposizioni del titolo secondo, capi secondo e terzo, del [regio decreto 1 settembre 1925, n. 2009](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-09-01;2009), nella parte relativa al personale di economato dei convitti nazionali".
+Il [D.P.R. 27 giugno 1962, n. 1437](../DPR/Approvazione%20del%20regolamento%20per%20lo%20svolgimento%20dei%20concorsi%20per%20laccesso%20alla%20carriera%20di%20concetto%20dei%20convitti%20nazionali%20e%20degli%20educandati%20femminili%20dello%20Stato.md) ha disposto (con l'art. 6, comma 1) che "Sono abrogate le disposizioni del titolo secondo, capi secondo e terzo, del [regio decreto 1 settembre 1925, n. 2009](Regolamento%20per%20i%20Convitti%20nazionali.%20025U2009.md), nella parte relativa al personale di economato dei convitti nazionali".
 
 ### Art. 75.
 
@@ -896,7 +896,7 @@ Le commissioni esaminatrici sono costituite come segue:
 
 AGGIORNAMENTO (5)
 
-Il [D.P.R. 27 giugno 1962, n. 1437](../DPR/Approvazione%20del%20regolamento%20per%20lo%20svolgimento%20dei%20concorsi%20per%20laccesso%20alla%20carriera%20di%20concetto%20dei%20convitti%20nazionali%20e%20degli%20educandati%20femminili%20dello%20Stato.md) ha disposto (con l'art. 6, comma 1) che "Sono abrogate le disposizioni del titolo secondo, capi secondo e terzo, del [regio decreto 1 settembre 1925, n. 2009](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-09-01;2009), nella parte relativa al personale di economato dei convitti nazionali".
+Il [D.P.R. 27 giugno 1962, n. 1437](../DPR/Approvazione%20del%20regolamento%20per%20lo%20svolgimento%20dei%20concorsi%20per%20laccesso%20alla%20carriera%20di%20concetto%20dei%20convitti%20nazionali%20e%20degli%20educandati%20femminili%20dello%20Stato.md) ha disposto (con l'art. 6, comma 1) che "Sono abrogate le disposizioni del titolo secondo, capi secondo e terzo, del [regio decreto 1 settembre 1925, n. 2009](Regolamento%20per%20i%20Convitti%20nazionali.%20025U2009.md), nella parte relativa al personale di economato dei convitti nazionali".
 
 ### Art. 76.
 
@@ -907,7 +907,7 @@ Le promozioni ai posti di rettore di 2ª classe e ai posti di rettore di 1ª cla
 
 AGGIORNAMENTO (5)
 
-Il [D.P.R. 27 giugno 1962, n. 1437](../DPR/Approvazione%20del%20regolamento%20per%20lo%20svolgimento%20dei%20concorsi%20per%20laccesso%20alla%20carriera%20di%20concetto%20dei%20convitti%20nazionali%20e%20degli%20educandati%20femminili%20dello%20Stato.md) ha disposto (con l'art. 6, comma 1) che "Sono abrogate le disposizioni del titolo secondo, capi secondo e terzo, del [regio decreto 1 settembre 1925, n. 2009](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-09-01;2009), nella parte relativa al personale di economato dei convitti nazionali".
+Il [D.P.R. 27 giugno 1962, n. 1437](../DPR/Approvazione%20del%20regolamento%20per%20lo%20svolgimento%20dei%20concorsi%20per%20laccesso%20alla%20carriera%20di%20concetto%20dei%20convitti%20nazionali%20e%20degli%20educandati%20femminili%20dello%20Stato.md) ha disposto (con l'art. 6, comma 1) che "Sono abrogate le disposizioni del titolo secondo, capi secondo e terzo, del [regio decreto 1 settembre 1925, n. 2009](Regolamento%20per%20i%20Convitti%20nazionali.%20025U2009.md), nella parte relativa al personale di economato dei convitti nazionali".
 
 ## Dell'assunzione degli istitutori assistenti.
 

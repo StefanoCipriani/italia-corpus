@@ -319,7 +319,7 @@ La Corte Costituzionale con sentenza 21 maggio - 3 giugno 1970, n. 78 (in G.U. 1
 
 AGGIORNAMENTO (12)
 
-Il Decreto 5 agosto 1992 in G.U. Serie Generale 10/10/1992, n. 239, ha disposto (con l'art. 1, comma 1 dell'Allegato) che "Del Consorzio fra i fabbricanti di fiammiferi, costituito ai sensi del [regio decreto 11 marzo 1923, n. 560](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-03-11;560), fanno parte alla data della presente convenzione, le seguenti ditte: 
+Il Decreto 5 agosto 1992 in G.U. Serie Generale 10/10/1992, n. 239, ha disposto (con l'art. 1, comma 1 dell'Allegato) che "Del Consorzio fra i fabbricanti di fiammiferi, costituito ai sensi del [regio decreto 11 marzo 1923, n. 560](Col%20quale%20a%20decorrere%20dal%201%20giugno%201923%20e%20abolito%20il%20monopolio%20dei%20fiammiferi%20ed%20e%20istituita%20in%20sua%20vece%20una%20imposta%20di%20produzione.%20023U0560.md), fanno parte alla data della presente convenzione, le seguenti ditte: 
  Italmatch S.r.l., con sede in Milano; 
  Lavaggi Francesco e Figlio S.p.a., con sede in Trofarello (Torino); 
  Isfa S.p.a. - Industria siciliana fiammiferi ed affini, con sede in Catania; 
@@ -356,7 +356,7 @@ I prezzi di vendita al pubblico dei fiammiferi di qualsiasi tipo e qualita' sara
 
 AGGIORNAMENTO (6)
 
-Il [D.Lgs. Luogotenenziale 18 giugno 1945, n. 393](../Decreti%20legislativi%20luogotenenziali/Revisione%20dei%20prezzi%20di%20vendita%20al%20pubblico%20dei%20fiammiferi.%20045U0393.md) ha disposto (con l'art. 1, comma 1) che "Fino alla scadenza delle convenzioni stipulate fra lo Stato ed il Consorzio industrie fiammiferi, la revisione di cui all'[art. 6 del R. decreto 11 marzo 1923, n. 560](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-03-11;560#art_6), potra' essere fatta per periodi minori di quelli indicati dallo stesso articolo, quando il costo medio delle materie prime e della mano d'opera occorrenti per la lavorazione dei fiammiferi abbia subito, dall'ultima variazione effettuata, una diminuzione o un aumento non inferiore al 10 %".
+Il [D.Lgs. Luogotenenziale 18 giugno 1945, n. 393](../Decreti%20legislativi%20luogotenenziali/Revisione%20dei%20prezzi%20di%20vendita%20al%20pubblico%20dei%20fiammiferi.%20045U0393.md) ha disposto (con l'art. 1, comma 1) che "Fino alla scadenza delle convenzioni stipulate fra lo Stato ed il Consorzio industrie fiammiferi, la revisione di cui all'[art. 6 del R. decreto 11 marzo 1923, n. 560](Col%20quale%20a%20decorrere%20dal%201%20giugno%201923%20e%20abolito%20il%20monopolio%20dei%20fiammiferi%20ed%20e%20istituita%20in%20sua%20vece%20una%20imposta%20di%20produzione.%20023U0560.md), potra' essere fatta per periodi minori di quelli indicati dallo stesso articolo, quando il costo medio delle materie prime e della mano d'opera occorrenti per la lavorazione dei fiammiferi abbia subito, dall'ultima variazione effettuata, una diminuzione o un aumento non inferiore al 10 %".
 
 ## Art. 7.
 

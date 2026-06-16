@@ -43,4 +43,4 @@ VITTORIO EMANUELE III
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs 6 marzo 1948, n. 406](../Decreti%20Legislativi/Ricostituzione%20del%20comune%20di%20Verolavecchia%20Brescia.md), ha disposto (con l'art. 1, comma 1) che "Il comune di Verolavecchia, aggregato a quello di Verolanuova con [regio decreto 15 dicembre 1927, n. 2509](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-12-15;2509), e' ricostituito con il territorio delimitato dalla pianta planimetrica annessa, al presente decreto".
+Il [D.Lgs 6 marzo 1948, n. 406](../Decreti%20Legislativi/Ricostituzione%20del%20comune%20di%20Verolavecchia%20Brescia.md), ha disposto (con l'art. 1, comma 1) che "Il comune di Verolavecchia, aggregato a quello di Verolanuova con [regio decreto 15 dicembre 1927, n. 2509](Aggregazione%20dei%20comuni%20di%20Verolavecchia%20e%20Cadignano%20a%20quello%20di%20Verolanuova.%20027U2509.md), e' ricostituito con il territorio delimitato dalla pianta planimetrica annessa, al presente decreto".

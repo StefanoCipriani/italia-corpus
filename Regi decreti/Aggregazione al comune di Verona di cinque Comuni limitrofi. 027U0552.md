@@ -26,7 +26,7 @@ I comuni di Ca' di David, Parona di Valpolicella, Quinto di Valpantena, San Giov
 
 AGGIORNAMENTO (1)
 
-La [L. 16 giugno 1932, n. 880](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1932-06-16;880) ha disposto (con l'art. 1, comma 1) che "Il territorio gia' pertinente al comune di San Giovanni Lupatoto anteriormente al [R. decreto 7 aprile 1927, n. 552](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-04-07;552), eccettuata la frazione Palazzina, e' ricostituito in Comune autonomo, con capoluogo e denominazione "San Giovanni Lupatoto"".
+La [L. 16 giugno 1932, n. 880](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1932-06-16;880) ha disposto (con l'art. 1, comma 1) che "Il territorio gia' pertinente al comune di San Giovanni Lupatoto anteriormente al [R. decreto 7 aprile 1927, n. 552](Aggregazione%20al%20comune%20di%20Verona%20di%20cinque%20Comuni%20limitrofi.%20027U0552.md), eccettuata la frazione Palazzina, e' ricostituito in Comune autonomo, con capoluogo e denominazione "San Giovanni Lupatoto"".
 
 ## Art. 2.
 

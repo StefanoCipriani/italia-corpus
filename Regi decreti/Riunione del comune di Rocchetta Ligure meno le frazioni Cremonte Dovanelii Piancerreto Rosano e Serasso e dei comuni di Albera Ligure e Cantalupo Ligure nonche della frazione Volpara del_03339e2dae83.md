@@ -26,7 +26,7 @@ Il comune di Rocchetta Ligure, meno le frazioni Cremonte, Dovanelli, Piancerreto
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. del Capo Provvisorio dello Stato 10 luglio 1947, n. 825](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-07-10;825) ha disposto (con l'art. 1, comma 1) che "I comuni di Albera Ligure e Cantalupo Ligure, aggregati a quello di Rocchetta Ligure con [regio decreto 28 marzo 1929, n. 661](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-03-28;661), sono ricostituiti con la circoscrizione preesistente all'entrata in vigore del decreto medesimo".
+Il [D.Lgs. del Capo Provvisorio dello Stato 10 luglio 1947, n. 825](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-07-10;825) ha disposto (con l'art. 1, comma 1) che "I comuni di Albera Ligure e Cantalupo Ligure, aggregati a quello di Rocchetta Ligure con [regio decreto 28 marzo 1929, n. 661](Riunione%20del%20comune%20di%20Rocchetta%20Ligure%20meno%20le%20frazioni%20Cremonte%20Dovanelii%20Piancerreto%20Rosano%20e%20Serasso%20e%20dei%20comuni%20di%20Albera%20Ligure%20e%20Cantalupo%20Ligure%20nonche%20della%20frazione%20Volpara%20del_03339e2dae83.md), sono ricostituiti con la circoscrizione preesistente all'entrata in vigore del decreto medesimo".
 
 ## Art. 2.
 

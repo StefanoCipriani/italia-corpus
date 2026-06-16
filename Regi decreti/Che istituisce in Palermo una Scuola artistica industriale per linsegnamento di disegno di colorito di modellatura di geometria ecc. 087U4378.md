@@ -33,7 +33,7 @@ E' istituita in Palermo una Scuola artistica industriale, la quale, nel fine di 
 
 AGGIORNAMENTO (1)
 
-Il Regio Decreto 2 novembre 1905, n. CCCCXIV (414) ha disposto (con l'art. 1, commi 1 e 2) che "La Scuola artistica-industriale con annesso Museo artistico industriale, istituita col [R. decreto del 3 marzo 1887, n. 4378](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1887-03-03;4378) (serie 3ª), e' soppressa. 
+Il Regio Decreto 2 novembre 1905, n. CCCCXIV (414) ha disposto (con l'art. 1, commi 1 e 2) che "La Scuola artistica-industriale con annesso Museo artistico industriale, istituita col [R. decreto del 3 marzo 1887, n. 4378](Che%20istituisce%20in%20Palermo%20una%20Scuola%20artistica%20industriale%20per%20linsegnamento%20di%20disegno%20di%20colorito%20di%20modellatura%20di%20geometria%20ecc.%20087U4378.md) (serie 3ª), e' soppressa. 
  In sostituzione di essa sara' istituita nella stessa citta' una Scuola superiore d'arte applicata all'industria, lo statuto della quale sara' approvato con decreto Reale sopra proposta del ministro di agricoltura, industria e commercio".
 
 ## Art. 2.

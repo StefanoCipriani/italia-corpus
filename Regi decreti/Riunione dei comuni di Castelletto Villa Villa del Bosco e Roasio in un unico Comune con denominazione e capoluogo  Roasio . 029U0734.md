@@ -43,4 +43,4 @@ VITTORIO EMANUELE III
 ----------------
  
 AGGIORNAMENTO (1) 
- Il [D.Lgs. del Capo Provvisorio dello Stato 4 novembre 1947, n. 1411](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-11-04;1411) ha disposto (con l'art. 1, comma 1)che "Il comune di Villa del Bosco, aggregato a quello di Roasio col [regio decreto 28 marzo 1929, n. 734](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-03-28;734), e' ricostituito con la circoscrizione preesistente all'entrata in vigore del decreto medesimo".
+ Il [D.Lgs. del Capo Provvisorio dello Stato 4 novembre 1947, n. 1411](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-11-04;1411) ha disposto (con l'art. 1, comma 1)che "Il comune di Villa del Bosco, aggregato a quello di Roasio col [regio decreto 28 marzo 1929, n. 734](Riunione%20dei%20comuni%20di%20Castelletto%20Villa%20Villa%20del%20Bosco%20e%20Roasio%20in%20un%20unico%20Comune%20con%20denominazione%20e%20capoluogo%20%20Roasio%20.%20029U0734.md), e' ricostituito con la circoscrizione preesistente all'entrata in vigore del decreto medesimo".

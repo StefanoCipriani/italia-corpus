@@ -44,4 +44,4 @@ VITTORIO EMANUELE III
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. Luogotenenziale 29 marzo 1946, n. 195](../Decreti%20legislativi%20luogotenenziali/Ricostituzione%20del%20comune%20di%20Terranova%20Sappo%20Minulio%20Reggio%20Calabria.md), ha disposto (con l'art. 1, comma 1) che "Il comune di Terranova Sappo Minulio, aggregato con [R. decreto 16 febbraio 1928, n. 377](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-02-16;377), al comune di Taurianova, e' ricostituito con la circoscrizione preesistente all'entrata in vigore del decreto medesimo".
+Il [D.Lgs. Luogotenenziale 29 marzo 1946, n. 195](../Decreti%20legislativi%20luogotenenziali/Ricostituzione%20del%20comune%20di%20Terranova%20Sappo%20Minulio%20Reggio%20Calabria.md), ha disposto (con l'art. 1, comma 1) che "Il comune di Terranova Sappo Minulio, aggregato con [R. decreto 16 febbraio 1928, n. 377](Riunione%20dei%20comuni%20di%20Radicena%20Jatrinoli%20e%20Terranova%20Sappominulio%20in%20un%20unico%20Comune%20denominato%20Taurianova.%20028U0377.md), al comune di Taurianova, e' ricostituito con la circoscrizione preesistente all'entrata in vigore del decreto medesimo".

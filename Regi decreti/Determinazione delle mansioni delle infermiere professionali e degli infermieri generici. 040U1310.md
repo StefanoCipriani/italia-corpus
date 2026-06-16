@@ -16,7 +16,7 @@ RE D'ITALIA E DI ALBANIA
 
 IMPERATORE D'ETIOPIA
 
-Visti gli [articoli 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_99), [135](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_135), [140](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_140), [192](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_192) e [358 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_358) approvato con [R. decreto 27 luglio 1934, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265);
+Visti gli [articoli 99](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), [135](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), [140](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), [192](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) e [358 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) approvato con [R. decreto 27 luglio 1934, n. 1265](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md);
 
 Visto l'[art. 20 della legge 19 gennaio 1939, n. 129](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20della%20Camera%20dei%20Fasci%20e%20delle%20Corporazioni.%20039U0129.md);
 

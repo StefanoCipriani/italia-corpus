@@ -41,4 +41,4 @@ VITTORIO EMANUELE III
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. del Capo Provvisorio dello Stato 20 agosto 1947, n. 1092](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-08-20;1092) ha disposto (con l'art. 1, comma 1) che "II comune di Quintano, aggregato a quello di Pieranica con [regio decreto 17 luglio 1931, n. 1080](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-07-17;1080), e' ricostituito con la circoscrizione preesistente all'entrata in vigore del decreto medesimo".
+Il [D.Lgs. del Capo Provvisorio dello Stato 20 agosto 1947, n. 1092](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-08-20;1092) ha disposto (con l'art. 1, comma 1) che "II comune di Quintano, aggregato a quello di Pieranica con [regio decreto 17 luglio 1931, n. 1080](Riunione%20in%20unico%20Comune%20con%20capoluogo%20e%20denominazione%20Pieranica%20dei%20comuni%20di%20Pieranica%20e%20di%20Quintano.%20031U1080.md), e' ricostituito con la circoscrizione preesistente all'entrata in vigore del decreto medesimo".

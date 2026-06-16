@@ -28,7 +28,7 @@ I comuni di Grandola, Grona e Bene Lario, in provincia di Como, sono riuniti in 
 
 AGGIORNAMENTO (1)
 
-La [L. 13 marzo 1950, n. 113](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-03-13;113) ha disposto (con l'art. 5, comma 1, lettera h)) che il comune di Bene Lario, aggregato a quello di Grandola con [Regio Decreto 4 settembre 1927, n. 1744](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-09-04;1744), e' ricostituito con la circoscrizione preesistente all'entrata in vigore del predetto Regio Decreto.
+La [L. 13 marzo 1950, n. 113](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-03-13;113) ha disposto (con l'art. 5, comma 1, lettera h)) che il comune di Bene Lario, aggregato a quello di Grandola con [Regio Decreto 4 settembre 1927, n. 1744](Riunione%20dei%20comuni%20di%20Grandola%20Grona%20e%20Bene%20Lario%20in%20un%20unico%20Comune%20denominato%20Grandola%20ed%20Uniti.%20027U1744.md), e' ricostituito con la circoscrizione preesistente all'entrata in vigore del predetto Regio Decreto.
 
 ## Art. 2.
 

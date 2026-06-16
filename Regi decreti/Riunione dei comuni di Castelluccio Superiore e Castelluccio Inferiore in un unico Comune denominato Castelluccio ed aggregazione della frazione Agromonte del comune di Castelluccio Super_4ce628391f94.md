@@ -28,7 +28,7 @@ Il comune di Castelluccio Superiore, eccettuata la frazione Agromonte, e quello 
 
 AGGIORNAMENTO (1)
 
-La [L. 18 aprile 1935, n. 722](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1935-04-18;722) ha disposto(con l'art. 1, comma 1) che "I comuni di Castelluccio Inferiore e Castelluccio Superiore, riuniti con [R. decreto 29 marzo 1928, n. 804](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-03-29;804), in unico Comune denominato Castelluccio, sono ricostituiti nei limiti delle circoscrizioni preesistenti alla loro unione, ferma restando l'aggregazione, disposta con lo stesso decreto, della frazione Agromonte al comune di Latronico".
+La [L. 18 aprile 1935, n. 722](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1935-04-18;722) ha disposto(con l'art. 1, comma 1) che "I comuni di Castelluccio Inferiore e Castelluccio Superiore, riuniti con [R. decreto 29 marzo 1928, n. 804](Riunione%20dei%20comuni%20di%20Castelluccio%20Superiore%20e%20Castelluccio%20Inferiore%20in%20un%20unico%20Comune%20denominato%20Castelluccio%20ed%20aggregazione%20della%20frazione%20Agromonte%20del%20comune%20di%20Castelluccio%20Super_4ce628391f94.md), in unico Comune denominato Castelluccio, sono ricostituiti nei limiti delle circoscrizioni preesistenti alla loro unione, ferma restando l'aggregazione, disposta con lo stesso decreto, della frazione Agromonte al comune di Latronico".
 
 ## Art. 2.
 

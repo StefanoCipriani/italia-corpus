@@ -18,7 +18,7 @@ VITTORIO EMANUELE III
  
  IMPERATORE D'ETIOPIA 
  
- Visto l'[art. 94 del testo unico di leggi sulle acque e sugli Impianti elettrici](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-12-11;1775#art_94) approvato con R. decreto 11 dicembre 1933-XII, n. 1775, a norma del quale il Governo del Re e' autorizzato a stabilire i comprensori in cui la ricerca, l'estrazione e l'utilizzazione di tutte le acque sotterranee sono soggette alla tutela della pubblica amministrazione; 
+ Visto l'[art. 94 del testo unico di leggi sulle acque e sugli Impianti elettrici](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20di%20legge%20sulle%20acque%20e%20sugli%20impianti%20elettrici.%20033U1775.md) approvato con R. decreto 11 dicembre 1933-XII, n. 1775, a norma del quale il Governo del Re e' autorizzato a stabilire i comprensori in cui la ricerca, l'estrazione e l'utilizzazione di tutte le acque sotterranee sono soggette alla tutela della pubblica amministrazione; 
  
  Ritenuta la necessita' di dichiarare soggetta o tutela una zona del territorio di Bassano in Teverina, in comune di Orte, come appresso delimitata: strada mulattiera al chilometro 24,400 (circa) della strada provinciale Viterbo-Orte, dallo sbocco sulla provinciale anzidetta fino all'attraversamento col fosso del Bagno, alveo del fosso del Bagno, sino al 2° attraversamento con la predetta mulattiera, la mulattiera stessa fino al bivio con la mulattiera per S. Michele Arcangelo a q. 85, la linea che congiunge il detto bivio con la strada carrareccia sboccante al km. 26,080 sulla strada provinciale Viterbo-Orte, la carrareccia anzidetta sino a raggiungere l'appicco a q. 250 (circa), linea d'appicco q. 250 (circa) fino a congiungersi con la strada provinciale Viterbo-Orte al km. 24,800, strada provinciale predetta fino al km. 24,400 circa; 
  
@@ -30,7 +30,7 @@ VITTORIO EMANUELE III
  
  Abbiamo decretato e decretiamo: 
  
- Ai sensi dell'[art. 94 del testo unico di leggi sulle acque e sugli impianti elettrici](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-12-11;1775#art_94), approvato con R. decreto 11 dicembre 1933-XII, n. 1775, la ricerca, l'estrazione e l'utilizzazione delle acque sotterranee della zona del territorio di Bassano in Teverina, in comune di Orte (Viterbo) indicata nelle premesse del presente decreto sono soggette alla tutela della pubblica amministrazione. 
+ Ai sensi dell'[art. 94 del testo unico di leggi sulle acque e sugli impianti elettrici](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20di%20legge%20sulle%20acque%20e%20sugli%20impianti%20elettrici.%20033U1775.md), approvato con R. decreto 11 dicembre 1933-XII, n. 1775, la ricerca, l'estrazione e l'utilizzazione delle acque sotterranee della zona del territorio di Bassano in Teverina, in comune di Orte (Viterbo) indicata nelle premesse del presente decreto sono soggette alla tutela della pubblica amministrazione. 
  
  Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
  

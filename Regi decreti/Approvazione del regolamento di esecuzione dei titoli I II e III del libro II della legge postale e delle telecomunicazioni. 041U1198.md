@@ -26,7 +26,7 @@ Visto l'art. 1 del R. decreto-legge 9 luglio 1936-XIV, n. 1501, convertito nella
 
 Visto l'art. 2 del R. decreto-legge 1° luglio 1937-XV, n. 1382, convertito nelle legge 23 dicembre 1937-XVI, n. 2594, con cui fu conferita al Governo del Re la facolta' di provvedere alla emanazione dei regolamenti per l'esecuzione della legge postale e delle telecomunicazioni anche separatamente per i singoli servizi ed oltre il termine previsto dall'art. 1 del R. decreto-legge 9 luglio 1936-XIV, n. 1501, e visto l'art. 3 dello stesso Regio decreto-legge, col quale il Governo del Re e' altresi' autorizzato a trasferire nei regolamenti suddetti norme giuridiche rientranti nella facolta' del potere esecutivo, ed emanate nella forma di legge anche posteriormente alla legge 31 gennaio 1926-IV, n. 100;
 
-Visto il [testo unico delle leggi sulle acque e gli impianti elettrici](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-12-11;1775) approvato con R. decreto 11 dicembre 1933-XII, n. 1775;
+Visto il [testo unico delle leggi sulle acque e gli impianti elettrici](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20di%20legge%20sulle%20acque%20e%20sugli%20impianti%20elettrici.%20033U1775.md) approvato con R. decreto 11 dicembre 1933-XII, n. 1775;
 
 Visto l'art. 1 della legge 31 gennaio 1926-IV, n. 100;
 

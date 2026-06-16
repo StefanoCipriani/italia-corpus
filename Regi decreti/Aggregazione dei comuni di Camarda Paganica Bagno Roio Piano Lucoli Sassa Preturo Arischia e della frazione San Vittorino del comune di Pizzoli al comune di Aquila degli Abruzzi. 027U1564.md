@@ -28,7 +28,7 @@ I comuni di Camarda, Paganica, Bagno, Roio Piano, Lucoli, Sassa, Preturo Arischi
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. del Capo Provvisorio dello Stato 31 luglio 1947, n. 962](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-07-31;962) ha disposto (con l'art. 1, comma 1) che "Il comune di Lucoli, aggregato a quello di L'Aquila, con [regio decreto 29 luglio 1927, n. 1564](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-07-29;1564), e' ricostituito con la circoscrizione preesistente all'entrata in vigore del decreto medesimo".
+Il [D.Lgs. del Capo Provvisorio dello Stato 31 luglio 1947, n. 962](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-07-31;962) ha disposto (con l'art. 1, comma 1) che "Il comune di Lucoli, aggregato a quello di L'Aquila, con [regio decreto 29 luglio 1927, n. 1564](Aggregazione%20dei%20comuni%20di%20Camarda%20Paganica%20Bagno%20Roio%20Piano%20Lucoli%20Sassa%20Preturo%20Arischia%20e%20della%20frazione%20San%20Vittorino%20del%20comune%20di%20Pizzoli%20al%20comune%20di%20Aquila%20degli%20Abruzzi.%20027U1564.md), e' ricostituito con la circoscrizione preesistente all'entrata in vigore del decreto medesimo".
 
 ## Art. 2.
 

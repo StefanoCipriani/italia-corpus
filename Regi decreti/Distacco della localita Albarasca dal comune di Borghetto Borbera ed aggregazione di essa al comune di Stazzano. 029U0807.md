@@ -28,7 +28,7 @@ La localita' Albarasca e' staccata dal comune di Borghetto Borbera ed aggregata 
 
 AGGIORNAMENTO (1)
 
-Il [Regio Decreto 14 maggio 1934, n. 902](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-05-14;902) ha disposto (con l'art. 1, comma 1) che "Alla pianta planimetrica richiamata nell'[art. 1 del R. decreto 28 marzo 1929, n. 807](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-03-28;807#art_1), e' sostituita la pianta planimetrica vistata dall'ingegnere capo dell'Ufficio del genio civile di Alessandria in data 7 agosto 1933, la quale pianta, vidimata, d'ordine Nostro, dal Ministro proponente, fara' parte integrante del presente decreto".
+Il [Regio Decreto 14 maggio 1934, n. 902](Rettifica%20del%20confine%20fra%20i%20comuni%20di%20Borghetto%20Borbera%20e%20Stazzano%20Alessandria.%20034U0902.md) ha disposto (con l'art. 1, comma 1) che "Alla pianta planimetrica richiamata nell'[art. 1 del R. decreto 28 marzo 1929, n. 807](Distacco%20della%20localita%20Albarasca%20dal%20comune%20di%20Borghetto%20Borbera%20ed%20aggregazione%20di%20essa%20al%20comune%20di%20Stazzano.%20029U0807.md), e' sostituita la pianta planimetrica vistata dall'ingegnere capo dell'Ufficio del genio civile di Alessandria in data 7 agosto 1933, la quale pianta, vidimata, d'ordine Nostro, dal Ministro proponente, fara' parte integrante del presente decreto".
 
 ## Art. 2.
 

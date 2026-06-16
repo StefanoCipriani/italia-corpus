@@ -44,4 +44,4 @@ VITTORIO EMANUELE III
 
 AGGIORNAMENTO (1)
 
-Il D.Lgs. Luogoteneziale 22 febbraio 1946, n. 156 ha disposto (con l'art. 1, comma 1) che "Il comune di Ollastra Simaxis aggregato con [R. decreto 5 febbraio 1928, n. 222](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-02-05;222), al comune di Simaxis, e' ricostituito con la circoscrizione preesistente all'entrata in vigore del decreto medesimo".
+Il D.Lgs. Luogoteneziale 22 febbraio 1946, n. 156 ha disposto (con l'art. 1, comma 1) che "Il comune di Ollastra Simaxis aggregato con [R. decreto 5 febbraio 1928, n. 222](Riunione%20dei%20comuni%20di%20Simaxis%20San%20Vero%20Congius%20e%20Ollastra%20Simaxis%20in%20un%20unico%20Comune%20denominato%20Simaxis.%20028U0222.md), al comune di Simaxis, e' ricostituito con la circoscrizione preesistente all'entrata in vigore del decreto medesimo".

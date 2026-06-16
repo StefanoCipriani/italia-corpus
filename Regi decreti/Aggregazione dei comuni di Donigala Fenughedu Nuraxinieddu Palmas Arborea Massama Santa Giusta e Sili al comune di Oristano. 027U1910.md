@@ -44,4 +44,4 @@ VITTORIO EMANUELE III
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. del Capo Provvisorio dello Stato 29 marzo 1947, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-03-29;344) ha disposto (con l'art. 1, comma 1) che "Il comune di Santa Giusta, aggregato con [regio decreto 29 settembre 1927, n. 1910](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-09-29;1910), al comune di Oristano, e' ricostituito con la circoscrizione preesistente all'entrata in vigore del decreto suddetto".
+Il [D.Lgs. del Capo Provvisorio dello Stato 29 marzo 1947, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-03-29;344) ha disposto (con l'art. 1, comma 1) che "Il comune di Santa Giusta, aggregato con [regio decreto 29 settembre 1927, n. 1910](Aggregazione%20dei%20comuni%20di%20Donigala%20Fenughedu%20Nuraxinieddu%20Palmas%20Arborea%20Massama%20Santa%20Giusta%20e%20Sili%20al%20comune%20di%20Oristano.%20027U1910.md), al comune di Oristano, e' ricostituito con la circoscrizione preesistente all'entrata in vigore del decreto suddetto".

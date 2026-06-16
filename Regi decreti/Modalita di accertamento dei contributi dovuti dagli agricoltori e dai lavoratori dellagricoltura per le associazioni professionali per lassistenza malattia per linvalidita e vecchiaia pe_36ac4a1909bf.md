@@ -143,7 +143,7 @@ La Corte Costituzionale con sentenza 7-26 giugno 1962, n. 65 (in G.U. 1a s.s. 30
 
 AGGIORNAMENTO (4)
 
-La [L. 12 marzo 1968, n. 334](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-03-12;334), ha disposto (con l'art. 5, comma 2) che "Le commissioni provinciali di cui all'[articolo 5 del regio decreto 24 settembre 1940, n. 1949](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-09-24;1949#art_5), sono soppresse".
+La [L. 12 marzo 1968, n. 334](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-03-12;334), ha disposto (con l'art. 5, comma 2) che "Le commissioni provinciali di cui all'[articolo 5 del regio decreto 24 settembre 1940, n. 1949](Modalita%20di%20accertamento%20dei%20contributi%20dovuti%20dagli%20agricoltori%20e%20dai%20lavoratori%20dellagricoltura%20per%20le%20associazioni%20professionali%20per%20lassistenza%20malattia%20per%20linvalidita%20e%20vecchiaia%20pe_36ac4a1909bf.md), sono soppresse".
 
 ## Art. 6. — Contenuto degli elenchi di accertamento
 
@@ -277,7 +277,7 @@ A cura delle Unioni della Confederazione fascista dei lavoratori dell'agricoltur
 
 AGGIORNAMENTO (7)
 
-Il [D.Lgs. 11 agosto 1993, n. 375](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20dellart.%203%20comma%201%20lettera%20aa%20della%20legge%2023%20ottobre%201992%20n.%20421%20concernente%20razionalizzazione%20dei%20sistemi%20di%20accertamento%20dei%20lavoratori%20dellagricoltura%20e%20dei%20relativi%20contributi.md), ha disposto (con l'art. 13, comma 1) che "A decorrere dal 1 gennaio 1994 cessa, per gli operai agricoli a tempo indeterminato, la compilazione degli elenchi nominativi di cui all'[art. 12 del regio decreto 24 settembre 1940, n. 1949](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-09-24;1949#art_12), e succes- sive modificazioni ed integrazioni".
+Il [D.Lgs. 11 agosto 1993, n. 375](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20dellart.%203%20comma%201%20lettera%20aa%20della%20legge%2023%20ottobre%201992%20n.%20421%20concernente%20razionalizzazione%20dei%20sistemi%20di%20accertamento%20dei%20lavoratori%20dellagricoltura%20e%20dei%20relativi%20contributi.md), ha disposto (con l'art. 13, comma 1) che "A decorrere dal 1 gennaio 1994 cessa, per gli operai agricoli a tempo indeterminato, la compilazione degli elenchi nominativi di cui all'[art. 12 del regio decreto 24 settembre 1940, n. 1949](Modalita%20di%20accertamento%20dei%20contributi%20dovuti%20dagli%20agricoltori%20e%20dai%20lavoratori%20dellagricoltura%20per%20le%20associazioni%20professionali%20per%20lassistenza%20malattia%20per%20linvalidita%20e%20vecchiaia%20pe_36ac4a1909bf.md), e succes- sive modificazioni ed integrazioni".
 
 ## Art. 12-bis. — (( (Notifica mediante pubblicazione telematica) ))
 

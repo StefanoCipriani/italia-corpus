@@ -40,4 +40,4 @@ Nella citta' di Empoli, a cominciare dal 1° ottobre 1889, e colle condizioni so
 
 AGGIORNAMENTO (1)
 
-Il [Regio Decreto 29 agosto 1890, n. 7103](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1890-08-29;7103) ha disposto (con l'art. 1, comma 1) che "Al Regio Ginnasio di Empoli istituito per Nostro decreto 23 luglio 1889, n. 6373 (serie 3ª) e' dato il nome di «Leonardo da Vinci»".
+Il [Regio Decreto 29 agosto 1890, n. 7103](Che%20autorizza%20il%20Regio%20Ginnasio%20di%20Empoli%20Firenze%20a%20prendere%20il%20nome%20di%20Leonardo%20da%20Vinci.%20090U7103.md) ha disposto (con l'art. 1, comma 1) che "Al Regio Ginnasio di Empoli istituito per Nostro decreto 23 luglio 1889, n. 6373 (serie 3ª) e' dato il nome di «Leonardo da Vinci»".

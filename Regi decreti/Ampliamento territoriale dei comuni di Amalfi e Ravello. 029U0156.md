@@ -29,13 +29,13 @@ Il comune di Scala, eccettuate le frazioni Minuto e Puntone, e quello di Ravello
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. Luogotenenziale 7 giugno 1945, n. 384](../Decreti%20legislativi%20luogotenenziali/Ricostituzione%20del%20comune%20di%20Atrani%20Salerno.%20045U0384.md) ha disposto (con l'art. 1, comma 1) che "Il comune di Atrani, aggregato al comune di Amalfi con [R. decreto 4 febbraio 1929, n. 156](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-02-04;156), e' ricostituito con la circoscrizione presistente all'entrata la vigore del decreto medesimo".
+Il [D.Lgs. Luogotenenziale 7 giugno 1945, n. 384](../Decreti%20legislativi%20luogotenenziali/Ricostituzione%20del%20comune%20di%20Atrani%20Salerno.%20045U0384.md) ha disposto (con l'art. 1, comma 1) che "Il comune di Atrani, aggregato al comune di Amalfi con [R. decreto 4 febbraio 1929, n. 156](Ampliamento%20territoriale%20dei%20comuni%20di%20Amalfi%20e%20Ravello.%20029U0156.md), e' ricostituito con la circoscrizione presistente all'entrata la vigore del decreto medesimo".
 
 ---------------
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. Luogotenenziale 29 marzo 1946, n. 187](../Decreti%20legislativi%20luogotenenziali/Ricostituzione%20del%20comune%20di%20Scala%20Salerno.md) ha disposto (con l'art. 1, comma 1) che "Il comune di Scala, soppresso con [R. decreto 4 febbraio 1929, n. 156](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-02-04;156), ed il cui territorio, per effetto di detto decreto, venne aggregato ai comuni di Ravello e di Amalfi, e' ricostituito con la circoscrizione preesistente all'entrata in vigore del decreto suddetto".
+Il [D.Lgs. Luogotenenziale 29 marzo 1946, n. 187](../Decreti%20legislativi%20luogotenenziali/Ricostituzione%20del%20comune%20di%20Scala%20Salerno.md) ha disposto (con l'art. 1, comma 1) che "Il comune di Scala, soppresso con [R. decreto 4 febbraio 1929, n. 156](Ampliamento%20territoriale%20dei%20comuni%20di%20Amalfi%20e%20Ravello.%20029U0156.md), ed il cui territorio, per effetto di detto decreto, venne aggregato ai comuni di Ravello e di Amalfi, e' ricostituito con la circoscrizione preesistente all'entrata in vigore del decreto suddetto".
 
 ## Art. 2.
 

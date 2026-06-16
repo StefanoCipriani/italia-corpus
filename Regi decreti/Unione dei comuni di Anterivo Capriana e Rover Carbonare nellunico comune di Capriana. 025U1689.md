@@ -48,4 +48,4 @@ VITTORIO EMANUELE III
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. del Capo Provvisorio dello Stato 6 maggio 1947, n. 446](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-05-06;446) ha disposto (con l'art. 1, comma 1) che "Il comune di Anterivo, aggregato a quello di Capriana con [regio decreto 11 settembre 1925, n. 1689](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-09-11;1689), e' ricostituito con la circoscrizione preesistente all'entrata in vigore del decreto medesimo".
+Il [D.Lgs. del Capo Provvisorio dello Stato 6 maggio 1947, n. 446](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-05-06;446) ha disposto (con l'art. 1, comma 1) che "Il comune di Anterivo, aggregato a quello di Capriana con [regio decreto 11 settembre 1925, n. 1689](Unione%20dei%20comuni%20di%20Anterivo%20Capriana%20e%20Rover%20Carbonare%20nellunico%20comune%20di%20Capriana.%20025U1689.md), e' ricostituito con la circoscrizione preesistente all'entrata in vigore del decreto medesimo".

@@ -24,7 +24,7 @@ Visto il R. decreto 30 ottobre 1924-III, n. 2042, contenente norme speciali per 
 
 Visto il R. decreto-legge 11 gennaio 1934-XII, n. 27, convertito nella legge 7 giugno 1934-XII, n. 992, sulla creazione ed il funzionamento dell'Istituto di sanita' pubblica;
 
-Visto il [testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265), approvato con R. decreto 27 luglio 1934-XII, n. 1265;
+Visto il [testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), approvato con R. decreto 27 luglio 1934-XII, n. 1265;
 
 Visto il R. decreto-legge 28 febbraio 1935-XIII, n. 212, convertito nella legge 27 maggio 1935-XIII, n. 982, concernente la istituzione del posto di direttore dell'Istituto di sanita' pubblica e di un posto di assistente di chimica nel Laboratorio di fisica;
 
@@ -41,7 +41,7 @@ Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministr
 ### Art. 1.
 
 L'Istituto di sanita' pubblica e' alla diretta dipendenza del Ministro per l'interno. 
-Comprende, oltre i reparti preveduti dall'[art. 7 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_7) approvato con R. decreto 27 luglio 1934-XII, n. 1265, anche i seguenti uffici: Segreteria, Economato e cassa, Archivio.
+Comprende, oltre i reparti preveduti dall'[art. 7 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) approvato con R. decreto 27 luglio 1934-XII, n. 1265, anche i seguenti uffici: Segreteria, Economato e cassa, Archivio.
 
 ### Art. 2.
 
@@ -77,7 +77,7 @@ Con decreto del Ministro per l'interno, da registrarsi alla Corte dei conti, sar
 
 ### Art. 8.
 
-Le ricerche e gli studi preveduti dagli [articoli 6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_6) e [11 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_11), hanno luogo, previa autorizzazione del Ministro per l'interno, su proposta della Direzione dell'Istituto o su richiesta della Direzione generale della sanita' pubblica oppure del Consiglio superiore di sanita'. 
+Le ricerche e gli studi preveduti dagli [articoli 6](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) e [11 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), hanno luogo, previa autorizzazione del Ministro per l'interno, su proposta della Direzione dell'Istituto o su richiesta della Direzione generale della sanita' pubblica oppure del Consiglio superiore di sanita'. 
  
  Quando le ricerche e gli studi siano richiesti da altra amministrazione dello Stato ovvero da Amministrazioni non statali o da enti o privati, il Ministro per l'interno decide, sentito il direttore dell'Istituto, se ed entro quali limiti tali richieste possano essere accolte.
 
@@ -91,7 +91,7 @@ Il Ministro per l'interno puo' incaricare funzionari dell'Istituto di eseguire i
 
 ### Art. 11.
 
-I corsi di insegnamento preveduti dagli [articoli 6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_6) ed [8 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_8) hanno per scopo il perfezionamento e la specializzazione del personale addetto ai servizi della sanita' pubblica del Regno. 
+I corsi di insegnamento preveduti dagli [articoli 6](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) ed [8 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) hanno per scopo il perfezionamento e la specializzazione del personale addetto ai servizi della sanita' pubblica del Regno. 
  
  L'incarico dell'insegnamento e' affidato con decreto del Ministro per l'interno. 
  
@@ -101,7 +101,7 @@ I corsi di insegnamento preveduti dagli [articoli 6](https://www.normattiva.it/u
 
 ### Art. 12.
 
-I programmi di insegnamento sono approvati dal Ministero per l'interno, sentita la speciale Commissione consultiva all'uopo prevista dal [testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265) e della quale fanno parte anche, il direttore dell'Istituto ed il direttore generale della Sanita' pubblica. 
+I programmi di insegnamento sono approvati dal Ministero per l'interno, sentita la speciale Commissione consultiva all'uopo prevista dal [testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) e della quale fanno parte anche, il direttore dell'Istituto ed il direttore generale della Sanita' pubblica. 
  
  La Commissione, nel dare parere sui programmi, si pronuncia anche sul numero delle lezioni da tenersi, per ciascuna materia, sulle ore di esercitazioni pratiche e sulla durata complessiva di ciascun corso di insegnamento.
 

@@ -66,7 +66,7 @@ Il Consiglio di amministrazione e' responsabile degli atti di gestione dell'Ente
 
 AGGIORNAMENTO (1)
 
-Il [Regio Decreto 24 maggio 1925, n. 906](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-05-24;906) ha disposto (con l'art. 2, comma 1) che "In eccezione di quanto dispone l'[art. 4 del R. decreto 18 settembre 1924, n. 1775](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-09-18;1775#art_4), la nomina e la revoca del censore-catechista e' riservata a Monsignore Arcivescovo di Udine quale presidente dell'Opera pia Sabbatini".
+Il [Regio Decreto 24 maggio 1925, n. 906](Modificazioni%20al%20R.%20decreto%2018%20settembre%201924%20n.%201775%20che%20trasforma%20la%20Regia%20scuola%20pratica%20di%20agricoltura%20di%20Pozzuolo%20del%20Friuli%20in%20Ente%20consorziale%20autonomo.%20025U0906.md) ha disposto (con l'art. 2, comma 1) che "In eccezione di quanto dispone l'[art. 4 del R. decreto 18 settembre 1924, n. 1775](Trasformazione%20della%20Regia%20scuola%20pratica%20di%20agricoltura%20di%20Pozzuolo%20del%20Friuli%20in%20Ente%20consorziale%20autonomo%20con%20personalita%20giuridica.%20024U1775.md), la nomina e la revoca del censore-catechista e' riservata a Monsignore Arcivescovo di Udine quale presidente dell'Opera pia Sabbatini".
 
 ## Art. 5.
 
@@ -88,7 +88,7 @@ Il personale della Scuola si compone: di un direttore, insegnante di agraria; di
 
 AGGIORNAMENTO (1)
 
-Il [Regio Decreto 24 maggio 1925, n. 906](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-05-24;906) ha disposto (con l'art. 3, comma 1) che "All'«Insegnante di cultura generale» di cui al [1° comma dell'art. 7 del R. decreto 18 settembre 1924, n. 1775](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-09-18;1775#art_7-com1), e' sostituito il «censore-catechista insegnante di cultura generale»".
+Il [Regio Decreto 24 maggio 1925, n. 906](Modificazioni%20al%20R.%20decreto%2018%20settembre%201924%20n.%201775%20che%20trasforma%20la%20Regia%20scuola%20pratica%20di%20agricoltura%20di%20Pozzuolo%20del%20Friuli%20in%20Ente%20consorziale%20autonomo.%20025U0906.md) ha disposto (con l'art. 3, comma 1) che "All'«Insegnante di cultura generale» di cui al [1° comma dell'art. 7 del R. decreto 18 settembre 1924, n. 1775](Trasformazione%20della%20Regia%20scuola%20pratica%20di%20agricoltura%20di%20Pozzuolo%20del%20Friuli%20in%20Ente%20consorziale%20autonomo%20con%20personalita%20giuridica.%20024U1775.md), e' sostituito il «censore-catechista insegnante di cultura generale»".
 
 ## Art. 8.
 

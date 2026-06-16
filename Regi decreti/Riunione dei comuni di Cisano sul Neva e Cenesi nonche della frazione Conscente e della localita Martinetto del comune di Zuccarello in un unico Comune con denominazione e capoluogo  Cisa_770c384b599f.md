@@ -31,7 +31,7 @@ I confini del comune ampliato di Cisano sul Neva sono delimitati in conformita' 
 
 AGGIORNAMENTO (1)
 
-Il [Regio Decreto 11 maggio 1931, n. 775](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-05-11;775) ha disposto (con l'art. 1, comma 1) che "Alla pianta planimetrica di delimitazione dei confini del comune di Cisano sul Neva, richiamata nell'art. 2 del R. decreto 28 marzo 1929, n, 733, e' sostituita l'annessa pianta planimetrica vidimata, d'ordine Nostro, dal Ministro proponente".
+Il [Regio Decreto 11 maggio 1931, n. 775](Rettifica%20della%20delimitazione%20dei%20confini%20del%20comune%20di%20Cisano%20sul%20Neva.%20031U0775.md) ha disposto (con l'art. 1, comma 1) che "Alla pianta planimetrica di delimitazione dei confini del comune di Cisano sul Neva, richiamata nell'art. 2 del R. decreto 28 marzo 1929, n, 733, e' sostituita l'annessa pianta planimetrica vidimata, d'ordine Nostro, dal Ministro proponente".
 
 ## Art. 3.
 

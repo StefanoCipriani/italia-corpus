@@ -26,7 +26,7 @@ Il comune di Binetto, in provincia di Bari, e' aggregato a quello di Grumo Appul
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. del Capo Provvisorio dello Stato 20 settembre 1946, n. 289](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1946-09-20;289) ha disposto (con l'art. 1, comma 1) che "Il comune di Binetto, aggregato a quelle di Grumo Appula con [regio decreto 29 settembre 1927, n 1902](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-09-29;1902), e' ricostituito con la circoscrizione preesistente all'entrata in vigore del decreto medesimo".
+Il [D.Lgs. del Capo Provvisorio dello Stato 20 settembre 1946, n. 289](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1946-09-20;289) ha disposto (con l'art. 1, comma 1) che "Il comune di Binetto, aggregato a quelle di Grumo Appula con [regio decreto 29 settembre 1927, n 1902](Aggregazione%20del%20comune%20di%20Binetto%20a%20quello%20di%20Grumo%20Appula.%20027U1902.md), e' ricostituito con la circoscrizione preesistente all'entrata in vigore del decreto medesimo".
 
 ## Art. 2.
 

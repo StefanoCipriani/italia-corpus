@@ -65,7 +65,7 @@ Nelle Piazze forti marittime di Spezia, Taranto e Pola e' istituito un Comando m
 
 AGGIORNAMENTO (1)
 
-Il [Regio Decreto 17 giugno 1923, n. 1426](../Atti%20normativi%20abrogati%20%28in%20originale%29/Larsenale%20militare%20marittimo%20di%20Pola%20viene%20denominato%20Base%20navale%20di%20Pola.%20023U1426.md) ha disposto (con l'art. 1, comma 2) che "A parziale modifica dell'[art. 4 del R. decreto 4 gennaio 1923, n. 189](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-01-04;189#art_4), il contr'ammiraglio comandante militare marittimo di Pola avra' anche la carica di comandante della Piazza marittima e della Base navale di Pola".
+Il [Regio Decreto 17 giugno 1923, n. 1426](../Atti%20normativi%20abrogati%20%28in%20originale%29/Larsenale%20militare%20marittimo%20di%20Pola%20viene%20denominato%20Base%20navale%20di%20Pola.%20023U1426.md) ha disposto (con l'art. 1, comma 2) che "A parziale modifica dell'[art. 4 del R. decreto 4 gennaio 1923, n. 189](Che%20modifica%20lordinamento%20dei%20servizi%20dipartimentali%20della%20Regia%20marina.%20023U0189.md), il contr'ammiraglio comandante militare marittimo di Pola avra' anche la carica di comandante della Piazza marittima e della Base navale di Pola".
 
 ---------------
 

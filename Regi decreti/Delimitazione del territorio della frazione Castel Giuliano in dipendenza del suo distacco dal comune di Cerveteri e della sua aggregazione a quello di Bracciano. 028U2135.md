@@ -36,7 +36,7 @@ Il territorio della frazione Castel Giuliano e' delimitato in conformita' della 
 
 AGGIORNAMENTO(1)
 
-Il [Regio Decreto 16 agosto 1929, n. 1553](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-08-16;1553) ha disposto (con l'art. 1, comma 1) che "Alla pianta planimetrica richiamata nel [R. decreto 6 settembre 1928, n. 2135](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-09-06;2135), e' sostituita la pianta planimetrica vistata in data 20 luglio 1929 dall'ufficio del Genio civile di Roma e vidimata, d'ordine Nostro, dal Ministro proponente".
+Il [Regio Decreto 16 agosto 1929, n. 1553](Rettifica%20della%20delimitazione%20territoriale%20della%20frazione%20Castel%20Giuliano%20del%20comune%20di%20Bracciano.%20029U1553.md) ha disposto (con l'art. 1, comma 1) che "Alla pianta planimetrica richiamata nel [R. decreto 6 settembre 1928, n. 2135](Delimitazione%20del%20territorio%20della%20frazione%20Castel%20Giuliano%20in%20dipendenza%20del%20suo%20distacco%20dal%20comune%20di%20Cerveteri%20e%20della%20sua%20aggregazione%20a%20quello%20di%20Bracciano.%20028U2135.md), e' sostituita la pianta planimetrica vistata in data 20 luglio 1929 dall'ufficio del Genio civile di Roma e vidimata, d'ordine Nostro, dal Ministro proponente".
 
 ## Art. 2.
 

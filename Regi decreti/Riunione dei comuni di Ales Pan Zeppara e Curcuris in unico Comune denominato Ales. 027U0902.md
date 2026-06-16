@@ -24,7 +24,7 @@ I comuni di Ales, Pau, Zeppara e Curcuris, in provincia di Cagliari, sono riunit
  
 --------------- 
 AGGIORNAMENTO 1 
- Il [D.Lgs. Luogotenenziale 22 dicembre 1945, n. 873](../Decreti%20legislativi%20luogotenenziali/Ricostituzione%20del%20comune%20di%20Pau.md) ha disposto (con l'art. 1, comma 1) che "Il comune di Pau aggregato con [R. decreto 19 maggio 1927, n. 902](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-05-19;902), al comune di Ales, e' ricostituito con la circoscrizione preesistente all'entrata in vigore del decreto medesimo".
+ Il [D.Lgs. Luogotenenziale 22 dicembre 1945, n. 873](../Decreti%20legislativi%20luogotenenziali/Ricostituzione%20del%20comune%20di%20Pau.md) ha disposto (con l'art. 1, comma 1) che "Il comune di Pau aggregato con [R. decreto 19 maggio 1927, n. 902](Riunione%20dei%20comuni%20di%20Ales%20Pan%20Zeppara%20e%20Curcuris%20in%20unico%20Comune%20denominato%20Ales.%20027U0902.md), al comune di Ales, e' ricostituito con la circoscrizione preesistente all'entrata in vigore del decreto medesimo".
 
 ## Art. 2.
 

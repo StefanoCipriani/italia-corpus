@@ -43,4 +43,4 @@ VITTORIO EMANUELE III
 
 AGGIORNAMENTO (1)
 
-Il [D. Lgs. del Capo Provvisorio dello Stato 22 novembre 1946, n. 499](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1946-11-22;499) ha disposto (con l'art. 1, comma 1) che il comune di Pagnacco, aggregato a quello di Tavagnacco con [regio decreto 29 marzo 1928, n. 838](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-03-29;838), e' ricostituito con la rispettiva circoscrizione preesistente all'entrata in vigore del presente decreto.
+Il [D. Lgs. del Capo Provvisorio dello Stato 22 novembre 1946, n. 499](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1946-11-22;499) ha disposto (con l'art. 1, comma 1) che il comune di Pagnacco, aggregato a quello di Tavagnacco con [regio decreto 29 marzo 1928, n. 838](Riunione%20dei%20comuni%20di%20Pagnacco%20Tavagnacco%20e%20Feletto%20Umberto%20in%20un%20unico%20Comune%20denominato%20Tavagnacco%20con%20sede%20municipale%20a%20Branco.%20028U0838.md), e' ricostituito con la rispettiva circoscrizione preesistente all'entrata in vigore del presente decreto.

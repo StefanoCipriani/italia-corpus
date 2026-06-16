@@ -43,4 +43,4 @@ VITTORIO EMANUELE III
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. del Capo Provvisorio dello Stato 22 novembre 1946, n. 507](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1946-11-22;507) ha disposto (con l'art. 1, comma 1) che il comune di Pecco, aggregato a quello di Alice Superiore con [Regio Decreto 25 marzo 1929, n. 558](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-03-25;558) e' ricostituito con la circoscrizione preesistente all'entrata in vigore del decreto suddetto.
+Il [D.Lgs. del Capo Provvisorio dello Stato 22 novembre 1946, n. 507](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1946-11-22;507) ha disposto (con l'art. 1, comma 1) che il comune di Pecco, aggregato a quello di Alice Superiore con [Regio Decreto 25 marzo 1929, n. 558](Riunione%20dei%20comuni%20di%20Alice%20Superiore%20Gauna%20e%20Pecco%20in%20un%20unico%20Comune%20con%20denominazione%20e%20capoluogo%20Alice%20Superiore.%20029U0558.md) e' ricostituito con la circoscrizione preesistente all'entrata in vigore del decreto suddetto.

@@ -44,4 +44,4 @@ VITTORIO EMANUELE III
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 11 marzo 1948, n. 295](../Decreti%20Legislativi/Ricostituzione%20del%20comune%20di%20Fonteno%20Bergamo.md) ha disposto (con l'art. 1, comma 1) che "Il comune di Fonteno, riunito con i comuni di Esmate e di Solto nell'unico comune di Solto Collina, col [regio decreto 29 gennaio 1928, n. 177](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-01-29;177), e' ricostituito con la circoscrizione territoriale preesistente all'entrata in vigore del decreto medesimo".
+Il [D.Lgs. 11 marzo 1948, n. 295](../Decreti%20Legislativi/Ricostituzione%20del%20comune%20di%20Fonteno%20Bergamo.md) ha disposto (con l'art. 1, comma 1) che "Il comune di Fonteno, riunito con i comuni di Esmate e di Solto nell'unico comune di Solto Collina, col [regio decreto 29 gennaio 1928, n. 177](Riunione%20dei%20comuni%20di%20Esmate%20Fonteno%20e%20Solto%20in%20un%20unico%20Comune%20denominato%20Solto%20Collina.%20028U0177.md), e' ricostituito con la circoscrizione territoriale preesistente all'entrata in vigore del decreto medesimo".

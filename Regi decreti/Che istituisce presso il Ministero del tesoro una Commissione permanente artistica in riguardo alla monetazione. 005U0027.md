@@ -77,14 +77,14 @@ Il [Regio Decreto 23 gennaio 1910, n. 47](../Atti%20normativi%20abrogati%20%28in
 
 AGGIORNAMENTO (2)
 
-Il [Decreto Luogotenenziale 19 dicembre 1915, n. 1873](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-12-19;1873) ha disposto (con l'art. 1, commi 1 e 2) che "La Commissione permanente tecnico-artistica-monetaria istituita con [R. decreto 29 gennaio 1905, n. 27](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1905-01-29;27) e' composta di un presidente, nella persona del ministro del tesoro, di un vicepresidente che sara' il direttore generale del tesoro e di tredici membri nominati con decreto del ministro del tesoro. 
+Il [Decreto Luogotenenziale 19 dicembre 1915, n. 1873](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-12-19;1873) ha disposto (con l'art. 1, commi 1 e 2) che "La Commissione permanente tecnico-artistica-monetaria istituita con [R. decreto 29 gennaio 1905, n. 27](Che%20istituisce%20presso%20il%20Ministero%20del%20tesoro%20una%20Commissione%20permanente%20artistica%20in%20riguardo%20alla%20monetazione.%20005U0027.md) e' composta di un presidente, nella persona del ministro del tesoro, di un vicepresidente che sara' il direttore generale del tesoro e di tredici membri nominati con decreto del ministro del tesoro. 
  Fungeranno da segretari due funzionari amministrativi del Ministero del tesoro".
 
 ---------------
 
 AGGIORNAMENTO (3)
 
-Il [D.P.R. 2 marzo 1949, n. 211](../DPR/Composizione%20della%20Commissione%20permanente%20tecnico-artistica%20per%20lesame%20dei%20coni%20delle%20monete%20e%20per%20lo%20studio%20delle%20questioni%20affini%20o%20attinenti%20alla%20monetazione.md) ha disposto (con l'art. 1, comma 1) che "La Commissione permanente tecnico-artistica di cui al [regio decreto 29 gennaio 1905, n. 27](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1905-01-29;27), con l'incarico di esaminare i tipi delle nuove monete metalliche nazionali ed i relativi coni e di pronunziarsi su ogni altro argomento affine o attinente alla monetazione, allo scopo di mantenere intatte le tradizioni artistico-monetarie nazionali, e' composta come appresso: 
+Il [D.P.R. 2 marzo 1949, n. 211](../DPR/Composizione%20della%20Commissione%20permanente%20tecnico-artistica%20per%20lesame%20dei%20coni%20delle%20monete%20e%20per%20lo%20studio%20delle%20questioni%20affini%20o%20attinenti%20alla%20monetazione.md) ha disposto (con l'art. 1, comma 1) che "La Commissione permanente tecnico-artistica di cui al [regio decreto 29 gennaio 1905, n. 27](Che%20istituisce%20presso%20il%20Ministero%20del%20tesoro%20una%20Commissione%20permanente%20artistica%20in%20riguardo%20alla%20monetazione.%20005U0027.md), con l'incarico di esaminare i tipi delle nuove monete metalliche nazionali ed i relativi coni e di pronunziarsi su ogni altro argomento affine o attinente alla monetazione, allo scopo di mantenere intatte le tradizioni artistico-monetarie nazionali, e' composta come appresso: 
  presidente: 
  il Sottosegretario di Stato per il tesoro; 
  vice presidente: 
@@ -103,7 +103,7 @@ Il [D.P.R. 2 marzo 1949, n. 211](../DPR/Composizione%20della%20Commissione%20per
 
 AGGIORNAMENTO (4)
 
-Il Decreto 30 luglio 1983 (in G.U. 29/10/1983, n. 298) ha disposto (con l'art. 28, comma 1) che "La commissione permanente tecnico-artistica di cui al [regio decreto 29 gennaio 1905, n. 27](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1905-01-29;27), e successive modifiche, che ha il compito di esaminare i tipi delle nuove monete metalliche nazionali ed i relativi conii e di pronunziarsi su ogni altro argomento affine o attinente alla monetazione, e' composta come appresso: 
+Il Decreto 30 luglio 1983 (in G.U. 29/10/1983, n. 298) ha disposto (con l'art. 28, comma 1) che "La commissione permanente tecnico-artistica di cui al [regio decreto 29 gennaio 1905, n. 27](Che%20istituisce%20presso%20il%20Ministero%20del%20tesoro%20una%20Commissione%20permanente%20artistica%20in%20riguardo%20alla%20monetazione.%20005U0027.md), e successive modifiche, che ha il compito di esaminare i tipi delle nuove monete metalliche nazionali ed i relativi conii e di pronunziarsi su ogni altro argomento affine o attinente alla monetazione, e' composta come appresso: 
  Presidente: 
  il Sottosegretario di Stato per il tesoro. 
  Vice Presidente: 
@@ -122,7 +122,7 @@ Il Decreto 30 luglio 1983 (in G.U. 29/10/1983, n. 298) ha disposto (con l'art. 2
 
 AGGIORNAMENTO (5)
 
-Il Decreto 30 luglio 1983 (in G.U. 29/10/1983, n. 298), come modificato dal Decreto 15 dicembre 1998, n. 512, ha disposto (con l'art. 28, comma 1) che "La commissione permanente tecnicoartistica di cui al [regio decreto 29 gennaio 1905, n. 27](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1905-01-29;27), e successive modifiche, che ha il compito di esaminare i tipi delle nuove monete metalliche nazionali ed i relativi conii e di pronunziarsi su ogni altro argomento affine o attinente alla monetazione, e' composta come appresso: 
+Il Decreto 30 luglio 1983 (in G.U. 29/10/1983, n. 298), come modificato dal Decreto 15 dicembre 1998, n. 512, ha disposto (con l'art. 28, comma 1) che "La commissione permanente tecnicoartistica di cui al [regio decreto 29 gennaio 1905, n. 27](Che%20istituisce%20presso%20il%20Ministero%20del%20tesoro%20una%20Commissione%20permanente%20artistica%20in%20riguardo%20alla%20monetazione.%20005U0027.md), e successive modifiche, che ha il compito di esaminare i tipi delle nuove monete metalliche nazionali ed i relativi conii e di pronunziarsi su ogni altro argomento affine o attinente alla monetazione, e' composta come appresso: 
  presidente: 
  il Sottosegretario di Stato per il tesoro, il bilancio e la programmazione economica; 
  vice presidente: 
@@ -142,7 +142,7 @@ Il Decreto 30 luglio 1983 (in G.U. 29/10/1983, n. 298), come modificato dal Decr
 
 AGGIORNAMENTO (6)
 
-Il Decreto 5 agosto 1999, n. 524 ha disposto (con l'art. 28, commi 1 e 2) che "La commissione permanente tecnico artistica di cui al [regio decreto 29 gennaio 1905, n. 27](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1905-01-29;27), e successive modifiche, che ha il compito di esaminare i tipi delle nuove monete metalliche nazionali, con esclusione del lato comune delle monete euro ed i relativi conii e di pronunziarsi su ogni altro argomento affine o attinente alla monetazione, e' composta come appresso: 
+Il Decreto 5 agosto 1999, n. 524 ha disposto (con l'art. 28, commi 1 e 2) che "La commissione permanente tecnico artistica di cui al [regio decreto 29 gennaio 1905, n. 27](Che%20istituisce%20presso%20il%20Ministero%20del%20tesoro%20una%20Commissione%20permanente%20artistica%20in%20riguardo%20alla%20monetazione.%20005U0027.md), e successive modifiche, che ha il compito di esaminare i tipi delle nuove monete metalliche nazionali, con esclusione del lato comune delle monete euro ed i relativi conii e di pronunziarsi su ogni altro argomento affine o attinente alla monetazione, e' composta come appresso: 
  a) presidente: il Sottosegretario di Stato per il Tesoro, il bilancio e la programmazione economica; 
  b) vice presidente: il direttore generale del Tesoro; 
  c) membri: due dirigenti dell'amministrazione del tesoro, del bilancio e della programmazione economica, di cui uno, appositamente delegato, sostituisce nella vice presidenza il direttore generale del Tesoro in caso di sua assenza o impedimento; il presidente ed il direttore generale dell'Istituto Poligrafico e Zecca dello Stato; tre esperti nel campo dell'arte e della storia dell'arte, dei quali almeno uno con competenza specifica nel campo delle incisioni; un esperto con specifiche competenze in materia di monetazione metallica in euro; un rappresentante del Ministero per i beni e le attivita' culturali; un rappresentante del Consiglio per i beni culturali e ambientali; un rappresentante dell'Accademia di belle arti di Roma; un rappresentante dell'insigne Accademia nazionale di San Luca; il direttore della sezione Zecca. 

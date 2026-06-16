@@ -42,13 +42,13 @@ Alle spese di manutenzione ed amministrazione del Museo storico navale sara' pro
 
 AGGIORNAMENTO (1)
 
-Il D.Lgs. del Capo Provvisortio dello Stato 8 novembre 1946, n. 572 ha disposto (con l'articolo unico, comma 1) che "Il limite di spesa previsto dall'[art. 4 del regio decreto 8 febbraio 1923, n. 1065](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-02-08;1065#art_4), e' elevato da L. 20.000 a L. 200.000 annue con effetto dal 1° luglio 1946".
+Il D.Lgs. del Capo Provvisortio dello Stato 8 novembre 1946, n. 572 ha disposto (con l'articolo unico, comma 1) che "Il limite di spesa previsto dall'[art. 4 del regio decreto 8 febbraio 1923, n. 1065](Relativo%20alla%20istituzione%20di%20un%20Museo%20storico%20navale.%20023U1065.md), e' elevato da L. 20.000 a L. 200.000 annue con effetto dal 1° luglio 1946".
 
 ----------------
 
 AGGIORNAMENTO (2)
 
-La [L. 16 giugno 1949, n. 447](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1949-06-16;447) ha disposto (con l'articolo unico, comma 1) che "A decorrere dal 1 luglio 1948, e' elevato a L. 800.000 il limite di spesa annuo previsto dall'[art. 4 del regio decreto 8 febbraio 1923, n. 1065](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-02-08;1065#art_4), aumentato dal [decreto legislativo del Capo provvisorio dello Stato 8 novembre 1946, n. 572](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1946-11-08;572), per la manutenzione e l'amministrazione del Museo storico navale di Venezia".
+La [L. 16 giugno 1949, n. 447](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1949-06-16;447) ha disposto (con l'articolo unico, comma 1) che "A decorrere dal 1 luglio 1948, e' elevato a L. 800.000 il limite di spesa annuo previsto dall'[art. 4 del regio decreto 8 febbraio 1923, n. 1065](Relativo%20alla%20istituzione%20di%20un%20Museo%20storico%20navale.%20023U1065.md), aumentato dal [decreto legislativo del Capo provvisorio dello Stato 8 novembre 1946, n. 572](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1946-11-08;572), per la manutenzione e l'amministrazione del Museo storico navale di Venezia".
 
 ## Art. 5.
 

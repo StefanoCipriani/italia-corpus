@@ -29,7 +29,7 @@ I comuni di Alme', Villa d'Alme' e Bruntino, in provincia di Bergamo, sono riuni
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 11 marzo 1948, n. 924](../Decreti%20Legislativi/Ricostituzione%20del%20comune%20di%20Alme%20Bergamo.md) ha disposto (con l'art. 1, comma 1) che "Il comune di Alme' riunito con quelli di Bruntino e di Villa d'Alme' nell'unico comune di Alme' con Villa, in virtu' del [regio decreto 30 giugno 1927, n. 1177](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-06-30;1177), e' ricostituito con la circoscrizione preesistente all'entrata in vigore del decreto medesimo".
+Il [D.Lgs. 11 marzo 1948, n. 924](../Decreti%20Legislativi/Ricostituzione%20del%20comune%20di%20Alme%20Bergamo.md) ha disposto (con l'art. 1, comma 1) che "Il comune di Alme' riunito con quelli di Bruntino e di Villa d'Alme' nell'unico comune di Alme' con Villa, in virtu' del [regio decreto 30 giugno 1927, n. 1177](Riunione%20dei%20comuni%20di%20Alme%20Villa%20dAlme%20e%20Bruntino%20in%20un%20unico%20Comune%20denominato%20%20Alme%20con%20Villa%20.%20027U1177.md), e' ricostituito con la circoscrizione preesistente all'entrata in vigore del decreto medesimo".
 
 ## Art. 2.
 

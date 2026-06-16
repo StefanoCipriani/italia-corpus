@@ -27,7 +27,7 @@ I comuni di Ponte San Pietro; Brembate di Sopra, e Locate Bergamasco, in provinc
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 11 febbraio 1948, n. 102](../Decreti%20Legislativi/Ricostruzione%20del%20comune%20di%20Brembate%20di%20Sopra%20Bergamo.md) ha disposto (con l'art. 1, comma 1) che "Il comune di Brembate di Sopra, aggregato a quello di Ponte San Pietro col [regio decreto 1 dicembre 1927 n. 2351](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-12-01;2351), e' ricostituito con la circoscrizione preesistente all'entrata in vigore del decreto medesimo".
+Il [D.Lgs. 11 febbraio 1948, n. 102](../Decreti%20Legislativi/Ricostruzione%20del%20comune%20di%20Brembate%20di%20Sopra%20Bergamo.md) ha disposto (con l'art. 1, comma 1) che "Il comune di Brembate di Sopra, aggregato a quello di Ponte San Pietro col [regio decreto 1 dicembre 1927 n. 2351](Riunione%20dei%20comuni%20di%20Ponte%20San%20Pietro%20Brembate%20di%20Sopra%20e%20Locate%20Bergamasco%20in%20un%20unico%20Comune%20denominato%20Ponte%20San%20Pietro.%20027U2351.md), e' ricostituito con la circoscrizione preesistente all'entrata in vigore del decreto medesimo".
 
 ## Art. 2.
 

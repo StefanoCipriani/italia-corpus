@@ -248,7 +248,7 @@ ARTICOLO ABROGATO DAL [D.P.R. 10 GENNAIO 1957, N. 3](../DPR/Testo%20unico%20dell
 
 AGGIORNAMENTO (29)
 
-La Corte Costituzionale, con sentenza 14 - 26 giugno 1974 n. 191 (in G.U. 1ª s.s. 03/07/1974) ha dichiarato "la illegittimita' costituzionale dell'[art. 49 del r.d. 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_49), sullo stato giuridico degli impiegati civili dello Stato".
+La Corte Costituzionale, con sentenza 14 - 26 giugno 1974 n. 191 (in G.U. 1ª s.s. 03/07/1974) ha dichiarato "la illegittimita' costituzionale dell'[art. 49 del r.d. 30 dicembre 1923, n. 2960](Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), sullo stato giuridico degli impiegati civili dello Stato".
 
 ### Art. 50.
 
@@ -470,7 +470,7 @@ ARTICOLO ABROGATO DAL [D.P.R. 10 GENNAIO 1957, N. 3](../DPR/Testo%20unico%20dell
 
 AGGIORNAMENTO (30)
 
-La [L. 11 luglio 1980, n. 312](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-07-11;312) ha disposto (con l'art. 159, comma 1) che "All'[articolo 99 del regio decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_99), le parole "di un terzo" sono sostituite con le parole "della meta'"".
+La [L. 11 luglio 1980, n. 312](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-07-11;312) ha disposto (con l'art. 159, comma 1) che "All'[articolo 99 del regio decreto 30 dicembre 1923, n. 2960](Disposizioni%20sullo%20stato%20giuridico%20degli%20impiegati%20civili%20dellAmministrazione%20dello%20Stato.%20023U2960.md), le parole "di un terzo" sono sostituite con le parole "della meta'"".
 
 ### Art. 100.
 

@@ -40,7 +40,7 @@ I pesi e le misure legali nel Regno d'Italia sono unicamente quelli del sistema 
 
 AGGIORNAMENTO (12)
 
-La [L. 13 dicembre 1928, n. 2886](../Atti%20normativi%20abrogati%20%28in%20originale%29/Definizione%20delle%20unita%20legali%20di%20peso%20e%20di%20misura.%20028U2886.md) ha disposto (con l'art. 1, comma 1) che "All'unita' di peso stabilita all'art. 1 del testo unico delle leggi sui pesi e sulle misure approvato con [R. decreto 23 agosto 1890, n. 7088](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1890-08-23;7088), serie 3ª, e' sostituito il chilogramma internazionale".
+La [L. 13 dicembre 1928, n. 2886](../Atti%20normativi%20abrogati%20%28in%20originale%29/Definizione%20delle%20unita%20legali%20di%20peso%20e%20di%20misura.%20028U2886.md) ha disposto (con l'art. 1, comma 1) che "All'unita' di peso stabilita all'art. 1 del testo unico delle leggi sui pesi e sulle misure approvato con [R. decreto 23 agosto 1890, n. 7088](Che%20stabilisce%20i%20pesi%20e%20le%20misure%20legali%20nel%20Regno%20dItalia.%20090U7088.md), serie 3ª, e' sostituito il chilogramma internazionale".
 
 ### Art. 2.
 
@@ -174,7 +174,7 @@ La verificazione dei misuratori di gas sara' effettuata ne luogo indicato da col
 
 ### Art. 24.
 
-I manometri campioni di cui si servono i periti per provare le caldaie a vapore, in esecuzione delle disposizioni dell'[articolo 27 del testo unico della legge di pubblica sicurezza](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773#art_27), approvato col [Regio decreto 30 giugno 1889, n. 6144](Che%20approva%20il%20testo%20della%20legge%20di%20pubblica%20sicurezza%20coordinato%20col%20Codice%20penale.%20089U6144.md), serie 3ª, saranno soggetti alla verificazione periodica, la quale sara' effettuata nel laboratorio centrale e negli uffici metrici.
+I manometri campioni di cui si servono i periti per provare le caldaie a vapore, in esecuzione delle disposizioni dell'[articolo 27 del testo unico della legge di pubblica sicurezza](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20di%20pubblica%20sicurezza.%20031U0773.md), approvato col [Regio decreto 30 giugno 1889, n. 6144](Che%20approva%20il%20testo%20della%20legge%20di%20pubblica%20sicurezza%20coordinato%20col%20Codice%20penale.%20089U6144.md), serie 3ª, saranno soggetti alla verificazione periodica, la quale sara' effettuata nel laboratorio centrale e negli uffici metrici.
 
 ## Delle contravvenzioni e delle pene.
 
@@ -232,37 +232,37 @@ La prescrizione dell'azione penale per le contravvenzioni di cui all'articolo pr
 
 AGGIORNAMENTO (1)
 
-Il [Regio Decreto 24 ottobre 1896, n. 464](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20concede%20amnistia%20per%20determinati%20reati.%20096U0464.md) ha disposto (con l'art. 1, comma 1, lettera i)) che e' concessa amnistia per le contravvenzioni alle leggi relative ai pesi ed alle misure, prevedute dal testo unico approvato col [R. decreto 23 agosto 1890 n. 7088](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1890-08-23;7088).
+Il [Regio Decreto 24 ottobre 1896, n. 464](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20concede%20amnistia%20per%20determinati%20reati.%20096U0464.md) ha disposto (con l'art. 1, comma 1, lettera i)) che e' concessa amnistia per le contravvenzioni alle leggi relative ai pesi ed alle misure, prevedute dal testo unico approvato col [R. decreto 23 agosto 1890 n. 7088](Che%20stabilisce%20i%20pesi%20e%20le%20misure%20legali%20nel%20Regno%20dItalia.%20090U7088.md).
 
 ---------------
 
 AGGIORNAMENTO (2)
 
-Il [Regio Decreto 11 giugno 1899, n. 207](../Atti%20normativi%20abrogati%20%28in%20originale%29/Sullamnistia%20e%20condono%20di%20pene%20per%20varii%20reati.%20099U0207.md) ha disposto (con l'art. 1, comma 1, lettera f)) che "Sono condonate le pene inflitte:[...] f) per le contravvenzioni alle leggi relative ai pesi ed alle misure, prevedute dal testo unico approvato col [Regio decreto 23 agosto 1890, n. 7088](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1890-08-23;7088)".
+Il [Regio Decreto 11 giugno 1899, n. 207](../Atti%20normativi%20abrogati%20%28in%20originale%29/Sullamnistia%20e%20condono%20di%20pene%20per%20varii%20reati.%20099U0207.md) ha disposto (con l'art. 1, comma 1, lettera f)) che "Sono condonate le pene inflitte:[...] f) per le contravvenzioni alle leggi relative ai pesi ed alle misure, prevedute dal testo unico approvato col [Regio decreto 23 agosto 1890, n. 7088](Che%20stabilisce%20i%20pesi%20e%20le%20misure%20legali%20nel%20Regno%20dItalia.%20090U7088.md)".
 
 ---------------
 
 AGGIORNAMENTO (3)
 
-Il [Regio Decreto 11 novembre 1900, n. 366](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20concede%20amnistia%20ed%20indulto%20per%20contravvenzioni%20e%20reati%20dindole%20comune%20e%20militare.%20000U0366.md) ha disposto (con l'art. 2, comma 1, lettera h)) che "E' altresi' concessa amnistia e cessano tutti gli effetti penali delle precedenti condanne per le seguenti contravvenzioni commesse fino alla data del presente decreto:[...] h) contravvenzioni prevedute nel testo unico delle leggi relative ai pesi ed alle misure ed al saggio e marchio dei metalli preziosi, approvato con [R. decreto 23 agosto 1890, n. 7088](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1890-08-23;7088) (serie 3ª) e nei relativi Regolamenti, approvati con i [Regi decreti 7 novembre 1890, n. 7249](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1890-11-07;7249) (serie 3ª), e 24 marzo 1892, n. 200".
+Il [Regio Decreto 11 novembre 1900, n. 366](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20concede%20amnistia%20ed%20indulto%20per%20contravvenzioni%20e%20reati%20dindole%20comune%20e%20militare.%20000U0366.md) ha disposto (con l'art. 2, comma 1, lettera h)) che "E' altresi' concessa amnistia e cessano tutti gli effetti penali delle precedenti condanne per le seguenti contravvenzioni commesse fino alla data del presente decreto:[...] h) contravvenzioni prevedute nel testo unico delle leggi relative ai pesi ed alle misure ed al saggio e marchio dei metalli preziosi, approvato con [R. decreto 23 agosto 1890, n. 7088](Che%20stabilisce%20i%20pesi%20e%20le%20misure%20legali%20nel%20Regno%20dItalia.%20090U7088.md) (serie 3ª) e nei relativi Regolamenti, approvati con i [Regi decreti 7 novembre 1890, n. 7249](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1890-11-07;7249) (serie 3ª), e 24 marzo 1892, n. 200".
 
 ---------------
 
 AGGIORNAMENTO (4)
 
-Il [Regio Decreto 1 giugno 1901, n. 187](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20concede%20amnistia%20per%20alcuni%20delitti%20e%20contravvenzioni.%20001U0187.md) ha disposto (con l'art. 4, comma 1, lettera i)) che "E' altresi' concessa amnistia e cessano tutti gli effetti penali delle precedenti condanne per le seguenti contravvenzioni commesse fino alla data del presente decreto:[...] i) contravvenzioni prevedute nel testo unico delle leggi relative ai pesi ed alle misure, approvato con [R. decreto 23 agosto 1890, n. 7088](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1890-08-23;7088) (serie 3ª), nella legge sul saggio e marchio dei metalli preziosi del 2 maggio 1872, n. 806 (serie 2ª), e nei relativi Regolamenti approvati con i RR. decreti 7 novembre 1890, n. 7249 (serie 3ª), e 24 marzo 1892, n. 200".
+Il [Regio Decreto 1 giugno 1901, n. 187](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20concede%20amnistia%20per%20alcuni%20delitti%20e%20contravvenzioni.%20001U0187.md) ha disposto (con l'art. 4, comma 1, lettera i)) che "E' altresi' concessa amnistia e cessano tutti gli effetti penali delle precedenti condanne per le seguenti contravvenzioni commesse fino alla data del presente decreto:[...] i) contravvenzioni prevedute nel testo unico delle leggi relative ai pesi ed alle misure, approvato con [R. decreto 23 agosto 1890, n. 7088](Che%20stabilisce%20i%20pesi%20e%20le%20misure%20legali%20nel%20Regno%20dItalia.%20090U7088.md) (serie 3ª), nella legge sul saggio e marchio dei metalli preziosi del 2 maggio 1872, n. 806 (serie 2ª), e nei relativi Regolamenti approvati con i RR. decreti 7 novembre 1890, n. 7249 (serie 3ª), e 24 marzo 1892, n. 200".
 
 ---------------
 
 AGGIORNAMENTO (5)
 
-Il [Regio Decreto 23 novembre 1902, n. 467](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20concede%20amnistia%20per%20alcuni%20delitti%20e%20contravvenzioni.%20002U0467.md) ha disposto (con l'art. 2, comma 1, lettera i)) che "E' altresi' concessa amnistia e cessano tutti gli effetti penali delle precedenti condanne per le seguenti contravvenzioni commesse fino alla data del presente decreto:[...]i) contravvenzioni prevedute nel testo unico delle leggi relative ai pesi ed alle misure, approvato con [R. decreto 23 agosto 1890, n. 7088](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1890-08-23;7088) (serie 3ª), nella legge sul saggio e marchio dei metalli preziosi del 2 maggio 1872, n. 806 (serie 2ª), e nei relativi Regolamenti approvati coi RR. decreti 7 novembre 1890, n. 7249 (serie 3), e 24 marzo 1892, n. 200".
+Il [Regio Decreto 23 novembre 1902, n. 467](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20concede%20amnistia%20per%20alcuni%20delitti%20e%20contravvenzioni.%20002U0467.md) ha disposto (con l'art. 2, comma 1, lettera i)) che "E' altresi' concessa amnistia e cessano tutti gli effetti penali delle precedenti condanne per le seguenti contravvenzioni commesse fino alla data del presente decreto:[...]i) contravvenzioni prevedute nel testo unico delle leggi relative ai pesi ed alle misure, approvato con [R. decreto 23 agosto 1890, n. 7088](Che%20stabilisce%20i%20pesi%20e%20le%20misure%20legali%20nel%20Regno%20dItalia.%20090U7088.md) (serie 3ª), nella legge sul saggio e marchio dei metalli preziosi del 2 maggio 1872, n. 806 (serie 2ª), e nei relativi Regolamenti approvati coi RR. decreti 7 novembre 1890, n. 7249 (serie 3), e 24 marzo 1892, n. 200".
 
 ---------------
 
 AGGIORNAMENTO (6)
 
-Il [Regio Decreto 16 settembre 1904, n. 491](../Atti%20normativi%20abrogati%20%28in%20originale%29/Relativo%20allamnistia%20per%20vari%20reati%20e%20contravvenzioni.%20004U0491.md) ha disposto (con l'art. 2, comma 1, lettera h)) che e' concessa amnistia e cessano tutti gli effetti penali delle precedenti condanne per le contravvenzioni prevedute nel testo unico delle leggi sui pesi e sulle misure, approvato con [R. decreto del 23 agosto 1890, n. 7088](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1890-08-23;7088) (serie 3ª) commesse fino alla data del presente decreto "purche' i contravventori alle leggi sui pesi e sulle misure e relativi regolamenti dimostrino entro due mesi da oggi di avere ottemperato agli obblighi ivi prescritti".
+Il [Regio Decreto 16 settembre 1904, n. 491](../Atti%20normativi%20abrogati%20%28in%20originale%29/Relativo%20allamnistia%20per%20vari%20reati%20e%20contravvenzioni.%20004U0491.md) ha disposto (con l'art. 2, comma 1, lettera h)) che e' concessa amnistia e cessano tutti gli effetti penali delle precedenti condanne per le contravvenzioni prevedute nel testo unico delle leggi sui pesi e sulle misure, approvato con [R. decreto del 23 agosto 1890, n. 7088](Che%20stabilisce%20i%20pesi%20e%20le%20misure%20legali%20nel%20Regno%20dItalia.%20090U7088.md) (serie 3ª) commesse fino alla data del presente decreto "purche' i contravventori alle leggi sui pesi e sulle misure e relativi regolamenti dimostrino entro due mesi da oggi di avere ottemperato agli obblighi ivi prescritti".
 
 ### Art. 32.
 

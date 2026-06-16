@@ -18,7 +18,7 @@ VITTORIO EMANUELE III
  
  IMPERATORE D'ETIOPIA 
  
- Veduto il [testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265) approvato con R. decreto 27 luglio 1934-XII, n. 1265; 
+ Veduto il [testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) approvato con R. decreto 27 luglio 1934-XII, n. 1265; 
  
  Veduta la legge 11 aprile 1935-XIII, n. 1269, con la quale venne data piena ed intera esecuzione nel Regno, nelle Colonie e nei Possedimenti italiani alle norme sancite nella Convenzione internazionale per la navigazione aerea, firmata all'Aia il 12 aprile 1933-XI; 
  

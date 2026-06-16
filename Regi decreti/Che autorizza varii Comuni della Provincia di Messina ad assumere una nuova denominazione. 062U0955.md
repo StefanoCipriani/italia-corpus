@@ -60,4 +60,4 @@ Sono autorizzati:
 
 AGGIORNAMENTO (1)
 
-Il [Regio Decreto 10 novembre 1867, n. 4049](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1867-11-10;4049) ha disposto (con l'articolo unico, comma 1) che "Il Comune di S. Marco, in Provincia di Messina, e' autorizzato ad assumere la denominazione di S. Marco d'Alunzio, a vece di quella di S. Marco d'Alfonzio, stata approvata col Nostro Decreto 26 ottobre 1862, n. 955, che in questa parte viene revocato".
+Il [Regio Decreto 10 novembre 1867, n. 4049](Col%20quale%20il%20Comune%20di%20S.%20Marco%20Provincia%20di%20Messina%20e%20autorizzato%20ad%20assumere%20la%20denominazione%20di%20S.%20Marco%20dAlunzio.%20067U4049.md) ha disposto (con l'articolo unico, comma 1) che "Il Comune di S. Marco, in Provincia di Messina, e' autorizzato ad assumere la denominazione di S. Marco d'Alunzio, a vece di quella di S. Marco d'Alfonzio, stata approvata col Nostro Decreto 26 ottobre 1862, n. 955, che in questa parte viene revocato".

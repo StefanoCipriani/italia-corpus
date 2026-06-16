@@ -48,4 +48,4 @@ VITTORIO EMANUELE III
 
 AGGIORNAMENTO (1)
 
-Il [D.P.R. 25 ottobre 1950, n. 954](../DPR/Ricostituzione%20del%20comune%20di%20Induno%20Olona%20Varese.md) ha disposto (con l'art. 1, comma 1) che "Il comune di Induno Olona, aggregato a quello di Varese col [regio decreto 24 novembre 1927, n. 2247](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-11-24;2247), e' ricostituito con la circoscrizione territoriale risultante dall'annessa pianta planimetrica".
+Il [D.P.R. 25 ottobre 1950, n. 954](../DPR/Ricostituzione%20del%20comune%20di%20Induno%20Olona%20Varese.md) ha disposto (con l'art. 1, comma 1) che "Il comune di Induno Olona, aggregato a quello di Varese col [regio decreto 24 novembre 1927, n. 2247](Aggregazione%20dei%20comuni%20di%20Bizzozero%20Capolago%20Bobbiate%20Lissago%20Masnago%20SantAmbrogio%20Olona%20Velate%20Santa%20Maria%20del%20Monte%20e%20Induno%20Olona%20al%20comune%20di%20Varese.%20027U2247.md), e' ricostituito con la circoscrizione territoriale risultante dall'annessa pianta planimetrica".

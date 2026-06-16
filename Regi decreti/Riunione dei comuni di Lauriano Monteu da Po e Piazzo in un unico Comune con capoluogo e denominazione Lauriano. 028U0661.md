@@ -43,4 +43,4 @@ VITTORIO EMANUELE III
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. del Capo Provvisorio dello Stato 31 ottobre 1946, n. 416](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1946-10-31;416) ha disposto (con l'art. 1, comma 1) che "Il comune di Monteu da Po, aggregato al comune di Lauriano con [regio decreto 18 marzo 1928, n. 661](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-03-18;661), e' ricostituito con la circoscrizione preesistente all'entrata in vigore del decreto medesimo".
+Il [D.Lgs. del Capo Provvisorio dello Stato 31 ottobre 1946, n. 416](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1946-10-31;416) ha disposto (con l'art. 1, comma 1) che "Il comune di Monteu da Po, aggregato al comune di Lauriano con [regio decreto 18 marzo 1928, n. 661](Riunione%20dei%20comuni%20di%20Lauriano%20Monteu%20da%20Po%20e%20Piazzo%20in%20un%20unico%20Comune%20con%20capoluogo%20e%20denominazione%20Lauriano.%20028U0661.md), e' ricostituito con la circoscrizione preesistente all'entrata in vigore del decreto medesimo".

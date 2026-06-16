@@ -88,4 +88,4 @@ Sono autorizzati
 
 AGGIORNAMENTO (1)
 
-Il [Regio Decreto 12 marzo 1863, n. 1195](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1863-03-12;1195) ha disposto (con l'articolo unico, comma 1) che "Il Comune di Palazzo (Cremona) e' autorizzato ad assumere la denominazione di Palazzo Pignano, invece di quella di Palazzo Pugnano approvata col predetto Regio Decreto 4 dicembre 1862, n.° 1024".
+Il [Regio Decreto 12 marzo 1863, n. 1195](Contenente%20una%20modificazione%20circa%20la%20denominazione%20del%20Comune%20di%20Palazzo%20Cremona.%20063U1195.md) ha disposto (con l'articolo unico, comma 1) che "Il Comune di Palazzo (Cremona) e' autorizzato ad assumere la denominazione di Palazzo Pignano, invece di quella di Palazzo Pugnano approvata col predetto Regio Decreto 4 dicembre 1862, n.° 1024".

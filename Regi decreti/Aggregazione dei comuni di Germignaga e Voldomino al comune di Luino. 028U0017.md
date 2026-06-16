@@ -43,4 +43,4 @@ VITTORIO EMANUELE III
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. del Capo Provvisorio dello Stato 4 novembre 1947, n. 1416](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-11-04;1416) ha disposto (con l'art. 1, comma 1) che "Il comune di Germignaga, aggregato a quello di Luino con [regio decreto 5 gennaio 1928, n. 17](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-01-05;17), e' ricostituito con la circoscrizione preesistente all'entrata in vigore del decreto medesimo".
+Il [D.Lgs. del Capo Provvisorio dello Stato 4 novembre 1947, n. 1416](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-11-04;1416) ha disposto (con l'art. 1, comma 1) che "Il comune di Germignaga, aggregato a quello di Luino con [regio decreto 5 gennaio 1928, n. 17](Aggregazione%20dei%20comuni%20di%20Germignaga%20e%20Voldomino%20al%20comune%20di%20Luino.%20028U0017.md), e' ricostituito con la circoscrizione preesistente all'entrata in vigore del decreto medesimo".

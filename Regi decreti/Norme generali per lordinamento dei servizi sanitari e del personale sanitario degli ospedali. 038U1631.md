@@ -18,7 +18,7 @@ VITTORIO EMANUELE III
  
  IMPERATORE D'ETIOPIA 
  
- Visto l'[art. 192 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_192) 27 luglio 1934, n. 1265; 
+ Visto l'[art. 192 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) 27 luglio 1934, n. 1265; 
  
  Vista fa [legge 31 gennaio 1926, n. 100](../Atti%20normativi%20abrogati%20%28in%20originale%29/Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md); 
  

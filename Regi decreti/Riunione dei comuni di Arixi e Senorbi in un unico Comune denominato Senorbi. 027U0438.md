@@ -50,10 +50,10 @@ VITTORIO EMANUELE III
 
 AGGIORNAMENTO (1)
 
-Il [Regio Decreto 14 luglio 1927, n. 1406](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-07-14;1406) ha disposto (con l'art. 1, comma 1) che "I comuni di Suelli e di Sisini, in provincia di Cagliari, sono uniti al comune di Senorbi, quale risulta costituito col Nostro decreto 20 marzo 1927, n. 438".
+Il [Regio Decreto 14 luglio 1927, n. 1406](Aggregazione%20dei%20comuni%20di%20Suelli%20e%20di%20Sisini%20a%20quello%20di%20Senorbi.%20027U1406.md) ha disposto (con l'art. 1, comma 1) che "I comuni di Suelli e di Sisini, in provincia di Cagliari, sono uniti al comune di Senorbi, quale risulta costituito col Nostro decreto 20 marzo 1927, n. 438".
 
 ----------------
 
 AGGIORNAMENTO (2)
 
-Il D.Lgs del Capo Provissorio dello Stato 21 gennaio 1947, n. 113, nel modificare l'[art. 1, comma 1 del Regio Decreto 14 luglio 1927, n. 1406](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-07-14;1406#art_1-com1), ha conseguentemente disposto (con l'art. 1, comma 1) che il comune di Suelli, aggregato a quello di Senorbi, e' ricostituito con la circoscrizione preesistente all'entrata in vigore del Regio Decreto suddetto.
+Il D.Lgs del Capo Provissorio dello Stato 21 gennaio 1947, n. 113, nel modificare l'[art. 1, comma 1 del Regio Decreto 14 luglio 1927, n. 1406](Aggregazione%20dei%20comuni%20di%20Suelli%20e%20di%20Sisini%20a%20quello%20di%20Senorbi.%20027U1406.md), ha conseguentemente disposto (con l'art. 1, comma 1) che il comune di Suelli, aggregato a quello di Senorbi, e' ricostituito con la circoscrizione preesistente all'entrata in vigore del Regio Decreto suddetto.

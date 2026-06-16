@@ -29,7 +29,7 @@ Il comune di Ussaramanna e' aggregato a quello di Lunamatrona.
 
 AGGIORNAMENTO (1)
 
-Il [Decreto L.gs. Luogotenenziale 24 gennaio 1946, n. 39](../Decreti%20legislativi%20luogotenenziali/Ricostituzione%20del%20comune%20di%20Ussaramanna%20Cagliari.md), ha disposto (con l'art. 1, comma 1) che "Il comune di Ussaramanna, aggregato con [R. decreto 22 settembre 1927, n. 1864](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-09-22;1864), al comune di Lunamatrona, e' ricostituito con la circoscrizione preesistente all'entrata in vigore del decreto medesimo".
+Il [Decreto L.gs. Luogotenenziale 24 gennaio 1946, n. 39](../Decreti%20legislativi%20luogotenenziali/Ricostituzione%20del%20comune%20di%20Ussaramanna%20Cagliari.md), ha disposto (con l'art. 1, comma 1) che "Il comune di Ussaramanna, aggregato con [R. decreto 22 settembre 1927, n. 1864](Aggregazione%20del%20comune%20di%20Ussaramanna%20al%20comune%20di%20Lunamatrona.%20027U1864.md), al comune di Lunamatrona, e' ricostituito con la circoscrizione preesistente all'entrata in vigore del decreto medesimo".
 
 ## Art. 2.
 

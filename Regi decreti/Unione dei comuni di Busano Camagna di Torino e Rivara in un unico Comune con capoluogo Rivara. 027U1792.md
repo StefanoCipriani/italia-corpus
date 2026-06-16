@@ -26,7 +26,7 @@ I comuni di Busano, Camagna di Torino e Rivara, in provincia di Torino, sono riu
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. del Capo Provvisorio dello Stato 31 ottobre 1946, n. 445](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1946-10-31;445), ha disposto (con l'art. 1, comma 1) che "Il comune di Busano, aggregato a quello di Rivara con [regio decreto 8 settembre 1927, n. 1792](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-09-08;1792), [...] sono ricostituiti con le rispettive circoscrizioni preesistenti all' entrata in vigore dei decreti suddetti".
+Il [D.Lgs. del Capo Provvisorio dello Stato 31 ottobre 1946, n. 445](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1946-10-31;445), ha disposto (con l'art. 1, comma 1) che "Il comune di Busano, aggregato a quello di Rivara con [regio decreto 8 settembre 1927, n. 1792](Unione%20dei%20comuni%20di%20Busano%20Camagna%20di%20Torino%20e%20Rivara%20in%20un%20unico%20Comune%20con%20capoluogo%20Rivara.%20027U1792.md), [...] sono ricostituiti con le rispettive circoscrizioni preesistenti all' entrata in vigore dei decreti suddetti".
 
 ## Art. 2.
 

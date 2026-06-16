@@ -12,7 +12,7 @@ UMBERTO II
 
 RE D'ITALIA
 
-Visto il [R. decreto legislativo 10 maggio 1946, n. 262](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legislativo:1946-05-10;262);
+Visto il [R. decreto legislativo 10 maggio 1946, n. 262](../Regi%20decreti%20legislativi/Intestazione%20dei%20decreti%20da%20emanarsi%20dal%20Capo%20dello%20Stato%20nonche%20delle%20decisioni%20giudiziarie%20e%20degli%20atti%20da%20formarsi%20in%20suo%20nome.md);
 
 Visto il [decreto legislativo Luogotenenziale 1° marzo 1945, n. 177](../Decreti%20legislativi%20luogotenenziali/Corresponsione%20di%20assegni%20integrativi%20delle%20pensioni%20di%20invalidita%20e%20vecchiaia%20e%20per%20i%20superstiti%20e%20delle%20altre%20prestazioni%20delle%20assicurazioni%20sociali.%20045U0177.md), per la corresponsione di assegni integrativi delle pensioni di invalidita', vecchiaia e per i superstiti e delle altre prestazioni delle assicurazioni sociali;
 

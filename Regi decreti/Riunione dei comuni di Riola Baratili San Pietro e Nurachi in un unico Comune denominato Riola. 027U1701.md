@@ -35,7 +35,7 @@ Il [D.Lgs. Luogotenenziale 22 dicembre 1945, n. 864](../Decreti%20legislativi%20
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. Luogotenenziale 22 dicembre 1945, n. 869](../Decreti%20legislativi%20luogotenenziali/Ricostituzione%20del%20comune%20di%20Baratili%20San%20Pietro.md) ha disposto (con l'art. 1, comma 1) che "Il comune di Baratili San Pietro, aggregato con [R. decreto 19 agosto 1927, n. 1701](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-08-19;1701), al comune di Riola Sardo, e ricostituito con la circoscrizione preesistente all'entrata in vigore del decreto medesimo".
+Il [D.Lgs. Luogotenenziale 22 dicembre 1945, n. 869](../Decreti%20legislativi%20luogotenenziali/Ricostituzione%20del%20comune%20di%20Baratili%20San%20Pietro.md) ha disposto (con l'art. 1, comma 1) che "Il comune di Baratili San Pietro, aggregato con [R. decreto 19 agosto 1927, n. 1701](Riunione%20dei%20comuni%20di%20Riola%20Baratili%20San%20Pietro%20e%20Nurachi%20in%20un%20unico%20Comune%20denominato%20Riola.%20027U1701.md), al comune di Riola Sardo, e ricostituito con la circoscrizione preesistente all'entrata in vigore del decreto medesimo".
 
 ## Art. 2.
 

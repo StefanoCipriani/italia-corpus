@@ -16,7 +16,7 @@ RE D'ITALIA
 
 Veduto l'[art. 1, n. 1, della legge 31 gennaio 1926, n. 100](../Atti%20normativi%20abrogati%20%28in%20originale%29/Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
-Veduto l'[art. 43 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_43), approvato con [R. decreto 10 agosto 1907, n. 636](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1907-08-10;636);
+Veduto l'[art. 43 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), approvato con [R. decreto 10 agosto 1907, n. 636](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1907-08-10;636);
 
 Veduto il regolamento per la sanita' marittima, approvato con [R. decreto 29 settembre 1895, n. 636](Che%20approva%20il%20Regolamento%20per%20la%20sanita%20marittima.%20095U0636.md), modificato con i [Regi decreti 7 luglio 1910, n. 573](Che%20sostituisce%20le%20disposizioni%20contenute%20in%20vari%20articoli%20del%20regolamento%20sulla%20sanita%20marittima.%20010U0573.md), [11 gennaio 1923, n. 167](Che%20apporta%20modificazioni%20al%20vigente%20regolamento%20sulla%20sanita%20marittima.%20023U0167.md), e [29 novembre 1925, n. 2288](Modificazioni%20ed%20aggiunte%20al%20vigente%20regolamento%20sulla%20Sanita%20marittima.%20025U2288.md);
 

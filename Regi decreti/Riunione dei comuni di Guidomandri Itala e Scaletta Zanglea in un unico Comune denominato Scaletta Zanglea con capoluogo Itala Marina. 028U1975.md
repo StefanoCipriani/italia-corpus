@@ -44,4 +44,4 @@ VITTORIO EMANUELE III
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. del Capo Provvisorio dello Stato 27 marzo 1947, n. 298](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-03-27;298), ha disposto (con l'art. 1, comma 1) che "Il comune di Itala, aggregato a quello di Scaletta Zanglea con [regio decreto 3 agosto 1928, n. 1975](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-08-03;1975), e' ricostituito con la circoscrizione preesistente all'entrata in vigore del decreto medesimo".
+Il [D.Lgs. del Capo Provvisorio dello Stato 27 marzo 1947, n. 298](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-03-27;298), ha disposto (con l'art. 1, comma 1) che "Il comune di Itala, aggregato a quello di Scaletta Zanglea con [regio decreto 3 agosto 1928, n. 1975](Riunione%20dei%20comuni%20di%20Guidomandri%20Itala%20e%20Scaletta%20Zanglea%20in%20un%20unico%20Comune%20denominato%20Scaletta%20Zanglea%20con%20capoluogo%20Itala%20Marina.%20028U1975.md), e' ricostituito con la circoscrizione preesistente all'entrata in vigore del decreto medesimo".

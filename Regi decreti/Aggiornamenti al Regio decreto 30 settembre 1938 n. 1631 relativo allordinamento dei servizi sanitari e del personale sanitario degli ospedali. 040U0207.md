@@ -18,7 +18,7 @@ IMPERATORE D'ETIOPIA
 
 Visto il [R. decreto 30 settembre 1938, n. 1631](Norme%20generali%20per%20lordinamento%20dei%20servizi%20sanitari%20e%20del%20personale%20sanitario%20degli%20ospedali.%20038U1631.md), con cui si approvano le norme generali per l'ordinamento dei servizi sanitari e del personale sanitario degli ospedali;
 
-Visto l'[art. 192 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_192) 27 luglio 1934, n. 1265;
+Visto l'[art. 192 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) 27 luglio 1934, n. 1265;
 
 Vista la [legge 31 gennaio 1926, n. 100](../Atti%20normativi%20abrogati%20%28in%20originale%29/Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 

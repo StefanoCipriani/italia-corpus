@@ -44,4 +44,4 @@ VITTORIO EMANUELE III
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 11 marzo 1948, n. 287](../Decreti%20Legislativi/Ricostituzione%20del%20comune%20di%20Villa%20Vicentina%20Udine.md) ha disposto (con l'art. 1, comma 1) che "Il comune di Villa Vicentina, aggregato a quello di Ruda col [regio decreto 1 marzo 1928, n. 539](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-03-01;539), e' ricostituto con la circoscrizione preesistente all'entrata in vigore del decreto medesimo".
+Il [D.Lgs. 11 marzo 1948, n. 287](../Decreti%20Legislativi/Ricostituzione%20del%20comune%20di%20Villa%20Vicentina%20Udine.md) ha disposto (con l'art. 1, comma 1) che "Il comune di Villa Vicentina, aggregato a quello di Ruda col [regio decreto 1 marzo 1928, n. 539](Aggregazione%20dei%20comuni%20di%20Perteole%20e%20di%20Villa%20Vicentina%20a%20quello%20di%20Ruda.%20028U0539.md), e' ricostituto con la circoscrizione preesistente all'entrata in vigore del decreto medesimo".

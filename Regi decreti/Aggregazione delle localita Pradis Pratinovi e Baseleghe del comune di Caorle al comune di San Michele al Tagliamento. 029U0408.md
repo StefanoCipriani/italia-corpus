@@ -28,7 +28,7 @@ Al comune di San Michele al Tagliamento sono aggregate le localita' Pradis, Prat
 
 AGGIORNAMENTO (1)
 
-Il [Regio Decreto 12 febbraio 1930, n. 128](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-02-12;128), ha disposto (con l'art. 1, comma 1) che "La pianta planimetrica richiamata nel [R. decreto 7 marzo 1929, n. 408](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-03-07;408), e' rettificata nel senso che deve intendersi compreso nel territorio aggregato al comune di San Michele al Tagliamento l'appezzamento di terreno risultante dalla pianta che, vidimata, d'ordine Nostro, dal Ministro proponente, fa parte integrante del presente decreto".
+Il [Regio Decreto 12 febbraio 1930, n. 128](Rettifica%20della%20delimitazione%20territoriale%20del%20comune%20di%20San%20Michele%20al%20Tagliamento.%20030U0128.md), ha disposto (con l'art. 1, comma 1) che "La pianta planimetrica richiamata nel [R. decreto 7 marzo 1929, n. 408](Aggregazione%20delle%20localita%20Pradis%20Pratinovi%20e%20Baseleghe%20del%20comune%20di%20Caorle%20al%20comune%20di%20San%20Michele%20al%20Tagliamento.%20029U0408.md), e' rettificata nel senso che deve intendersi compreso nel territorio aggregato al comune di San Michele al Tagliamento l'appezzamento di terreno risultante dalla pianta che, vidimata, d'ordine Nostro, dal Ministro proponente, fa parte integrante del presente decreto".
 
 ## Art. 2.
 

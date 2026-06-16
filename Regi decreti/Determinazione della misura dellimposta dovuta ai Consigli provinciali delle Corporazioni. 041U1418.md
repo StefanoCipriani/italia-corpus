@@ -231,7 +231,7 @@ La misura dell'imposta che i Consigli provinciali delle Corporazioni appresso in
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. del Capo Provvisorio dello Stato 5 settembre 1946, n. 150](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1946-09-05;150) ha disposto (con l'art. 1, commi 1 e 2) che "Il limite massimo dell'aliquota di imposta viene elevato al triplo di quello stabilito per ciascuna Camera di commercio, industria ed agricoltura dall'[art. 1 regio decreto 31 ottobre 1941, n. 1418](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-10-31;1418#art_1). 
+Il [D.Lgs. del Capo Provvisorio dello Stato 5 settembre 1946, n. 150](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1946-09-05;150) ha disposto (con l'art. 1, commi 1 e 2) che "Il limite massimo dell'aliquota di imposta viene elevato al triplo di quello stabilito per ciascuna Camera di commercio, industria ed agricoltura dall'[art. 1 regio decreto 31 ottobre 1941, n. 1418](Determinazione%20della%20misura%20dellimposta%20dovuta%20ai%20Consigli%20provinciali%20delle%20Corporazioni.%20041U1418.md). 
  L'aliquota risultante dal nuovo limite massimo non puo', pero', in ogni caso, superare il 5%".
 
 --------------
@@ -252,13 +252,13 @@ Il [D.Lgs. del Capo Provvisorio dello Stato 1 settembre 1947, n. 892](https://ww
 
 AGGIORNAMENTO (4)
 
-La [L. 2 febbraio 1960, n. 40](../Atti%20normativi%20abrogati%20%28in%20originale%29/Aumento%20del%20limite%20massimo%20dimposta%20stabilito%20per%20la%20Camera%20di%20commercio%20industria%20ed%20agricoltura%20di%20Venezia.md) ha disposto (con l'articolo unico) che "Il limite massimo dell'aliquota di imposta stabilito per la Camera di commercio industria ed agricoltura di Venezia dall'[art. 1 del regio decreto 31 ottobre 1941, n. 1418](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-10-31;1418#art_1), viene elevato a lire 1,075 per cento, per il periodo di 35 anni dal 1 gennaio 1959".
+La [L. 2 febbraio 1960, n. 40](../Atti%20normativi%20abrogati%20%28in%20originale%29/Aumento%20del%20limite%20massimo%20dimposta%20stabilito%20per%20la%20Camera%20di%20commercio%20industria%20ed%20agricoltura%20di%20Venezia.md) ha disposto (con l'articolo unico) che "Il limite massimo dell'aliquota di imposta stabilito per la Camera di commercio industria ed agricoltura di Venezia dall'[art. 1 del regio decreto 31 ottobre 1941, n. 1418](Determinazione%20della%20misura%20dellimposta%20dovuta%20ai%20Consigli%20provinciali%20delle%20Corporazioni.%20041U1418.md), viene elevato a lire 1,075 per cento, per il periodo di 35 anni dal 1 gennaio 1959".
 
 --------------
 
 AGGIORNAMENTO (5)
 
-La [L. 20 ottobre 1961, n. 1182](../Atti%20normativi%20abrogati%20%28in%20originale%29/Aumento%20del%20limite%20massimo%20dellaliquota%20dimposta%20camerale.md) ha disposto (con l'articolo unico) che "A decorrere dall'entrata in vigore della presente legge, la misura massima dell'aliquota d'imposta stabilita dal [regio decreto 31 ottobre 1941, n. 1418](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-10-31;1418), per ciascuna delle Camere di commercio, industria ed agricoltura, e' aumentata di lire 1".
+La [L. 20 ottobre 1961, n. 1182](../Atti%20normativi%20abrogati%20%28in%20originale%29/Aumento%20del%20limite%20massimo%20dellaliquota%20dimposta%20camerale.md) ha disposto (con l'articolo unico) che "A decorrere dall'entrata in vigore della presente legge, la misura massima dell'aliquota d'imposta stabilita dal [regio decreto 31 ottobre 1941, n. 1418](Determinazione%20della%20misura%20dellimposta%20dovuta%20ai%20Consigli%20provinciali%20delle%20Corporazioni.%20041U1418.md), per ciascuna delle Camere di commercio, industria ed agricoltura, e' aumentata di lire 1".
 
 ## Art. 2.
 

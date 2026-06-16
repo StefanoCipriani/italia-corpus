@@ -37,7 +37,7 @@ Per l'ordinamento e per la conservazione del Museo, e per l'amministrazione dei 
 
 AGGIORNAMENTO (1)
 
-Il [Regio Decreto 28 maggio 1903, n. 299](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1903-05-28;299) ha disposto (con l'art. 2, comma 1) che "La consulta del museo patrio di archeologia istituita coll'[articolo 3 del R. decreto 13 novembre 1862, n. 969](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1862-11-13;969#art_3) e' disciolta". 
+Il [Regio Decreto 28 maggio 1903, n. 299](Che%20approva%20la%20convenzione%20fra%20il%20Ministero%20della%20Pubblica%20Istruzione%20e%20il%20Sindaco%20di%20Milano%20per%20la%20cessione%20in%20deposito%20e%20amministrazione%20del%20museo%20patrio%20di%20archeologia%20di%20Milano%20003U0299.md) ha disposto (con l'art. 2, comma 1) che "La consulta del museo patrio di archeologia istituita coll'[articolo 3 del R. decreto 13 novembre 1862, n. 969](Col%20quale%20e%20istituito%20in%20Milano%20un%20Museo%20patrio%20dArcheologia.%20062U0969.md) e' disciolta". 
  Ha inoltre disposto (con l'art. 3, comma 1) che "La cura di conservare ed accrescere il detto museo e' affidata al Comune di Milano, che vi provvedera' per mezzo di un Consiglio direttivo, un membro del quale sara' nominato con decreto del Ministro della Pubblica Istruzione".
 
 ## Art. 4.

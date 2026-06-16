@@ -103,7 +103,7 @@ Il professore che abbia ottenuto due aumenti anticipati di stipendio per merito 
 
 AGGIORNAMENTO (12)
 
-Il [Regio Decreto 7 marzo 1932, n. 305](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modifica%20alla%20composizione%20del%20ruolo%20donore%20degli%20insegnanti%20medi.%20032U0305.md) ha disposto (con l'art. 1, comma 1) che "Sono iscritti nel ruolo d'onore previsto dall'[art. 10 del R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054#art_10), i professori dei Regi istituti medi d'istruzione che abbiano ottenuto due aumenti anticipati di stipendio per merito e siano inoltre riconosciuti, a giudizio del Ministro per l'educazione nazionale, meritevoli di particolare distinzione per la loro opera di studiosi e di educatori e per speciali doti di carattere morale e patriottico". 
+Il [Regio Decreto 7 marzo 1932, n. 305](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modifica%20alla%20composizione%20del%20ruolo%20donore%20degli%20insegnanti%20medi.%20032U0305.md) ha disposto (con l'art. 1, comma 1) che "Sono iscritti nel ruolo d'onore previsto dall'[art. 10 del R. decreto 6 maggio 1923, n. 1054](Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md), i professori dei Regi istituti medi d'istruzione che abbiano ottenuto due aumenti anticipati di stipendio per merito e siano inoltre riconosciuti, a giudizio del Ministro per l'educazione nazionale, meritevoli di particolare distinzione per la loro opera di studiosi e di educatori e per speciali doti di carattere morale e patriottico". 
  Ha inoltre disposto (con l'art. 2, comma 1) che "Il nuovo ruolo d'onore avra' vigore dal 16 settembre 1932 e vi saranno compresi anche gli insegnanti inclusi nell'attuale ruolo d'onore che posseggano i requisiti previsti nel precedente articolo".
 
 ### Art. 11.
@@ -132,7 +132,7 @@ A capo di ogni Istituto e' un preside che ne ha il governo insieme con il Colleg
 
 AGGIORNAMENTO (7)
 
-Il [Regio Decreto 6 ottobre 1927, n. 2068](../Atti%20normativi%20abrogati%20%28in%20originale%29/Facolta%20al%20Ministro%20per%20la%20pubblica%20istruzione%20di%20nominare%20presidi%20delle%20Regie%20scuole%20complementari%20insegnanti%20che%20abbiano%20avuto%20incarichi%20direttivi%20nelle%20Regie%20scuole%20complementari%20femmi_54f740bcc9af.md) ha disposto (con l'art. 1, comma 1) che "In parziale deroga alle disposizioni di cui al [secondo comma dell'art. 12 del R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054#art_12-com2), e' data facolta' al Ministro per la pubblica istruzione di procedere, d'accordo col Ministro per gli affari esteri, entro due mesi dalla pubblicazione del presente decreto, alla nomina a presidi di scuole complementari di quelle insegnanti, con un quadriennio di servizio, come ordinario, che gia' in possesso dei titoli richiesti per tale nomina in base alla [legge 18 dicembre 1910, n. 867](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riordinamento%20delle%20scuole%20italiane%20allestero%20010U0867.md), abbiano avuto incarichi direttivi nelle Regie scuole complementari femminili all'estero anteriormente alla pubblicazione del precitato [R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054), e li abbiano conservati dopo e li conservino attualmente".
+Il [Regio Decreto 6 ottobre 1927, n. 2068](../Atti%20normativi%20abrogati%20%28in%20originale%29/Facolta%20al%20Ministro%20per%20la%20pubblica%20istruzione%20di%20nominare%20presidi%20delle%20Regie%20scuole%20complementari%20insegnanti%20che%20abbiano%20avuto%20incarichi%20direttivi%20nelle%20Regie%20scuole%20complementari%20femmi_54f740bcc9af.md) ha disposto (con l'art. 1, comma 1) che "In parziale deroga alle disposizioni di cui al [secondo comma dell'art. 12 del R. decreto 6 maggio 1923, n. 1054](Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md), e' data facolta' al Ministro per la pubblica istruzione di procedere, d'accordo col Ministro per gli affari esteri, entro due mesi dalla pubblicazione del presente decreto, alla nomina a presidi di scuole complementari di quelle insegnanti, con un quadriennio di servizio, come ordinario, che gia' in possesso dei titoli richiesti per tale nomina in base alla [legge 18 dicembre 1910, n. 867](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riordinamento%20delle%20scuole%20italiane%20allestero%20010U0867.md), abbiano avuto incarichi direttivi nelle Regie scuole complementari femminili all'estero anteriormente alla pubblicazione del precitato [R. decreto 6 maggio 1923, n. 1054](Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md), e li abbiano conservati dopo e li conservino attualmente".
 
 ---------------
 
@@ -428,7 +428,7 @@ Nel corso superiore si insegnano: lingua e lettere italiane; lingua e lettere la
 
 AGGIORNAMENTO (9)
 
-La [L. 2 luglio 1929, n. 1272](../Atti%20normativi%20abrogati%20%28in%20originale%29/Provvedimenti%20per%20listruzione%20magistrale.%20029U1272.md) ha disposto (con l'art. 3, comma 1) che "Nei corsi superiori di alcuni Istituti magistrali il Ministro per la pubblica istruzione puo' aggiungere, a tutti gli effetti scolastici, agli insegnamenti prescritti dall'[art. 55 del R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054#art_55) quello dell'agraria e computisteria rurale". 
+La [L. 2 luglio 1929, n. 1272](../Atti%20normativi%20abrogati%20%28in%20originale%29/Provvedimenti%20per%20listruzione%20magistrale.%20029U1272.md) ha disposto (con l'art. 3, comma 1) che "Nei corsi superiori di alcuni Istituti magistrali il Ministro per la pubblica istruzione puo' aggiungere, a tutti gli effetti scolastici, agli insegnamenti prescritti dall'[art. 55 del R. decreto 6 maggio 1923, n. 1054](Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md) quello dell'agraria e computisteria rurale". 
  Ha inoltre disposto (con l'art. 9, comma 1) che la presente modifica ha effetto a partire dall'anno scolastico 1929-30.
 
 ### Art. 56.
@@ -449,7 +449,7 @@ Ad ogni Istituto magistrale e' annesso un Giardino d'infanzia o una Casa dei bam
 
 AGGIORNAMENTO (20)
 
-La [L. 18 marzo 1968, n. 444](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-03-18;444) ha disposto (con l'art. 22, comma 1) che "I giardini d'infanzia, istituiti con [regio decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054), sono trasformati in scuole materne statali, a norma della presente legge".
+La [L. 18 marzo 1968, n. 444](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-03-18;444) ha disposto (con l'art. 22, comma 1) che "I giardini d'infanzia, istituiti con [regio decreto 6 maggio 1923, n. 1054](Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md), sono trasformati in scuole materne statali, a norma della presente legge".
 
 ---------------
 
@@ -467,14 +467,14 @@ Gli Istituti magistrali sono elencati nell'annessa tabella n. 10.
 
 AGGIORNAMENTO (9)
 
-La [L. 2 luglio 1929, n. 1272](../Atti%20normativi%20abrogati%20%28in%20originale%29/Provvedimenti%20per%20listruzione%20magistrale.%20029U1272.md) ha disposto (con l'art. 1, comma 1) che "Con decreto Reale potranno essere istituiti nuovi Regi istituti magistrali maschili, oltre il limite di cui all'[articolo 58 del R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054#art_58)". 
+La [L. 2 luglio 1929, n. 1272](../Atti%20normativi%20abrogati%20%28in%20originale%29/Provvedimenti%20per%20listruzione%20magistrale.%20029U1272.md) ha disposto (con l'art. 1, comma 1) che "Con decreto Reale potranno essere istituiti nuovi Regi istituti magistrali maschili, oltre il limite di cui all'[articolo 58 del R. decreto 6 maggio 1923, n. 1054](Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md)". 
  Ha inoltre disposto (con l'art. 9, comma 1) che la presente modifica ha effetto a partire dall'anno scolastico 1929-30.
 
 ---------------
 
 AGGIORNAMENTO (11)
 
-Il [Regio D.L. 3 agosto 1931, n. 1069](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sugli%20istituti%20medi%20distruzione.%20031U1069.md), convertito senza modificazioni dalla [L. 28 dicembre 1931, n. 1771](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%203%20agosto%201931%20n.%201069%20contenente%20disposizioni%20sugli%20Istituti%20medi%20distruzione.%20031U1771.md), ha disposto (con l'art. 7, comma 1) che "Possono istituirsi nuovi istituti magistrali promiscui oltre il limite di cui all'[art. 58 del R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054#art_58)".
+Il [Regio D.L. 3 agosto 1931, n. 1069](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20sugli%20istituti%20medi%20distruzione.%20031U1069.md), convertito senza modificazioni dalla [L. 28 dicembre 1931, n. 1771](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20R.%20decreto-legge%203%20agosto%201931%20n.%201069%20contenente%20disposizioni%20sugli%20Istituti%20medi%20distruzione.%20031U1771.md), ha disposto (con l'art. 7, comma 1) che "Possono istituirsi nuovi istituti magistrali promiscui oltre il limite di cui all'[art. 58 del R. decreto 6 maggio 1923, n. 1054](Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md)".
 
 ### Art. 59.
 
@@ -767,7 +767,7 @@ Le Provincie, per gli Istituti tecnici e i licei scientifici, ed i Comuni, per o
 
 AGGIORNAMENTO (2)
 
-Il [Regio Decreto 31 dicembre 1923, n. 3039](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20concernenti%20lEnte%20nazionale%20per%20leducazione%20fisica.%20023U3039.md) ha disposto (con l'art. 2, comma 1) che "Gli obblighi degli Enti locali stabiliti dall'art. 12 del citato decreto e dall'[art. 103 del R. decreto 6 maggio 1923, n. 1054](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-06;1054#art_103), comprendono anche la pulizia ed il servizio sia delle attuali palestre a disposizione per un decennio, sia degli stadii e palestre di proprieta' o in uso dell'Ente nazionale".
+Il [Regio Decreto 31 dicembre 1923, n. 3039](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20concernenti%20lEnte%20nazionale%20per%20leducazione%20fisica.%20023U3039.md) ha disposto (con l'art. 2, comma 1) che "Gli obblighi degli Enti locali stabiliti dall'art. 12 del citato decreto e dall'[art. 103 del R. decreto 6 maggio 1923, n. 1054](Relativo%20allordinamento%20della%20istruzione%20media%20e%20dei%20convitti%20nazionali.%20023U1054.md), comprendono anche la pulizia ed il servizio sia delle attuali palestre a disposizione per un decennio, sia degli stadii e palestre di proprieta' o in uso dell'Ente nazionale".
 
 ### Art. 104.
 

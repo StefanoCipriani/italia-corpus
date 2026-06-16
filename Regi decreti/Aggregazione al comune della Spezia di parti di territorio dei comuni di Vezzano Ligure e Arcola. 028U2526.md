@@ -29,7 +29,7 @@ Al comune della Spezia sono aggregate le parti di territorio dei comuni di Vezza
 
 AGGIORNAMENTO (1)
 
-Il [Regio Decreto 18 marzo 1929, n. 487](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-03-18;487) ha disposto (con l'art. 1, comma 1) che "Il confine fra il comune della Spezia e quello di Vezzano Ligure, quale risulta dalla pianta topografica annessa al [R. decreto 25 ottobre 1928, n. 2526](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-10-25;2526), e' rettificato, nel tratto compreso fra la strada di 1ª classe n. 3 e San Venerio, nel senso che, anziche' il tracciato a sud del Monte Brigola, segue la mulattiera che, partendo dalla strada anzidetta, raggiunge, attraverso le localita' «Tria» e «Il Monte», la quota 230 presso San Venerio".
+Il [Regio Decreto 18 marzo 1929, n. 487](Rettifica%20di%20confine%20fra%20il%20comune%20della%20Spezia%20e%20quello%20di%20Vezzano%20Ligure.%20029U0487.md) ha disposto (con l'art. 1, comma 1) che "Il confine fra il comune della Spezia e quello di Vezzano Ligure, quale risulta dalla pianta topografica annessa al [R. decreto 25 ottobre 1928, n. 2526](Aggregazione%20al%20comune%20della%20Spezia%20di%20parti%20di%20territorio%20dei%20comuni%20di%20Vezzano%20Ligure%20e%20Arcola.%20028U2526.md), e' rettificato, nel tratto compreso fra la strada di 1ª classe n. 3 e San Venerio, nel senso che, anziche' il tracciato a sud del Monte Brigola, segue la mulattiera che, partendo dalla strada anzidetta, raggiunge, attraverso le localita' «Tria» e «Il Monte», la quota 230 presso San Venerio".
 
 ## Art. 2.
 

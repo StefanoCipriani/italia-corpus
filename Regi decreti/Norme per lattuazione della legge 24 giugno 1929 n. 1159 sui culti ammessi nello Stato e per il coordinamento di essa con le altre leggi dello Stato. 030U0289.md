@@ -35,7 +35,7 @@ Per l'esercizio pubblico dei culti ammessi nel Regno, i fedeli di ciascun culto 
 
 AGGIORNAMENTO (3)
 
-La Corte Costituzionale, con sentenza, 18 - 24 novembre 1958, n. 59 (in G.U. 1ª s.s. 29/11/1958, n. 59), ha dichiarato l'illegittimita' costituzionale dell'[art. 2 del Regio Decreto 28 febbraio 1930, n. 289](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-02-28;289#art_2).
+La Corte Costituzionale, con sentenza, 18 - 24 novembre 1958, n. 59 (in G.U. 1ª s.s. 29/11/1958, n. 59), ha dichiarato l'illegittimita' costituzionale dell'[art. 2 del Regio Decreto 28 febbraio 1930, n. 289](Norme%20per%20lattuazione%20della%20legge%2024%20giugno%201929%20n.%201159%20sui%20culti%20ammessi%20nello%20Stato%20e%20per%20il%20coordinamento%20di%20essa%20con%20le%20altre%20leggi%20dello%20Stato.%20030U0289.md).
 
 ## Art. 2.
 
@@ -49,7 +49,7 @@ I fedeli di un culto ammesso nel Regno possono, senza preventiva autorizzazione 
 
 AGGIORNAMENTO (3)
 
-La Corte Costituzionale, con sentenza, 18 - 24 novembre 1958, n. 59 (in G.U. 1ª s.s. 29/11/1958, n. 59), ha dichiarato l'illegittimita' costituzionale dell'[art. 2 del Regio Decreto 28 febbraio 1930, n. 289](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-02-28;289#art_2).
+La Corte Costituzionale, con sentenza, 18 - 24 novembre 1958, n. 59 (in G.U. 1ª s.s. 29/11/1958, n. 59), ha dichiarato l'illegittimita' costituzionale dell'[art. 2 del Regio Decreto 28 febbraio 1930, n. 289](Norme%20per%20lattuazione%20della%20legge%2024%20giugno%201929%20n.%201159%20sui%20culti%20ammessi%20nello%20Stato%20e%20per%20il%20coordinamento%20di%20essa%20con%20le%20altre%20leggi%20dello%20Stato.%20030U0289.md).
 
 ## Art. 3.
 
@@ -133,7 +133,7 @@ La vigilanza governativa di cui all'articolo precedente include la facolta' di o
 
 AGGIORNAMENTO (1)
 
-La [L. 13 ottobre 1950, n. 847](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-10-13;847) ha disposto (con l'articolo unico, comma 1) che "I limiti di valore previsti dagli [articoli 16](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-02-28;289#art_16) e [19 del regio decreto 28 febbraio 1930, n. 289](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-02-28;289#art_19), contenente norme per l'esecuzione della [legge 24 giugno 1929, n. 1159](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1929-06-24;1159), sono aumentati di venti volte".
+La [L. 13 ottobre 1950, n. 847](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-10-13;847) ha disposto (con l'articolo unico, comma 1) che "I limiti di valore previsti dagli [articoli 16](Norme%20per%20lattuazione%20della%20legge%2024%20giugno%201929%20n.%201159%20sui%20culti%20ammessi%20nello%20Stato%20e%20per%20il%20coordinamento%20di%20essa%20con%20le%20altre%20leggi%20dello%20Stato.%20030U0289.md) e [19 del regio decreto 28 febbraio 1930, n. 289](Norme%20per%20lattuazione%20della%20legge%2024%20giugno%201929%20n.%201159%20sui%20culti%20ammessi%20nello%20Stato%20e%20per%20il%20coordinamento%20di%20essa%20con%20le%20altre%20leggi%20dello%20Stato.%20030U0289.md), contenente norme per l'esecuzione della [legge 24 giugno 1929, n. 1159](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1929-06-24;1159), sono aumentati di venti volte".
 
 ## Art. 17. — null
 
@@ -159,7 +159,7 @@ Le domande intese ad ottenere, ai sensi dell'art. 2 della legge, l'autorizzazion
 
 AGGIORNAMENTO (1)
 
-La [L. 13 ottobre 1950, n. 847](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-10-13;847) ha disposto (con l'articolo unico, comma 1) che "I limiti di valore previsti dagli [articoli 16](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-02-28;289#art_16) e [19 del regio decreto 28 febbraio 1930, n. 289](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-02-28;289#art_19), contenente norme per l'esecuzione della [legge 24 giugno 1929, n. 1159](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1929-06-24;1159), sono aumentati di venti volte".
+La [L. 13 ottobre 1950, n. 847](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-10-13;847) ha disposto (con l'articolo unico, comma 1) che "I limiti di valore previsti dagli [articoli 16](Norme%20per%20lattuazione%20della%20legge%2024%20giugno%201929%20n.%201159%20sui%20culti%20ammessi%20nello%20Stato%20e%20per%20il%20coordinamento%20di%20essa%20con%20le%20altre%20leggi%20dello%20Stato.%20030U0289.md) e [19 del regio decreto 28 febbraio 1930, n. 289](Norme%20per%20lattuazione%20della%20legge%2024%20giugno%201929%20n.%201159%20sui%20culti%20ammessi%20nello%20Stato%20e%20per%20il%20coordinamento%20di%20essa%20con%20le%20altre%20leggi%20dello%20Stato.%20030U0289.md), contenente norme per l'esecuzione della [legge 24 giugno 1929, n. 1159](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1929-06-24;1159), sono aumentati di venti volte".
 
 ## Art. 20.
 

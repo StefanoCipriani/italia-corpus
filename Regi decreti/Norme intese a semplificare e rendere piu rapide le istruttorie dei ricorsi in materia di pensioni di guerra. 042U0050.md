@@ -54,7 +54,7 @@ Nelle conclusioni del procuratore generale dovra' essere sempre messa in evidenz
 
 AGGIORNAMENTO (1)
 
-La Corte Costituzionale con sentenza 9 - 16 aprile 1975 n. 85 (in G.U. 1a s.s. 23/04/1975 n. 108) ha dichiarato "l'illegittimita' costituzionale dell'[art. 6 del r.d. 6 febbraio 1942, n. 50](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-02-06;50#art_6) (Norme intese a semplificare e rendere piu' rapide le istruttorie dei ricorsi in materia di pensioni di guerra), nella parte in cui esclude per i ricorsi in materia di pensioni ordinarie l'obbligo dell'"avvertenza" relativa alla decadenza in cui gli interessati incorrono ove lascino inutilmente trascorrere il termine stabilito dall'[art. 75 del testo unico 12 luglio 1934, n. 1214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1934-07-12;1214#art_75)".
+La Corte Costituzionale con sentenza 9 - 16 aprile 1975 n. 85 (in G.U. 1a s.s. 23/04/1975 n. 108) ha dichiarato "l'illegittimita' costituzionale dell'[art. 6 del r.d. 6 febbraio 1942, n. 50](Norme%20intese%20a%20semplificare%20e%20rendere%20piu%20rapide%20le%20istruttorie%20dei%20ricorsi%20in%20materia%20di%20pensioni%20di%20guerra.%20042U0050.md) (Norme intese a semplificare e rendere piu' rapide le istruttorie dei ricorsi in materia di pensioni di guerra), nella parte in cui esclude per i ricorsi in materia di pensioni ordinarie l'obbligo dell'"avvertenza" relativa alla decadenza in cui gli interessati incorrono ove lascino inutilmente trascorrere il termine stabilito dall'[art. 75 del testo unico 12 luglio 1934, n. 1214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1934-07-12;1214#art_75)".
 
 ## Art. 7.
 
@@ -70,7 +70,7 @@ La domanda di fissazione di udienza, ove non vi abbia provveduto il ricorrente, 
 
 AGGIORNAMENTO (2)
 
-La Corte Costituzionale con sentenza 21 - 28 maggio 1975 n. 131 (in G.U. 1a s.s. 04/06/1975 n. 145) ha dichiarato l'illegittimita' costituzionale "dell'[art. 8 del r.d. 6 febbraio 1942, n. 50](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-02-06;50#art_8) (Norme intese a semplificare e rendere piu' rapide le istruttorie dei ricorsi in materia di pensioni di guerra), nella parte in cui limita alle pensioni di guerra l'onere del Procuratore generale di fare domanda di fissazione d'udienza per i ricorsi dei residenti all'estero".
+La Corte Costituzionale con sentenza 21 - 28 maggio 1975 n. 131 (in G.U. 1a s.s. 04/06/1975 n. 145) ha dichiarato l'illegittimita' costituzionale "dell'[art. 8 del r.d. 6 febbraio 1942, n. 50](Norme%20intese%20a%20semplificare%20e%20rendere%20piu%20rapide%20le%20istruttorie%20dei%20ricorsi%20in%20materia%20di%20pensioni%20di%20guerra.%20042U0050.md) (Norme intese a semplificare e rendere piu' rapide le istruttorie dei ricorsi in materia di pensioni di guerra), nella parte in cui limita alle pensioni di guerra l'onere del Procuratore generale di fare domanda di fissazione d'udienza per i ricorsi dei residenti all'estero".
 
 ## Art. 9.
 

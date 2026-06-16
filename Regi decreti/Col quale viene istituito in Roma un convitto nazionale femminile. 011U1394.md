@@ -17,7 +17,7 @@ E' istituito in Roma, a titolo di esperimento per mesi dieci, a decorrere dal 1Â
 
 AGGIORNAMENTO (1)
 
-La [L. 6 luglio 1912, n. 784](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20istituisce%20un%20Convitto%20nazionale%20femminile%20in%20Roma.%20012U0784.md) ha disposto (con l'art. 1, comma 1) che "E' istituito in Roma un Convitto nazionale femminile, gia' fondato a titolo di esperimento col [R. decreto 6 novembre 1911, n. 1394](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-11-06;1394)".
+La [L. 6 luglio 1912, n. 784](../Atti%20normativi%20abrogati%20%28in%20originale%29/Che%20istituisce%20un%20Convitto%20nazionale%20femminile%20in%20Roma.%20012U0784.md) ha disposto (con l'art. 1, comma 1) che "E' istituito in Roma un Convitto nazionale femminile, gia' fondato a titolo di esperimento col [R. decreto 6 novembre 1911, n. 1394](Col%20quale%20viene%20istituito%20in%20Roma%20un%20convitto%20nazionale%20femminile.%20011U1394.md)".
 
 ## Art. 2.
 

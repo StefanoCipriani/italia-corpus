@@ -30,7 +30,7 @@ Il Ginnasio, la Scuola tecnica ed il Convitto di Tivoli sono convertiti in gover
 
 AGGIORNAMENTO (1)
 
-Il [Regio Decreto 14 marzo 1890, n. 6762](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1890-03-14;6762) ha disposto (con l'art. 1, comma 1) che "Al Convitto Nazionale, alla R. Scuola tecnica e al R.
+Il [Regio Decreto 14 marzo 1890, n. 6762](Al%20Convitto%20nazionale%20alla%20R.%20Scuola%20tecnica%20e%20al%20R.%20Ginnasio%20di%20Tivoli%20e%20dato%20il%20nome%20di%20Convitto%20nazionale%20Regia%20Scuola%20tecnica%20e%20R.%20Ginnasio%20Amedeo%20di%20Savoia%20duca%20dAosta.%20090U6762.md) ha disposto (con l'art. 1, comma 1) che "Al Convitto Nazionale, alla R. Scuola tecnica e al R.
 Ginnasio di Tivoli e' dato il nome di Convitto Nazionale, R. Scuola tecnica e R. Ginnasio Amedeo di Savoia Duca d'Aosta".
 
 ## Art. 2.

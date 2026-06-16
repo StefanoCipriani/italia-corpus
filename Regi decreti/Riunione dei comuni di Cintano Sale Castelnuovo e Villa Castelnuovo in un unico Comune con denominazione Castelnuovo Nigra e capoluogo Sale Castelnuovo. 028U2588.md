@@ -42,4 +42,4 @@ VITTORIO EMANUELE III
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. del Capo Provvisorio dello Stato 11 novembre 1946, n. 494](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1946-11-11;494) ha disposto (con l'art. 1, comma 1) che il comune di Cintano, fuso nel comune di Castelnuovo Nigra con [regio decreto 18 ottobre 1928, n. 2588](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-10-18;2588), e' ricostituito con la circoscrizione preesistente all'entrata in vigore del decreto suddetto.
+Il [D.Lgs. del Capo Provvisorio dello Stato 11 novembre 1946, n. 494](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1946-11-11;494) ha disposto (con l'art. 1, comma 1) che il comune di Cintano, fuso nel comune di Castelnuovo Nigra con [regio decreto 18 ottobre 1928, n. 2588](Riunione%20dei%20comuni%20di%20Cintano%20Sale%20Castelnuovo%20e%20Villa%20Castelnuovo%20in%20un%20unico%20Comune%20con%20denominazione%20Castelnuovo%20Nigra%20e%20capoluogo%20Sale%20Castelnuovo.%20028U2588.md), e' ricostituito con la circoscrizione preesistente all'entrata in vigore del decreto suddetto.

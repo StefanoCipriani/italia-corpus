@@ -68,4 +68,4 @@ Sono autorizzati:
 
 AGGIORNAMENTO (1)
 
-Il [Regio Decreto 28 dicembre 1862, n. 1091](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1862-12-28;1091) ha disposto (con l'art. 1, comma 1) che "Il Comune di Fagnano del Mandamento di Abbiategrasso in Provincia di Milano e' autorizzato ad assumere la denominazione di Fagnano sul Naviglio invece di quella di Fagnano Olona approvata col predetto Nostro Decreto del 16 novembre 1862, n.° 990".
+Il [Regio Decreto 28 dicembre 1862, n. 1091](Col%20quale%20in%20rettifica%20di%20quello%20del%2016%20novembre%201862%20n.%20990%20si%20approva%20una%20nuova%20denominazione%20del%20Comune%20di%20Fagnano%20nel%20Mandamento%20di%20Abbiategrasso%20e%20di%20quello%20dello%20stesso%20nome%20nel%20Man_26eb33097941.md) ha disposto (con l'art. 1, comma 1) che "Il Comune di Fagnano del Mandamento di Abbiategrasso in Provincia di Milano e' autorizzato ad assumere la denominazione di Fagnano sul Naviglio invece di quella di Fagnano Olona approvata col predetto Nostro Decreto del 16 novembre 1862, n.° 990".

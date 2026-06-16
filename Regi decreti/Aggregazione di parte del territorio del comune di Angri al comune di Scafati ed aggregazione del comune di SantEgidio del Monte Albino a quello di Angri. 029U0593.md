@@ -31,7 +31,7 @@ Il comune di Sant'Egidio del Monte Albino e' aggregato a quello di Angri.
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. Luogotenenziale 29 marzo 1946, n. 189](../Decreti%20legislativi%20luogotenenziali/Ricostituzione%20del%20comune%20di%20S.%20Egidio%20del%20Monte%20Albino%20Salerno.md), ha disposto (con l'art. 1, comma 1) che "Il comune di S. Egidio del Monte Albino, aggregato con [R. decreto 28 marzo 1929, n. 593](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-03-28;593), al comune di Angri, e' ricostituito con la circoscrizione preesistente all'entrata in vigore del decreto medesimo".
+Il [D.Lgs. Luogotenenziale 29 marzo 1946, n. 189](../Decreti%20legislativi%20luogotenenziali/Ricostituzione%20del%20comune%20di%20S.%20Egidio%20del%20Monte%20Albino%20Salerno.md), ha disposto (con l'art. 1, comma 1) che "Il comune di S. Egidio del Monte Albino, aggregato con [R. decreto 28 marzo 1929, n. 593](Aggregazione%20di%20parte%20del%20territorio%20del%20comune%20di%20Angri%20al%20comune%20di%20Scafati%20ed%20aggregazione%20del%20comune%20di%20SantEgidio%20del%20Monte%20Albino%20a%20quello%20di%20Angri.%20029U0593.md), al comune di Angri, e' ricostituito con la circoscrizione preesistente all'entrata in vigore del decreto medesimo".
 
 ## Art. 3.
 

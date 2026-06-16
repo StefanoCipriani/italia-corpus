@@ -32,7 +32,7 @@ La linea di confine del comune ampliato di Chiusa, in dipendenza della aggregazi
 
 AGGIORNAMENTO (1)
 
-Il [Regio Decreto 13 novembre 1931, n. 1815](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-11-13;1815) ha disposto (con l'art. 1, comma 1) che "Alla pianta planimetrica di delimitazione dei confini del comune di Chiusa, richiamata nell'art. 2 del Nostro decreto 28 marzo 1929, n. 735, e' sostituita l'annessa pianta planimetrica che, vidimata, d'ordine Nostro, dal Ministro proponente, fara' parte integrante del presente decreto".
+Il [Regio Decreto 13 novembre 1931, n. 1815](Delimitazione%20dei%20confini%20del%20comune%20ampliato%20di%20Chiusa.%20031U1815.md) ha disposto (con l'art. 1, comma 1) che "Alla pianta planimetrica di delimitazione dei confini del comune di Chiusa, richiamata nell'art. 2 del Nostro decreto 28 marzo 1929, n. 735, e' sostituita l'annessa pianta planimetrica che, vidimata, d'ordine Nostro, dal Ministro proponente, fara' parte integrante del presente decreto".
 
 ## Art. 3.
 

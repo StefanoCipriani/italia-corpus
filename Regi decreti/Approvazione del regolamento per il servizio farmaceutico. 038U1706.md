@@ -18,7 +18,7 @@ VITTORIO EMANUELE III
  
  IMPERATORE D'ETIOPIA 
  
- Visto l'[art. 358 del Testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_358), approvato con [R. decreto 27 luglio 1934, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265); 
+ Visto l'[art. 358 del Testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), approvato con [R. decreto 27 luglio 1934, n. 1265](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md); 
  
  Visto il regolamento, approvato con [R. decreto 13 luglio 1914, n. 829](Col%20quale%20e%20approvato%20lannesso%20regolamento%20per%20la%20esecuzione%20della%20legge%2022%20maggio%201913%20n.%20468%20sullesercizio%20delle%20farmacie.%20014U0829.md), sull'esercizio delle farmacie; 
  

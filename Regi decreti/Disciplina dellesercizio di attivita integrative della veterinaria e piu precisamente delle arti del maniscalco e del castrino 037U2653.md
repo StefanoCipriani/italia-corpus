@@ -16,7 +16,7 @@ RE D'ITALIA
 
 IMPERATORE D'ETIOPIA
 
-Visto l'[art. 99, terzo comma, del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_99-com3), approvato con [R. decreto 27 luglio 1934, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265), e sentito il Ministro Segretario di Stato per l'educazione nazionale;
+Visto l'[art. 99, terzo comma, del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), approvato con [R. decreto 27 luglio 1934, n. 1265](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), e sentito il Ministro Segretario di Stato per l'educazione nazionale;
 
 Vista la [legge 31 gennaio 1926, n. 100](../Atti%20normativi%20abrogati%20%28in%20originale%29/Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
@@ -44,7 +44,7 @@ L'esercizio delle arti di cui al precedente articolo e' sottoposto al controllo 
 
 ## Art. 3.
 
-Il rilascio della licenza per l'esercizio delle arti di maniscalco e di castrino sara' soggetto al pagamento di una tassa di concessione governativa a norma dell'[art. 142 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_142), approvato con [R. decreto 27 luglio 1934, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265). 
+Il rilascio della licenza per l'esercizio delle arti di maniscalco e di castrino sara' soggetto al pagamento di una tassa di concessione governativa a norma dell'[art. 142 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), approvato con [R. decreto 27 luglio 1934, n. 1265](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md). 
  
  Detta tassa e' fissata per l'arte del maniscalco in L. 36 e per quella del castrino in L. 50, da pagarsi in modo ordinario presso l'Ufficio del registro. La bolletta di quietanza mod. 72-A, dimostrante l'effettuato pagamento della tassa, va allegata alla domanda di richiesta della licenza. 
  
@@ -52,7 +52,7 @@ Il rilascio della licenza per l'esercizio delle arti di maniscalco e di castrino
 
 ## Art. 4.
 
-Chiunque non trovandosi in possesso della prescritta licenza eserciti l'arte del maniscalco o quella del castrino e' punito con la pena stabilita nel [1° comma dell'art. 141 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_141-com1). 
+Chiunque non trovandosi in possesso della prescritta licenza eserciti l'arte del maniscalco o quella del castrino e' punito con la pena stabilita nel [1° comma dell'art. 141 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md). 
  
  Il prefetto, indipendentemente dal procedimento giudiziario, ordinera' il sequestro del materiale destinato all'esercizio dell'arte e, per il maniscalco, anche la chiusura della mascalcia. 
  

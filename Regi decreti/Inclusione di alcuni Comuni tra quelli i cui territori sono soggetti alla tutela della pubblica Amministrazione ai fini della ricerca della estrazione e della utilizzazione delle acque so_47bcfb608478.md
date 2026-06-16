@@ -18,7 +18,7 @@ VITTORIO EMANUELE III
  
  IMPERATORE D'ETIOPIA 
  
- Visto l'[art. 94 del testo unico delle leggi sulle acque e sugli impianti elettrici](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-12-11;1775#art_94), approvato con R. decreto 11 dicembre 1933-XII, n. 1775; 
+ Visto l'[art. 94 del testo unico delle leggi sulle acque e sugli impianti elettrici](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20di%20legge%20sulle%20acque%20e%20sugli%20impianti%20elettrici.%20033U1775.md), approvato con R. decreto 11 dicembre 1933-XII, n. 1775; 
  
  Visto il R. decreto 18 ottobre 1934-XII, n. 2174, che approvo' l'elenco dei Comuni del Regno per i cui territori la ricerca, l'estrazione e la utilizzazione delle acque sotterranee sono soggette alla tutela della pubblica Amministrazione; 
  

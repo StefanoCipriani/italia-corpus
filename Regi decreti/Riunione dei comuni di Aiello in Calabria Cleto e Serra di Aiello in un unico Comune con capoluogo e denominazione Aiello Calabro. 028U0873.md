@@ -46,7 +46,7 @@ AGGIORNAMENTO (1)
 
 La [L. 29 gennaio 1934, n. 162](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1934-01-29;162) ha disposto (con l'art. 1, comma 1) che "Sono ricostituiti, in provincia di Cosenza, nei limiti delle circoscrizioni preesistenti, i seguenti Comuni: 
  [...] 
- Cleto, aggregato con [R. decreto 9 aprile 1928, n. 873](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-04-09;873), al comune di Aiello Calabro".
+ Cleto, aggregato con [R. decreto 9 aprile 1928, n. 873](Riunione%20dei%20comuni%20di%20Aiello%20in%20Calabria%20Cleto%20e%20Serra%20di%20Aiello%20in%20un%20unico%20Comune%20con%20capoluogo%20e%20denominazione%20Aiello%20Calabro.%20028U0873.md), al comune di Aiello Calabro".
 
 ---------------
 

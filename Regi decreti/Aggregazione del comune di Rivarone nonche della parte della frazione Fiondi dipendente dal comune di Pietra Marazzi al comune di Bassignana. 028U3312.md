@@ -27,7 +27,7 @@ Il comune di Rivarone e' aggregato al comune di Bassignana.
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 25 febbraio 1948, n. 205](../Decreti%20Legislativi/Ricostituzione%20del%20comune%20di%20Rivarone%20Alessandria.md) ha disposto (con l'art. 1, comma 1) che il comune di Rivarone, aggregato col presente decreto a quello di Bassignana, e' ricostituito con la circoscrizione territoriale preesistente all'entrata in vigore del [Regio Decreto 31 dicembre 1928, n. 3312](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-12-31;3312).
+Il [D.Lgs. 25 febbraio 1948, n. 205](../Decreti%20Legislativi/Ricostituzione%20del%20comune%20di%20Rivarone%20Alessandria.md) ha disposto (con l'art. 1, comma 1) che il comune di Rivarone, aggregato col presente decreto a quello di Bassignana, e' ricostituito con la circoscrizione territoriale preesistente all'entrata in vigore del [Regio Decreto 31 dicembre 1928, n. 3312](Aggregazione%20del%20comune%20di%20Rivarone%20nonche%20della%20parte%20della%20frazione%20Fiondi%20dipendente%20dal%20comune%20di%20Pietra%20Marazzi%20al%20comune%20di%20Bassignana.%20028U3312.md).
 
 ## Art. 2.
 

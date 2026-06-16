@@ -14,4 +14,4 @@ N.
 
 955.
 
-[Regio decreto 29 giugno 1922, n. 955](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-06-29;955), col quale, sulla proposta del ministro dell'interno, presidente del Consiglio dei ministri, l'Asilo infantile «Coniugi Edoardo e Filomena Santachiara» di Rio Saliceto, e' eretto in Ente morale con amministrazione autonoma e ne e' approvato lo statuto organico in data 7 giugno 1922, con alcune modificazioni.
+[Regio decreto 29 giugno 1922, n. 955](Erezione%20in%20Ente%20morale.%20022U0955.md), col quale, sulla proposta del ministro dell'interno, presidente del Consiglio dei ministri, l'Asilo infantile «Coniugi Edoardo e Filomena Santachiara» di Rio Saliceto, e' eretto in Ente morale con amministrazione autonoma e ne e' approvato lo statuto organico in data 7 giugno 1922, con alcune modificazioni.

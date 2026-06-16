@@ -27,9 +27,9 @@ I comuni di Bee, Vignone e Arizzano Superiore, in provincia di Novara, sono riun
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. del Capo Provvisorio dello Stato 4 novembre 1947, n. 1466](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-11-04;1466) ha disposto (con l'art. 1, comma 1) che "Il comune di Bee, aggregato a quello di Arizzano col [regio decreto 4 dicembre 1927, n. 2348](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-12-04;2348), e' ricostituito con la circoscrizione preesistente all'entrata in vigore del decreto medesimo". 
+Il [D.Lgs. del Capo Provvisorio dello Stato 4 novembre 1947, n. 1466](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-11-04;1466) ha disposto (con l'art. 1, comma 1) che "Il comune di Bee, aggregato a quello di Arizzano col [regio decreto 4 dicembre 1927, n. 2348](Riunione%20dei%20comuni%20di%20Bee%20Vignone%20e%20Arizzano%20Superiore%20in%20un%20unico%20Comune%20denominato%20Arizzano.%20027U2348.md), e' ricostituito con la circoscrizione preesistente all'entrata in vigore del decreto medesimo". 
 AGGIORNAMENTO (2) 
- Il [D.Lgs. 2 marzo 1948, n. 156](../Decreti%20Legislativi/Ricostituzione%20del%20comune%20di%20Vignone%20Novara.md) ha disposto (con l'art. 1, comma 1) che "Il comune di Vignone, aggregato a quello di Arizzano, con [regio decreto 4 dicembre 1927, n. 2348](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-12-04;2348), e' ricostituito con la circoscrizione preesistente all'entrata in vigore del decreto medesimo".
+ Il [D.Lgs. 2 marzo 1948, n. 156](../Decreti%20Legislativi/Ricostituzione%20del%20comune%20di%20Vignone%20Novara.md) ha disposto (con l'art. 1, comma 1) che "Il comune di Vignone, aggregato a quello di Arizzano, con [regio decreto 4 dicembre 1927, n. 2348](Riunione%20dei%20comuni%20di%20Bee%20Vignone%20e%20Arizzano%20Superiore%20in%20un%20unico%20Comune%20denominato%20Arizzano.%20027U2348.md), e' ricostituito con la circoscrizione preesistente all'entrata in vigore del decreto medesimo".
 
 ## Art. 2.
 

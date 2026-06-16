@@ -28,7 +28,7 @@ Il comune di Falconara Marittima, eccettuato il territorio a sinistra del fiume 
 
 AGGIORNAMENTO (1)
 
-Il [Regio Decreto 6 maggio 1928, n. 1169](../Atti%20normativi%20abrogati%20%28in%20originale%29/Aggregazione%20al%20comune%20di%20Chiaravalle%20di%20quello%20di%20Camerata%20Picena%20e%20di%20parte%20di%20territorio%20del%20comune%20di%20Monte%20San%20Vito.%20028U1169.md) ha disposto (con l'art. 1, comma 1) che "Oltre il territorio indicato all'[art. 1, secondo comma, del R. decreto 15 aprile 1928, n. 882](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-04-15;882#art_1-com2), sono aggregati al comune di Chiaravalle: 
+Il [Regio Decreto 6 maggio 1928, n. 1169](../Atti%20normativi%20abrogati%20%28in%20originale%29/Aggregazione%20al%20comune%20di%20Chiaravalle%20di%20quello%20di%20Camerata%20Picena%20e%20di%20parte%20di%20territorio%20del%20comune%20di%20Monte%20San%20Vito.%20028U1169.md) ha disposto (con l'art. 1, comma 1) che "Oltre il territorio indicato all'[art. 1, secondo comma, del R. decreto 15 aprile 1928, n. 882](Aggregazione%20al%20comune%20di%20Ancona%20dei%20comuni%20di%20Montesicuro%20e%20Paterno%20dAncona%20nonche%20del%20territorio%20del%20comune%20di%20Falconara%20Marittima%20situato%20a%20destra%20del%20fiume%20Esino%20ed%20aggregazione%20al%20co_e78df2e2f89c.md), sono aggregati al comune di Chiaravalle: 
  a) il comune di Camerata Picena; 
  b) una zona di territorio di ettari 21.11.40, ora appartenente al comune di Monte San Vito e situata a sud-ovest dell'abitato di Chiaravalle".
 
@@ -36,7 +36,7 @@ Il [Regio Decreto 6 maggio 1928, n. 1169](../Atti%20normativi%20abrogati%20%28in
 
 AGGIORNAMENTO (2)
 
-Il [Regio Decreto 6 maggio 1928, n. 1169](../Atti%20normativi%20abrogati%20%28in%20originale%29/Aggregazione%20al%20comune%20di%20Chiaravalle%20di%20quello%20di%20Camerata%20Picena%20e%20di%20parte%20di%20territorio%20del%20comune%20di%20Monte%20San%20Vito.%20028U1169.md) come modificato dall'Errata-Corrige, in G.U. 12/09/1928, n. 213, ha disposto (con l'art. 1, comma 1) che " Oltre il territorio indicato all'[art. 1, secondo comma, del R. decreto 15 aprile 1928, n. 882](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-04-15;882#art_1-com2), sono aggregati al comune di Chiaravalle: 
+Il [Regio Decreto 6 maggio 1928, n. 1169](../Atti%20normativi%20abrogati%20%28in%20originale%29/Aggregazione%20al%20comune%20di%20Chiaravalle%20di%20quello%20di%20Camerata%20Picena%20e%20di%20parte%20di%20territorio%20del%20comune%20di%20Monte%20San%20Vito.%20028U1169.md) come modificato dall'Errata-Corrige, in G.U. 12/09/1928, n. 213, ha disposto (con l'art. 1, comma 1) che " Oltre il territorio indicato all'[art. 1, secondo comma, del R. decreto 15 aprile 1928, n. 882](Aggregazione%20al%20comune%20di%20Ancona%20dei%20comuni%20di%20Montesicuro%20e%20Paterno%20dAncona%20nonche%20del%20territorio%20del%20comune%20di%20Falconara%20Marittima%20situato%20a%20destra%20del%20fiume%20Esino%20ed%20aggregazione%20al%20co_e78df2e2f89c.md), sono aggregati al comune di Chiaravalle: 
  a) il comune di Camerata Picena; 
  b) una zona di territorio di ettari 24.11.40, ora appartenente al comune di Monte San Vito e situata a sud-ovest dell'abitato di Chiaravalle".
 
@@ -50,7 +50,7 @@ Il [D.Lgs. del Capo Provvisorio dello Stato 19 ottobre 1947, n. 1295](https://ww
 
 AGGIORNAMENTO (4)
 
-Il [D.Lgs. 2 marzo 1948, n. 165](../Decreti%20Legislativi/Ricostituzione%20dei%20comune%20di%20Falconara%20Marittima%20Ancona.md) ha disposto (con l'art. 1, comma 1) che "Il comune di Falconara Marittima, aggregato a quello di Ancona e a quello di Chiaravalle col [regio decreto 15 aprile 1928, n. 882](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-04-15;882), e' ricostituito con la circoscrizione preesistente all'entrata in vigore del decreto medesimo".
+Il [D.Lgs. 2 marzo 1948, n. 165](../Decreti%20Legislativi/Ricostituzione%20dei%20comune%20di%20Falconara%20Marittima%20Ancona.md) ha disposto (con l'art. 1, comma 1) che "Il comune di Falconara Marittima, aggregato a quello di Ancona e a quello di Chiaravalle col [regio decreto 15 aprile 1928, n. 882](Aggregazione%20al%20comune%20di%20Ancona%20dei%20comuni%20di%20Montesicuro%20e%20Paterno%20dAncona%20nonche%20del%20territorio%20del%20comune%20di%20Falconara%20Marittima%20situato%20a%20destra%20del%20fiume%20Esino%20ed%20aggregazione%20al%20co_e78df2e2f89c.md), e' ricostituito con la circoscrizione preesistente all'entrata in vigore del decreto medesimo".
 
 ## Art. 2.
 

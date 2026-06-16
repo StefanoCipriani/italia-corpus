@@ -22,7 +22,7 @@ Visti il regolamento per l'amministrazione, manutenzione e custodia dei canali d
 
 Ritenuta l'opportunita' di modificare e di integrare i detti regolamenti con nuove norme, in relazione a sopravvenute esigenze amministrative ed alla piu' recente disciplina giuridica delle acque;
 
-Visto il [testo unico delle leggi sulle acque e sugli impianti elettrici](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-12-11;1775), approvato con [R. decreto 11 dicembre 1933, n.1775](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-12-11;1775);
+Visto il [testo unico delle leggi sulle acque e sugli impianti elettrici](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20di%20legge%20sulle%20acque%20e%20sugli%20impianti%20elettrici.%20033U1775.md), approvato con [R. decreto 11 dicembre 1933, n.1775](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20di%20legge%20sulle%20acque%20e%20sugli%20impianti%20elettrici.%20033U1775.md);
 
 Sentito il Consiglio di Stato;
 

@@ -14,7 +14,7 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Veduti gli [articoli 115](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_115) e [218 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_218), approvato con [R. decreto 1° agosto 1907, n. 626](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1907-08-01;626);
+Veduti gli [articoli 115](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) e [218 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), approvato con [R. decreto 1° agosto 1907, n. 626](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1907-08-01;626);
 
 Veduto il [R. decreto 3 febbraio 1901, n. 45](Che%20approva%20il%20Regolamento%20per%20lesecuzione%20della%20legge%20sulla%20tutela%20delligiene%20e%20della%20sanita%20pubblica.%20001U0045.md), che approva regolamento per la esecuzione della legge sulla tutela dell'igiene e della sanita' pubblica;
 
@@ -113,7 +113,7 @@ amidotrifenilmetano.
 
 ## Art. 2.
 
-I colori ritenuti nocivi, ai sensi dell'articolo precedente, non possono essere impiegati nella preparazione delle sostanze alimentari e delle bevande, nella colorazione delle carte per involti di materie alimentari, e nella colorazione dei recipienti destinati alla conservazione delle sostanze alimentari e delle bevande, ai termini dell'[art. 115 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_115), approvato con [R. decreto 1° agosto 1917, n. 636](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1917-08-01;636), e delle disposizioni contenute nel presente decreto.
+I colori ritenuti nocivi, ai sensi dell'articolo precedente, non possono essere impiegati nella preparazione delle sostanze alimentari e delle bevande, nella colorazione delle carte per involti di materie alimentari, e nella colorazione dei recipienti destinati alla conservazione delle sostanze alimentari e delle bevande, ai termini dell'[art. 115 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md), approvato con [R. decreto 1° agosto 1917, n. 636](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1917-08-01;636), e delle disposizioni contenute nel presente decreto.
 
 ## Art. 3.
 
@@ -191,7 +191,7 @@ I coloranti che si possono usare per la colorazione dei generi alimentari e dell
 
 ## Art. 10.
 
-Senza pregiudizio delle maggiori pene stabilite dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), chiunque vende o ritiene per vendere prodotti in contravvenzione alle disposizioni del presente decreto, sara' punito a norma degli [articoli 115](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_115) e [218 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_218) 1° agosto 1907, n. 636.
+Senza pregiudizio delle maggiori pene stabilite dal [Codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), chiunque vende o ritiene per vendere prodotti in contravvenzione alle disposizioni del presente decreto, sara' punito a norma degli [articoli 115](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) e [218 del testo unico delle leggi sanitarie](../Testi%20Unici/Approvazione%20del%20testo%20unico%20delle%20leggi%20sanitarie.%20034U1265.md) 1° agosto 1907, n. 636.
 
 ## Art. 11.
 

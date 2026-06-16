@@ -321,7 +321,7 @@ Il Regio istituto d'istruzione professionale per ciechi, istituito in Firenze co
 
 AGGIORNAMENTO (3)
 
-La [L. 5 luglio 1961, n. 570](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-07-05;570) ha disposto (con l'art. 1, comma 1) che "Nell'Istituto d'istruzione professionale per i ciechi di cui ai [regi decreti 1 luglio 1940, n. 1378](Istituzione%20di%20un%20Regio%20istituto%20distruzione%20professionale%20per%20ciechi%20in%20Firenze.%20040U1378.md), e [29 agosto 1941, n. 1449](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-08-29;1449), annesso all'Istituto nazionale dei ciechi di Firenze, e' istituita una Scuola nazionale professionale di massofisioterapia riservata soltanto ai ciechi per il conseguimento del diploma di massofisioterapia".
+La [L. 5 luglio 1961, n. 570](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-07-05;570) ha disposto (con l'art. 1, comma 1) che "Nell'Istituto d'istruzione professionale per i ciechi di cui ai [regi decreti 1 luglio 1940, n. 1378](Istituzione%20di%20un%20Regio%20istituto%20distruzione%20professionale%20per%20ciechi%20in%20Firenze.%20040U1378.md), e [29 agosto 1941, n. 1449](Riordinamento%20dellistruzione%20professionale%20per%20i%20ciechi.%20041U1449.md), annesso all'Istituto nazionale dei ciechi di Firenze, e' istituita una Scuola nazionale professionale di massofisioterapia riservata soltanto ai ciechi per il conseguimento del diploma di massofisioterapia".
 
 ### Art. 35.
 
@@ -344,7 +344,7 @@ Il Regio laboratorio scuola annesso al Patronato pro-ciechi «Paolo Colosimo» d
 
 AGGIORNAMENTO (1)
 
-Il [Decreto del Capo Provvisorio dello Stato 15 ottobre 1947, n. 1300](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-10-15;1300) ha disposto (con l'art. 1, comma 1) che "Alle scuole e corsi che costituiscono l'Istituto d'istruzione professionale per i ciechi "Paolo Colosimo" di Napoli, ai sensi dell'[art. 35 del regio decreto 29 agosto 1941, n. 1449](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-08-29;1449#art_35), e' aggiunta una scuola elementare per ciechi".
+Il [Decreto del Capo Provvisorio dello Stato 15 ottobre 1947, n. 1300](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-10-15;1300) ha disposto (con l'art. 1, comma 1) che "Alle scuole e corsi che costituiscono l'Istituto d'istruzione professionale per i ciechi "Paolo Colosimo" di Napoli, ai sensi dell'[art. 35 del regio decreto 29 agosto 1941, n. 1449](Riordinamento%20dellistruzione%20professionale%20per%20i%20ciechi.%20041U1449.md), e' aggiunta una scuola elementare per ciechi".
 
 ### Art. 36.
 

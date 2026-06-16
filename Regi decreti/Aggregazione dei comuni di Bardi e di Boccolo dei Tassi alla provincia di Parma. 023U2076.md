@@ -36,7 +36,7 @@ Il comune di Bardi e la parte del territorio del comune di Boccolo dei Tassi com
 
 AGGIORNAMENTO (2)
 
-Il [Regio Decreto 28 aprile 1927, n. 674](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-04-28;674), nel modificare l'[art. 1 della L. 23 dicembre 1926, n. 2246](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-12-23;2246#art_1), ha conseguentemente disposto (con l'art. 1, comma 1) che "Il comune di Pione, quale risulta costituito dall'[art. 1 della legge 23 dicembre 1926, n. 2246](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-12-23;2246#art_1), e' aggregato a quello di Bardi".
+Il [Regio Decreto 28 aprile 1927, n. 674](Aggregazione%20del%20comune%20di%20Pione%20a%20quello%20di%20Bardi.%20027U0674.md), nel modificare l'[art. 1 della L. 23 dicembre 1926, n. 2246](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-12-23;2246#art_1), ha conseguentemente disposto (con l'art. 1, comma 1) che "Il comune di Pione, quale risulta costituito dall'[art. 1 della legge 23 dicembre 1926, n. 2246](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-12-23;2246#art_1), e' aggregato a quello di Bardi".
 
 ## Art. 2.
 
